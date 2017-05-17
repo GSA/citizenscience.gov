@@ -73,3 +73,8 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
+
+# Project pages
+collections:
+  projects:
+    output: true

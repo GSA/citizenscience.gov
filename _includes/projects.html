@@ -1,4 +1,4 @@
-{% for project in site.data.projects %}
+{% for project in site.projects %}
   {% unless project.featured %}
     {% assign third = forloop.index | modulo: 3 %}
     {% if third == 1 %}
@@ -6,7 +6,7 @@
     {% else %}
     <div class="usa-width-one-third project">
     {% endif %}
-      <a href="{{ project.link | prepend: site.baseurl }}">
+      <a href="{{ project.url| prepend: site.baseurl }}">
         <span class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></span>
         <h3 class="project--description"><span>{{ project.description }}&nbsp;&gt;</span></h3>
       </a>
