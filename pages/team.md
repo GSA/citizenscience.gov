@@ -1,6 +1,6 @@
 ---
 layout: team-list
-title: Team
+title: Meet the team
 permalink: /team/
 ---
 

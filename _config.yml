@@ -43,6 +43,8 @@ defaults:
       - page
       - "project-list"
       - project
+      - "team-list"
+      - team
 
 forms:
 - type: newsletter
