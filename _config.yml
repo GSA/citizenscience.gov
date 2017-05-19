@@ -74,7 +74,9 @@ exclude:
   - LICENSE.md
   - README.md
 
-# Project pages
+# Inititalize project and team collections
 collections:
   projects:
+    output: true
+  team:
     output: true
