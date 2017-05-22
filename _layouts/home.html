@@ -13,15 +13,13 @@ layout: base
   </div>
 </section>
 
-<section>
-  <div class="usa-grid">
+<section class="usa-grid usa-section">
     <h2>Work</h2>
     {% include projects.html %}
-  </div>
 </section>
 
 {% if page.banner-heading %}
-<section class="banner tagline">
+<section class="usa-section banner tagline">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
@@ -38,16 +36,12 @@ layout: base
 </section>
 {% endif %}
 
-<section class="content">
-  <div class="usa-grid">
+<section class="usa-grid usa-section">
     <div class="usa-width-one-whole usa-end-row">
       {{ content }}
-      <div class="center-content">
         {% if page.content-button-link %}
           <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
         {% endif %}
-      </div>  
-    </div>
   </div>
 </section>
 
