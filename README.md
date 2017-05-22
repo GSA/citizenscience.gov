@@ -4,6 +4,10 @@ This is a Jekyll site. It is a simple site to showcase the work of an organizati
 
 This particular site is made for use with the [Federalist](https://github.com/18f/federalist) in mind.
 
+This template uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov). To update the version of the system, download the code from the website, then copy the CSS file to `assets/css/`. The file must include the version number, like this: `uswds.v1.1.0.css`. Copy the minified JavaScript file to `assets/js/lib/`. Again, rename the file to use the version number, so it looks like: `uswds.v1.1.0.min.js`.
+
+In your `_config.yml`, update the `wds_version` value to the new version number (this should match the number following the `v` in the filenames you just created). 
+
 ## 18F Open Source Policy
 
 This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
