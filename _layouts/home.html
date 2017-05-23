@@ -3,7 +3,7 @@ layout: base
 ---
 
 <section>
-  <div id="main" tabindex="-1" class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
     <div class="usa-grid">
       <div class="usa-width-whole hero-content">
         <h1>{{ page.hero-text }}</h1>
@@ -37,11 +37,11 @@ layout: base
 {% endif %}
 
 <section class="usa-grid usa-section">
-    <div class="usa-width-one-whole usa-end-row">
-      {{ content }}
-        {% if page.content-button-link %}
-          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        {% endif %}
+  <div class="usa-width-one-whole usa-end-row">
+    {{ content }}
+    {% if page.content-button-link %}
+      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+    {% endif %}
   </div>
 </section>
 
