@@ -17,6 +17,7 @@ colors:
   reverse_text: '#ffffff'
   projects:
     accent: '#02bfe7'
+    card-heading: '#0071bc'
   banner:
     background: '#112e51'
     text: '#fff'
