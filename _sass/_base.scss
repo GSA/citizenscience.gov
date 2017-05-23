@@ -2,16 +2,25 @@ body,
 p, ul, ol, li, a  {
   color: $text-color;
 }
+
 legend, label,
 h1, h2, h3, h4, h5, h6 {
   color: $headers-color;
 }
 
+.usa-section-dark {
+  legend, label,
+  h1, h2, h3, h4, h5, h6,
+  p {
+    color: $reverse-text-color;
+  }
+}
+
 legend,
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
-  color: $header-text-color;
 }
+
 ul, li {
   margin-bottom: 0;
 }

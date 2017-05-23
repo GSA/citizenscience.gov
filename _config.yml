@@ -14,6 +14,7 @@ colors:
     text: '#fff'
   headers: '#205493'
   text: '#212121'
+  reverse_text: '#ffffff'
   projects:
     accent: '#02bfe7'
   banner:

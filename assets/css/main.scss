@@ -15,17 +15,18 @@ $spacing-unit:     30px;
 $background-color:         {{ site.colors.background }};
 $headers-color:            {{ site.colors.headers }};
 $text-color:               {{ site.colors.text }};
-$header-text-color:       {{ site.colors.headers }};
+$reverse-text-color:       {{ site.colors.reverse_text }};
+$header-text-color:        {{ site.colors.headers }};
 $button-color:             {{ site.colors.button.background }};
 $button-hover-color:       {{ site.colors.button.hover }};
 $button-text-color:        {{ site.colors.button.text }};
 
 $project-accent-color:     {{ site.colors.projects.accent }};
 
-$banner-background-color: {{ site.colors.banner.background }};
-$banner-text-color:       {{ site.colors.banner.text }};
-$banner-button-color:     {{ site.colors.banner.button.background }};
-$banner-button-text-color:       {{ site.colors.banner.button.text }};
+$banner-background-color:  {{ site.colors.banner.background }};
+$banner-text-color:        {{ site.colors.banner.text }};
+$banner-button-color:      {{ site.colors.banner.button.background }};
+$banner-button-text-color: {{ site.colors.banner.button.text }};
 
 $footer-background-color:  {{ site.colors.footer.background }};
 $footer-text-color:        {{ site.colors.footer.text }};
