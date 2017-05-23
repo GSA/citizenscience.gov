@@ -1,5 +1,6 @@
 ---
 layout: home
+body-class: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
 hero-text: "We believe that government works best when it's built for people. "
