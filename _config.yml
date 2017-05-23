@@ -62,10 +62,21 @@ forms:
       value: -7861934959779167198
 
 footer:
+  links:
+      - text: 'Work'
+        href: '#'
+      - text: 'About'
+        href: '#'
   image: /assets/img/gsa-logo-dark.jpg
-  email:
-  twitter:
-    - 18f
+  contact:
+    name: GSA
+    phonenumber: 1-800-CALL-GOV
+    email: gsa@gsa.gov
+    twitter:
+      - 18f
+    facebook: 18f
+    youtube: 18f
+    rss: 18f
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
