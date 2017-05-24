@@ -102,4 +102,4 @@ collections:
   team:
     output: true
 
-wds_version: 1.1.0
+wds-version: 1.1.0

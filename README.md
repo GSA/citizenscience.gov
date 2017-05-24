@@ -4,9 +4,9 @@ This is a Jekyll site. It is a simple site to showcase the work of an organizati
 
 This particular site is made for use with the [Federalist](https://github.com/18f/federalist) in mind.
 
-This template uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov). To update the version of the system, [download the code](https://standards.usa.gov/getting-started/download/), then copy the CSS file to `assets/css/`. The file must include the version number, like this: `uswds.v1.1.0.css`. Copy the minified JavaScript file to `assets/js/lib/`. Again, rename the file to use the version number, so it looks like: `uswds.v1.1.0.min.js`.
+This template uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov). To update the version of the system, [download the code](https://standards.usa.gov/getting-started/download/) from the website. Unzip the download and drop the entire folder (which should be named something like `uswds-1.1.0`) into `assets/vendor`.
 
-In your `_config.yml`, update the `wds_version` value to the new version number. This should match the number following the `v` in the filenames you just created. In the case of our example, it would look like this: `wds_version: 1.1.0`. You'll need to restart your Jekyll server to see the new code take effect.
+In your `_config.yml`, update the `wds-version` value to the new version number. This should match the version number in the name of the folder you just downloaded. In the case of our example, it would look like this: `wds-version: 1.1.0`. You'll need to restart your Jekyll server to see the new code take effect.
 
 ## 18F Open Source Policy
 
