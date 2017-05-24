@@ -8,6 +8,11 @@ feature_image: /assets/img/feature-background.jpg
 
 colors:
   background: '#ffffff'
+  link:
+    color: '#0071bc'
+    active: '#0071bc'
+    hover: '#205493'
+    visited: '#0071bc'
   button:
     background: '#0071bc'
     hover: '#205493'
@@ -25,7 +30,8 @@ colors:
       background: '#dce4ef'
       text: '#112e51'
   footer:
-    background: '#d6d7d9'
+    primary-background: '#f1f1f1'
+    secondary-background: '#d6d7d9'
     text: '#212121'
 
 analytics:

@@ -42,8 +42,17 @@ form {
   max-width: 62.5rem;
 }
 
-a:visited {
-  color: inherit;
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover-color;
+  }
+  &:active {
+    color: $link-active-color;
+  }
+  &:visited {
+    color: $link-visited-color;
+  }
 }
 
 #main:focus {

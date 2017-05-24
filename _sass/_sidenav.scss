@@ -1,1 +1,14 @@
-
+.usa-sidenav-list {
+  a.usa-current {
+    border-left: 4px solid $button-color;
+    color: $button-color;
+  }
+  a {
+    color: $text-color;
+  }
+  a:hover {
+    color: $button-color;
+  }
+  a:visited {
+  }
+}
