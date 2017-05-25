@@ -5,6 +5,13 @@
   }
 }
 
+@media all and (max-width: 951px) {
+  #logo img {
+    // keep header img from overflowing menu bar
+    max-height: 3.7rem;
+  }
+}
+
 .usa-nav-primary a:hover {
   color: $button-color;
 }
