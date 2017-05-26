@@ -1,3 +1,7 @@
+.usa-banner-header .usa-banner-inner > img {
+  padding-top: 3px;
+}
+
 .banner.tagline {
   background-color: $banner-background-color;
 }
@@ -7,6 +11,7 @@
 .banner.tagline p {
   color: $banner-text-color;
   margin-bottom: 75px;
+  max-width: 80%;
 }
 .banner.tagline h2 {
   color: $banner-text-color;
