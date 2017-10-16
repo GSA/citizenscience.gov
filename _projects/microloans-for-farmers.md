@@ -1,11 +1,10 @@
 ---
 layout: project
-title: Microloans for Farmers
+title: Federal Crowdsourcing and Citizen Science Catalog
 description: A new letter increases farmers' access to credit by 22%.
-permalink: /projects/microloans-for-farmers/
+permalink: /projects/catalog/
 tags: project
-image: /assets/img/project-images/microloans-for-farmers.jpg
-image-credit: https://www.flickr.com/photos/usdagov
+image: /assets/img/project-images/communitythumb.jpg
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
 ## What is the issue?
