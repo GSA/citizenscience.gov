@@ -3,7 +3,7 @@ layout: post
 title: "eBird: Crowdsourcing Bird Data"
 date: 2017-10-21 16:17:01
 categories: citizen spotlight
-image: /assets/img/project-images/catalogthumb.jpg
+image: /assets/img/feature-background.jpg
 ---
 
 

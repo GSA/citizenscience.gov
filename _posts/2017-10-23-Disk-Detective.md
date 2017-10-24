@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eBird: Crowdsourcing Bird Data"
+title: "Disk Detective"
 date: 2017-10-24 16:17:01
 categories: citizen spotlight
 ---
