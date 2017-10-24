@@ -1,19 +1,4 @@
 <footer class="usa-footer usa-footer-medium" role="contentinfo">
-  {% if site.footer.links %}
-  <div class="usa-footer-primary-section">
-    <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
-        <ul class="usa-unstyled-list">
-        {% for link in site.footer.links %}
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ link.href }}">{{ link.text }}</a>
-          </li>
-        {% endfor %}
-        </ul>
-      </nav>
-    </div>
-  </div>
-  {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">

@@ -36,12 +36,24 @@ layout: base
 </section>
 {% endif %}
 
+
+{% comment %}
+Blog Section
+{% endcomment %}
 <section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row">
-    {{ content }}
-    {% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-    {% endif %}
+  <div class="usa-width-one-whole">
+    <h1 class="page-heading">Latest News</h1>
+      <ul>
+        {% for post in site.posts limit:3 %}
+          <li>
+            <h3>
+              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h3>
+            {{ post.date | date_to_long_string }}
+            {{ post.excerpt | truncatewords: 50 }}
+          </li>
+        {% endfor %}
+      </ul>
   </div>
 </section>
 

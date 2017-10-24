@@ -4,7 +4,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog
 description: A new letter increases farmers' access to credit by 22%.
 permalink: /projects/catalog/
 tags: project
-image: /assets/img/project-images/communitythumb.jpg
+image: /assets/img/project-images/catalogthumb.jpg
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
 ## What is the issue?
