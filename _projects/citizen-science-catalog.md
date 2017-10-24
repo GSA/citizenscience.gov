@@ -1,11 +1,10 @@
 ---
 layout: project
 title: Federal Crowdsourcing and Citizen Science Catalog
-description: A new letter increases farmers' access to credit by 22%.
+description: This database, developed in response to a memorandum from the White House Office of Science and Technology Policy (OSTP) provides a government-wide listing of citizen science and crowdsourcing projects by agency.
 permalink: /projects/catalog/
 tags: project
 image: /assets/img/project-images/catalog.jpg
-abstract: /assets/files/microloans-for-farmers.pdf
 ---
 ## What is the issue?
 

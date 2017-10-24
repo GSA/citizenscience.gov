@@ -1,11 +1,10 @@
 ---
 layout: project
-title: Servicemember TSP Enrollment
-description: A single email to military Servicemembers nearly doubled the rate of enrollment for a savings plan.
-permalink: /projects/tsp-enrollment/
+title: Federal Crowdsourcing and Citizen Science Community of Practice
+description: The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) meets monthly to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
+permalink: /projects/community-of-practice/
 tags: project
-image: /assets/img/project-images/roth-tsp-enrollment.jpg
-abstract: /assets/files/servicemember-tsp-enrollment.pdf
+image: /assets/img/project-images/community.jpg
 ---
 ## What is the issue?
 

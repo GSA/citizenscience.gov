@@ -1,12 +1,10 @@
 ---
 layout: project
-title: Reducing Summer Melt
-description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
-permalink: /projects/reducing-summer-melt/
+title: Federal Crowdsourcing and Citizen Science Toolkit
+description: The Toolkit provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.
+permalink: /projects/toolkit/
 tags: project
-image: /assets/img/project-images/summer-melt.jpg
-image-credit: https://www.flickr.com/photos/jenumfamily
-abstract: /assets/files/reducing-summer-melt.pdf
+image: /assets/img/project-images/toolkit.jpg
 ---
 ## What is the issue?
 
