@@ -47,12 +47,15 @@ defaults:
     path: "" # an empty string here means all files in the project
   values:
     layout:
+      - base
+      - blog
       - home
       - page
+      - post
       - "project-list"
       - project
       - "team-list"
-      - team
+      - teammate
 
 forms:
 - type: newsletter
