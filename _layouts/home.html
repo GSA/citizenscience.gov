@@ -48,6 +48,7 @@ Blog Section
             <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h3>
+            Author: {{ post.author}}</br>
             {{ post.date | date_to_long_string }}
             {{ post.excerpt | truncatewords: 50 }}
           </li>

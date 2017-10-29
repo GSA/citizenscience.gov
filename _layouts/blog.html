@@ -4,20 +4,25 @@ layout: base
 
 
 <section class="usa-grid usa-section">
-  <div class="usa-width-one-whole">
     <h1 class="page-heading">Latest News</h1>
+<section>
+    {% for post in site.posts %}
+
+        <div class="usa-width-one-third"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></div>
+        <div class="usa-width-two-thirds">
       <ul>
-        {% for post in site.posts limit:3 %}
           <li>
             <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h3>
+            Author: {{ post.author}}</br>
             {{ post.date | date_to_long_string }}
-            {{ post.excerpt | truncatewords: 50 }}
+            {{ post.excerpt | truncatewords: 100 }}
           </li>
-        {% endfor %}
       </ul>
-  </div>
+    </div>
+        {% endfor %}
+   </section>
 </section>
 
 {% include contact.html %}
