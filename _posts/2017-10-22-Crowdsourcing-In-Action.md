@@ -2,6 +2,7 @@
 layout: post
 title: "Crowdsourcing In Action"
 date: 2017-10-23 16:17:01
+author: Strawberry Shortcake
 categories: citizen spotlight
 image: /assets/img/feature-background.jpg
 ---

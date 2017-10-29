@@ -2,6 +2,7 @@
 layout: post
 title: "Science Is Fun"
 date: 2017-10-23 16:17:01
+author: Stephanie Green
 categories: citizen spotlight
 image: /assets/img/feature-background.jpg
 ---
