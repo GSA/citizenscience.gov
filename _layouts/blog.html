@@ -1,14 +1,11 @@
 ---
 layout: base
 ---
-
-
 <section class="usa-grid usa-section">
     <h1 class="page-heading">Latest News</h1>
-<section>
     {% for post in site.posts %}
-
-        <div class="usa-width-one-third"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></div>
+    <div class="usa-grid">
+        <div class="usa-width-one-third"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
         <div class="usa-width-two-thirds">
       <ul>
           <li>
@@ -17,12 +14,13 @@ layout: base
             </h3>
             Author: {{ post.author}}</br>
             {{ post.date | date_to_long_string }}
-            {{ post.excerpt | truncatewords: 100 }}
+            {{ post.excerpt | truncatewords: 50 }}
           </li>
       </ul>
     </div>
+  </div>
         {% endfor %}
-   </section>
+
 </section>
 
 {% include contact.html %}
