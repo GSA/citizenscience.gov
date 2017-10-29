@@ -1,23 +1,18 @@
 ---
 layout: project
 title: Federal Crowdsourcing and Citizen Science Toolkit
+short_title: The Toolkit
 description: The Toolkit provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.
 permalink: /projects/toolkit/
 tags: project
 image: /assets/img/project-images/toolkit.jpg
 ---
-## What is the issue?
+## About the Toolkit
+The Federal Crowdsourcing and Citizen Science Toolkit, released in September 2015, provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.
 
-Every year 20 to 30 percent of college-accepted high school graduates in urban districts fail to matriculate in college in the fall—a phenomenon known as “summer melt.”
+The toolkit also provides case studies, models, and other resources, including success stories and some of the challenges that developers faced in designing and carrying out citizen science and crowdsourcing projects. The case studies can serve as models for federal employees inspired to carry out their own projects. 
 
-## What is the insight?
+The toolkit was developed with the support and collaboration of more than 25 federal agencies in collaboration with OSTP, the Federal Crowdsourcing and Citizen Science Community of Practice (CCS), and GSA’s Open Opportunities Program.
 
-Sending students text message reminders about key tasks related to college matriculation, such as completing financial aid paperwork, have been found to increase first-year enrollment. By delivering these messages at times when students can take action, each reminder prompts direct action that supports college enrollment.
 
-## What was the intervention?
-
-Personalized text messages were designed for students and parents, reminding them of critical tasks. The text messages also provided recipients with a connection to individualized college and financial aid advising.
-
-## What was the impact?
-
-Among all students sent text messages, 68.0 percent enrolled in college in the fall compared with 64.9 percent of those not sent messages. Enrollment effects were larger for the lowest-income students and for first-generation students. Among low-income students, the text messages increased enrollment from 66.4 percent to 72.1 percent.
+[Visit the Toolkit here]({{ project.url | prepend: site.baseurl }})
