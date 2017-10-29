@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 permalink: /about/
 image: /assets/img/about.jpg
 ---

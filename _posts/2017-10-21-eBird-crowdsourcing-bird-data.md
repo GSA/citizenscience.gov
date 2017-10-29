@@ -2,6 +2,7 @@
 layout: post
 title: "eBird: Crowdsourcing Bird Data"
 date: 2017-10-21 16:17:01
+author: Stephanie Green
 categories: citizen spotlight
 image: /assets/img/feature-background.jpg
 ---

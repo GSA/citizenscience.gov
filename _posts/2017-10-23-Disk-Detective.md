@@ -2,7 +2,9 @@
 layout: post
 title: "Disk Detective"
 date: 2017-10-24 16:17:01
+author: Charlie Chocolate
 categories: citizen spotlight
+image: /assets/img/project-images/roth-tsp-enrollment.jpg
 ---
 
 
