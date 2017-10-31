@@ -1,0 +1,9 @@
+<ul>
+{% for features in site.data.catalog %}
+  <li>
+    <h3>Project Name: </h3>{{ features.project_name }}
+    <h3>Project Description: </h3>{{ features.project_description }}
+  </li>
+<br>
+{% endfor %}
+</ul>
