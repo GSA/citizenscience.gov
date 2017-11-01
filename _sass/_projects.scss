@@ -24,10 +24,6 @@
     width: 31%;
   }
 
-  &:hover {
-    box-shadow: 0 0 0 1px $card-heading-color;
-  }
-
   &:active {
     box-shadow: #3e94cf;
   }
@@ -55,6 +51,10 @@
   min-height: 200px;
   width: 100%;
 }
+
+.card-image:hover {
+    box-shadow: 0 0 0 1px $card-heading-color;
+  }
 
 .card-description.card-description {
   color: $card-heading-color;
