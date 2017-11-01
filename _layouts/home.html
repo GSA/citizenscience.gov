@@ -40,10 +40,12 @@ layout: base
 Blog Section
 {% endcomment %}
 <section class="usa-grid usa-section">
-  <div class="usa-width-one-whole">
     <h1 class="page-heading">Latest News</h1>
+    {% for post in site.posts limit: 3 %}
+    <div class="usa-grid  blog-section">
+        <div class="usa-width-one-third"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
+        <div class="usa-width-two-thirds">
       <ul>
-        {% for post in site.posts limit:3 %}
           <li>
             <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -52,9 +54,11 @@ Blog Section
             {{ post.date | date_to_long_string }}
             {{ post.excerpt | truncatewords: 50 }}
           </li>
-        {% endfor %}
       </ul>
+    </div>
   </div>
+        {% endfor %}
+
 </section>
 
 {% include contact.html %}
