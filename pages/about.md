@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 permalink: /about/
-image: /assets/img/about.jpg
 ---
 
 ## About CitizenScience.gov
