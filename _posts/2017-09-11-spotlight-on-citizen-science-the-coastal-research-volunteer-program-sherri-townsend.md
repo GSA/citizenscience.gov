@@ -3,7 +3,7 @@ title: Spotlight on Citizen Science | The Coastal Research Volunteer Program (Sh
 author: Eric Beidel
 layout: posts
 permalink: /2017/09/11/spotlight-on-citizen-science-the-coastal-research-volunteer-program-sherri-townsend/
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/09/sherritownsend2.jpg
+image: /assets/img/post-images/2017/09/sherritownsend2.jpg
 categories:
   - Biology
   - Climate and Weather
