@@ -36,7 +36,7 @@ After my children got older and were no longer doing this, I decided to continue
 I really like helping professors and graduate students to collect data. I know it takes a lot of people to get the data collected. I like being the boots on the ground, just like our logo. I like working hard to help get good research done. If we’re not doing it, it might not get done. Plus, getting more people involved through citizen science helps bring more perspectives to the research.
 
 <div class="image-in-post-body">
-  <img src="/assets/img/post-images/2017/09/sherritownsend.jpg" alt="" width="400"/>
+  <img src="/assets/img/post-images/2017/09/sherritownsend.jpg" alt="Sherri measuring beachgrass." width="400"/>
   <p class="image-caption">
     Sherri measures growth and survival of beachgrass (Ammophila breviligulata) in the Common Garden, a nursery of native sand dune plants used in local restoration efforts. (Photo credit: Malin Clyde)
   </p>
@@ -58,10 +58,8 @@ Connect with your local Sea Grant program to see what citizen science programs t
 
 Find more information on the Coastal Research Volunteer Program at <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fseagrant.unh.edu%2Fcrv&h=ATOXQ7AqxrigV6BMDaXjw1PKxNUeD2WnDoPP_HFLCMYWxArtUHEgIE-eR1b1ywZHqge4uY2fzlolBWhOyapOKkCHpJoJWw3kfwd4_fSX1EszV9DYRb8jvJFhULGF5-JFjwl2MvETncFLaXo4eBDj2fiPnCjvsHqdF4WaP7oL8zunBHdiC8UN4Qo0O_5g5vFHrJZgkUmSXaqMSh6DcBHgCDocCvdGGznXQfuwuMcO-Yv5WO2KfCOSj-1SstYzhUkOGvQ" target="_blank" rel="noopener">https://seagrant.unh.edu/crv</a>
 
-Story told to Alyson Eberhardt
-  
+Story told to Alyson Eberhardt  
 Coastal Ecosystems Specialist
-  
-NH Sea Grant| UNH Extension
+NH Sea Grant, UNH Extension
 
 _This post originally appeared on the NOAA Education and Outreach Facebook [page](https://www.facebook.com/NOAAEducationOutreach/posts/914043982084749)._

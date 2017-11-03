@@ -43,7 +43,7 @@ Blog Section
     <h1 class="page-heading">Latest News</h1>
     {% for post in site.posts limit: 3 %}
     <div class="usa-grid  blog-section">
-        <div class="usa-width-one-third"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
+        <div class="usa-width-one-third blog-list-image"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
         <div class="usa-width-two-thirds">
       <ul>
           <li>
