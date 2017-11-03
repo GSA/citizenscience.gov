@@ -4,9 +4,7 @@ layout: base
 
 <div class="usa-section usa-grid">
   {% if page.image %}
-  {% if page.class != null %}
     <div class="page--banner {{ page.class }}" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-  {% endif %}
   {% endif %}
 </div>
 

@@ -36,10 +36,9 @@ After my children got older and were no longer doing this, I decided to continue
 I really like helping professors and graduate students to collect data. I know it takes a lot of people to get the data collected. I like being the boots on the ground, just like our logo. I like working hard to help get good research done. If we’re not doing it, it might not get done. Plus, getting more people involved through citizen science helps bring more perspectives to the research.
 
 <div class="image-in-post-body">
-  <img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/09/sherritownsend2.jpg" alt="" width="400"/>
-  
+  <img src="/assets/img/post-images/2017/09/sherritownsend.jpg" alt="" width="400"/>
   <p class="image-caption">
-    Sherri and her daughter, Kile, count, measure and assess the pigment stage of glass eels (Anguilla rostrata). (Photo credit: Alyson Eberhardt)
+    Sherri measures growth and survival of beachgrass (Ammophila breviligulata) in the Common Garden, a nursery of native sand dune plants used in local restoration efforts. (Photo credit: Malin Clyde)
   </p>
 </div>
 
