@@ -2,11 +2,7 @@
 layout: base
 ---
 
-<section class="usa-section usa-grid">
-  <h1> {{ page.title }}</h1>
-  {% if page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-  {% endif %}
-  {{ content }}
+	<div class="usa-grid usa-full">
+    	<h1> {{ page.title }}</h1>
+    	{{ content }}
   </div>
-</section>

@@ -13,3 +13,12 @@ layout: base
     {{ content }}
   </div>
 
+
+{% if post.tags != empty %}
+	<div class="this-tag">
+		{% for tag in post.tags %}
+			<div class="{{ tag }}">Hello
+		{% endfor %}
+			</div>
+	</div>
+{% endif %}
