@@ -20,6 +20,7 @@ tags:
   - oysters
   - sand dunes
   - volunteering
+class: center-top
 ---
 
 The Coastal Research Volunteer program, a program of NH Sea Grant, connects volunteers with researchers and natural resource managers in the New Hampshire Seacoast to work on a variety of coastal research projects such as glass eel surveys, beach profiling, sand dune restoration and research, horseshoe crab surveys, oyster research, rockweed phenology and salt marsh monitoring. Here we profile long time citizen scientist, Sherri Townsend.
@@ -34,10 +35,10 @@ After my children got older and were no longer doing this, I decided to continue
 
 I really like helping professors and graduate students to collect data. I know it takes a lot of people to get the data collected. I like being the boots on the ground, just like our logo. I like working hard to help get good research done. If we’re not doing it, it might not get done. Plus, getting more people involved through citizen science helps bring more perspectives to the research.
 
-<div id="attachment_33031" style="width: 410px" class="wp-caption alignright">
-  <img class="wp-image-33031" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/09/sherritownsend2.jpg" alt="" width="400" height="533" />
+<div class="image-in-post-body">
+  <img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/09/sherritownsend2.jpg" alt="" width="400"/>
   
-  <p class="wp-caption-text">
+  <p class="image-caption">
     Sherri and her daughter, Kile, count, measure and assess the pigment stage of glass eels (Anguilla rostrata). (Photo credit: Alyson Eberhardt)
   </p>
 </div>

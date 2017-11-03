@@ -1,6 +1,7 @@
 .image-in-post-body {
   float:right;
   margin-left: 2em;
+  width: 410px
 }
 
 .image-caption {
@@ -11,4 +12,8 @@
 .blog-list-image {
 	height: 220px;
 	overflow: hidden;
+}
+
+.center-top {
+	background-position: center -15em;
 }
