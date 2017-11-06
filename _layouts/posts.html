@@ -7,6 +7,7 @@ layout: base
     <div class="page--banner {{ page.class }}" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
   {% endif %}
 </div>
+{% include search-box.html %}
 
 <div class="usa-grid usa-full">
     <h1> {{ page.title }}</h1>
