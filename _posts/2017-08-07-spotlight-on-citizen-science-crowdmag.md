@@ -3,7 +3,7 @@ title: 'Spotlight on Citizen Science: CrowdMag'
 author: Eric Beidel
 layout: posts
 permalink: /2017/08/07/spotlight-on-citizen-science-crowdmag/
-image: /assets/img/post-images/2017/08/CrowdMag-photo.jpg
+image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/CrowdMag-photo.jpg
 categories:
   - Education
   - Environment and Nature
@@ -21,7 +21,7 @@ Asking a college student to use a cell phone for science sounds like a breeze. B
 The “CrowdMag Day” campaign at the University of Colorado this summer harnessed the power of several student interns as citizen scientists. The summer interns were participating in the Research Experience for Community College Students (RECCS) program. RECCS is a nine-week summer student research program in critical zone science for community college students in Colorado funded by the National Science Foundation. The program is coordinated by NCEI, the Cooperative Institute for Research in Environmental Sciences (CIRES) Cires Education Outreach , the University of Colorado, and the Boulder Creek Critical Zone Observatory.
 
 <div class="image-in-post-body" style="width: 610px">
-  <img src="/assets/img/post-images/2017/08/RECCS-volunteer.jpg" alt="Anjeliqu Morine sitting at computer." height="400"/>
+  <img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/RECCS-volunteer.jpg" alt="Anjeliqu Morine sitting at computer." height="400"/>
   
   <p class="image-caption">
     RECCS student researcher Anjelique Morine is mentored by CIRES research scientists Rick Saltus and Manoj Nair who are part of the Geomagnetism team with the NOAA National Centers for Environmental Information (NCEI) based in Boulder, Colorado. (Photo by Jennifer Taylor / CIRES)
