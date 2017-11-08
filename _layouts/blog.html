@@ -1,9 +1,10 @@
 ---
 layout: base
+
 ---
 <section class="usa-grid usa-section">
     <h1 class="page-heading">Latest News</h1>
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <div class="usa-grid  blog-section">
         <div class="usa-width-one-third blog-list-image"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
         <div class="usa-width-two-thirds">
@@ -21,6 +22,23 @@ layout: base
   </div>
         {% endfor %}
 
+  {% if paginator.total_pages > 1 %}
+    <ul>
+    {% if paginator.previous_page %}
+      <li>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+      </li>
+    {% endif %}
+  {% if paginator.next_page %}
+    <li>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    </li>
+  {% endif %}
+    </ul>
+{% endif %}
+
 </section>
+
+
 
 {% include contact.html %}
