@@ -6,6 +6,7 @@ description: This database, developed in response to a memorandum from the White
 permalink: /projects/catalog/
 tags: project
 image: /assets/img/project-images/catalog.jpg
+link-out: https://ccsinventory.wilsoncenter.org/
 ---
 
 ## About the Catalog

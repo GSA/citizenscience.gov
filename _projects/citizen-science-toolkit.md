@@ -6,6 +6,7 @@ description: The Toolkit provides five basic process steps for planning, designi
 permalink: /projects/toolkit/
 tags: project
 image: /assets/img/project-images/toolkit.jpg
+link-out: https://crowdsourcing-toolkit.sites.usa.gov/
 ---
 ## About the Toolkit
 The Federal Crowdsourcing and Citizen Science Toolkit, released in September 2015, provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.

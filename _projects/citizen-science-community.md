@@ -6,6 +6,7 @@ description: The Federal Community of Practice on Crowdsourcing and Citizen Scie
 permalink: /projects/community-of-practice/
 tags: project
 image: /assets/img/project-images/community.jpg
+link-out: https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/
 ---
 ## About the Community
 The growing Federal Crowdsourcing and Citizen Science Community of Practice (CCS) represents a group of hundreds of federal employees representing 35 agencies who meet regularly to share lessons learned and develop best practices for crowdsourcing and citizen science. 
