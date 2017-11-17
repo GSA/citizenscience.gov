@@ -80,15 +80,12 @@ footer:
         href: '#'
   image: /assets/img/gsa-logo-dark.jpg
   contact:
-    name: GSA
-    phonenumber: 1-800-CALL-GOV
-    email: gsa@gsa.gov
-    twitter:
-      - 18f
-    facebook: 18f
-    youtube: 18f
+    name: 
+    email: citizenscience@gsa.gov
+    twitter: fedcitsci
+    facebook: citizenscience
+    youtube: 
     rss: 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
 plugins: 
