@@ -36,41 +36,10 @@
   </div>
   <!-- Gov banner END -->
 
-  <div class="usa-nav-container">
-    <div class="usa-navbar">
-      <button class="usa-menu-btn">Menu</button>
-      <div class="usa-logo" id="logo">
-        <em class="usa-logo-text">
-          <a href="{{ site.url }}" accesskey="1" title="Home" aria-label="Home">
-          {% if site.logo %}
-            <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
-          {% else %}
-            <h1 class="usa-header-title">{{ site.title }}</h1>
-          {% endif %}
-          </a>
-        </em>
-      </div>
-    </div>
-    <nav role="navigation" class="usa-nav">
-      <button class="usa-nav-close">
-        <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/close.svg" alt="close">
-      </button>
-      <ul class="usa-nav-primary usa-accordion">
-      {% assign navs = site.data.navbar.assigned %}
-      {% for nav in navs %}
-        {% if nav.show_in_menu %}
-        <li>
-          <a class="usa-nav-link" href="{{ nav.permalink | prepend: site.baseurl }}"><span>{{ nav.text }}</span></a>
-        </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </nav>
-  </div>
-
+  
   <!-- Toolkit Nav -->
  
-    <section class="usa-full usa-section toolkit-nav">
+  <section class="usa-full usa-section toolkit-nav">
     <div class="usa-grid">
         <div class="usa-width-one-third"><img src="{{ site.toolkit-logo | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
         <div class="usa-width-two-thirds">
@@ -91,6 +60,8 @@
       </ul>
     </nav>
       </div>
+  </div>
+</section>
 
     
 </header>
