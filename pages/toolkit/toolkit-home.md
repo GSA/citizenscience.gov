@@ -68,31 +68,6 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 
 
-<section class="usa-section usa-grid">
-	<div class="banner tagline usa-width-one-half">
-		<h2 class="page-heading">Find Federally Sponsored Projects</h2>
-  		<p>The Federal Crowdsourcing and Citizen Science Catalog provides a government-wide listing of citizen science and crowdsourcing projects by agency. Projects submitted to the catalog are validated for agency involvement by federal employees.</p>
-    </div>
-    <div class="usa-width-one-half">
-		<h2 class="page-heading">Join the Community</h2>
-  		<p>The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) meets monthly to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.</p>
-    </div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <section class="usa-section banner tagline">
@@ -109,6 +84,14 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
         <div class="usa-width-two-thirds">
     <h2 class="page-heading">Join the Community</h2>
       		<p>The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) meets monthly to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.</p>
+	<h3>Other Innovation Communities</h3>
+		<ul>
+			<li><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank">Challenges and Prizes</a></li>
+			<li><a href="https://www.digitalgov.gov/communities/" target="blank">DigitalGov</a></li>
+			<li><a href="https://www.data.gov/" target="blank">Data.gov</a></li>
+			<li><a href="https://www.digitalgov.gov/communities/social-media/" target="blank">SocialMedia CoP</a></li>
+		</ul>
+		<a href="#">Learn more about these communities</a>
     </div>
 </section>
 
