@@ -108,6 +108,8 @@ collections:
     output: true
   catalogprojects: 
     output: true
+  how-to-steps:
+    output: true
 
 
 wds-version: 1.4.2

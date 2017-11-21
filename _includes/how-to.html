@@ -1,0 +1,22 @@
+<div class="project-container usa-grid">
+{% for project in site.how-to-steps %}
+  {% unless project.featured %}
+    <article class="usa-width-one-fourth">
+        <h3 class="card-description text-center">
+          <span>{{ project.title }}</span>
+        </h3>
+      <a href="{{ project.link-out }}">
+      <div class="card-image"
+        style="background-image: url(
+        {% if project.image_thumbnail %}
+          {{ project.image_thumbnail | prepend: site.baseurl }}
+        {% else %}
+          {{ project.image | prepend: site.baseurl }}
+        {% endif %}
+        );">
+      </div>
+    </a>
+    </article>
+  {% endunless %}
+{% endfor %}
+</div>

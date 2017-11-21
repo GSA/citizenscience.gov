@@ -2,6 +2,7 @@
 layout: toolkit-base
 permalink: /toolkit/
 title: Federal Crowdsourcing and Citizen Science Toolkit
+how-to-link: /toolkit/howto/
 banner-heading: Find Federally Sponsored Projects
 banner-text: The Federal Crowdsourcing and Citizen Science Catalog provides a government-wide listing of citizen science and crowdsourcing projects by agency. Projects submitted to the catalog are validated for agency involvement by federal employees.
 banner-button-text: view the catalog
@@ -11,11 +12,11 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <div class="usa-section usa-grid">
 
-	<h2>Federal Crowdsourcing and Citizen Science Toolkit</h2>
+	<h2>{{ page.title }}</h2>
 
 	<div class="project-container">
 	    <article class="card usa-width-one-third">
-	      <a href="#">
+	      <a href="{{ page.how-to-link | prepend: site.baseurl }}">
 	      <div class="card-image" style="background-image: url(/assets/img/toolkit-images/how-to-home.gif); min-height: 200px">
 	      </div>
 	    </a>
@@ -23,7 +24,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	        <h3 class="card-description">How To: Step by Step</h3>
 	        <p class="card-summary">This toolkit shows five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project. At each step, you’ll find a list of tips you can use to keep your project on track.</p>
 	      </div>
-	      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+	      <a class="card-read" href="{{ page.how-to-link | prepend: site.baseurl }}">
 	        See the process steps
 	        <span class="usa-sr-only">about {{ project.title }}</span>
 	      </a>
