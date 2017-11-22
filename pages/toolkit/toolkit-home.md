@@ -3,6 +3,7 @@ layout: toolkit-base
 permalink: /toolkit/
 title: Federal Crowdsourcing and Citizen Science Toolkit
 how-to-link: /toolkit/howto/
+case-study-link: /toolkit/case-study/
 banner-heading: Find Federally Sponsored Projects
 banner-text: The Federal Crowdsourcing and Citizen Science Catalog provides a government-wide listing of citizen science and crowdsourcing projects by agency. Projects submitted to the catalog are validated for agency involvement by federal employees.
 banner-button-text: view the catalog
@@ -34,7 +35,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 
 	    <article class="card usa-width-one-third">
-	      <a href="#">
+	      <a href="{{ page.case-study-link | prepend: site.baseurl }}">
 	      <div class="card-image" style="background-image: url(/assets/img/toolkit-images/home-case-studies2.gif); min-height: 200px">
 	      </div>
 	    </a>
@@ -42,7 +43,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	        <h3 class="card-description">Case Study Overview</h3>
 	        <p class="card-summary">Case studies in this toolkit serve as models and provide success stories and challenges to consider while planning a project. You can browse through agency case studies to get ideas for a project of your own.</p>
 	      </div>
-	      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+	      <a class="card-read" href="{{ page.case-study-link | prepend: site.baseurl }}">
 	        Browse Case Studies
 	        <span class="usa-sr-only">about {{ project.title }}</span>
 	      </a>
