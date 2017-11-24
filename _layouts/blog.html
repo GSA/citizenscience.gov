@@ -3,7 +3,7 @@ layout: base
 
 ---
 <section class="usa-grid usa-section">
-    <h1 class="page-heading">Latest News</h1>
+    <h1 class="page-heading">News</h1>
     {% for post in paginator.posts %}
     <div class="usa-grid  blog-section">
         <div class="usa-width-one-third blog-list-image"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
