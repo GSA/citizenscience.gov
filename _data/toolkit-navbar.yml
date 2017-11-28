@@ -1,10 +1,5 @@
 assigned:
-    -
-        text: Home
-        href: pages/toolkit-home.md
-        permalink: /toolkit/
-        show_in_menu: true
-        show_in_footer: false
+
     -
         text: How To
         href: pages/about.md
@@ -30,10 +25,10 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: CitizenScience.gov
-        href: pages/home.md
-        permalink: /
-        show_in_menu: false
+        text: About
+        href: pages/toolkit-home.md
+        permalink: /toolkit-about/
+        show_in_menu: true
         show_in_footer: false
 
 unassigned: []
