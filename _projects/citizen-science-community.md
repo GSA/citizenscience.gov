@@ -9,9 +9,10 @@ image: /assets/img/project-images/community.jpg
 link-out: https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/
 ---
 ## Welcome to Our Community!
-There are two primary groups within the federal government working to advance crowdsourcing and citizen science use and practice. These are:
-- The [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/) a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science.
+#### There are two primary groups within the federal government working to advance crowdsourcing and citizen science use and practice. These are:
 
-* [Agency Citizen Science and Crowdsourcing Coordinators](<= )links to new page below) a group of federal employees designated by their agency leaders to be responsible for implementing tasks to advance crowdsourcing and citizen science.
+The [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/) a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science.
+
+[Agency Citizen Science and Crowdsourcing Coordinators]( {{ site.baseurl }}/agency-community/  ) links to new page below) a group of federal employees designated by their agency leaders to be responsible for implementing tasks to advance crowdsourcing and citizen science.
 
 If you have questions, please email citizenscience@gsa.gov.
