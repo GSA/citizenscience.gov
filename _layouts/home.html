@@ -23,7 +23,12 @@ layout: base
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
       {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
+        <p>{{ page.banner-text }}
+          <a class="card-read" href="{{ site.baseurl }}/about/">
+        Read more
+        <span class="usa-sr-only">about {{ project.title }}</span>
+      </a>
+        </p>
       {% endif %}
       {% if page.banner-button-text %}
       <div class="center-content">
@@ -50,7 +55,7 @@ Blog Section
             <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h3>
-            Author: {{ post.author}}</br>
+            By: {{ post.author}}</br>
             {{ post.date | date_to_long_string }}
             {{ post.excerpt | truncatewords: 50 }}
           </li>
