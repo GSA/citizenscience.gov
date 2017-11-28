@@ -1,36 +1,29 @@
+
 <section class="usa-section usa-section-dark">
   <div class="usa-grid">
-  {% for form in site.forms %}
-    {% if form.type == 'newsletter' %}
-      {% assign f = form %}
-    {% endif %}
-  {% endfor %}
-
-  <form id="contact" action="{{ f.url }}" method="POST">
-    <fieldset>
-      <legend>{{ f.heading }}</legend>
-      <div class="usa-width-one-half">
-        {% for field in f.fields %}
-          {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
-          <input id="contact-{{ field.name }}"
-            name="{{ field.name }}" type="{{ field.type }}"
-            {% if field.value %} value="{{ field.value }}" {% endif %}>
-        {% endfor %}
-        <div class="usa-input-buttons-inline">
-          <input type="submit" value="{{ f.button }}">
-        </div>
-      </div>
-      <div class="usa-width-one-half" style="margin-top: 3rem;">
-        {% if f.privacypolicy %}
-          <p>{{ f.privacypolicy }}</p>
-        {% else %}
-          <p></p>
-        {% endif %}
-      </div>
-
-
-    </fieldset>
-
-  </form>
+    <h2 style="text-align: center">Follow us on Twitter at 
+      <a href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}"><span>@FedCitSci</span></a>
+    </h2>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
