@@ -1,14 +1,17 @@
 ---
 layout: project
 title: Federal Crowdsourcing and Citizen Science Community of Practice
-short_title: Community of Practice
-description: The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) meets monthly to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
+short_title: Join Us
+description: There are two primary groups within the federal government working collaboratively to advance the use of these tools, namely the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) and the Agency Citizen Science and Crowdsourcing Coordinators.
 permalink: /projects/community-of-practice/
 tags: project
 image: /assets/img/project-images/community.jpg
 link-out: https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/
 ---
-## About the Community
-The growing Federal Crowdsourcing and Citizen Science Community of Practice (CCS) represents a group of hundreds of federal employees representing 35 agencies who meet regularly to share lessons learned and develop best practices for crowdsourcing and citizen science. 
+## Welcome to Our Community!
+There are two primary groups within the federal government working to advance crowdsourcing and citizen science use and practice. These are:
+- The [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/) a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science.
 
-A second, overlapping community is the citizen science agency coordinators that were appointed as a result of OSTP’s 2015 memo, Addressing Societal and Scientific Challenges through Citizen Science and Crowdsourcing.
+* [Agency Citizen Science and Crowdsourcing Coordinators](<= )links to new page below) a group of federal employees designated by their agency leaders to be responsible for implementing tasks to advance crowdsourcing and citizen science.
+
+If you have questions, please email citizenscience@gsa.gov.
