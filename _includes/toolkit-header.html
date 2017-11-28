@@ -2,7 +2,7 @@
 
 <header class="usa-header usa-header-basic" role="banner">
   <!-- Gov banner BEGIN -->
-  <div class="usa-banner">
+  <div>
     <div class="usa-accordion">
       <header class="usa-banner-header">
         <div class="usa-grid usa-banner-inner">
@@ -34,6 +34,7 @@
       </div>
     </div>
   </div>
+
   <!-- Gov banner END -->
 
   
@@ -41,7 +42,11 @@
  
   <section class="usa-full usa-section toolkit-nav">
     <div class="usa-grid">
-        <div class="usa-width-one-third"><img src="{{ site.toolkit-logo | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
+        <div class="usa-width-one-third">
+          <a href="{{ site.baseurl }}/toolkit/">
+            <img src="{{ site.toolkit-logo | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}">
+          </a>
+        </div>
         <div class="usa-width-two-thirds">
   
       <nav role="navigation" class="usa-nav">
