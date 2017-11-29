@@ -73,18 +73,12 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-section banner tagline">
 	<div class="usa-grid">
-    <h2>Find Federally Sponsored Projects</h2>
-        <div class="usa-width-one-third blog-list-image"><img src="/assets/img/toolkit-images/catalog300x196.png" alt=""></div>
-        <div class="usa-width-two-thirds">
-      		<p>The Federal Crowdsourcing and Citizen Science Catalog provides a government-wide listing of citizen science and crowdsourcing projects by agency. Projects submitted to the catalog are validated for agency involvement by federal employees.</p>
+    <h2 style="text-align:center">Visit CitizenScience.gov to also learn about a catalog of projects and communities to join!</h2>
     </div>
-  </div>
 </section>
 
 <section class="usa-grid usa-section"> 
         <div class="usa-width-two-thirds">
-    <h2 class="page-heading">Join the Community</h2>
-      		<p>The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) meets monthly to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.</p>
 	<h3>Other Innovation Communities</h3>
 		<ul>
 			<li><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank">Challenges and Prizes</a></li>

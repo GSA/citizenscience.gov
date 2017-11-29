@@ -8,6 +8,17 @@
         {% if site.footer.text %}
           <p>{{ site.footer.text }}</p>
         {% endif %}
+        <div class="usa-logo" id="logo">
+        <em class="usa-logo-text">
+          <a href="{{ site.url }}" accesskey="1" title="Home" aria-label="Home">
+          {% if site.logo %}
+            <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+          {% else %}
+            <h1 class="usa-header-title">{{ site.title }}</h1>
+          {% endif %}
+          </a>
+        </em>
+      </div>
       </div>
 
       <div class="usa-footer-contact-links usa-width-one-half">
