@@ -79,14 +79,13 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-grid usa-section"> 
         <div class="usa-width-two-thirds">
-	<h3>Other Innovation Communities</h3>
+	<h2 style="text-decoration: underline">Other Innovation Communities</h2>
 		<ul>
 			<li><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank">Challenges and Prizes</a></li>
 			<li><a href="https://www.digitalgov.gov/communities/" target="blank">DigitalGov</a></li>
 			<li><a href="https://www.data.gov/" target="blank">Data.gov</a></li>
 			<li><a href="https://www.digitalgov.gov/communities/social-media/" target="blank">SocialMedia CoP</a></li>
 		</ul>
-		<a href="#">Learn more about these communities</a>
     </div>
 </section>
 
