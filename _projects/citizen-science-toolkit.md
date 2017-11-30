@@ -4,6 +4,7 @@ title: Federal Crowdsourcing and Citizen Science Toolkit
 short_title: Plan Your Projects
 description: The Toolkit provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.
 permalink: /projects/toolkit/
+read-more-link: /projects/toolkit/
 tags: project
 image: /assets/img/project-images/toolkit.jpg
 link-out: /toolkit/
