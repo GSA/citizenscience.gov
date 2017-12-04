@@ -5,6 +5,25 @@
     width: 102.5%;
   }
 }
+
+@media screen and (min-width: 600px) {
+  .project-container-toolkit {
+    display: flex;
+    flex-wrap: wrap;
+    width: 102.5%;
+  }
+  }
+
+  @media screen and (min-width: 600px) {
+  .project-container-toolkit .card-image{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 150px;
+    width: 100%;
+  }
+  }
+
 // Project card ------------- //
 
 // Sets a height on projects so they're the same height and don't break the grid
