@@ -1,10 +1,157 @@
 ---
-layout: project
+layout: how-to-steps-indv
 title: Scope Out Your Problem
 short_title: Step 1 | Scope Your Problem
 description: 
-permalink: /howto/step1
+permalink: /howto/step1/
 tags: project
 image: /assets/img/toolkit-images/steps/how-to-step1.gif
-link-out: /howto/step1
+link-out: /howto/step1/
 ---
+
+<h1>Step 1 — Scope Out Your Problem</h1>
+<p>Start with a detailed <a href="http://govlabacademy.org/" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">exploration of the problem</a> you need to solve — <a href="https://vimeo.com/105270675" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">why it matters</a>, <a href="http://diytoolkit.org/tools/theory-of-change/" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">what your priorities are</a>, who’s interested and what you hope to accomplish. Explore your available approaches and pick the best one. Understand <a href="http://edis.ifas.ufl.edu/pdffiles/FR/FR35900.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">what citizen science can accomplish</a> and <a href="http://www.nature.com/news/crowd-sourcing-strength-in-numbers-1.14757" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">what crowdsourcing can accomplish</a>. Finally, identify the key stakeholders who will need to agree to and support solutions to the problem. Take the time to carefully <a href="http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">frame your project</a> and build a solid foundation so that all later steps address your needs.</p>
+<p>The following tips will help you get started:</p>
+<ul>
+<li><a href="#know">Know your tools.</a></li>
+<li><a href="#engage">Engage your stakeholders and participants.</a></li>
+<li><a href="#fits">Know where your project fits.</a></li>
+<li><a href="#approval">Get approval from your supervisors.</a></li>
+</ul>
+
+<ul class="usa-accordion">
+
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="a1">
+      Case Studies
+    </button>
+    <div id="a1" class="usa-accordion-content">
+      Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+
+    </div>
+</ul>
+
+<div class="case-studies"><a onclick="wpex_toggle(2072501543, 'Case Studies', 'Read less'); return false;" class="wpex-link" id="wpexlink2072501543" href="#">Case Studies</a><div class="wpex_div" id="wpex2072501543" style="display: none;"></p>
+<ul>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/mping-weather-reports/" class="local-link">mPING: Crowdsourcing Weather Reports</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-feel-it/" class="local-link">Did You Feel It? Crowdsourcing Earthquake Maps</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/eterna/" class="local-link">EteRNA: Crowdsourcing New RNA Designs</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/north-american-bird-phenology/" class="local-link">The North American Bird Phenology Program</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/cyclone-center/" class="local-link">Cyclone Center: Crowdsourcing Hurricane Intensity Estimates</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/enhanced-passive-surveillance-system/" class="local-link">Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/smithsonian-transcription-center/" class="local-link">Smithsonian Transcription Center: Crowdsourcing Document Transcription</a>&lt;/</li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/satellite-clouds/" class="local-link">The GLOBE/S&#8217;COOL Parternship: Citizen Scientists Validate Satellite Data</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/ebird-bird-data/" class="local-link">eBird: Crowdsourcing Bird Data</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/mapgive/" class="local-link">MapGive: Crowdsourcing Map Data for Humanitarian Response and Preparedness</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/tweet-earthquake-dispatch/" class="local-link">Tweet Earthquake Dispatch: Crowdsourcing Earthquake Detection</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-see-it-crowdsourcing-landslide-information/" class="local-link">Did You See It?: Crowdsourcing Landslide Information</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/project-budburst/" class="local-link">Project BudBurst: Citizen Scientists Track Seasonal Plant Changes</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/openpv-solar-energy-data/" class="local-link">The OpenPV Project: Crowdsourcing Solar Energy Data</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/cocorahs-precipitation/" class="local-link">CoCoRaHS — Community Collaborative Rain, Hail and Snow Network: Citizen Scientists Track Precipitation</a></li>
+<li><a href="https://crowdsourcing-toolkit.sites.usa.gov/air-sensor-toolbox/" class="local-link">The Air Sensor Toolbox: Citizen Scientists Measure Air Quality</a></li>
+</ul>
+<p></div></p>
+</div>
+</div>
+<section class="wrap-mega-tip clearfix">
+<h3><a name="know"></a>Know Your Tools</h3>
+<figure class="mega-tip-image"><img class="alignleft wp-image-23582" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/09/step1-know-tools-300x200.jpg" alt="a pile of metal tools on a workbench" width="200" height="133" /></figure>
+<div class="wrap-mega-tip-content clearfix">
+<p>Find out <a href="http://www.ceh.ac.uk/products/publications/understanding-citizen-science.html" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">what specific techniques are available</a> and which ones will best help you meet your mission goals. How might the resources available to you shape your research questions?</p>
+<ul>
+<li>Define your goals for the project: <a href="https://vimeo.com/91934378" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">What do you want to accomplish?</a></li>
+<li>Know the <a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">strengths of your available approaches</a> and the risks and requirements associated with using them.</li>
+<li>Find out what others have done with <a href="http://www.wilsoncenter.org/publication/new-visions-citizen-science" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">similar projects</a> — to tell whether you’ve got a good match, verify that a new project is needed (as opposed to extending an existing project), and to strengthen your plans before you get going.</li>
+<li>Start thinking early about <a href="http://www.jstor.org/stable/27786204?seq=1#page_scan_tab_contents" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">how you’ll evaluate</a> and share results and outcomes.</li>
+</ul>
+</div>
+</section>
+<div class="resources"><a onclick="wpex_toggle(387026234, 'Resources', 'Read less'); return false;" class="wpex-link" id="wpexlink387026234" href="#">Resources</a><div class="wpex_div" id="wpex387026234" style="display: none;"></p>
+<ul>
+<li><a href="http://www.jstor.org/stable/27786204?seq=1#page_scan_tab_contents" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Buckets of Resistance: Standards and the Effectiveness of Citizen Science (2010)</a></li>
+<li><a href="http://www.nature.com/news/crowd-sourcing-strength-in-numbers-1.14757" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Crowdsourcing: Strength in Numbers (Journal Article, 2014)</a></li>
+<li><a href="https://vimeo.com/91934378" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">DIY Toolkit: Problem Definition (Video)</a></li>
+<li><a href="http://uiuc.libguides.com/citizen-science/evaluation" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Evaluating Citizen Science (Journal Article, 2015)</a></li>
+<li><a href="http://www.businessofgovernment.org/report/federal-ideation-programs-challenges-and-best-practices" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Federal Ideation Programs: Challenges and Best Practices (Journal Article, 2013)</a></li>
+<li><a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">GSA List of Third Party Sites with Amended TOS Agreements</a></li>
+<li><a href="http://www.ceh.ac.uk/products/publications/documents/sepa_choosingandusingcitizenscience_interactive_4web_final_amended.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Guide to Choosing and Using Citizen Science (Centre for Ecology and Hydrology, PDF)</a></li>
+<li><a href="http://edis.ifas.ufl.edu/pdffiles/FR/FR35900.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Lessons Learned from Evaluations of Citizen Science Programs (2014, PDF)</a></li>
+<li><a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
+<li><a href="http://www.wilsoncenter.org/publication/new-visions-citizen-science" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">New Visions in Citizen Science (Wilson Center)</a></li>
+<li><a href="http://www.sciencedirect.com/science/article/pii/S0048733312001436" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Structuring Interdisciplinary Research Management (Journal Article, 2013)</a></li>
+<li><a href="https://www.teamsciencetoolkit.cancer.gov/Public/Home.aspx" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Team Science Toolkit (National Cancer Institute)</a></li>
+<li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Transdisciplinary Research in Sustainability Science (Journal Article, 2013)</a></li>
+<li><a href="http://www.ceh.ac.uk/citizen-science-best-practice-guide" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
+</ul>
+<p></div></p>
+</div>
+<div class="hdivider"></div>
+<section class="wrap-mega-tip clearfix">
+<h3><a name="engage"></a>Engage Your Stakeholders and Participants</h3>
+<figure class="mega-tip-image"><img class="alignleft size-full wp-image-27242" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/09/step1-engage-stakeholders.jpg" alt="Four people standing in front of a palm tree talking. One has a notebook." width="200" height="143" /></figure>
+<div class="wrap-mega-tip-content clearfix">
+<p>Find out whether stakeholders and participants are comfortable with the type of project you envision and with your ideas for how they will get involved and what technologies they will use. Talk with them to address their concerns. Don’t have just one conversation — <a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">keep talking with everyone</a> as your plans move forward. Learn what participants want to get out of your project, what skills they have and what time and resources they can offer.</p>
+<ul>
+<li>Decide what skills you need and learn who might want to share them with you and why. If you have specific project participants or community groups in mind, learn what skills they have and what technologies they can use. Learn who else might have a stake in your project and what might get them interested in sharing resources or ideas.  Understand your participants&#8217; time commitment level and assess what training technique would be most appropriate.</li>
+<li>Reach out to your potential stakeholders and project participants using the media and <a href="https://www.changemakers.com/storytelling" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">messages</a> that they’re comfortable with.</li>
+<li>Decide whether you need to &#8220;vet&#8221; volunteers to ensure that they can offer what you need. You may also need to create formal agreements before getting started (examples coming soon).</li>
+<li>Decide whether you need specialized vendors to provide software, sensors or other products that will help make your project a success.</li>
+<li>Find out what resources your users are familiar with. Are there <a href="http://www.teklalabs.org/about/" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">resources you can offer</a> as part of the project?</li>
+</ul>
+</div>
+</section>
+<div class="resources"><a onclick="wpex_toggle(1683878985, 'Resources', 'Read less'); return false;" class="wpex-link" id="wpexlink1683878985" href="#">Resources</a><div class="wpex_div" id="wpex1683878985" style="display: none;"></p>
+<ul>
+<li><a href="https://www.changemakers.com/storytelling" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">A Changemaker’s Guide to Storytelling </a></li>
+<li><a href="http://www.teklalabs.org/about/" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Constructing Affordable Lab Equipment (Tekla Labs)</a></li>
+<li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
+</ul>
+<p></div></p>
+</div>
+<div class="hdivider"></div>
+<section class="wrap-mega-tip clearfix">
+<h3><a name="fits"></a>Know Where Your Project Fits</h3>
+<figure class="mega-tip-image"><img class="alignleft wp-image-14532 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/04/step1-know-fits.jpg" alt="Two men in a wetland looking at a map together." width="200" height="143" /></figure>
+<div class="wrap-mega-tip-content clearfix">
+<p>Once you figure out where your projects fits into the larger picture of citizen science and crowdsourcing projects, that will help you identify <a href="http://www.ecologyandsociety.org/vol17/iss2/art29/ES-2012-4705.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">best practices</a> and answer <a href="http://dx.doi.org/10.1007/s10606-014-9204-3" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">broader questions</a> about what you’re trying to accomplish.</p>
+<ul>
+<li>Plenty of <a href="http://ts-si.org/files/doi101504IJODE2010035191.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">frameworks for citizen science</a> and <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518233" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">crowdsourcing projects</a> are already out there. Carefully review the ones that might apply to your project — they’ll give you the big picture and ensure that you identify and answer important questions.</li>
+<li>Learn the basic terminology used in crowdsourcing and citizen science projects (e.g., community-based monitoring, participatory science etc.). It will help you connect with others doing similar work, make sure you don’t miss relevant resources and share your own lessons later on.</li>
+</ul>
+</div>
+</section>
+<div class="resources"><a onclick="wpex_toggle(830336805, 'Resources', 'Read less'); return false;" class="wpex-link" id="wpexlink830336805" href="#">Resources</a><div class="wpex_div" id="wpex830336805" style="display: none;"></p>
+<ul>
+<li><a href="http://ts-si.org/files/doi101504IJODE2010035191.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Conceptual Model of Virtual Organizations for Citizen Science (Journal Article, 2010)</a></li>
+<li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518233" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Crowdsourcing: A Geographic Approach to Public Engagement (Journal Article, 2014)</a></li>
+<li><a href="http://dx.doi.org/10.1007/s10606-014-9204-3" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Crowdsourcing Framework for the Emergency Management Domain (Journal Article, 2014)</a></li>
+<li><a href="http://www.ecologyandsociety.org/vol17/iss2/art29/ES-2012-4705.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Public Participation in Scientific Research: A Framework for Deliberate Design (Journal Article, 2012; PDF)</a></li>
+</ul>
+<p></div></p>
+</div>
+<div class="hdivider"></div>
+<section class="wrap-mega-tip clearfix">
+<h3><a name="approval"></a>Get Approval from Your Supervisors</h3>
+<figure class="mega-tip-image"><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/07/how-to-1-approval.gif" class="ext-image" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;"><img class="alignleft size-full wp-image-14552" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/04/step1-get-approval.jpg" alt="Man talking to a man and woman in front of a display on a bulletin board." width="200" height="143" /></a></figure>
+<div class="wrap-mega-tip-content clearfix">
+<p>You’ll need to know what questions and concerns your manager and other decision makers might have about your project, and how to address them. Many resources can help you <a href="http://www.businessofgovernment.org/sites/default/files/Using Crowdsourcing In Government.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">explain why crowdsourcing</a> and citizen science projects are important and how they can help your agency meet its goals.</p>
+<ul>
+<li>Look at the resources others have used to get leadership approval and adapt them to the needs of your own project (examples coming soon).</li>
+<li>You’ll need to know what <a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">legal authorities</a> you have for your project and the legal and policy requirements you may need to meet. Having these on hand can also help you collaborate more smoothly with your agency’s legal team.</li>
+</ul>
+</div>
+</section>
+<div class="resources"><a onclick="wpex_toggle(699792081, 'Resources', 'Read less'); return false;" class="wpex-link" id="wpexlink699792081" href="#">Resources</a><div class="wpex_div" id="wpex699792081" style="display: none;"></p>
+<ul>
+<li><a href="http://www.esa.org/esa/wp-content/uploads/2015/09/Issue19.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Investing in Citizen Science Can Improve Natural Resource Management and Environmental Protection (2015)</a></li>
+<li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Legal Issues in Using Citizen Science (Wilson Center, PDF)</a></li>
+<li><a href="http://www.businessofgovernment.org/sites/default/files/Using%20Crowdsourcing%20In%20Government.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#039;_blank&#039;;">Using Crowdsourcing In Government (IBM Center for the Business of Government, PDF)</a></li>
+</ul>
+<p></div></p>
+</div>
+</div>
+
+								
+					
