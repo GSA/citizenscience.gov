@@ -8,8 +8,8 @@ assigned:
         show_in_footer: false
     -
         text: Case Studies
-        href: pages/about.md
-        permalink: /about/
+        href: toolkit/toolkit-case-studies.md
+        permalink: /toolkit/case-study/
         show_in_menu: true
         show_in_footer: false
     -

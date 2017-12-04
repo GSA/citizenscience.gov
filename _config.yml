@@ -112,6 +112,8 @@ collections:
     output: true
   how-to-steps:
     output: true
+  case-study:
+    output: true
 
 
 wds-version: 1.4.2
