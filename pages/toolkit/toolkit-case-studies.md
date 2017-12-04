@@ -1,6 +1,6 @@
 ---
 layout: toolkit-base
-permalink: /toolkit/case-study
+permalink: /toolkit/case-study/
 title: Case Studies
 ---
 
@@ -17,7 +17,7 @@ title: Case Studies
 						{% endif %}
 						<article>
 								<a href="{{ item.url | prepend: site.baseurl }}">
-									<img src="{{ item.image }}">
+									<img src="{{ item.image | prepend: site.baseurl }}">
 								</a>
 								<div class="infos">
 										<h3 class="title">{{ item.title }}</h3>
