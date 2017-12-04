@@ -18,7 +18,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	<div class="project-container">
 	    <article class="card usa-width-one-third">
 	      <a href="{{ page.how-to-link | prepend: site.baseurl }}">
-	      <div class="card-image" style="background-image: url(/assets/img/toolkit-images/how-to-home.gif); min-height: 200px">
+	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/how-to-home.gif); min-height: 200px">
 	      </div>
 	    </a>
 	      <div class="card-banner">
@@ -36,7 +36,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 	    <article class="card usa-width-one-third">
 	      <a href="{{ page.case-study-link | prepend: site.baseurl }}">
-	      <div class="card-image" style="background-image: url(/assets/img/toolkit-images/home-case-studies2.gif); min-height: 200px">
+	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/home-case-studies2.gif); min-height: 200px">
 	      </div>
 	    </a>
 	      <div class="card-banner">
@@ -53,7 +53,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 	    <article class="card usa-width-one-third">
 	      <a href="#">
-	      <div class="card-image" style="background-image: url(/assets/img/toolkit-images/home-resources2.gif); min-height: 200px">
+	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/home-resources2.gif); min-height: 200px">
 	      </div>
 	    </a>
 	      <div class="card-banner">

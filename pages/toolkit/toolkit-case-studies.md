@@ -1,6 +1,6 @@
 ---
 layout: toolkit-base
-permalink: /toolkit/case-study
+permalink: /toolkit/case-study/
 title: Case Studies
 ---
 
