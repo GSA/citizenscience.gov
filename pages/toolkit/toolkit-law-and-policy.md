@@ -1,6 +1,6 @@
 ---
 layout: toolkit-base
-permalink: /toolkit/
+permalink: /toolkit/law-and-policy/
 ---
 
 <h1 class="page-title">Law and Policy</h1>
