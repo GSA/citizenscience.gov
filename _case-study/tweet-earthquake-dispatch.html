@@ -1,0 +1,46 @@
+---
+layout: case-study
+permalink: /toolkit/case-study/tweet-earth-dispatch/
+title: Tweet Earthquake Dispatch: Crowdsourcing Earthquake Detection
+description: 
+image: /assets/img/toolkit-images/home-case-studies2.gif
+url: /case-study/
+---
+
+<h2>Case Study Overview</h2>
+<div id="attachment_7062" style="width: 357px" class="wp-caption alignright"><img class="wp-image-7062" src="./Tweet Earthquake Dispatch _ Federal Crowdsourcing and Citizen Science Toolkit_files/casestudy-ted-main.gif" alt="A diagram of how all the tweets are collected using the Twitter streaming API, merged with other earthquake data in the database, and then used to send a &#39;Tweet Earthquake Dispatch&#39; tweet." width="347" height="271"><p class="wp-caption-text">Diagram showing&nbsp;how tweets are collected using the Twitter streaming API, merged with other earthquake data in the database, and then used to send a <em>TED</em> tweet. Credit: U.S. Geological Survey.</p></div>
+<p>Within seconds of an earthquake, many people report what they felt through social networks such as Twitter. By contrast, scientific alerts can take up to 20 minutes, depending on the size and location of the earthquake.</p>
+<p><em><a href="http://earthquake.usgs.gov/earthquakes/ted/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweet Earthquake Dispatch</a></em> uses social networks to support earthquake response and report information about related hazards. Through the <em>TED</em> system, the U.S. Geological Survey’s <a href="http://earthquake.usgs.gov/contactus/golden/neic.php" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">National Earthquake Information Center</a> analyzes data from social networks to detect earthquakes within seconds of their occurrence. It also uses <em>TED</em> to assess citizen reports of earthquakes alongside corresponding scientific reports and to tailor its own social networking about earthquakes to the corresponding level of public interest.<strong>&nbsp;</strong></p>
+<p><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/09/tweet-earthquake-dispatch.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Download this case study (PDF, 79KB)</a><br>
+Website:<em>&nbsp;<a href="http://earthquake.usgs.gov/earthquakes/ted/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweet Earthquake Dispatch</a></em></p>
+<h2>Project Description</h2>
+<div id="attachment_7052" style="width: 310px" class="wp-caption alignleft"><img class="wp-image-7052 size-medium" src="./Tweet Earthquake Dispatch _ Federal Crowdsourcing and Citizen Science Toolkit_files/casestudy-ted-02-300x246.gif" alt="A snapshot of the tweets that TED system sends out to followers." width="300" height="246"><p class="wp-caption-text">Snapshot of the tweets that the <em>TED</em> system sends out to followers.</p></div>
+<p><em>TED</em> harvests real-time tweets through a continuous connection to Twitter. The system applies a query parameter to reduce the stream to tweets that contain the keyword earthquake in several languages.</p>
+<p>The system also applies other data-cleaning techniques. It merges tweets, ordering them, accounting for duplicates and filling any data gaps. Data from aggregators — users who redistribute secondhand earthquake information — are removed from the dataset.</p>
+<p>For each tweet filtered by keyword, <em>TED</em> archives the creation time and text, the Twitter user location, the Twitter tweet ID, and the time the tweet appeared in the <em>TED</em> database. The system also uses the Yahoo Maps API Geocoding Service to estimate the latitude and longitude of the sender’s location, if provided.</p>
+<p>Around the clock, <em>TED&nbsp;</em>also ingests seismically derived earthquake information from the USGS’s near-real-time internal global earthquake stream. <em>TED</em> archives the earthquake time, region, magnitude and hypocenter (latitude, longitude and depth). It also records the source of the scientifically derived earthquake information.</p>
+<p>For earthquakes that have been verified using seismic instruments, <em>TED</em> subsequently sends out a tweet to followers with basic information about the earthquake.</p>
+<h2>Challenges</h2>
+<div id="attachment_7042" style="width: 310px" class="wp-caption alignright"><img class="wp-image-7042 size-medium" src="./Tweet Earthquake Dispatch _ Federal Crowdsourcing and Citizen Science Toolkit_files/casestudy-ted-01-300x225.gif" alt="A screenshot of the TED operational monitoring display, showing real-time tweets along with line charts, bar charts, and a map with color-coded pins." width="300" height="225" srcset="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/06/casestudy-ted-01-300x225.gif 300w, https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/06/casestudy-ted-01-400x300.gif 400w" sizes="(max-width: 300px) 100vw, 300px"><p class="wp-caption-text">The <em>TED</em> operational monitoring display, showing real-time tweets that contain the keywords that <em>TED</em> uses to determine that&nbsp;an earthquake has occurred somewhere. Credit: U.S. Geological Survey.</p></div>
+<p><em>TED </em>supports the mission of the USGS National Earthquake Information Center by providing rapid information about the occurrence of an earthquake. This information augments but does not replace the instrumental data collected by the USGS.&nbsp;<em>TED</em> provides no quantitative information about earthquake epicenter and magnitude, for example, and the geographic location it gives is not always reliable. Without verified quantitative data, the National Earthquake Information Center can neither issue public alerts nor trigger direct response measures.</p>
+<h2>Benefits and Outcomes</h2>
+<p>The main advantage of mining citizen reports through Twitter is speed.&nbsp; Rapid tweet-based earthquake detection can potentially fill the gap between the time when an earthquake occurs and the time when seismically derived information becomes available.</p>
+<p><em>TED</em> detects two to three&nbsp;earthquakes a day, on average. Especially in regions with few seismometers, <em>TED</em> reports often come in before traditional seismic networks detect an earthquake, giving seismologists early warning. <em>TED</em>&nbsp;sometimes detects earthquakes entirely missed by USGS’s automatic processing system, thereby increasing the number of felt events known to the agency. In addition, the tweet text and attached images sometimes offer a&nbsp;rapid qualitative assessment of an earthquake’s impact.</p>
+<h2>Tips</h2>
+<p>The <em>Tweet Earthquake Dispatch</em>&nbsp;case study illustrates the following step in the Federal Citizen Science and Crowdsourcing Toolkit:</p>
+<ul>
+<li><strong><a href="https://crowdsourcing-toolkit.sites.usa.gov/step-1-scope-out-your-problem" class="local-link">Scope Out Your Problem</a>&nbsp;— Know Where Your Project Fits<br>
+</strong>This project complements <em><a href="http://earthquake.usgs.gov/earthquakes/dyfi/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Did You Feel It?</a>, </em>delivering&nbsp;faster information about an earthquake occurrence and its general area. By contrast, <em>Did You Feel It?</em>&nbsp;produces quantitative maps showing the distribution of shaking.</li>
+</ul>
+<p>&nbsp;</p>
+<a onclick="wpex_toggle(642031356, &#39;Learn more&#39;, &#39;Read less&#39;); return false;" class="wpex-link" id="wpexlink642031356" href="https://crowdsourcing-toolkit.sites.usa.gov/tweet-earthquake-dispatch/#">Learn more</a><div class="wpex_div" id="wpex642031356" style="display: none;"><p></p>
+<ul>
+<li>Website:<em>&nbsp;<a href="http://earthquake.usgs.gov/earthquakes/ted/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweet Earthquake Dispatch</a></em></li>
+</ul>
+<p></p></div>
+<p>&nbsp;</p>
+<h2>Contact Information</h2>
+<p>Paul Earle<br>
+Email:&nbsp;<a href="mailto:pearle@usgs.gov">pearle@usgs.gov</a><br>
+<br></p>
+<p>Last updated:  <span class="last-modified-timestamp">Feb 23, 2016</span></p>
