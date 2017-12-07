@@ -8,3 +8,331 @@ tags: project
 image: /assets/img/toolkit-images/steps/how-to-step2.gif
 link-out: /howto/step2/
 ---
+
+<h2>
+      Step 2 — Design a Project
+    </h2>
+    
+    <p>
+      After you have explored your problem in <a href="https://crowdsourcing-toolkit.sites.usa.gov/step-1-scope-out-your-problem/">Step 1 — Scope Out Your Problem</a>, and found that it&#8217;s a good match for citizen science and/or crowdsourcing approaches, you’re ready to design your project. Design doesn’t have to be an overwhelming process! The suggestions below will help you break down the design of a project into manageable steps. You’ll find <a href="http://scistarter.com/">helpful project databases</a>, case studies and <a href="http://www.scientificamerican.com/citizen-science/">resources</a> to guide you.
+    </p>
+    
+    <p>
+      The following tips will help you get started:
+    </p>
+    
+    <ul>
+      <li>
+        <a href="#know">Know your objectives.</a>
+      </li>
+      <li>
+        <a href="#list">List your resources.</a>
+      </li>
+      <li>
+        <a href="#plan">Plan project management.</a>
+      </li>
+      <li>
+        <a href="#ready">Get ready to go.</a>
+      </li>
+    </ul>
+    
+    <div class="case-studies">
+      [wpex more=&#8221;Case Studies&#8221; less=&#8221;Read less&#8221;]</p> 
+      
+      <ul>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-feel-it/">Did You Feel It?: Crowdsourcing Earthquake Maps</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/citizen-archivist/">Citizen Archivist Dashboard: Crowdsourcing Historical Records</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/north-american-bird-phenology/">The North American Bird Phenology Program: Crowdsourcing Migratory Bird Data</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/cocorahs-precipitation/">CoCoRaHS — Community Collaborative Rain, Hail and Snow Network: Citizen Scientists Track Precipitation</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/find-new-planets/">Disk Detective: Crowdsourcing New Planets</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/mapgive/">MapGive: Crowdsourcing Map Data for Humanitarian Response and Preparedness</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/mping-weather-reports/">mPING: Crowdsourcing Weather Reports</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/air-sensor-toolbox/">The Air Sensor Toolbox: Citizen Scientists Measure Air Quality</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/transcription-center/">The Smithsonian Transcription Center: Crowdsourcing Document Transcription</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/ace-forecasting/">The Aggregative Contingent Estimation Program: Predicting Global Events Through Crowdsourcing</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/smap-globe-soil-moisture/">The SMAP/GLOBE Partnership: Citizen Scientists Measure Soil Moisture</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/fcc-speed-test/">Measuring Broadband America’s FCC Speed Test App for Android and iOS: Crowdsourcing Mobile Broadband Performance</a>
+        </li>
+      </ul>
+      
+      <p>
+        [/wpex]
+      </p>
+    </div>
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="know"></a>Know Your Objectives
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-14452" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/06/step2-know-objectives.jpg" alt="Man writing on a whiteboard." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      To design your project for success, you’ll want to clearly identify objectives and break them into distinct tasks. Advance planning will help you figure out the best workflows later; it will also help you find points where you can validate the information collected by project participants. You&#8217;ll also need to think about how you will share your outcomes to clearly show their connection to your goals.
+    </p>
+    
+    <ul>
+      <li>
+        Add detail to your goals. You know what you want to study, what information you want to collect, or what you want participants to learn. What specific measures will you use? In what format will you ask people to share information?
+      </li>
+      <li>
+        Decide whether these measures and formats will work best in an online or hands-on project. If hands-on, decide whether volunteers will be able to collect data more easily individually or in groups, independently or under supervision, with or without training requirements.
+      </li>
+      <li>
+        Consider possible ways of storing your <a href="http://www.birds.cornell.edu/citscitoolkit/features/new-data-management-guide">data</a>. Who needs to be able to see it&#8211; volunteers, stakeholders, researchers? How long will you need it available?
+      </li>
+      <li>
+        It is often helpful to recruit team members with competencies in public communication, community engagement, visual design, data management, and evaluation. Think about your possible funding sources and why they value these goals, and list ways of reporting your results to show success.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="http://www.scientificamerican.com/citizen-science/">Citizen Science (Scientific American)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/resources">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="http://www.refworks.com/refshare/?site=010271135929600000/RWWS1A308719/REFSHARE%20Resources%3A%20project%20design">Designing a Participatory Project (RefShare)</a>
+      </li>
+      <li>
+        <a href="http://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/citizen-science-guide.pdf">Guide to Citizen Science (UK Environmental Observation Framework, PDF)</a>
+      </li>
+      <li>
+        <a href="http://scistarter.com/">SciStarter: Project Finder for Citizen Scientists</a>
+      </li>
+      <li>
+        <a href="http://www.businessofgovernment.org/sites/default/files/Using%20Crowdsourcing%20In%20Government.pdf">Using Crowdsourcing In Government (IBM Center for the Business of Government, PDF)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="list"></a>List Your Resources
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-11722" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/06/Step2-list-resources.jpg" alt="Three students writing in journals outside." width="200" height="133" /></figure> 
+  
+  <p class="wrap-mega-tip-content clearfix">
+    You’ve described your goals in detail. Now you’ll need to put your team together and find out what your resources and limitations are in terms of funding, staffing, equipment, needs and scope.
+  </p>
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <ul>
+      <li>
+        To establish your team and map its tasks, figure out the responsibilities of your paid staff, volunteer staff, partner organizations, and participants. In addition to the skills and tasks common to more research projects, you&#8217;ll want to fill roles for marketing, recruitment, and communication with participants. Also figure out how many of each you will need and for how long.
+      </li>
+      <li>
+        List everything you will need to complete your project, including equipment, storage, travel and training. Compare your plans to similar projects listed on citizen science and crowdsourcing directories to determine whether you can adopt or adapt protocols from existing or former projects, that represent substantial resource savings and improve data sharing, collaboration opportunities, and technology. Consider what options are most usable by your volunteers.
+      </li>
+      <li>
+        Estimate the costs of travel and materials, including the costs of sharing results with volunteers and in conferences, white papers, published articles and workshops.
+      </li>
+      <li>
+        Check with your internal legal guidance, and figure what you need to do to ensure the safety of project participants and the security of your data.
+      </li>
+      <li>
+        Use the details of your project design to create a realistic budget, including estimates of salaries, indirect and hidden costs, return on investment, and tools and resources you have on hand.
+      </li>
+      <li>
+        Choose <a href="http://foundationcenter.org/">funding strategies</a> suited to your needs. Consider the <a href="https://www.kickstarter.com/">cost and benefit tradeoffs of crowdfunding</a> and of public and private <a href="http://communityfunded.com/">funds</a> or <a href="http://nsf.gov/">grants</a>.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="http://Kickstarter: A Global Crowdfunding Platform">Foundation Directory (Foundation Center)</a>
+      </li>
+      <li>
+        <a href="http://communityfunded.com/">Guide to Online Fundraising Campaigns and Crowdfunding Platforms</a>
+      </li>
+      <li>
+        <a href="https://www.kickstarter.com/">Kickstarter: A Global Crowdfunding Platform</a>
+      </li>
+      <li>
+        <a href="http://nsf.gov/">National Science Foundation Funding and Awards</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="plan"></a>Plan Project Management
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft wp-image-21902" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/08/step2-management-plan.jpg" alt="Administrative worker at his desk looking at monitor." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Let your estimated budget along with the <a href="http://www.birds.cornell.edu/citscitoolkit/conference/toolkitconference">case studies and resources </a> guide the design of your workflows for your project. Many excellent citizen science and crowdsourcing projects have shared their designs and the challenges they faced.
+    </p>
+    
+    <ul>
+      <li>
+        Identify what tasks&#8211; including recruitment, training, data collection, quality assurance, analysis, and application of results&#8211; need to fit into your workflow. How long will each one take? Are there limits (for example, academic calendar or budget year) on when each can take place?
+      </li>
+      <li>
+        Decide on the best way to create and manage your community of project participants and stakeholders.
+      </li>
+      <li>
+        If your project is online, decide whether you can use an existing site or tool as your primary infrastructure. If not, determine whether to build your website with open-source content management systems and/or whether to leverage existing code. You may need to sign a <a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/">terms-of-service agreement</a>.
+      </li>
+      <li>
+        Don&#8217;t forget that participants can help manage the community as well.
+      </li>
+      <li>
+        Create a plan for communicating with your community, including timetables and what tools and media you will use at each stage.
+      </li>
+      <li>
+        Projects that do not regularly engage with their communities often face sustainability problems, as high participant turnover can exhaust project management resources more quickly than anticipated.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/conference/toolkitconference">Citizen Science Central: Toolkit Conference (Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="https://www.usanpn.org/fws/MayflyWatch">Mayfly Watch: U.S. Fish and Wildlife Service Phenology Network</a>
+      </li>
+      <li>
+        <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc">Model Amendment to TOS for Government</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/page.aspx?pid=1677">Program Development and Evaluation (Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/">Negotiated Terms of Service Agreement Templates (DigitalGov)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="ready"></a>Get Ready to Go
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-11732" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/06/step2-get-ready.jpg" alt="A group of U.S. Fish and Wildlife Service firefighters and the production crew of a Discovery Channel show preparing to ride two airboats." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      You’ll need to be ready to work with your project team and with your community of partners and stakeholders. Set everything up so that when the time comes, it&#8217;s easy to bring in participants and share project results.
+    </p>
+    
+    <ul>
+      <li>
+        Establish a community of stakeholders to report progress, elicit feedback and build support.
+      </li>
+      <li>
+        Make it easy to participate in your project. Figure out how you will train people to understand your goals and what they need to do. Consider training by peers, and training for trainers. Pilot test your training. Consider using spotlights, forums/discussion boards, group leaders, badging, and participation procedures with colleagues or friends who are not experts in the topic to work out the kinks before launching the project.
+      </li>
+      <li>
+        Design opportunities for socialization and communication among and with participants. Consider using spotlighting, forums/discussion boards, group leaders, badging and spaces for general discussion and learning. Socialization helps support participant retention.
+      </li>
+      <li>
+        Make final decisions about metrics for your goals.
+      </li>
+      <li>
+        Pick internal and/or external teams who will evaluate your project and analyze the results. Decide whether the evaluation results might become part of a research publication; if so, human subjects review will be needed.
+      </li>
+      <li>
+        Identify when you expect the project to conclude, or under what circumstances you might need to hand it off to another party to continue.
+      </li>
+      <li>
+        Make a plan for publicizing your project results, both the data you collected and your overall outcomes. Have a timeline for writing reports and briefing materials; incorporate ongoing feedback and periodic progress reports to participants, and announcements of research publications with plain-language summaries. Discuss your results.
+      </li>
+      <li>
+        Well in advance of your project&#8217;s end date or pre-determined target date for releasing results, select a well-attended conference or other suitable venue to report and discuss your results.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <ul>
+        <li>
+          <a href="https://www.qld.gov.au/web/community-engagement/guides-factsheets/documents/engaging-queenslanders-methods-and-techniques.pdf" target="_blank">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a>
+        </li>
+        <li>
+          <a href="https://www.herefordshire.gov.uk/media/6312587/12_best_practice_community_engagement_techniques.pdf" target="_blank">Community Engagement Techniques: Best Practice (PDF)</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/external-link/?url=http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank">Community Planning Toolkit: Community Engagement (PDF)</a>
+        </li>
+      </ul>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    </br>
+  </p>
+  
+  <p>
+    Last updated: <span class="last-modified-timestamp">Jun 30, 2015</span>
+  </p>
+</div>

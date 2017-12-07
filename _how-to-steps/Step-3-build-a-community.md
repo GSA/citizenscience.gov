@@ -8,3 +8,359 @@ tags: project
 image: /assets/img/toolkit-images/steps/how-to-step3.gif
 link-out: /howto/step3/
 ---
+
+<h2>
+      Step 3 — Build a Community
+    </h2>
+    
+    <p>
+      Citizen science and crowdsourcing projects rely on a community of participants and professionals. You will need to address the challenge of building and sustaining a trusting relationship with your community, which will include people with many different things to contribute and reasons for participating.
+    </p>
+    
+    <p>
+      Since communities are unique, no single template applies to all. Be sensitive to the particular needs, skills and motivation of the community you’re working with and use appropriate techniques to interact with your partners. Consider organizational limitations of your participants and how they fit in with agency protocols.  Here, we provide you tools to aid you in understanding your potential partners and choosing the best ways to make sure everyone gets what they need from the project.
+    </p>
+    
+    <p>
+      The following tips will help you get started:
+    </p>
+    
+    <ul>
+      <li>
+        <a href="#know">Know your community partners.</a>
+      </li>
+      <li>
+        <a href="#engage">Engage your community.</a>
+      </li>
+      <li>
+        <a href="#nurture">Nurture your community.</a>
+      </li>
+      <li>
+        <a href="#sensitive">Be sensitive to socio-cultural issues.</a>
+      </li>
+    </ul>
+    
+    <div class="case-studies">
+      [wpex more=&#8221;Case Studies&#8221; less=&#8221;Read less&#8221;]</p> 
+      
+      <ul>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/mapgive/">MapGive: Crowdsourcing Map Data for Humanitarian Response and Preparedness</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/mping-weather-reports/">mPING: Crowdsourcing Weather Reports</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-see-it-crowdsourcing-landslide-information/">Did You See It?: Crowdsourcing Landslide Information</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/project-budburst/">Project BudBurst: Citizen Scientists Track Seasonal Plant Changes</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/cocorahs-precipitation/">CoCoRaHS — Community Collaborative Rain, Hail and Snow Network: Citizen Scientists Track Precipitation</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/find-new-planets/">Disk Detective: Crowdsourcing New Planets</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/eterna/">EteRNA: Crowdsourcing New RNA Designs</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/ebird-bird-data/">eBird: Crowdsourcing Bird Data</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/cyclone-center/">Cyclone Center: Crowdsourcing Hurricane Intensity Estimates</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/natures-notebook/">Nature’s Notebook: Citizen Scientists Track Seasonal Change</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/eyewire-brain-mapping/">EyeWire: Crowdsourcing Brain Mapping</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/enhanced-passive-surveillance-system/">The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/soil-moisture/">The SMAP/GLOBE Partnership: Citizen Scientists Measure Soil Moisture</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/ace-forecasting/">The Aggregative Contingent Estimation Program: Predicting Global Events Through Crowdsourcing</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/the-national-map-corps/">The National Map Corps: Crowdsourcing Map Data</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/north-american-bird-phenology/">The North American Bird Phenology Program: Crowdsourcing Migratory Bird Data</a>
+        </li>
+      </ul>
+      
+      <p>
+        [/wpex]
+      </p>
+    </div>
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="know"></a>Know Your Community Partners
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-27212" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/09/step-3-know-your-community-partners.jpg" alt="Two men and a woman standing next to a stream talking." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Some communities are well-defined and have many things in common, even if their interest in your project focuses on a specific issue, question or concern. Others may be a disconnected group of people who share a common interest, concern or hobby. Find out what motivates your partner community and why people might want to get involved in your project.
+    </p>
+    
+    <ul>
+      <li>
+        Find out who makes up your prospective partner community. Having a good grasp of what types of people you’ll be working with—including things like age range, education, expertise, and access to resources&#8211;will help you better engage. Examples of partner communities include <a href="http://www.rockethub.com/42228">NASA retirees</a>, <a href="http://www.schoolofants.org/">school children</a> and <a href="http://www.patientslikeme.com/">healthcare advocates</a>.
+      </li>
+      <li>
+        If you can, build upon an existing, motivated community group. People are always interested in what is happening in their own backyard. You can find examples in <a href="http://youtu.be/Uevr3vjWDt8">Newark, N.J.</a>; <a href="http://www.youtube.com/watch?v=DZKxn1nioNA">Tonawanda, N.Y.</a>; and <a href="http://youtu.be/9LXw2bMnBKQ">the South Bronx, N.Y.</a>
+      </li>
+      <li>
+        Talk with your prospective partners and learn what motivates them. Possibilities include political issues, hobbies, scientific curiosity, health-related concerns and more. Don’t go in with assumptions—you may be surprised to find out why people are getting involved.
+      </li>
+      <li>
+        Carefully examine assumptions about partners. For example, tribal communities, students, or self-selected volunteers may have very different worldviews, needs, interests, motivations, and terms of engagement. Working with many groups in a single project would likely require a distinct engagement strategy for each participant community.
+      </li>
+      <li>
+        Ask your volunteers what motivates them. A <a href="http://portico.org/Portico/#!journalAUSimpleView/tab=PDF?cs=ISSN_15391515?ct=E-Journal%20Content?auId=ark:/27927/pgg3ztfcv7h">survey of thousands</a> involved in a <a href="http://www.galaxyzoo.org/">crowdsourcing project</a> found that more people were motivated by contributing to science than anything else.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="https://www.rockethub.com/42228">ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</a>
+      </li>
+      <li>
+        <a href="http://www.patientslikeme.com/">Patients Like Me: A Healthcare Advocacy Project</a>
+      </li>
+      <li>
+        <a href="http://www.schoolofants.org/">School of Ants: Project for School Children</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="engage"></a>Engage Your Community
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-27222" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/09/step-1-engage-community.jpg" alt="A group of people standing around a table with many sticky notes they've written on and attached to the table." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Citizen science and crowdsourcing projects rely on participation by a community of volunteers. You will need to reach out and engage these participants. Look for the methods and strategies best suited to engage your community and your project.
+    </p>
+    
+    <ul>
+      <li>
+        Find the best platforms for reaching your community. For example, some online groups share information about specific diseases, while in-person groups may deal with local issues such as air pollution or environmental justice. Your participants may be most comfortable<a href="https://www.zooniverse.org/"> entering responses online</a>, <a href="https://eyewire.org/signup">playing a game</a>, or participating in person in distributed research. Find illustrative project examples in the Resources section below.
+      </li>
+      <li>
+        Empower the community you’re working with by letting members know how they can engage with your agency. Design your training to build scientific understanding and skills throughout your community so that everyone can fully participate in your project.
+      </li>
+      <li>
+        Work with facilitators who can act as liaisons to the community. Make sure trainers who aren’t from the community understand the people they’ll be working with, and that trainers and liaisons speak the community’s primary language(s) when possible.
+      </li>
+      <li>
+        Consider using: <ul>
+          <li>
+            the best venues to share information with your community, which may include advertising, online sites, briefings, education and awareness programs, fact sheets, newsletters, media stories, news conferences, telephone hotlines, displays, newspaper inserts, community fairs or events, community meetings, shop fronts and informal club forums;
+          </li>
+          <li>
+            consulting techniques such as online or in-person discussion groups and workshops, one-on-one interviews, open days, polls, road shows, and survey research; and
+          </li>
+          <li>
+            active participation techniques such as action research, advisory committees, citizens’ juries, community reference groups, retreats, drama workshops, learning circles, design workshops, focus groups, participatory editing, precinct committees, partnerships for active participation, policy action teams, citizens’ panels, deliberative polling, summits, collective learning techniques (also known as World Cafes), community visioning and community cultural development.
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="http://www.ifcae.org/projects/ncssf3/guidelines.htm">Broadening Participation in Biological Monitoring: Guidelines for Scientists and Managers</a>
+      </li>
+      <li>
+        <a href="http://www.activehealthycommunities.com.au/content/community-engagement-methods-manual">Community Engagement Methods Manual (Active Healthy Communities)</a>
+      </li>
+      <li>
+        <a href="https://www.herefordshire.gov.uk/media/6312587/12_best_practice_community_engagement_techniques.pdf">Community Engagement Techniques: B</a><a href="https://www.herefordshire.gov.uk/media/6312587/12_best_practice_community_engagement_techniques.pdf">est Practice (PDF)</a>
+      </li>
+      <li>
+        <a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf">Community Planning Toolkit: Community Engagement (PDF)</a>
+      </li>
+      <li>
+        <a href="http://EyeWire: A Game to Map the Brain">EyeWire: A Game to Map the Brain</a>
+      </li>
+      <li>
+        <a href="http://www.galaxyzoo.org/">Galaxy Zoo: A Crowdsourced Astronomy Project</a>
+      </li>
+      <li>
+        <a href="https://www.qld.gov.au/web/community-engagement/guides-factsheets/documents/engaging-queenslanders-methods-and-techniques.pdf">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a>
+      </li>
+      <li>
+        <a href="http://nationalzoo.si.edu/scbi/migratorybirds/research/neighborhood_nestwatch/">Neighborhood Nestwatch (Smithsonian Migratory Bird Center)</a>
+      </li>
+      <li>
+        <a href="http://scistarter.com/">SciStarter: Project Finder for Citizen Scientists</a>
+      </li>
+      <li>
+        <a href="http://www.citizenscience.org/promisingpractices">Promising Practices for Increasing Equity, Diversity, and Inclusion</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="nurture"></a>Nurture Your Community
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13212" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/08/step3-nurture-your-community.jpg" alt="A man standing next to a rock outcropping explaining the geology to a group of kids." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Your work is not done when your community is built. Continue to engage your volunteers to keep them actively connected to your project. Use techniques specifically tailored to your community to sustain participation.
+    </p>
+    
+    <ul>
+      <li>
+        For <a href="http://www.reimaginingservice.org/sites/default/files/Reimagining%20Service%20Summary%20Report%20Jan%202015.pdf">effective volunteer engagement</a>, keep connections two-way and active. Following the <a href="http://www.atsdr.cdc.gov/communityengagement/pdf/PCE_Report_508_FINAL.pdf">principles of community engagement</a>, involve project participants in your planning discussions and reports of results, making sure they know they can speak up and interact. Make sure they know how their contributions to your project make a difference. When appropriate, providing project decision-making and governance opportunities to participants demonstrates respect for their contributions and garners trust.
+      </li>
+      <li>
+        If your community uses <a href="http://www.esajournals.org/doi/pdf/10.1890/110294">emerging technologies</a>, use them to interact. As technology changes how people communicate, you might need to reach your project participants using new platforms. Make sure that your digital services meet <a href="https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/">federal requirements</a>.
+      </li>
+      <li>
+        Evaluate how effectively your project connects to your partner communities and change your approach as needed. Consider how many project participants stay or leave, why they do so, and what they are getting out of your project.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/">Checklist of Requirements for Federal Websites and Digital Services (Digital Gov)</a>
+      </li>
+      <li>
+        <a href="http://www.niehs.nih.gov/research/supported/dert/programs/peph/metrics/index.cfm">Evaluation Metrics: Web-based Training and Metrics Manual (National Institute of Environmental Health Sciences)</a>
+      </li>
+      <li>
+        <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2431717">From Problem Solvers to Solution Seekers: The Permeation of Knowledge Boundaries at NASA (Journal Article, 2015)</a>
+      </li>
+      <li>
+        <a href="http://www.esajournals.org/doi/pdf/10.1890/110294">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (Journal Article, 2012)</a>
+      </li>
+      <li>
+        <a href="http://www.atsdr.cdc.gov/communityengagement/pdf/PCE_Report_508_FINAL.pdf">Principles of Community Engagement (PDF)</a>
+      </li>
+      <li>
+        <a href="http://www.reimaginingservice.org/sites/default/files/Reimagining%20Service%20Summary%20Report%20Jan%202015.pdf">Reimagining Service: Core Principles (PDF)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation">User’s Guide for Evaluating Learning Outcomes from Citizen Science (Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="http://www.aaas.org/abstract/impact-task-design-citizen-science-results">Task Workflow Analysis of Citizen Science Projects</a>
+      </li>
+      <li>
+        <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090375">What Drives Online Citizen Science Participation?</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="sensitive"></a>Be Sensitive to Socio-cultural Issues
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13222" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/08/step3-sensitive-to-socio-cultural.jpg" alt="A group of men in native attire in a native boat on the water." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Try to engage a broad range of partners and participants from different backgrounds—the more diverse your input, the less likely you are to miss something important in your design or your data. Be sensitive to the social and cultural beliefs, concerns, and practices of your partner community.
+    </p>
+    
+    <p>
+      Areas to think about include:
+    </p>
+    
+    <ul>
+      <li>
+        <strong>Sanctity of place.</strong>Consider cultural and religious attitudes about particular locations, such as sacred sites. Be aware of restrictions on who can visit some places, requirements for how to behave, and the need to ensure historical, cultural, and environmental preservation.
+      </li>
+      <li>
+        <strong>Gender and age.</strong> In certain communities, some people may be restricted from participating in certain activities or in certain places; for example, leadership roles in citizen science projects may be restricted to men or to those of a certain age. Interactions with certain age groups may require special cultural sensitivity; for example, it is considered extremely rude to interrupt an elder from many communities.
+      </li>
+      <li>
+        <strong>Ethnicity and race</strong><strong>.</strong> If you are working with particular ethnic or racial groups, you may benefit from including individuals from those groups on your team. It can make your project more welcoming, and your team can gain skills and unique insights needed for success.
+      </li>
+      <li>
+        <strong>Language.</strong> Provide your project participants with information, tools and instruction in their native language(s). You may need local facilitators or members of the community to translate information.
+      </li>
+      <li>
+        <strong>Literacy.</strong> Your community partners might have a range of literacy skills. If needed, provide materials in several formats (such as visual representations and audio instructions) so that those with low literacy can access and discuss the same information you’ve made available in writing.
+      </li>
+      <li>
+        <strong>Educational level and scientific knowledge.</strong> Learn how much education your participants have and what they know about your project topic. Those with more scientific training may contribute needed skills and knowledge; they may even serve as full partners with academic researchers. Those with less may need additional training—but may also contribute new understanding of the community or project site, or ask questions that highlight gaps in your research planning.
+      </li>
+      <li>
+        <strong>Income and employment levels.</strong> Some participants may have limited time to devote to your project, or require funding to help them cover the cost of transportation, child care, materials or meals.
+      </li>
+      <li>
+        <strong>Focus on listening.</strong> Get to know your project participants, the culture of their community, and the best ways to communicate with them. Avoid assumptions, listen carefully, respect different ways of contributing to a project and be open to local needs and preferences.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]</p> 
+    
+    <ul>
+      <li>
+        <a href="https://www.ucl.ac.uk/excites">Extreme Citizen Science: ExCiteS</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    </br>
+  </p>
+  
+  <p>
+    Last updated: <span class="last-modified-timestamp">Jun 30, 2015</span>
+  </p>
+</div>

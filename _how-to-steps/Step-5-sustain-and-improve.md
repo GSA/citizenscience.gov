@@ -1,0 +1,555 @@
+---
+layout: how-to-steps
+title: Sustain and Improve
+short_title: Step 5 | Sustain and Improve
+description: 
+permalink: /howto/step5/
+tags: project
+image: /assets/img/toolkit-images/steps/how-to-step5.gif
+link-out: /howto/step5/
+---
+
+<h2>
+      Step 5 — Sustain and Improve Your Project
+    </h2>
+    
+    <p>
+      Successful citizen science projects require sustained participation and funding, as well as sound methods of evaluating progress toward goals. At each stage of your project you’ll need to plan for all the later stages, including documenting and preserving records and data for future use.
+    </p>
+    
+    <p>
+      The previous “How To” steps (Step 1 <a href="https://crowdsourcing-toolkit.sites.usa.gov/step-1-scope-out-your-problem/">Scope Out Your Problem</a>; Step 2 — <a href="https://crowdsourcing-toolkit.sites.usa.gov/step-2-design-a-project//">Design a Project</a>; Step 3 — <a href="https://crowdsourcing-toolkit.sites.usa.gov/step-3-build-a-community/">Build a Community</a>; and Step 4 — <a href="https://crowdsourcing-toolkit.sites.usa.gov/step-4-manage-your-data/">Manage Your Data</a>) cover stages of your project. Here, we give you additional tips for sustaining and improving your project over time.
+    </p>
+    
+    <p>
+      The following tips will help you get started:
+    </p>
+    
+    <ul>
+      <li>
+        <a href="#adapt">Adapt to cycles of participation.</a>
+      </li>
+      <li>
+        <a href="#communicate">Communicate effectively.</a>
+      </li>
+      <li>
+        <a href="#feedback">Solicit feedback from your participants.</a>
+      </li>
+      <li>
+        <a href="#funding">Sustain your project funding.</a>
+      </li>
+      <li>
+        <a href="#quality">Evaluate the quality of your data.</a>
+      </li>
+      <li>
+        <a href="#engagement">Evaluate your participants&#8217; engagement.</a>
+      </li>
+      <li>
+        <a href="#flexibility">Build flexibility into your project.</a>
+      </li>
+      <li>
+        <a href="#end">Know how to end your project.</a>
+      </li>
+    </ul>
+    
+    <div class="case-studies">
+      [wpex more=&#8221;Case Studies&#8221; less=&#8221;Read less&#8221;]</p> 
+      
+      <ul>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/enhanced-passive-surveillance-system/">The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/eterna/">EteRNA: Crowdsourcing New RNA Designs</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/transcription-center/">The Smithsonian Transcription Center: Crowdsourcing Document Transcription</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/satellite-clouds/">The GLOBE/S’COOL Partnership: Citizen Scientists Validate Satellite Data</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/monitor-monarchs/">The Monarch Larva Monitoring Project: Citizen Scientists Monitor Monarch Butterflies</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/cocorahs-precipitation/">CoCoRaHS — Community Collaborative Rain, Hail and Snow Network: Citizen Scientists Track Precipitation</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/eyewire-brain-mapping/">EyeWire: Crowdsourcing Brain Mapping</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/ebird-bird-data/">eBird: Crowdsourcing Bird Data</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-feel-it/">Did You Feel It?: Crowdsourcing Earthquake Maps</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/find-new-planets/">Disk Detective: Crowdsourcing New Planets</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/citizen-archivist/">Citizen Archivist Dashboard: Improving Access to Historical Records Through Crowdsourcing</a>
+        </li>
+        <li>
+          <a href="https://crowdsourcing-toolkit.sites.usa.gov/did-you-see-it-landslide/">Did You See It?: Crowdsourcing Landslide Information</a>
+        </li>
+      </ul>
+      
+      <p>
+        [/wpex]
+      </p>
+    </div>
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="adapt"></a>Adapt to Cycles of Participation
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft wp-image-21392" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/08/step5-adapt-cycles.jpg" alt="One man teaching another how to use a chainsaw to thin trees. They stand in front of a tree stump." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Project participation levels can change over time or vary from person to person. Some people participate just once; others volunteer sporadically; still others are long-term participants. Then there are the “SuperUsers” — the small number who do a lot of the work. Do what you can to motivate volunteers to keep coming back, but recognize that “life happens” and sometimes people discontinue participation for unavoidable reasons.
+    </p>
+    
+    <ul>
+      <li>
+        Remember that people’s <a href="http://hcil2.cs.umd.edu/trs/2011-28/2011-28.pdf">motivations change</a>, as do their life situations. To keep participants motivated, pay attention to their needs, tap into their personal interests and stay on top of any shifts in what they want from your project.
+      </li>
+      <li>
+        Analyze user data to improve project participation. Don’t be discouraged if <a href="http://arstechnica.com/science/2015/01/most-participants-in-citizen-science-projects-give-up-almost-immediately/">most contributors participate only once</a>; instead, try to understand why so you can adapt management strategies, participation procedures, and analytical tactics.
+      </li>
+      <li>
+        Reward your volunteers by giving them certificates, prizes and other recognition to encourage them to keep coming back. Make sure to acknowledge their work; if possible and appropriate, attribute the work to them personally. Be aware that some participants may also prefer to contribute without recognition.
+      </li>
+      <li>
+        If it’s suited to your goals, turn your project into something <a href="http://citizencyberlab.eu/research/gamification/">fun and engaging</a> by <a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf">making it a game</a>! Examples include <a href="https://eyewire.org/signup">EyeWire</a>, <a href="https://fold.it/portal/">Fold-It</a> and <a href="http://www.oldweather.org/">Old-Weather</a>. Recognize users who do well in the game by awarding badges, using visible leaderboards and giving other creative rewards — but also remember that good games must make the task fun even when success is a struggle. Be careful to avoid incentivizing “gaming the system” in an unproductive fashion, and be aware that some participants may be turned off by competition and game elements. The key lies in identifying what works best for your particular community, and being willing to adapt to meet their needs.
+      </li>
+      <li>
+        Let your volunteers know how their work is making a difference. For example, <a href="http://blog.galaxyzoo.org/2015/03/02/first-radio-galaxy-zoo-paper-has-been-submitted/">Galaxy Zoo</a> collectively acknowledged its volunteers in a scientific paper. By validating the work of your volunteers, you encourage them to keep coming back.
+      </li>
+      <li>
+        Evaluate whether they may be able to contribute in a special role, such as reviewing others’ data submissions or moderating online discussions.Consider special recognition for SuperUsers, and find out what motivates them so you can recruit more.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://hcil2.cs.umd.edu/trs/2011-28/2011-28.pdf">Dynamic Changes in Motivation in Collaborative Citizen-Science Projects (Journal Article, 2012)</a>
+      </li>
+      <li>
+        <a href="https://eyewire.org/signup">EyeWire: A Game to Map the Brain</a>
+      </li>
+      <li>
+        <a href="https://fold.it/portal/">FoldIt: A Game to Solve Puzzles for Science</a>
+      </li>
+      <li>
+        <a href="http://blog.galaxyzoo.org/2015/03/02/first-radio-galaxy-zoo-paper-has-been-submitted/">Galaxy Zoo: A Zooniverse Project </a><a href="http://blog.galaxyzoo.org/2015/03/02/first-radio-galaxy-zoo-paper-has-been-submitted/">Blog</a>
+      </li>
+      <li>
+        <a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf">Gaming for (Citizen) Science (Journal Article, 2011, PDF)</a>
+      </li>
+      <li>
+        <a href="http://arstechnica.com/science/2015/01/most-participants-in-citizen-science-projects-give-up-almost-immediately/">Most Participants in Citizen Science Give Up (ARS Technica)</a>
+      </li>
+      <li>
+        <a href="http://www.oldweather.org/">Old Weather: Transcribing Ship Logs for Climate Modeling</a>
+      </li>
+      <li>
+        <a href="http://citizencyberlab.eu/research/gamification/">What Is Gamification? (Citizen Cyberlab)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="communicate"></a>Communicate Effectively
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13322" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-communicate-effectively.jpg" alt="An instructor teaching a class of adults." width="200" height="152" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Clear and consistent communication is the most crucial component of a successful project from beginning to end. To avoid misunderstandings, use a “pre-nup” agreement to clarify roles and responsibilities. Give your participants news about your project and chances to respond, and keep data accessible rather than locked away.
+    </p>
+    
+    <ul>
+      <li>
+        Draft and sign a <a href="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Collaborative+Agreement+Template">collaborative agreement</a> outlining tasks, roles and responsibilities, including who has access to what data. Regularly review and update the document, particularly when new people join the team.
+      </li>
+      <li>
+        Hold regular meetings so everyone can understand how the project is progressing, talk about new developments and raise any concerns.
+      </li>
+      <li>
+        Watch for any conflict (such as over how to interpret data) and <a href="http://ombudsman.nih.gov/tools.html">be prepared to handle it</a>.
+      </li>
+      <li>
+        Use a common website, hub, tool or software to keep your project information and data up to date and accessible. Store data in shared spaces that are easy to find (such as the cloud). You may need to sign a <a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/">terms-of-service agreement</a>.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/">Collaborative Agreement Template </a><a href="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Collaborative+Agreement+Template">(NIH Collaboration and Team Science Field Guide)</a>
+      </li>
+      <li>
+        <a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/">Negotiated Terms of Service Agreement Templates (DigitalGov</a>)
+      </li>
+      <li>
+        <a href="http://ombudsman.nih.gov/tools.html">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="feedback"></a>Solicit Feedback From Your Participants
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-12032" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-solicit-feedback.jpg" alt="In a collaboration space with projectors and whiteboards, a group of employees listen to a speaker’s speech." width="200" height="116" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Participant feedback can help you evaluate your project and make needed changes. Your funding source might also  require you to collect participant feedback.
+    </p>
+    
+    <ul>
+      <li>
+        Collect feedback using tools that allow free text comments, such as collaboration-based websites or forums. If your project uses an app, make sure it lets you collect feedback from your participants, both for resolving technical issues and providing other input.
+      </li>
+      <li>
+        Use <a href="http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey">surveys</a> to encourage your participants to provide feedback. Find tools that make the results more quantifiable, and that that yield consistent results over time. Make sure to evaluate whether to secure human subjects approval based on your intended use of survey results.
+      </li>
+      <li>
+        Incorporate useful feedback into your project and let your participants know why you are making those changes.
+      </li>
+      <li>
+        Keep participant feedback throughout the life of your project and use it in overall project evaluation.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey">5 Tips for Writing a Great Survey</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="funding"></a>Sustain Your Project Funding
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13332" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-sustain-funding.jpg" alt="Bald eagle flying along the Snake River, Idaho." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      At different stages of your project, you might need different sources of funding, depending upon your project’s maturity, your partners and other factors. Sustainable funding will depend on your project design, your success in recruiting participants and achieving your goals, and your ability to learn from experience and improve your planning and budgeting.
+    </p>
+    
+    <ul>
+      <li>
+        Always think ahead about how to fund the next phase of your project. Keep your project aligned with your organization’s mission and with the goals of your citizen science community.
+      </li>
+      <li>
+        Review existing case studies of citizen science and crowdsourcing projects for lessons about hidden or expanding costs. Keep careful account of your expenditures. As phases of your project end, review your budget estimates and adjust as needed.
+      </li>
+      <li>
+        Use a variety of sources for funding, including your organization’s budget, government grants (local, regional or federal), university/private/public partnerships, foundation grants, crowdfunding, and fundraising or donations. Consider breaking out parts of your project for funding in different ways.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://www.experiment.com" target="_blank">Experiment.com</a>
+      </li>
+      <li>
+        <a href="http://foundationcenter.org/" target="_blank">Foundation Directory (Foundation Center)</a>
+      </li>
+      <li>
+        <a href="http://communityfunded.com/" target="_blank">Guide to Online Fundraising Campaigns and Crowdfunding Platforms</a>
+      </li>
+      <li>
+        <a href="https://www.kickstarter.com/" target="_blank">Kickstarter: A Global Crowdfunding Platform</a>
+      </li>
+      <li>
+        <a href="http://nsf.gov/" target="_blank">National Science Foundation Funding and Awards</a>
+      </li>
+      <li>
+        <a href="http://communityfunded.com/" target="_blank">Guide to Online Fundraising Campaigns and Crowdfunding Platforms</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="quality"></a>Evaluate the Quality of Your Data
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-eval-quality-data.jpg" alt="Four U.S. Fish and Wildlife Service biologists reviewing data around a table." width="200" height="133" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      How do you know if your project is accomplishing its goals? You can use project evaluation and metrics to continually monitor the quality of your data and outcomes.
+    </p>
+    
+    <ul>
+      <li>
+        <a href="https://www.teamsciencetoolkit.cancer.gov/Public/Home.aspx">Evaluate your project early</a> to make sure you&#8217;re on track to achieve your goals. Make project evaluation a routine part of your project.
+      </li>
+      <li>
+        Measure your project’s outputs or activities, such as the amount of data or number of samples collected and the number of training sessions held or Web visits recorded. Keep records of changes to your methods of monitoring project health and productivity.
+      </li>
+      <li>
+        Use metrics to detect problems with the quality of your data. Your metrics should be specific, measurable, attainable, relevant and time-bound.
+      </li>
+      <li>
+        Quantify and account for systematic bias in your data.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="https://www.teamsciencetoolkit.cancer.gov/Public/Home.aspx">Team Science Toolkit (National Cancer Institute</a>)
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="engagement"></a>Evaluate Your Participants&#8217; Engagement
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13352" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-eval-participants-engagement.jpg" alt="A group of Bureau of Land Management volunteers after receiving awards for their outstanding service." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Citizen science and crowdsourcing projects often have multiple goals and stakeholders. Some projects are designed to teach participants new knowledge and skills, or change how they act. In designing your evaluation strategy, take both data quality and participant engagement into account.
+    </p>
+    
+    <ul>
+      <li>
+        Carefully <a href="http://www.CitizenScience.org/evaluation/instruments" target="_blank">choose the right instrument</a> for evaluation, taking into account your project goals and all the people and organizations who have a stake in your project.
+      </li>
+      <li>
+        Evaluate the motivation levels of your volunteers and take steps to keep them well-motivated.
+      </li>
+      <li>
+        <a href="http://www.CitizenScience.org/evaluation/">Measure how your participants change</a> over time — in their motivation, their level of interest in science and the environment, their self-confidence in participating in citizen science, their knowledge of the nature of science, their skills in scientific inquiry and their stewardship of natural resources. Choose the right instrument. Keep in mind that self-selected volunteers are less likely to show attitudinal changes than other groups, and learning may take many forms. for these measurements.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="http://www.oesd.noaa.gov/leadership/DEP_Manual_2ndEdt_Final.pdf">Guide to Designing Education Projects (NOAA, PDF)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation">User’s Guide for Evaluating Learning Outcomes from Citizen Science (Cornell Lab of Ornithology</a>)
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="flexibility"></a>Build Flexibility Into Your Project
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft size-full wp-image-13362" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/07/step5-build-flexibility.jpg" alt="Woman floating in an inner tube on the surface of Upper Klawasi mud volcano in order to collect a sample." width="200" height="140" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      Keep your eye fixed on your endpoint, but be flexible — your needs might change, or early results might show that you aren’t hitting your goals. As part of your ongoing project assessment, be prepared to adjust your project design, then reassess and readjust it in an <a href="http://epf.eclipse.org/wikis/openup/core.mgmt.common.extend_supp/guidances/concepts/iteration_C20B1904.html">iterative</a> process.
+    </p>
+    
+    <ul>
+      <li>
+        Consider using <a href="http://www.doi.gov/ppa/upload/Chapter1.pdf">adaptive management</a> As your project goes forward, conditions could change and you might face unforeseen obstacles. You can then adjust your processes to better meet your goals.
+      </li>
+      <li>
+        Look into <a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf">iterative project management</a>. Each time you make adjustments, look at your project as something new, to be reassessed and readjusted in a process of <a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf">iterative development</a>. Document project changes, particularly if they affect participation or data interpretation.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://epf.eclipse.org/wikis/openup/core.mgmt.common.extend_supp/guidances/concepts/iteration_C20B1904.html">Concept: Iteration (EPF)</a>
+      </li>
+      <li>
+        <a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf">Getting Started With Iterative Project Management (Managing Iterative Soft</a><a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf">ware Development Projects, PDF)</a>
+      </li>
+      <li>
+        <a href="http://www.doi.gov/ppa/upload/Chapter1.pdf">What Is Adaptive Management? (U.S. Department of the Interior)</a>
+      </li>
+      <li>
+        <a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf">What Is Iterative Development? (Journal Article, 2005, PDF)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div class="hdivider">
+  </div><section class="wrap-mega-tip clearfix"> 
+  
+  <h3>
+    <a name="end"></a>Know How to End Your Project
+  </h3><figure class="mega-tip-image">
+  
+  <img class="alignleft wp-image-21382" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/08/step5-know-end.jpg" alt="A group of Boy Scouts at a work day on a refuge." width="200" height="150" /></figure> 
+  
+  <div class="wrap-mega-tip-content clearfix">
+    <p>
+      When should your project end, in whole or in part? What do you do with the data you have gathered? The answers may lie in who funded you, who the participants are or what you are studying. After your project ends, a smooth transition will preserve what you&#8217;ve learned and protect the good reputation of your project’s brand.
+    </p>
+    
+    <ul>
+      <li>
+        Make sure your volunteers understand why and when your project is ending. From the very beginning, give them a sense of the project timeline, with updates at regular intervals or milestones to remind them of project status. Good communication is key!
+      </li>
+      <li>
+        Help your volunteers find other projects that might interest them.
+      </li>
+      <li>
+        Keep your data safe and secure. If you do not share all data throughout the project, you can share data without contacting each person individually by uploading to a hub that all participants have access to, and sending a bulk notification.
+      </li>
+      <li>
+        If necessary, get permission to continue using your data in the future. If the data includes personally identifiable information, find a way for those who contributed the data to share it with analysts.
+      </li>
+      <li>
+        At the completion of the project, create a persistent public-facing presentation of the results rather than leaving a no-longer active project website to look abandoned.
+      </li>
+    </ul>
+  </div></section> 
+  
+  <div class="resources">
+    <p>
+      [wpex more=&#8221;Resources&#8221; less=&#8221;Read less&#8221;]
+    </p>
+    
+    <ul>
+      <li>
+        <a href="http://www.niehs.nih.gov/research/supported/dert/programs/peph/metrics/index.cfm">Evaluation Metrics: Web-based Training and Metrics Manual (National Institute of Environmental Health Sciences)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation">User’s Guide for Evaluating Learning Outcomes from Citizen Science (Cornell Lab of Ornithology)</a>
+      </li>
+      <li>
+        <a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a>
+      </li>
+    </ul>
+    
+    <p>
+      [/wpex]
+    </p>
+  </div>
+  
+  <p>
+    </br>
+  </p>
+  
+  <p>
+    Last updated: <span class="last-modified-timestamp">Jul 1, 2015</span>
+  </p>
+</div>
