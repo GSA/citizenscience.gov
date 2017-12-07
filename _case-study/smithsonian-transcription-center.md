@@ -1,0 +1,57 @@
+---
+layout: case-study
+permalink: /toolkit/case-study/
+title: The Smithsonican Transcription Center: Crowdsourcing Document Transcription
+description: 
+image: /assets/img/toolkit-images/home-case-studies2.gif
+url: /case-study/
+---
+
+
+<h2>Case Study Overview</h2>
+<div id="attachment_14902" style="width: 410px" class="wp-caption alignright"><img class="wp-image-14902 size-full" src="./Smithsonian Transcription Center _ Federal Crowdsourcing and Citizen Science Toolkit_files/case-study-smithsonian-main.gif" alt="Screenshot of the Smithsonian Transcription Center home page." width="400" height="192"><p class="wp-caption-text">Screenshot of the <em>Smithsonian Transcription Center</em> home page.</p></div>
+<p>The <a href="http://www.si.edu/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Smithsonian Institution</a> has 138 million objects and specimens as well as 2 million library volumes. Altogether, the Smithsonian has over 157,000 cubic feet of archival material in its various collections. Less than 1&nbsp;percent are on display in its 19 museums, libraries, galleries, archives and research centers. What might we learn if we could search&nbsp;the thoughts of artists, scientists, inventors, explorers and revolutionaries as expressed in the documents and specimens of the Smithsonian’s collections? Now, through digitization and transcription, ordinary citizens can help bring their insights to light!</p>
+<p>In June 2013, several&nbsp;Smithsonian Institution offices joined together&nbsp;to open&nbsp;the <em><a href="https://transcription.si.edu/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Smithsonian Transcription Center</a></em>. By visiting the website, volunteers are helping the center review and transcribe diaries, field notes, specimen labels, logbooks and more. The <em>Smithsonian Transcription Center</em>&nbsp;gets volunteers from across the United States and around the world.</p>
+<p><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/672/2015/09/smithsonian-transcription-center.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Download this case study (PDF, 69KB)</a><br>
+Website:<em>&nbsp;<a href="https://transcription.si.edu/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Smithsonian Transcription Center</a>&nbsp;</em></p>
+<h2>Project Description</h2>
+<div id="attachment_14862" style="width: 310px" class="wp-caption alignleft"><img class="wp-image-14862 size-full" src="./Smithsonian Transcription Center _ Federal Crowdsourcing and Citizen Science Toolkit_files/case-study-smithsonian-02.gif" alt="Screenshot of data summary interface for the Smithsonian Transcription Project." width="300" height="150"><p class="wp-caption-text">Screenshot of the data summary interface for the<em> Smithsonian Transcription Center</em>.</p></div>
+<p>Participants in the project&nbsp;volunteer to type what they see in logbooks and on pages and specimen labels using instructions tailored to each document type. Volunteers can contribute anonymously or create an account to track their work. Once volunteers have an account, they may review the work of others and make edits where necessary.</p>
+<p>Each week, new projects are added, with new discoveries waiting in the pages! The <em>Smithsonian Transcription Center</em> uses social media, email and blog posts to connect volunteers to each other and provide details about collections featured in the center.</p>
+<p>When volunteers are transcribing a page, they may download it for free as a PDF. Once a project is complete, the entire project can be downloaded as a PDF — again&nbsp;for free! The text that volunteers create goes into the Smithsonian’s database, searchable in the <a href="http://collections.si.edu/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collections Search Center</a>. As volunteers transcribe specimen labels, they create data to make new collection records. As they work, volunteers are creating greater access to and more useful information for Smithsonian Institution collections — which is seriously amazing!</p>
+<h2>Challenges</h2>
+<p>For crowdsourcing projects like the <em>Smithsonian Transcription Center</em>, upholding the quality and validity of transcribed data is important. Volunteers work with Smithsonian staff in a three-step peer review process: Anyone can transcribe; registered volunteers review; and then staff validate the submissions. Specialized instructions for each type of material help keep volunteers on track, and they can submit questions directly or through social media.</p>
+<p>Sustaining volunteer engagement is another challenge; the <em>Smithsonian Transcription Center</em>&nbsp;shares the collective success of volunteers as frequently as possible. Volunteers also have special behind-the-scenes access to curators and collections managers, and they get first peeks at newly digitized collections. They also have the opportunity to share what they are learning as they transcribe.</p>
+<h2>Benefits and Outcomes</h2>
+<div id="attachment_14842" style="width: 310px" class="wp-caption alignright"><img class="wp-image-14842 size-full" src="./Smithsonian Transcription Center _ Federal Crowdsourcing and Citizen Science Toolkit_files/case-study-smithsonian-01.jpg" alt="Screenshot of data entry interface for the Smithsonian Transcription Project." width="300" height="156"><p class="wp-caption-text">Screenshot of&nbsp;the&nbsp;data entry interface for the <em>Smithsonian Transcription Center</em>.</p></div>
+<p>The <em>Smithsonian Transcription Center</em> continues to meet its goals and to grow in the size and scope of its featured collections. The center’s interface, workflows and communications are also improving through helpful feedback from volunteers.</p>
+<p>Volunteers can expect to discover hidden histories, learn about scientific collecting, and understand the variety of Smithsonian collections. They also have the opportunity to join quarterly behind-the-scenes talks, ask Smithsonian staff questions, and make requests for new material — all part of the <em>Smithsonian Transcription Center’s</em> commitment to making the serious fun of transcription even better. Through their social media chat and shared discoveries, volunteers have revealed hidden histories of women in science; contributed to Wikipedia, eBird and other citizen science projects; and helped Smithsonian staff identify the collections to be shared next.</p>
+<p>The <em>Smithsonian Transcription Center’s</em>&nbsp;5,250 digital volunteers have completely transcribed and reviewed over 113,016 pages — a total that includes 859 projects shared by 13 Smithsonian archives, museums and libraries. The “pages” include biodiversity specimens, from which data have been transcribed and used to create 27,004 new collection records for bumblebees and 23,488 new records for <a href="http://botany.si.edu/colls/collections_overview.htm" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">U.S. National Herbarium</a> sheets. Data transcribed from logbooks for the Digital Access to a Sky Century@Harvard program have been used by astronomers to correlate glass plates and the passage of light over time through the galaxy, thereby identifying cosmic events and locating black holes. The <em>Smithsonian Transcription Center</em> has indexed its transcriptions and made the discoveries in its transcribed pages useful, resulting in over 3,300 downloads of project PDFs.</p>
+<h2>Tips</h2>
+<p>The <em>Smithsonian Transcription Center</em>&nbsp;case study illustrates the following steps in the Federal Citizen Science and Crowdsourcing Toolkit:</p>
+<ul>
+<li><strong><a href="https://crowdsourcing-toolkit.sites.usa.gov/step-1-scope-out-your-problem" class="local-link">Scope Out Your Problem </a> — Engage Your Stakeholders and Participants<br>
+</strong>The <em>Smithsonian Transcription Center</em> was conceived and guided by a committee of representatives from its eight original participating museums and archives; the committee has since grown to include representatives from the Smithsonian Institution’s 13 archives, museums and libraries. Each month, the project coordinator sends the group an email with status updates. The email outlines ongoing successes, volunteer feedback and upcoming events. An additional administrative email informs the group about progress with site development and new system features.</li>
+</ul>
+<ul>
+<li><strong><a href="https://crowdsourcing-toolkit.sites.usa.gov/step-2-design-a-project" class="local-link">Design a Project </a> —&nbsp;Plan Project Management</strong><br>
+After giving&nbsp;careful consideration to the needs and challenges of similar projects, the <em>Smithsonian Transcription Center</em>&nbsp;decided to use peer review rather than algorithmic matching and cumulative community progress rather than leaderboards. The project also uses easy-to-follow instructions for volunteers to help them overcome a long learning curve.</li>
+</ul>
+<ul>
+<li><strong><a href="https://crowdsourcing-toolkit.sites.usa.gov/step-5-sustain-and-improve" class="local-link">Sustain and Improve </a> — Communicate Effectively</strong><br>
+The <em>Smithsonian Transcription Center</em> constantly checks with participants through emails and multiple social networks and social media tools. The Center asks for volunteer and staff input and carefully analyzes project performance to detect the needs of participants and ensure that the&nbsp;project meets its&nbsp;goals. The center wants to keep volunteering fun, purposeful and rewarding.</li>
+</ul>
+<p>&nbsp;</p>
+<a onclick="wpex_toggle(990362057, &#39;Learn more&#39;, &#39;Read less&#39;); return false;" class="wpex-link" id="wpexlink990362057" href="https://crowdsourcing-toolkit.sites.usa.gov/smithsonian-transcription-center/#">Learn more</a><div class="wpex_div" id="wpex990362057" style="display: none;"><p></p>
+<ul>
+<li>Website:<em>&nbsp;<a href="https://transcription.si.edu/" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Smithsonian Transcription Center</a>&nbsp;</em></li>
+</ul>
+<p></p></div>
+<p>&nbsp;</p>
+<h2>Contact Information</h2>
+<p>Meghan Ferriter<br>
+Email:&nbsp;<a href="mailto:ferriterm@si.edu">ferriterm@si.edu</a></p>
+<p>Ching-hsien Wang<br>
+Email:&nbsp;<a href="mailto:wangch@si.edu">wangch@si.edu</a><br>
+<br></p>
+<p>Last updated:  <span class="last-modified-timestamp">Feb 23, 2016</span></p>
