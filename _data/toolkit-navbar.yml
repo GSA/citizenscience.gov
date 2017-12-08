@@ -3,7 +3,7 @@ assigned:
     -
         text: How To
         href: pages/about.md
-        permalink: /about/
+        permalink: /toolkit/howto/
         show_in_menu: true
         show_in_footer: false
     -
@@ -15,13 +15,13 @@ assigned:
     -
         text: Resource Library
         href: pages/about.md
-        permalink: /about/
+        permalink: /toolkit/resource-library/
         show_in_menu: true
         show_in_footer: false
     -
         text: Law and Policy
         href: pages/about.md
-        permalink: /about/
+        permalink: /toolkit/law-and-policy/
         show_in_menu: true
         show_in_footer: false
     -
