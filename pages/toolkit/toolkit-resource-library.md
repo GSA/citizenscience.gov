@@ -6,7 +6,7 @@ permalink: /toolkit/resource-library/
 <h1 class="page-title">Resource Library</h1>
 
 								
-								<p>Welcome to the Resource Library!&nbsp;Here you will find all the resources included in this toolkit and you can browse through them by category. These resources are&nbsp;also placed within the&nbsp;relevant process steps within the “How To” section of the toolkit.</p>
+<p>Welcome to the Resource Library!&nbsp;Here you will find all the resources included in this toolkit and you can browse through them by category. These resources are&nbsp;also placed within the&nbsp;relevant process steps within the “How To” section of the toolkit.</p>
 <p>Disclaimer: This toolkit&nbsp;provides external links to resources as a convenience to users. The appearance of the links in the toolkit does not constitute endorsement by the federal government of the linked websites or of the information, products or services contained in them.</p>
 <h3><strong>What is Citizen Science?</strong></h3>
 <ul>
@@ -121,6 +121,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues in Using Citizen Science (2015)</a></li>
 <li><a href="https://www.genome.gov/27559982" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Trans-NIH Workshop to Explore the Ethical, Legal and Social Implications of Citizen Science</a></li>
 <li><a href="http://pacscenter.stanford.edu/sites/all/files/TweetingUpAStorm.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
+<li><a href="https://www.congress.gov/bill/114th-congress/house-bill/6414/text" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">H.R.6414 - Crowdsourcing and Citizen Science Act of 2016</a></li>
 </ul>
 <h3><strong>Toolkits and Guides</strong></h3>
 <h4>Choosing Citizen Science</h4>
