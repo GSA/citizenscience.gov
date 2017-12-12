@@ -21,9 +21,6 @@ title: Case Studies
 								</a>
 								<div class="infos">
 										<h3 class="title">{{ item.title }}</h3>
-										<p class="txt">
-												{{ item.description }}...
-										</p>
 										<p>
 											<a href="{{ item.url | prepend: site.baseurl }}" class="details">read more</a>
 										</p>
