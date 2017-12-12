@@ -3,6 +3,7 @@ layout: toolkit-base
 permalink: /toolkit/law-and-policy/
 ---
 
+<div class="usa-section usa-grid">
 <h1 class="page-title">Law and Policy</h1>
 
 								
@@ -18,3 +19,4 @@ permalink: /toolkit/law-and-policy/
 <p>Publicly accessible medical data have the potential to yield numerous benefits as well as serious concerns regarding patient confidentiality. This <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2491054" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">2014 article</a> analyzes the benefits and risks of health data sharing and proposes balanced legislative, regulatory, and policy modifications to guide data disclosure and use.</p>
 <p><br></p>
 <p>Last updated:  <span class="last-modified-timestamp">Feb 23, 2016</span></p>
+</div>

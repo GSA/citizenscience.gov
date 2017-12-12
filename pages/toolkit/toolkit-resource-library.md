@@ -3,6 +3,7 @@ layout: toolkit-base
 permalink: /toolkit/resource-library/
 ---
 
+<div class="usa-section usa-grid">
 <h1 class="page-title">Resource Library</h1>
 
 								
@@ -172,3 +173,4 @@ permalink: /toolkit/resource-library/
 </ul>
 <p><br></p>
 <p>Last updated:  <span class="last-modified-timestamp">Feb 23, 2016</span></p>
+</div>
