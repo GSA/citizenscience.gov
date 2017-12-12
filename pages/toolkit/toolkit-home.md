@@ -4,6 +4,7 @@ permalink: /toolkit/
 title: Federal Crowdsourcing and Citizen Science Toolkit
 how-to-link: /toolkit/howto/
 case-study-link: /toolkit/case-study/
+resources-link: /toolkit/resource-library/
 banner-heading: Find Federally Sponsored Projects
 banner-text: The Federal Crowdsourcing and Citizen Science Catalog provides a government-wide listing of citizen science and crowdsourcing projects by agency. Projects submitted to the catalog are validated for agency involvement by federal employees.
 banner-button-text: view the catalog
@@ -52,7 +53,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 
 	    <article class="card usa-width-one-third">
-	      <a href="#">
+	      <a href="{{ page.resources-link | prepend: site.baseurl }}">
 	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/home-resources2.gif); min-height: 200px">
 	      </div>
 	    </a>
@@ -60,7 +61,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	        <h3 class="card-description">Resource Library</h3>
 	        <p class="card-summary">The resource library provides a list of all resources in this toolkit which you can browse through by category. You can also find resources within each of the process steps in the "How To" section of the toolkit.</p>
 	      </div>
-	      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+	      <a class="card-read" href="{{ page.resources-link | prepend: site.baseurl }}">
 	        View Resources
 	        <span class="usa-sr-only">about {{ project.title }}</span>
 	      </a>
