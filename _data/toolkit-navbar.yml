@@ -2,7 +2,7 @@ assigned:
 
     -
         text: How To
-        href: pages/about.md
+        href: pages/toolkit-howto.md
         permalink: /toolkit/howto/
         show_in_menu: true
         show_in_footer: false
@@ -14,20 +14,20 @@ assigned:
         show_in_footer: false
     -
         text: Resource Library
-        href: pages/about.md
+        href: pages/toolkit-resource-library.md
         permalink: /toolkit/resource-library/
         show_in_menu: true
         show_in_footer: false
     -
         text: Law and Policy
-        href: pages/about.md
+        href: pages/toolkit-law-and-policy.md
         permalink: /toolkit/law-and-policy/
         show_in_menu: true
         show_in_footer: false
     -
         text: About
-        href: pages/toolkit-home.md
-        permalink: /toolkit-about/
+        href: pages/toolkit-about.html
+        permalink: /toolkit/about/
         show_in_menu: true
         show_in_footer: false
 
