@@ -15,23 +15,23 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 
 
 
-| Agency Coordinators (as of 6/14/2017)|
+| Agency Coordinators (as of 12/19/2017)|
 | ----------- |
 | Department of Agriculture | Forest Service | Michelle Tamez |
-| Department of Agriculture | USDA | Elizabeth Stulberg |
+| Department of Agriculture | USDA | Jim Kahler |
 | Department of Commerce | Census | Barbara A. Downs |
 | Department of Commerce | NIST | Heather Evans |
-| Department of Commerce | NOAA | John McLaughlin,  June Teslan |
+| Department of Commerce | NOAA | Laura Oremland |
 | Department of Defense | DDR&E | Dr. Richard Ames |
 | Department of Education | IES | Ross Santy |
 | Department of Energy | DOE | Carly Robinson |
 | Department of Health and Human Services | CDC | Juliana Cyril |
-| Department of Health and Human Services | FDA | Taha Kass-Hout,  Elaine Johanson |
+| Department of Health and Human Services | FDA | Elaine Johanson |
 | Department of Health and Human Services | HHS | Sandeep Patel
 | Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theitz |
 | Department of Homeland Security | DHS | Jim Grove |
 | Department of Housing and Urban Development | HUD | Jon Sperling |
-| Department of Interior | BLM | n/a |
+| Department of Interior | BLM | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
 | Department of Interior | NPS | Tim Watkins,  Kris Barnes |
 | Department of Interior | USGS | Sophia Liu,  David Govoni |
@@ -45,4 +45,4 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | NSF | Ellen McCallie |
 | Smithsonian Institution | SI | Janet Abrams |
-| White House | OSTP | n/a |
+
