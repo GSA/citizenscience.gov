@@ -12,91 +12,37 @@ Today, these coordinators are:
 - Teaming to encourage public awareness of and participation in citizen science and crowdsourcing efforts.
 As coordinators, these individuals advocate for citizen science and crowdsourcing where possible, and provide a support network and mentoring for each other and their respective agencies for future projects.
 
-### Agency Coordinators (as of 6/14/2017):
-Department of Agriculture
-Forest Service
-Michelle Tamez
-Department of Agriculture
-USDA
-Elizabeth Stulberg
-Department of Commerce
-Census
-Barbara A. Downs
-Department of Commerce
-NIST
-Heather Evans
-Department of Commerce
-NOAA
-John McLaughlin, June Teslan
-Department of Defense
-DDR&E
-Dr. Richard Ames
-Department of Education
-IES
-Ross Santy
-Department of Energy
-DOE
-Carly Robinson
-Department of Health and Human Services
-CDC
-Juliana Cyril
-Department of Health and Human Services
-FDA
-Taha Kass-Hout, Elaine Johanson
-Department of Health and Human Services
-HHS
-Sandeep Patel
-Department of Health and Human Services
-NIH
-Jennifer Couch, Katrina Theitz
-Department of Homeland Security
-DHS
-Jim Grove
-Department of Housing and Urban Development
-HUD
-Jon Sperling
-Department of Interior
-BLM
-n/a
-Department of Interior
-FWS
-Emily Silverman
-Department of Interior
-NPS
-Tim Watkins, Kris Barnes
-Department of Interior
-USGS
-Sophia Liu, David Govoni
-Department of Justice
-FBI
-David B. Smith
-Department of State
-OES
-Samuel B. Howerton
-Department of State
-USAID
-Cameron D. Bess, Ph.D.
-Environmental Protection Agency
-EPA
-Jay Benforado
-Federal Communications Commission
-FCC
-James Miller
-Intelligence Advanced Research Projects Agency
-IARPA
-Ruthanna Gordon
-National Aeronautics and Space Administration
-NASA
-Amy Kaminski
-National Archives and Records Administration
-NARA
-Andrew Wilson, Suzanne Isaacs
-National Science Foundation
-NSF
-Ellen McCallie
-Smithsonian Institution
-SI
-Janet Abrams
-White House
-OSTP
-n/a
+
+
+
+| Agency Coordinators (as of 6/14/2017)|
+| ----------- |
+| Department of Agriculture | Forest Service | Michelle Tamez |
+| Department of Agriculture | USDA | Elizabeth Stulberg |
+| Department of Commerce | Census | Barbara A. Downs |
+| Department of Commerce | NIST | Heather Evans |
+| Department of Commerce | NOAA | John McLaughlin,  June Teslan |
+| Department of Defense | DDR&E | Dr. Richard Ames |
+| Department of Education | IES | Ross Santy |
+| Department of Energy | DOE | Carly Robinson |
+| Department of Health and Human Services | CDC | Juliana Cyril |
+| Department of Health and Human Services | FDA | Taha Kass-Hout,  Elaine Johanson |
+| Department of Health and Human Services | HHS | Sandeep Patel
+| Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theitz |
+| Department of Homeland Security | DHS | Jim Grove |
+| Department of Housing and Urban Development | HUD | Jon Sperling |
+| Department of Interior | BLM | n/a |
+| Department of Interior | FWS | Emily Silverman |
+| Department of Interior | NPS | Tim Watkins,  Kris Barnes |
+| Department of Interior | USGS | Sophia Liu,  David Govoni |
+| Department of Justice | FBI | David B. Smith |
+| Department of State | OES | Samuel B. Howerton |
+| Department of State | USAID | Cameron D. Bess, Ph.D. |
+| Environmental Protection Agency | EPA | Jay Benforado |
+| Federal Communications Commission | FCC | James Miller |
+| Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
+| National Aeronautics and Space Administration | NASA | Amy Kaminski |
+| National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
+| National Science Foundation | NSF | Ellen McCallie |
+| Smithsonian Institution | SI | Janet Abrams |
+| White House | OSTP | n/a |
