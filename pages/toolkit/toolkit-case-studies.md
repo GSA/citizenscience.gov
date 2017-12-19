@@ -11,9 +11,9 @@ title: Case Studies
 
 {% for item in site.case-study %}
 	{% assign third = forloop.index | modulo: 3 %} {% if third == 0 %}
-		<div class="usa-width-one-third usa-end-row">
+		<div class="usa-width-one-third usa-end-row case-study-list">
 				{% else %}
-				<div class="usa-width-one-third">
+				<div class="usa-width-one-third case-study-list">
 						{% endif %}
 						<article>
 								<a href="{{ item.url | prepend: site.baseurl }}">
