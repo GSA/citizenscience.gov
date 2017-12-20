@@ -1,6 +1,6 @@
 ---
 title: 'Spotlight on Citizen Science: Steller Watch'
-author: Eric Beidel
+author: NOAA Office of Education
 layout: posts
 permalink: /2017/09/06/spotlight-on-citizen-science-stellar-watch/
 image: /assets/img/post-images/2017/09/stellarsealion.jpg

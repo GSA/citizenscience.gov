@@ -1,6 +1,6 @@
 ---
 title: 'Spotlight on Citizen Science: Catching eels and data!'
-author: Eric Beidel
+author: NOAA Office of Education
 layout: posts
 permalink: /2017/08/22/spotlight-on-citizen-science-catching-eels-and-data/
 image: /assets/img/post-images/2017/08/eels-one.jpg
@@ -22,7 +22,7 @@ class: post-banner
 More than 700 [#citizenscience](https://www.facebook.com/hashtag/citizenscience) volunteers helped protect the Hudson River Estuary this spring by catching, documenting, and releasing over 90,000 juvenile American Eels, a species important to conserve that also helps scientists understand habitat losses or gains, shifts in the food web, and other ecosystem changes.
 
 <div class="image-in-post-body" style="width: 310px">
-  <img src="/assets/img/post-images/2017/08/eels-two.jpg" alt="Small eels in bucket." width="300" height="252" />
+  <img src="{{ site.baseurl }}/assets/img/post-images/2017/08/eels-two.jpg" alt="Small eels in bucket." width="300" height="252" />
   <p class="image-caption">
     Juvenile American Eels (Photo:NYSDEC)
   </p>

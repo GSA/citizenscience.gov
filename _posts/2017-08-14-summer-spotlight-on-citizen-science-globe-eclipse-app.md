@@ -1,6 +1,6 @@
 ---
 title: 'Spotlight on Citizen Science: GLOBE Eclipse App'
-author: Eric Beidel
+author: NOAA Office of Education
 layout: posts
 permalink: /2017/08/14/summer-spotlight-on-citizen-science-globe-eclipse-app/
 image: /assets/img/post-images/2017/08/GLOBE.jpg

@@ -1,27 +1,10 @@
 ---
-id: 32969
 title: 'Spotlight on a Citizen Scientist: Craig Wollam with BeachWatchers'
-date: 2017-08-01T14:07:46+00:00
-author: Eric Beidel
+date: 2017-08-01 14:07:46
+author: NOAA Office of Education
 layout: posts
-guid: https://www.citizenscience.gov/?p=32969
 permalink: /2017/08/01/spotlight-on-a-citizen-scientist-craig-wollam-with-beachwatchers/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:4:{s:81:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/CraigWollam.jpg";s:5:"32972";s:54:"//www.citizenscience.gov/files/2017/08/CraigWollam.jpg";s:5:"32972";s:76:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/salmon.jpg";s:5:"32976";s:49:"//www.citizenscience.gov/files/2017/08/salmon.jpg";s:5:"32976";}'
+image: /assets/img/post-images/2017/08/CraigWollam.jpg
 categories:
   - Biology
   - Education
@@ -36,14 +19,8 @@ tags:
   - NOAA
   - volunteering
   - Washington State
+class: center-top-twenty
 ---
-<div id="attachment_32972" style="width: 1234px" class="wp-caption aligncenter">
-  <img class="wp-image-32972 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/CraigWollam.jpg" alt="" width="1224" height="918" />
-  
-  <p class="wp-caption-text">
-    Craig Wollam, volunteer/citizen scientist extraordinaire, poses in front of a hauler he helped diagnose and fix aboard the RV Rhinotto out on Skagit Bay, WA.
-  </p>
-</div>
 
 **This week, our spotlight is a first-hand account from a citizen scientist:**
 
@@ -53,10 +30,10 @@ WSU BeachWatchers’ mission is to train environmental volunteers and citizen sc
 
 When NOAA Scientist Casey Rice sent out a message inviting citizens to participate in monitoring juvenile fish in the Snohomish River estuary, I jumped at the chance. He took me into muddy sloughs to set up funnel traps that collect fish on the ebbing tide. It was hard work pulling nets over slippery mud, but the fish we caught fascinated me. I guess I showed promise, because I was then invited to participate in surface trawling in Puget Sound. This research effort, led by Correigh Greene, is testing the effects of estuary restoration on juvenile Chinook salmon populations.
 
-<div id="attachment_32976" style="width: 510px" class="wp-caption alignright">
-  <img class="wp-image-32976" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/salmon.jpg" alt="" width="500" height="375" />
+<div class="image-in-post-body" style="width: 410px">
+  <img src="{{ site.baseurl }}/assets/img/post-images/2017/08/salmon.jpg" alt="" width="400"/>
   
-  <p class="wp-caption-text">
+  <p class="image-caption">
     Craig measures a salmon using equipment he made for the surface trawling program, which examines whether juvenile Chinook salmon benefit from restoration in the Skagit River estuary.
   </p>
 </div>
