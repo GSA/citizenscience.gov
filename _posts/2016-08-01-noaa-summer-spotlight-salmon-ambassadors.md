@@ -1,26 +1,10 @@
 ---
-id: 32141
 title: 'NOAA Summer Spotlight: Salmon Ambassadors'
-date: 2016-08-01T15:56:45+00:00
-author: Kendrick Daniel
+date: 2016-08-01 15:56:45
+author: Cindy Hudson
 layout: posts
-guid: https://www.citizenscience.gov/?p=32141
 permalink: /2016/08/01/noaa-summer-spotlight-salmon-ambassadors/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/Salmon-Ambassadors.jpg
+image: /assets/img/post-images/2016/08/Salmon-Ambassadors.jpg
 categories:
   - Environment and Nature
 ---

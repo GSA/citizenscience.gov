@@ -1,27 +1,9 @@
 ---
-id: 1881
 title: Crowdsourcing for Early Detection of Animal Disease Outbreaks
-date: 2016-03-31T20:15:01+00:00
-author: rmorris
+date: 2016-03-31 20:15:01
+author: Crowdsourcing and Citiaen Science Community
 layout: posts
-guid: https://citizenscience.sites.usa.gov/?p=1881
 permalink: /2016/03/31/the-enhanced-passive-surveillance-system-crowdsourcing-for-early-detection-of-animal-disease-outbreaks/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:1:{s:112:"https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2015/09/enhanced-passive-surveillance-system.pdf";i:26142;}'
 image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/03/feature-enhanced-passive.jpg
 categories:
   - Uncategorized

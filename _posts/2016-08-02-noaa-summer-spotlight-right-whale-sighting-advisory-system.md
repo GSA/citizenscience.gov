@@ -1,7 +1,7 @@
---
+---
 title: 'NOAA Summer Spotlight: Right Whale Sighting Advisory System'
 date: 2016-08-02 12:13:11
-author: Kendrick Daniel
+author: Christin B. Khan
 layout: posts
 permalink: /2016/08/02/noaa-summer-spotlight-right-whale-sighting-advisory-system/
 image: /assets/img/post-images/2016/08/NOAA-Whale-Project.jpg

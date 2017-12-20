@@ -1,26 +1,10 @@
 ---
-id: 32031
 title: 'NOAA Summer Spotlight: mPING!'
-date: 2016-07-06T14:58:21+00:00
-author: Kendrick Daniel
+date: 2016-07-06 14:58:21
+author: Kim Elmore
 layout: posts
-guid: https://www.citizenscience.gov/?p=32031
 permalink: /2016/07/06/noaa-summer-spotlight-mping/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/07/mPING-app.jpg
+image: /assets/img/post-images/2016/07/mPING-app.jpg
 categories:
   - Research
 ---

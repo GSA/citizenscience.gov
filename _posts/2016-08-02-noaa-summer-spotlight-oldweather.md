@@ -1,26 +1,10 @@
 ---
-id: 32281
 title: 'NOAA Summer Spotlight: OldWeather'
-date: 2016-08-02T12:20:48+00:00
-author: Kendrick Daniel
+date: 2016-08-02 12:20:48
+author: Kevin R. Wood, PH.D.
 layout: posts
-guid: https://www.citizenscience.gov/?p=32281
 permalink: /2016/08/02/noaa-summer-spotlight-oldweather/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/OldWeatherShips.png
+image: /assets/img/post-images/2016/08/OldWeatherShips.png
 categories:
   - Climate and Weather
   - Environment and Nature
