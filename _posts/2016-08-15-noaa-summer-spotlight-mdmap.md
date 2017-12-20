@@ -1,29 +1,14 @@
 ---
-id: 32481
 title: 'NOAA Summer Spotlight: MDMAP'
-date: 2016-08-15T15:39:48+00:00
-author: Kendrick Daniel
+date: 2016-08-15 15:39:48
+author: Sherry Lippiatt
 layout: posts
-guid: https://www.citizenscience.gov/?p=32481
 permalink: /2016/08/15/noaa-summer-spotlight-mdmap/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/MDMAP.jpg
+image: /assets/img/post-images/2016/08/MDMAP.jpg
 categories:
   - Climate and Weather
   - Environment and Nature
+class: 
 ---
 ###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
 

@@ -1,26 +1,10 @@
----
-id: 32221
+--
 title: 'NOAA Summer Spotlight: Right Whale Sighting Advisory System'
-date: 2016-08-02T12:13:11+00:00
+date: 2016-08-02 12:13:11
 author: Kendrick Daniel
 layout: posts
-guid: https://www.citizenscience.gov/?p=32221
 permalink: /2016/08/02/noaa-summer-spotlight-right-whale-sighting-advisory-system/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/NOAA-Whale-Project.jpg
+image: /assets/img/post-images/2016/08/NOAA-Whale-Project.jpg
 categories:
   - Environment and Nature
   - Research

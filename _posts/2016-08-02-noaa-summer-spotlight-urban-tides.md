@@ -1,26 +1,10 @@
 ---
-id: 32341
 title: 'NOAA Summer Spotlight: Urban Tides'
-date: 2016-08-02T12:26:45+00:00
-author: Kendrick Daniel
+date: 2016-08-02 12:26:45
+author: Linda Chilton
 layout: posts
-guid: https://www.citizenscience.gov/?p=32341
 permalink: /2016/08/02/noaa-summer-spotlight-urban-tides/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/Urban-Tides.jpg
+image: /assets/img/post-images/2016/08/Urban-Tides.jpg
 categories:
   - Climate and Weather
 ---

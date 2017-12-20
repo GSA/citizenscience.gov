@@ -1,26 +1,10 @@
 ---
-id: 32411
 title: 'NOAA Summer Spotlight: Sign of The Seasons'
-date: 2016-08-09T15:48:15+00:00
-author: Kendrick Daniel
+date: 2016-08-09 15:48:15
+author: Beth Bisson and Esperanza Stancioff
 layout: posts
-guid: https://www.citizenscience.gov/?p=32411
 permalink: /2016/08/09/noaa-summer-spotlight-sign-of-the-seasons/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2016/08/SOS-at-Acadia-partner-and-researcher.jpg
+image: /assets/img/post-images/2016/08/SOS-at-Acadia-partner-and-researcher.jpg
 categories:
   - Climate and Weather
   - Environment and Nature

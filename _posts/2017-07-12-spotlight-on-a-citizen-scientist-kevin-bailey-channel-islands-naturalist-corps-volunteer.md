@@ -1,5 +1,4 @@
 ---
-id: 32954
 title: 'Spotlight on A Citizen Scientist: Kevin Bailey, Channel Islands Naturalist Corps volunteer'
 date: 2017-07-12 16:47:48
 author: NOAA Office of Education

@@ -1,40 +1,18 @@
 ---
-id: 32935
 title: Federal Citizen Science and Crowdsourcing Initiative Named Finalist for Harvard’s 2017 Roy and Lila Ash Award for Public Engagement in Government
-date: 2017-05-03T18:42:20+00:00
+date: 2017-05-03 18:42:20
 author: twhite
 layout: posts
-guid: https://www.citizenscience.gov/?p=32935
 permalink: /2017/05/03/federal-citizen-science-and-crowdsourcing-initiative-named-finalist-for-harvards-2017-roy-and-lila-ash-award-for-public-engagement-in-government/
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'Yes'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-amazonS3_cache:
-  - 'a:2:{s:96:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/05/ThinkstockPhotos-100447956.jpg";i:32937;s:69:"//www.citizenscience.gov/files/2017/05/ThinkstockPhotos-100447956.jpg";i:32937;}'
+image: /assets/img/post-images/2017/05/ThinkstockPhotos-100447956.jpg
 categories:
   - All
   - Crowdsourcing
 tags:
   - innovation
+class: post-banner
 ---
-<div id="attachment_32937" style="width: 239px" class="wp-caption alignleft">
-  <img class=" wp-image-32937" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/05/ThinkstockPhotos-100447956.jpg" alt="Image - Harvard University Campus" width="229" height="344" />
-  
-  <p class="wp-caption-text">
-    Harvard University Campus
-  </p>
-</div>
+
 
 WASHINGTON – The Federal Citizen Science and Crowdsourcing Initiative was announced as a finalist in this year’s Roy and Lila Ash Award for Public Engagement in Government by the Ash Center for Democratic Governance and Innovation at the John F. Kennedy School of Government, Harvard University.
 
@@ -42,7 +20,16 @@ As one of four finalists named for the Roy and Lila Ash Award on May 2, 2017, th
 
 The Federal Community of Practice for Crowdsourcing and Citizen Science (CCS) developed a collection of resources, designed by and for federal practitioners, focusing on two approaches to open innovation. Both approaches &#8212; crowdsourcing, in which organizations submit open calls for assistance from large groups of volunteer problem-solvers, and citizen science, in which public participants engage in any part of the scientific process &#8212; promote public engagement as a mechanism to address complex problems. These approaches represent new types of collaboration and engage members of the public, many of whom might not otherwise be consulted, in research and solution development, thus allowing researchers to gain valuable data and insights.
 
-CCS delivers these resources to the federal community and public through a centralized, high-profile site at <a href="http://www.citizenscience.gov" target="_blank" rel="noopener noreferrer">CitizenScience.gov</a>. The site contains three dynamic components: a portal to CCS for federal workers, a how-to toolkit, and a catalog containing over 300 federal projects. CCS mobilized 125 of its members to develop the toolkit, which offers guidance to federal practitioners on every aspect of a crowdsourcing or citizen science project from design through data analysis. Complemented by case studies, the toolkit provides the resources needed to pitch, launch, maintain, and scale projects. The catalog follows up on the toolkit and gives agencies the opportunity to detail the opportunities, results, and benefits of projects ranging from tracking weather to transcribing historical records. These resources are continually updated and improved by federal citizen science and crowdsourcing project managers to reflect the most current information.
+CCS delivers these resources to the federal community and public through a centralized, high-profile site at <a href="http://www.citizenscience.gov" target="_blank" rel="noopener noreferrer">CitizenScience.gov</a>. The site contains three dynamic components: a portal to CCS for federal workers, a how-to toolkit, and a catalog containing over 300 federal projects. CCS mobilized 125 of its members to develop the toolkit, which offers guidance to federal practitioners on every aspect of a crowdsourcing or citizen science project from design through data analysis. Complemented by case studies, the toolkit provides the resources needed to pitch, launch, maintain, and scale projects. The catalog follows up on the toolkit and gives agencies the opportunity to detail the opportunities, results, and benefits of projects ranging from tracking weather to transcribing historical records. These resources are continually updated and improved by federal citizen science and crowdsourcing project 
+managers to reflect the most current information.
+
+<div class="image-in-post-body" style="width: 410px">
+  <img src="{{ site.baseurl }}/assets/img/post-images/2017/05/ThinkstockPhotos-100447956.jpg" alt="Image - Harvard University Campus" width="229" height="344" />
+  
+  <p class="image-caption">
+    Harvard University Campus
+  </p>
+</div>
 
 Tony Saich, director of the Ash Center and Daewoo Professor of International Affairs, remarked that these programs “demonstrate the expanding horizons of how technology can be used to engage citizens and disseminate information more broadly than it ever has before. These programs are not just changing the old town hall method of public discourse, but also showing how the principles and tools of engagement, crowdsourcing, and open information can be used in initiatives working to address diverse societal challenges, such as enfranchisement and informed voting, mental health, criminal justice, and community development.”
 
