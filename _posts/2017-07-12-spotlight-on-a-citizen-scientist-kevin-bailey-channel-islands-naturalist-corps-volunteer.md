@@ -1,28 +1,11 @@
 ---
 id: 32954
 title: 'Spotlight on A Citizen Scientist: Kevin Bailey, Channel Islands Naturalist Corps volunteer'
-date: 2017-07-12T16:47:48+00:00
-author: Eric Beidel
+date: 2017-07-12 16:47:48
+author: NOAA Office of Education
 layout: posts
-guid: https://www.citizenscience.gov/?p=32954
 permalink: /2017/07/12/spotlight-on-a-citizen-scientist-kevin-bailey-channel-islands-naturalist-corps-volunteer/
-amazonS3_cache:
-  - 'a:5:{s:54:"//channelislands.noaa.gov/involved/citizenscience.html";a:1:{s:9:"timestamp";i:1499880590;}s:85:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/07/Kevin-Bailey-II.jpg";s:5:"32956";s:58:"//www.citizenscience.gov/files/2017/07/Kevin-Bailey-II.jpg";s:5:"32956";s:96:"//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/07/walewatchingcreditbobperry.jpg";s:5:"32961";s:69:"//www.citizenscience.gov/files/2017/07/walewatchingcreditbobperry.jpg";s:5:"32961";}'
-hide_title:
-  - 'No'
-header_layout:
-  - Default
-centercatnav:
-  - 'No'
-remove_thumb:
-  - 'No'
-hide_auth_bio:
-  - 'No'
-post_featcontent:
-  - 'No'
-post_featpages:
-  - 'No'
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/07/Kevin-Bailey.jpg
+image: /assets/img/post-images/2017/07/Kevin-Bailey.jpg
 categories:
   - Education
   - Environment and Nature
@@ -33,16 +16,18 @@ tags:
   - humpback whales
   - NOAA
   - volunteering
+class: post-banner
 ---
-<div id="attachment_32961" style="width: 1023px" class="wp-caption alignnone">
-  <img class="size-full wp-image-32961" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/07/walewatchingcreditbobperry.jpg" alt="" width="1013" height="673" />
+
+This summer NOAA’s Office of Education is shining the spotlight on citizen science projects across the country. Learn more about the work of Kevin Bailey, Channel Islands Naturalist Corps volunteer at [NOAA Channel Islands National Marine Sanctuary](https://www.facebook.com/ChannelIslandsNMS/?fref=mentions){.profileLink} who is monitoring whales off the coast of California.
+
+<div class="image-in-post-body" style="width: 410px">
+  <img class="wp-image-32956" src="{{ site.baseurl }}/assets/img/post-images/2017/07/walewatchingcreditbobperry.jpg" alt="photo of humpback whale spouts near whale watchers" height="400" />
   
-  <p class="wp-caption-text">
+  <p class="image-caption">
     A humpback whale spouts near whale watchers. (Photo: Bob Perry)
   </p>
 </div>
-
-This summer NOAA’s Office of Education is shining the spotlight on citizen science projects across the country. Learn more about the work of Kevin Bailey, Channel Islands Naturalist Corps volunteer at [NOAA Channel Islands National Marine Sanctuary](https://www.facebook.com/ChannelIslandsNMS/?fref=mentions){.profileLink} who is monitoring whales off the coast of California.
 
 **How did you find out about your project?**
 
@@ -56,10 +41,10 @@ After talking with the Channel Islands Naturalist Corps volunteer on the boat, I
 
 After starting the program, I quickly migrated to the photo aspects of the Channel Islands Naturalist Corps program. This part of the volunteer program is called PID (Photo Identification) and involves taking photos of certain target species (primarily blue and humpback whales) and recording detailed data about each photo. The data and images are shared with Cascadia Research Collective. I later met
 
-<div id="attachment_32956" style="width: 310px" class="wp-caption alignright">
-  <img class="wp-image-32956" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/07/Kevin-Bailey-II.jpg" alt="" width="300" height="451" />
+<div class="image-in-post-body" style="width: 410px">
+  <img src="{{ site.baseurl }}/assets/img/post-images/2017/07/Kevin-Bailey-II.jpg" alt="" width="300" height="451" />
   
-  <p class="wp-caption-text">
+  <p class="image-caption">
     Kevin Bailey (Photo: CINMS Photo Library)
   </p>
 </div>
@@ -76,6 +61,6 @@ It has been thrilling to see the expansion and use of a real-time database, wher
 
 I would always encourage anyone with a passion for citizen science to seek out a program that not only will they enjoy, but where they will also make a lasting difference.
 
-To get involved in [<span class="_5afx"><span class="_58cl _5afz">#</span><span class="_58cm">citizenscience</span></span>](https://www.facebook.com/hashtag/citizenscience?source=feed_text){._58cn} at the Channel Islands National Marine Sanctuary visit: <a href="http://channelislands.noaa.gov/involved/citizenscience.html" target="_blank" rel="nofollow noopener">http://channelislands.noaa.gov/involved/citizenscience.html</a>
+To get involved in [citizenscience](https://www.facebook.com/hashtag/citizenscience?source=feed_text) at the Channel Islands National Marine Sanctuary visit: <a href="http://channelislands.noaa.gov/involved/citizenscience.html" target="_blank" rel="nofollow noopener">http://channelislands.noaa.gov/involved/citizenscience.html</a>
 
 _This spotlight originally appeared on the [NOAA Education and Outreach Facebook page](https://www.facebook.com/NOAAEducationOutreach/)._
