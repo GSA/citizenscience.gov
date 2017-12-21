@@ -75,7 +75,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-section banner tagline">
 	<div class="usa-grid">
-    <h2 style="text-align:center">Visit CitizenScience.gov to also learn about a catalog of projects and communities to join!</h2>
+    <h2 style="text-align:center">Visit <a href = "https://www.citizenscience.gov">CitizenScience.gov</a> to also learn about a catalog of <a href="https://ccsinventory.wilsoncenter.org/">projects</a> and <a href="{{ site.baseurl }}/projects/community-of-practice/">communities</a> to join!</h2>
     </div>
 </section>
 
