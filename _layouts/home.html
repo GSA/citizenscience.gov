@@ -63,7 +63,10 @@ Blog Section
     </div>
   </div>
         {% endfor %}
-
+<a class="card-read" href="{{ site.baseurl }}/blog/">
+        Read more
+        <span class="usa-sr-only">about {{ page.title }}</span>
+      </a>
 </section>
 
 {% include contact.html %}
