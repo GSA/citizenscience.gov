@@ -3,7 +3,7 @@ title: 'Spotlight on Citizen Science: CrowdMag'
 author: NOAA Office of Education
 layout: posts
 permalink: /2017/08/07/spotlight-on-citizen-science-crowdmag/
-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1054/2017/08/CrowdMag-photo.jpg
+image: /assets/img/post-images/2017/08/CrowdMag-photo.jpg
 categories:
   - Education
   - Environment and Nature
