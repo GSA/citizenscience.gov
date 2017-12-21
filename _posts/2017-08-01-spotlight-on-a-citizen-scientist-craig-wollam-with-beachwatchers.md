@@ -22,8 +22,6 @@ tags:
 class: center-top-twenty
 ---
 
-**This week, our spotlight is a first-hand account from a citizen scientist:**
-
 My name is Craig Wollam, and I’m a retired construction superintendent and project manager. I’ve long been interested in the marine world. Ever since I poked my head into tide pools I’ve been fascinated by the diversity of marine life that the Pacific Northwest has to offer. But it was not until 2010 that I put my interest to action, when I started volunteering with Washington State University’s (WSU) BeachWatchers Program.
 
 WSU BeachWatchers’ mission is to train environmental volunteers and citizen scientists. With BeachWatchers, my science bug got rekindled and I became interested in helping out long-term monitoring science programs.
