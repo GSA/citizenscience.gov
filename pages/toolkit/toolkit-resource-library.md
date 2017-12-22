@@ -4,11 +4,10 @@ permalink: /toolkit/resource-library/
 ---
 
 <div class="usa-section usa-grid">
-<h1 class="page-title">Resource Library</h1>
-
-								
+<h1 class="page-title">Resource Library</h1>				
 <p>Welcome to the Resource Library!&nbsp;Here you will find all the resources included in this toolkit and you can browse through them by category. These resources are&nbsp;also placed within the&nbsp;relevant process steps within the “How To” section of the toolkit.</p>
 <p>Disclaimer: This toolkit&nbsp;provides external links to resources as a convenience to users. The appearance of the links in the toolkit does not constitute endorsement by the federal government of the linked websites or of the information, products or services contained in them.</p>
+<br>
 <h3><strong>What is Citizen Science?</strong></h3>
 <ul>
 <li><a href="http://www.scientificamerican.com/citizen-science/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science (Scientific American)</a></li>
@@ -16,6 +15,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop, PDF)</a></li>
 <li><a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Iterative Development? (IBM, PDF)</a></li>
 </ul>
+<br>
 <h3><strong>How can I use Citizen Science?</strong></h3>
 <ul>
 <li><a href="http://www.nature.com/news/crowd-sourcing-strength-in-numbers-1.14757" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Choosing the Right Question for Crowdsourcing (Nature Magazine)</a></li>
@@ -26,8 +26,11 @@ permalink: /toolkit/resource-library/
 <li><a href="http://arstechnica.com/science/2015/01/most-participants-in-citizen-science-projects-give-up-almost-immediately/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Most Participants in Citizen Science Give Up (ARS Technica)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop, PDF)</a></li>
 </ul>
-<h3><strong>Examples of Citizen Science and Crowdsourcing</strong></h3>
-<h4>Web-based Projects</h4>
+<br>
+<h2><strong>Examples of Citizen Science and Crowdsourcing</strong></h2>
+<hr>
+<br>
+<h3>Web-based Projects</h3>
 <ul>
 <li><a href="https://eyewire.org/signup" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">EyeWire: A Game to Map the Brain</a></li>
 <li><a href="http://www.galaxyzoo.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: A Crowdsourced Astronomy Project</a></li>
@@ -35,20 +38,23 @@ permalink: /toolkit/resource-library/
 <li><a href="https://www.rockethub.com/42228" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</a></li>
 <li><a href="http://www.patientslikeme.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Patients Like Me: A Healthcare Advocacy Project</a></li>
 </ul>
-<h4>Community-based Projects</h4>
+<br>
+<h3>Community-based Projects</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=Uevr3vjWDt8" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Project, Air Quality Monitoring: Newark, New Jersey (EPA Video)</a></li>
 <li><a href="https://www.youtube.com/watch?v=9LXw2bMnBKQ" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Project, Air Quality Monitoring: South Bronx, New York (EPA Video)</a></li>
 <li><a href="https://www.youtube.com/watch?v=DZKxn1nioNA" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Project, Air Quality Monitoring: Tonawanda, New York (EPA Video)</a></li>
 </ul>
-<h4>Field-based Projects</h4>
+<br>
+<h3>Field-based Projects</h3>
 <ul>
 <li><a href="https://crowdgov.wordpress.com/case-studies/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Government: Case Studies</a></li>
 <li><a href="https://www.digitalgov.gov/2014/03/19/hhs-uses-crowdsourcing-in-booming-mhealth-industry/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">HHS Uses Crowdsourcing in Booming mHealth Industry (DigitalGov)</a></li>
 <li><a href="http://nationalzoo.si.edu/scbi/migratorybirds/research/neighborhood_nestwatch/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Neighborhood Nestwatch (Smithsonian Migratory Bird Center)</a></li>
 <li><a href="http://www.schoolofants.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">School of Ants: Project for School Children</a></li>
 </ul>
-<h4>Serious Games</h4>
+<br>
+<h3>Serious Games</h3>
 <ul>
 <li><a href="https://eyewire.org/signup" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">EyeWire: A Game to Map the Brain</a></li>
 <li><a href="https://fold.it/portal/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">FoldIt: A Game to Solve Puzzles for Science</a></li>
@@ -56,6 +62,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www.oldweather.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Old Weather: Transcribing Ship Logs for Climate Modeling</a></li>
 <li><a href="http://citizencyberlab.eu/research/gamification/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Gamification? (Citizen Cyberlab)</a></li>
 </ul>
+<br>
 <h3><strong>Funding</strong></h3>
 <ul>
 <li><a href="http://www.experiment.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Experiment.com</a></li>
@@ -64,6 +71,7 @@ permalink: /toolkit/resource-library/
 <li><a href="https://www.kickstarter.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Kickstarter: A Global Crowdfunding Platform</a></li>
 <li><a href="http://nsf.gov/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">National Science Foundation Funding and Awards</a></li>
 </ul>
+<br>
 <h3><strong>Project Inventories&nbsp;</strong></h3>
 <ul>
 <li><a href="http://www.scientificamerican.com/citizen-science/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Projects (Scientific American)</a></li>
@@ -72,15 +80,19 @@ permalink: /toolkit/resource-library/
 <li><a href="http://ccsinventory.wilsoncenter.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Wilson Center Commons Lab: Federal Projects Inventory</a></li>
 <li><a href="https://www.zooniverse.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Zooniverse: A Citizen Science Web Platform</a></li>
 </ul>
-<h3><strong>Journal Articles</strong></h3>
-<h4>Crowdsourcing and Gaming</h4>
+<br>
+<h2><strong>Journal Articles</strong></h2>
+<hr>
+<br>
+<h3>Crowdsourcing and Gaming</h3>
 <ul>
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518233" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing: A Geographic Approach to Public Engagement (2014)</a></li>
 <li><a href="http://dx.doi.org/10.1007/s10606-014-9204-3" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing Framework for the Emergency Management Domain (2014)</a></li>
 <li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (2011, PDF)</a><u><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf"><br>
 </a></u></li>
 </ul>
-<h4>Evaluating Citizen Science</h4>
+<br>
+<h3>Evaluating Citizen Science</h3>
 <ul>
 <li><a href="http://www.jstor.org/stable/27786204?seq=1#page_scan_tab_contents" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Buckets of Resistance: Standards and the Effectiveness of Citizen Science (2010)</a></li>
 <li><a href="http://ts-si.org/files/doi101504IJODE2010035191.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Conceptual Model of Virtual Organizations for Citizen Science (2010)</a></li>
@@ -90,7 +102,8 @@ permalink: /toolkit/resource-library/
 <li><a href="http://edis.ifas.ufl.edu/pdffiles/FR/FR35900.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Lessons Learned from Evaluations of Citizen Science Programs (2014, PDF)</a></li>
 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090375" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Drives the Quantity and Quality of Online Citizen Science Participation? (2014)</a></li>
 </ul>
-<h4>Open Innovation Tools</h4>
+<br>
+<h3>Open Innovation Tools</h3>
 <ul>
 <li><a href="https://www.ida.org/~/media/Corporate/OccasionalPapers/STPI-invited-paper-MeredithMLee-May2015v16.ashx" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Democratizing Scientific Instrumentation: Leveraging the Maker Movement (2015)</a></li>
 <li><a href="http://www.businessofgovernment.org/report/federal-ideation-programs-challenges-and-best-practices" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Federal Ideation Programs: Challenges and Best Practices (2013)</a></li>
@@ -98,7 +111,8 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www.ecologyandsociety.org/vol17/iss2/art29/ES-2012-4705.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research: A Framework for Deliberate Design (2012, PDF)</a></li>
 <li><a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Iterative Development? (2005, PDF)</a></li>
 </ul>
-<h4>Interdisciplinary Research</h4>
+<br>
+<h3>Interdisciplinary Research</h3>
 <ul>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
 <li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
@@ -106,11 +120,13 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
 <li><a href="http://www.esajournals.org/doi/abs/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
 </ul>
-<h4>Motivations</h4>
+<br>
+<h3>Motivations</h3>
 <ul>
 <li><a href="http://hcil2.cs.umd.edu/trs/2011-28/2011-28.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Dynamic Changes in Motivation in Collaborative Citizen-Science Projects (2012)</a></li>
 <li><a href="http://portico.org/Portico/#!journalAUSimpleView/tab=PDF?cs=ISSN_15391515?ct=E-Journal%20Content?auId=ark:/27927/pgg3ztfcv7h" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: Motivations of Citizen Scientists (2013)</a></li>
 </ul>
+<br>
 <h3><strong>Law and Policy</strong></h3>
 <ul>
 <li><a href="https://www.wilsoncenter.org/publication/citizen-science-the-law-web-enabled-policy-tool" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science &amp; The Law: A Web-Enabled Policy Tool</a></li>
@@ -122,17 +138,21 @@ permalink: /toolkit/resource-library/
 <li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues in Using Citizen Science (2015)</a></li>
 <li><a href="https://www.genome.gov/27559982" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Trans-NIH Workshop to Explore the Ethical, Legal and Social Implications of Citizen Science</a></li>
 <li><a href="http://pacscenter.stanford.edu/sites/all/files/TweetingUpAStorm.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
-<li><a href="https://www.congress.gov/bill/114th-congress/house-bill/6414/text" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">H.R.6414 - Crowdsourcing and Citizen Science Act of 2016</a></li>
+<li><a href="http://bit.ly/2BlulAG" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)</a></li>
 </ul>
-<h3><strong>Toolkits and Guides</strong></h3>
-<h4>Choosing Citizen Science</h4>
+<br>
+<h2><strong>Toolkits and Guides</strong></h2>
+<hr>
+<br>
+<h3>Choosing Citizen Science</h3>
 <ul>
 <li><a href="http://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Choosing and Using Citizen Science (Centre for Ecology and Hydrology, PDF)</a></li>
 <li><a href="http://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/citizen-science-guide.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Citizen Science (UK Environmental Observation Framework, PDF)</a></li>
 <li><a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
 <li><a href="http://www.ceh.ac.uk/products/publications/understanding-citizen-science.html" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
 </ul>
-<h4>Community Engagement</h4>
+<br>
+<h3>Community Engagement</h3>
 <ul>
 <li><a href="https://www.changemakers.com/storytelling" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">A Changemaker’s Guide to Storytelling</a></li>
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
@@ -140,7 +160,8 @@ permalink: /toolkit/resource-library/
 <li><a href="https://www.qld.gov.au/web/community-engagement/guides-factsheets/documents/engaging-queenslanders-methods-and-techniques.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
 </ul>
-<h4>Project Design</h4>
+<br>
+<h3>Project Design</h3>
 <ul>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/resources" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a></li>
 <li><a href="http://diytoolkit.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Development, Impact, &amp; You Toolkit (DIY)</a></li>
@@ -152,17 +173,20 @@ permalink: /toolkit/resource-library/
 <li><a href="http://pubs.usgs.gov/of/2013/1265/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">USGS Science Data Lifecycle Model</a></li>
 <li><a href="http://www.businessofgovernment.org/sites/default/files/Using%20Crowdsourcing%20In%20Government.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Using Crowdsourcing In Government (IBM Center for the Business of Government, PDF)</a></li>
 </ul>
-<h4>Project Evaluation</h4>
+<br>
+<h3>Project Evaluation</h3>
 <ul>
 <li><a href="http://www.niehs.nih.gov/research/supported/dert/programs/peph/metrics/index.cfm" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Metrics: Web-based Training and Metrics Manual (National Institute of Environmental Health Sciences)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/evaluation" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">User’s Guide for Evaluating Learning Outcomes from Citizen Science (Cornell Lab of Ornithology)</a></li>
 </ul>
+<br>
 <h3><strong>Templates</strong></h3>
 <ul>
 <li><a href="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Collaborative+Agreement+Template" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collaborative Agreement Template (NIH Collaboration and&nbsp;Team Science Field Guide)</a></li>
 <li><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Model Amendment to TOS for Government</a></li>
 <li><a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Negotiated Terms of Service Agreement Templates (DigitalGov)</a></li>
 </ul>
+<br>
 <h3><strong>Other Guidance</strong></h3>
 <ul>
 <li><a href="http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">5 Tips for Writing a Great Survey</a></li>
@@ -172,5 +196,5 @@ permalink: /toolkit/resource-library/
 <li><a href="http://ombudsman.nih.gov/tools.html" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
 <p><br></p>
-<p>Last updated:  <span class="last-modified-timestamp">Feb 23, 2016</span></p>
+
 </div>
