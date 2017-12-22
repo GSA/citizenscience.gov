@@ -7,8 +7,8 @@ permalink: /2016/08/02/noaa-summer-spotlight-urban-tides/
 image: /assets/img/post-images/2016/08/Urban-Tides.jpg
 categories:
   - Climate and Weather
+class: hide
 ---
-###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
 
 Urban Tides Community Science Initiative
 

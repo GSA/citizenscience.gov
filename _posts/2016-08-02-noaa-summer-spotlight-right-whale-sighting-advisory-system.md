@@ -8,8 +8,8 @@ image: /assets/img/post-images/2016/08/NOAA-Whale-Project.jpg
 categories:
   - Environment and Nature
   - Research
+class: hide
 ---
-###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
 
 The Right Whale Sighting Advisory System is a NOAA Fisheries program which was designed to reduce collisions between ships and the critically endangered North Atlantic right whale (Eubalaena glacialis) by alerting mariners to the presence of the right whales. These reports are obtained from a variety of sources including aerial surveys, shipboard surveys, whale watch vessels, and opportunistic sources (Coast Guard, commercial ships, fishing vessels, and the general public).
 

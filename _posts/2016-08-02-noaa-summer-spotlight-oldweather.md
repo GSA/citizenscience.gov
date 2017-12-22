@@ -8,10 +8,10 @@ image: /assets/img/post-images/2016/08/OldWeatherShips.png
 categories:
   - Climate and Weather
   - Environment and Nature
+class: hide
 ---
-###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
 
-In order to understand what the weather will be like in the future, we need to understand what was like in the past. The OldWeather Arctic Project is a <a class="_58cn" href="https://www.facebook.com/hashtag/citizenscience" data-ft="{&quot;tn&quot;:&quot;*N&quot;,&quot;type&quot;:104}">#CitizenScience</a> project that, with the help of people like you, is turning old weather into new science. By studying ships’ logs dating back to the 19th century, we can find all sorts of weather data that we can plug into computer models and improve our climate projections.
+In order to understand what the weather will be like in the future, we need to understand what was like in the past. The OldWeather Arctic Project is a project that, with the help of people like you, is turning old weather into new science. By studying ships’ logs dating back to the 19th century, we can find all sorts of weather data that we can plug into computer models and improve our climate projections.
 
 Many of these logs are from ships that patrolled the Arctic, which is of particular interest, since it plays an important role in the Earth’s climate system. But, The OldWeather Arctic Project needs your help to collect the data from thousands of pages of logs. By using historical data like these ships’ logs and incorporating it into computer models, we can begin to paint a more complete picture of our climate’s history – and future.
 

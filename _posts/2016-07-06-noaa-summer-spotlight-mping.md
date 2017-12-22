@@ -7,9 +7,8 @@ permalink: /2016/07/06/noaa-summer-spotlight-mping/
 image: /assets/img/post-images/2016/07/mPING-app.jpg
 categories:
   - Research
+class: hide
 ---
-##### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
-
 Are raindrops falling on your head? Are you getting hassled by hail? Is snow glistening in your treetops? mPING needs your weather reports for their research!
 
 The NOAA National Severe Storms Laboratory is collecting public weather reports through a free app available for smart phones and mobile devices. The app is called &#8220;mPING&#8221; Meterological Phenomena Identification Near the Ground. Read more about the history of mPING (below), visit their website <http://mping.nssl.noaa.gov/>, and download the free app to become a citizen scientist/meteorologist!

@@ -8,9 +8,8 @@ image: /assets/img/post-images/2016/08/MDMAP.jpg
 categories:
   - Climate and Weather
   - Environment and Nature
-class: 
+class: hide
 ---
-###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
 
 The Marine Debris Monitoring and Assessment Project, or MDMAP, is a citizen science initiative that engages NOAA partners and volunteers across the nation to survey and record the amount and types of marine debris on shorelines. Each passionate and dedicated partner in the MDMAP network selects a nearby shoreline monitoring site that they return to monthly to conduct surveys and submit meaningful data to NOAA’s MDMAP Database.
 

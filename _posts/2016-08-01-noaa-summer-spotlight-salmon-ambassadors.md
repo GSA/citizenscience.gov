@@ -7,9 +7,8 @@ permalink: /2016/08/01/noaa-summer-spotlight-salmon-ambassadors/
 image: /assets/img/post-images/2016/08/Salmon-Ambassadors.jpg
 categories:
   - Environment and Nature
+class: hide
 ---
-##### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
-
 Many anglers regularly measure and record their catches, but one small group of citizen scientists takes it a step further and reports their measurements so scientists and fishery managers can learn from the data. These “Salmon Ambassadors” are providing valuable information.
 
 By looking at volunteer data from Lake Michigan and Lake Huron, biologists may be able to learn more about how stocked and wild fish contribute to catches around the lakes. Large salmon are important in bringing anglers to coastal towns, but volunteers also include measurements of released Chinook salmon that are too small for table fare. These small fish may not be very exciting to catch, but they represent the future of the fishery.

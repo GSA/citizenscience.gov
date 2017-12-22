@@ -8,9 +8,8 @@ image: /assets/img/post-images/2016/07/LiMPETSRockyIntertidal_JuneJordanHigh_Abe
 categories:
   - Education
   - Research
+class: hide
 ---
-##### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
-
 LiMPETS is a youth-based citizen science program that monitors the coastal ecosystems of California and helps students understand, value, and participate in science. Science teachers leverage this novel project to demonstrate the scientific process, fulfill education standards, and inspire over 6,000 students a year in environmental stewardship. Beyond the educational value of the program, the power of LiMPETS lies in the large quantity of data collected at more than 60 sites and over 600 miles of coastline. To fulfill its dual purpose of scientific advancement of intertidal ecology and science literacy among California youth, LiMPETS’ training and field protocols are tailored to young learners and have been iteratively improved over the past 15 years since the creation of the program.
 
 

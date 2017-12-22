@@ -8,8 +8,9 @@ image: /assets/img/post-images/2016/08/SOS-at-Acadia-partner-and-researcher.jpg
 categories:
   - Climate and Weather
   - Environment and Nature
+class: hide
 ---
-###### Summer Spotlight is a summer-long initiative organized by the Office of Education at NOAA to showcase citizen science projects from across the agency.
+
 
 Signs of the Seasons is a New England citizen science program with two purposes: to train and support volunteer observers to collect robust phenology data for active research projects; and to increase climate literacy and connection to place among New Englanders. Signs of the Seasons (SOS) has trained nearly 600 volunteers, from retirees to students, and provides ongoing support with development and access to new observation and data-exploration tools through numerous partnerships.
 
