@@ -41,5 +41,25 @@
 }
 
 td {
-	min-width: 175px;
+	min-width: 175px; 
 }
+
+.how-to-grid {
+	margin-right: 4em;
+	margin-left: 4em;
+}
+
+@media screen and (max-width: 600px) {
+.how-to-grid {
+	max-width: 200px;
+	margin: 0 auto;
+	margin-top: 1em;
+}
+	}
+
+
+@media screen and (max-width: 600px) {
+.how-to-image {
+	margin-top: 2em;
+}
+	}
