@@ -56,7 +56,7 @@ My favorite CRV experience has to be bringing my kids back out with me as adults
 
 Connect with your local Sea Grant program to see what citizen science programs they might offer. Or talk with a citizen scientist that you know and find out from them how they got involved. It’s so interesting and so much fun!
 
-Find more information on the Coastal Research Volunteer Program at <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fseagrant.unh.edu%2Fcrv&h=ATOXQ7AqxrigV6BMDaXjw1PKxNUeD2WnDoPP_HFLCMYWxArtUHEgIE-eR1b1ywZHqge4uY2fzlolBWhOyapOKkCHpJoJWw3kfwd4_fSX1EszV9DYRb8jvJFhULGF5-JFjwl2MvETncFLaXo4eBDj2fiPnCjvsHqdF4WaP7oL8zunBHdiC8UN4Qo0O_5g5vFHrJZgkUmSXaqMSh6DcBHgCDocCvdGGznXQfuwuMcO-Yv5WO2KfCOSj-1SstYzhUkOGvQ" target="_blank" rel="noopener">https://seagrant.unh.edu/crv</a>
+Find more information on the Coastal Research Volunteer Program at <a href="https://seagrant.unh.edu/crv" target="_blank" rel="noopener">https://seagrant.unh.edu/crv</a>
 
 Story told to Alyson Eberhardt  
 Coastal Ecosystems Specialist
