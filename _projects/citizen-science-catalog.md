@@ -15,4 +15,4 @@ This database, developed in response to a memorandum from the White House Office
 
 It is designed to improve cross-agency collaboration, reveal opportunities for new and high-impact projects, and make it easier for volunteers to find projects in which they can participate. Projects submitted to the catalog are validated for agency involvement by federal employees.
 
-[Visit the Catalog here]({{ project.url | prepend: site.baseurl }})
+[Visit the Catalog here](https://ccsinventory.wilsoncenter.org/)
