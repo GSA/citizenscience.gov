@@ -52,12 +52,12 @@ Don&#8217;t hesitate to get involved! You&#8217;ll grow as an educator, make lif
 
 *Learn more about the California Collaborative Fisheries Research Program:*
 
-Website: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fseagrant.mlml.calstate.edu%2Fresearch%2Fccfrp%2F&h=ATN0_dA4L46-ELBZSWraOckJayU3Lwf1KqCFqLS40GIm-oRrb8BG8nYZh2aV-GdH8OKIrY6WuuSZo-ckmYZVS0NPMGrTSLiXW4dMkNFFz1CVlwkTHbKfF7SQh7zG0n4_V5YQYC1XQ4WZSHT88BCI75p1H2Jt8bjICY5sGFsucrDs8uXDrMUuOnVxeU3s0bYkw4Rh9rMAQoynoR142tbr2k-LPO_UF73E-lBpSjpN5haEAcyMgeqhMoQjQ21J6O-QNTQ" target="_blank" rel="noopener">https://seagrant.mlml.calstate.edu/research/ccfrp/</a>.
+Website: <a href="https://www.mlml.calstate.edu/ccfrp/" target="_blank" rel="noopener">https://seagrant.mlml.calstate.edu/research/ccfrp/</a>.
 
 Facebook:[https://www.facebook.com/CaCollaborativeFisheriesResearchP…/](https://www.facebook.com/CaCollaborativeFisheriesResearchProgram.CCFRP/)
   
-Instagram: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fccfrp%2F&h=ATM8YQnJQYTqh0IxMwc434oghF2Gf8xWQXwcAlSd8cE729QZfgQO6-mI-jp9hLxsjcRx-Yotr7gFq-nR3kWJ1c7qpg1HkYCngJM7oFOqKZHomY-lPxnuAdsfBaNtXIqJM6q0D5e-yHlxFRI0PfEFCfEjc50Y93Yl3qjD66ty02tzuOO2lXafL1MMYuI6_h1zapcQgxw9JlIgXg0Wl41_Enlu26tVv6NwI13C6prctG9v0iiIuc2PCVNMX5XQ0-ut9zA" target="_blank" rel="noopener">https://www.instagram.com/ccfrp/</a>
+Instagram: <a href="https://www.instagram.com/ccfrp/" target="_blank" rel="noopener">https://www.instagram.com/ccfrp/</a>
   
-YouTube: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fuser%2FCCFRP&h=ATMcRa_g87xnWWQblMIVazPztCxL6Z5KYcD1FaF8akzrhaB2-RmSwfqgcML4ShY9D4oJ1RjmneToKEG5BbhD54r1XM9Oq-yxdoiuyR_KyqVS19Aow1QO-YPPaUWepFFxR1xqX5RH0gV0Ib0DsPUgE-D-ZG39VJRyk2P_Ft0jsHu2pQUfddktT6ByiueQc5Dy9Gf0ZlCD-9G6E6zyRcQMoQaG7zrpfjG_gwgjy1JnJGL2yVTHLpNdwhCSTQJ0jWMoeHo" target="_blank" rel="noopener">https://www.youtube.com/user/CCFRP</a>
+YouTube: <a href="https://www.youtube.com/user/CCFRP" target="_blank" rel="noopener">https://www.youtube.com/user/CCFRP</a>
 
 _This post originally appeared on the NOAA Education and Outreach Facebook <a class="ext-link" href="https://www.facebook.com/NOAAEducationOutreach/posts/919318068224007" rel="external nofollow">page</a>._
