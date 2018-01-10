@@ -17,4 +17,4 @@ The toolkit also provides case studies, models, and other resources, including s
 The toolkit was developed with the support and collaboration of more than 25 federal agencies in collaboration with OSTP, the Federal Crowdsourcing and Citizen Science Community of Practice (CCS), and GSA’s Open Opportunities Program.
 
 
-[Visit the Toolkit here]({{ project.url | prepend: site.baseurl }})
+[Visit the Toolkit here](https://federalist-proxy.app.cloud.gov/site/gsa/citizenscience.gov/toolkit/)
