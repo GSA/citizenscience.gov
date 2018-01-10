@@ -11,10 +11,27 @@ Through citizen science and crowdsourcing, the federal government and nongovernm
 
 In citizen science, the public participates voluntarily in the scientific process, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems. In crowdsourcing, organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving.
 
-#### Citizenscience.gov provides a three-part mechanism through which federal employees can collaborate to unlock the power of citizen science: 
-
-
-{% include projects.html %}
-
-
 *Citizenscience.gov was developed under a partnership between the U.S. General Services Administration (GSA) and the Woodrow Wilson International Center for Scholars (Wilson Center), a Trust Instrumentality of the U.S. government.*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
