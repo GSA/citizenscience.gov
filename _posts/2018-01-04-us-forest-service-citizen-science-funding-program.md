@@ -18,7 +18,7 @@ class: post-banner
 
 Do you have a brilliant idea for a citizen science project? The <a href="https://www.fs.fed.us/" target="blank" rel="noopener">U.S. Forest Service</a> may be able to fund it. The agency’s new Citizen Science Competitive Funding Program – the <a href="https://www.fs.fed.us/working-with-us/citizen-science/competitive-funding-program" target="blank" rel="noopener">CitSci Fund</a> – is an opportunity to receive up to $25,000 for your project.
 
-<div class="image-in-post-body" style="width: 150px">
+<div class="image-in-post-body-left" style="width: 150px">
   <img src="{{ site.baseurl }}/assets/img/post-images/2018/01/forest-service-measuring.jpg" alt="Young citizen scientist measuring wildlife." width="150"/>
 </div>
 
