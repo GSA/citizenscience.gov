@@ -45,7 +45,7 @@ layout: base
 Blog Section
 {% endcomment %}
 <section class="usa-grid usa-section">
-    <h1 class="page-heading">News</h1>
+    <h1 class="page-heading">Blog</h1>
     {% for post in site.posts limit: 3 %}
     <div class="usa-grid  blog-section">
         <div class="usa-width-one-third blog-list-image"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
