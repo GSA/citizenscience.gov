@@ -7,7 +7,7 @@ permalink: /about/toolkit/
 read-more-link: https://federalist-proxy.app.cloud.gov/site/gsa/citizenscience.gov/projects/toolkit/
 tags: project
 image: /assets/img/project-images/toolkit.jpg
-link-out: https://federalist-proxy.app.cloud.gov/site/gsa/citizenscience.gov/toolkit/
+link-out: https://www.citizenscience.gov/toolkit/
 ---
 ## About the Toolkit
 The Federal Crowdsourcing and Citizen Science Toolkit, released in September 2015, provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.
