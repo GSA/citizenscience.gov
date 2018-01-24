@@ -2,7 +2,7 @@
 title: U.S. Forest Service Now Accepting Applications for Citizen Science Funding Program
 author: Devon Merriman, Science Writer U.S. Forest Service Headquarter
 layout: posts
-permalink: /2018/01/04/us-forest-service-citizen-science-funding-program/
+permalink: /2018/01/04/u-s-forest-service-now-accepting-applications-for-citizen-science-funding-program/
 image: /assets/img/post-images/2018/01/cascade-butterfly-1024x683.jpg
 categories:
   - Biology
