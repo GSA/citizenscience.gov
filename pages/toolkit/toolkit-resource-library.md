@@ -11,7 +11,7 @@ permalink: /toolkit/resource-library/
 <h3><strong>What is Citizen Science?</strong></h3>
 <ul>
 <li><a href="http://www.scientificamerican.com/citizen-science/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science (Scientific American)</a></li>
-<li><a href="https://vimeo.com/105270675" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Co-Founder of Innocentive Speaks on Challenge Authoring (GovLab Video)</a></li>
+<li><a href="https://youtu.be/3FsrvC3NOc4" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Co-Founder of Innocentive Speaks on Challenge Authoring (GovLab Video)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop, PDF)</a></li>
 <li><a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Iterative Development? (IBM, PDF)</a></li>
 </ul>
@@ -34,7 +34,6 @@ permalink: /toolkit/resource-library/
 <ul>
 <li><a href="https://eyewire.org/signup" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">EyeWire: A Game to Map the Brain</a></li>
 <li><a href="http://www.galaxyzoo.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: A Crowdsourced Astronomy Project</a></li>
-<li><a href="http://blog.galaxyzoo.org/2015/03/02/first-radio-galaxy-zoo-paper-has-been-submitted/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: A Zooniverse Project Blog</a></li>
 <li><a href="https://www.rockethub.com/42228" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</a></li>
 <li><a href="http://www.patientslikeme.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Patients Like Me: A Healthcare Advocacy Project</a></li>
 </ul>
@@ -50,7 +49,7 @@ permalink: /toolkit/resource-library/
 <ul>
 <li><a href="https://crowdgov.wordpress.com/case-studies/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Government: Case Studies</a></li>
 <li><a href="https://www.digitalgov.gov/2014/03/19/hhs-uses-crowdsourcing-in-booming-mhealth-industry/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">HHS Uses Crowdsourcing in Booming mHealth Industry (DigitalGov)</a></li>
-<li><a href="http://nationalzoo.si.edu/scbi/migratorybirds/research/neighborhood_nestwatch/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Neighborhood Nestwatch (Smithsonian Migratory Bird Center)</a></li>
+<li><a href="https://neighborhoodnestwatch.weebly.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Neighborhood Nestwatch (Smithsonian Migratory Bird Center)</a></li>
 <li><a href="http://www.schoolofants.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">School of Ants: Project for School Children</a></li>
 </ul>
 <br>
@@ -95,7 +94,7 @@ permalink: /toolkit/resource-library/
 <h3>Evaluating Citizen Science</h3>
 <ul>
 <li><a href="http://www.jstor.org/stable/27786204?seq=1#page_scan_tab_contents" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Buckets of Resistance: Standards and the Effectiveness of Citizen Science (2010)</a></li>
-<li><a href="http://ts-si.org/files/doi101504IJODE2010035191.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Conceptual Model of Virtual Organizations for Citizen Science (2010)</a></li>
+<li><a href="https://crowston.syr.edu/sites/crowston.syr.edu/files/WigginsCrowstonIJODE2010.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Conceptual Model of Virtual Organizations for Citizen Science (2010)</a></li>
 <li><a href="http://uiuc.libguides.com/citizen-science/evaluation" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluating Citizen Science (2015)</a></li>
 <li><a href="http://www.esajournals.org/toc/fron/10/6" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Frontiers in Ecology and the Environment Citizen Science Collection</a></li>
 <li><a href="http://www.esa.org/esa/wp-content/uploads/2015/09/Issue19.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Investing in Citizen Science Can Improve Natural Resource Management and Environmental Protection (2015)</a></li>
@@ -137,7 +136,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www2.unb.ca/gge/Pubs/TR283.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues and Validation of Volunteered Geographic Information (2013)</a></li>
 <li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues in Using Citizen Science (2015)</a></li>
 <li><a href="https://www.genome.gov/27559982" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Trans-NIH Workshop to Explore the Ethical, Legal and Social Implications of Citizen Science</a></li>
-<li><a href="http://pacscenter.stanford.edu/sites/all/files/TweetingUpAStorm.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
+<li><a href="https://www.wilsoncenter.org/publication/tweeting-storm-the-promise-and-perils-crisis-mapping" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
 <li><a href="http://bit.ly/2BlulAG" class="ext-link" rel="external nofollow" target="_blank" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)</a></li>
 </ul>
 <br>
@@ -149,7 +148,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Choosing and Using Citizen Science (Centre for Ecology and Hydrology, PDF)</a></li>
 <li><a href="http://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/citizen-science-guide.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Citizen Science (UK Environmental Observation Framework, PDF)</a></li>
 <li><a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
-<li><a href="http://www.ceh.ac.uk/products/publications/understanding-citizen-science.html" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
+<li><a href="https://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
 </ul>
 <br>
 <h3>Community Engagement</h3>
@@ -157,7 +156,7 @@ permalink: /toolkit/resource-library/
 <li><a href="https://www.changemakers.com/storytelling" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">A Changemaker’s Guide to Storytelling</a></li>
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
-<li><a href="https://www.qld.gov.au/web/community-engagement/guides-factsheets/documents/engaging-queenslanders-methods-and-techniques.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF</a></li>
+<li><a href="http://www.wombatcreative.com.au/wp-content/uploads/2012/12/engaging-queenslanders-methods-and-techniques_2_.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
 </ul>
 <br>
@@ -176,7 +175,7 @@ permalink: /toolkit/resource-library/
 <br>
 <h3>Project Evaluation</h3>
 <ul>
-<li><a href="http://www.niehs.nih.gov/research/supported/dert/programs/peph/metrics/index.cfm" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Metrics: Web-based Training and Metrics Manual (National Institute of Environmental Health Sciences)</a></li>
+<li><a href="https://www.niehs.nih.gov/research/supported/translational/peph/metrics/index.cfm" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Metrics: Web-based Training and Metrics Manual (National Institute of Environmental Health Sciences)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/evaluation" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">User’s Guide for Evaluating Learning Outcomes from Citizen Science (Cornell Lab of Ornithology)</a></li>
 </ul>
 <br>
@@ -193,7 +192,7 @@ permalink: /toolkit/resource-library/
 <li><a href="https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Checklist of Requirements for Federal Websites and Digital Services (Digital Gov)</a></li>
 <li><a href="http://www.teklalabs.org/about/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Constructing Affordable Lab Equipment (Tekla Labs)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a></li>
-<li><a href="http://ombudsman.nih.gov/tools.html" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
+<li><a href="https://ombudsman.nih.gov/sites/default/files/A%20Conflict%20Resolution%20Framework.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
 <p><br></p>
 
