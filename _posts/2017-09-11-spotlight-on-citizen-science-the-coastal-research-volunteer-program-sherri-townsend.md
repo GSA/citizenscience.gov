@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Citizen Science | The Coastal Research Volunteer Program (Sherri Townsend)
+title: 'Spotlight on Citizen Science: The Coastal Research Volunteer Program (Sherri Townsend)'
 author: NOAA Office of Education
 layout: posts
 permalink: /2017/09/11/spotlight-on-citizen-science-the-coastal-research-volunteer-program-sherri-townsend/

@@ -1,5 +1,5 @@
 ---
-title: Spotlight on Citizen Science | Todd Kennedy
+title: 'Spotlight on Citizen Science: Todd Kennedy'
 author: NOAA Office of Education
 layout: posts
 permalink: /2017/09/20/spotlight-on-citizen-science-todd-kennedy/
