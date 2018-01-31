@@ -30,7 +30,7 @@ I was introduced to CCFRP by a colleague when I was hired to teach AP Environmen
 
 This project provides the unique opportunity for students to participate in a real-world research project connected to their course content. If students learn theory without application it can be difficult for them to connect with the issues we face every day in environmental science. Through this project students not only learn how this research is done but also why it’s needed, reinforcing sound scientific principles and the steps needed to address pressing environmental issues.
 
-<div class="image-in-post-body" style="width: 410px">
+<div class="image-in-post-body">
   <img src="{{ site.baseurl }}/assets/img/post-images/2017/09/todd-kennedy2.jpg" alt="Todd Kennedy holding fish." width="400"/>
   <p class="image-caption">
     Todd Kennedy (right) with a large Copper rockfish (Sebastes caurinus) held by undergraduate science crew member Chandler Skinner-Horne. This fish will provide information about the performance of marine protected areas along the central coast of California monitored by the California Collaborative Fisheries Research Program.

@@ -20,7 +20,7 @@ Asking a college student to use a cell phone for science sounds like a breeze. B
 
 The “CrowdMag Day” campaign at the University of Colorado this summer harnessed the power of several student interns as citizen scientists. The summer interns were participating in the Research Experience for Community College Students (RECCS) program. RECCS is a nine-week summer student research program in critical zone science for community college students in Colorado funded by the National Science Foundation. The program is coordinated by NCEI, the Cooperative Institute for Research in Environmental Sciences (CIRES) Cires Education Outreach , the University of Colorado, and the Boulder Creek Critical Zone Observatory.
 
-<div class="image-in-post-body" style="width: 610px">
+<div class="image-in-post-body">
   <img src="{{ site.baseurl }}/assets/img/post-images/2017/08/RECCS-volunteer.jpg" alt="Anjeliqu Morine sitting at computer." height="400"/>
   
   <p class="image-caption">

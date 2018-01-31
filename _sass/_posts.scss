@@ -1,7 +1,9 @@
+@media (min-width: 450px) {
 .image-in-post-body {
   float: right;
   margin-left: 2em;
   width: 410px
+}
 }
 
 .image-in-post-body-left {
@@ -20,16 +22,26 @@
 	overflow: hidden;
 }
 
+@media (max-width: 600px) {
+	.blog-list-image {
+		margin-bottom: 1em;
+	}
+}
+
 .center-top {
 	background-position: center -15em;
 }
 
+@media (min-width: 800px) {
 .center-top-eight {
 	background-position: center -8em;
 }
+}
 
+@media (min-width: 900px) {
 .center-top-twenty {
 	background-position: center -20em;
+}
 }
 
 .hide {

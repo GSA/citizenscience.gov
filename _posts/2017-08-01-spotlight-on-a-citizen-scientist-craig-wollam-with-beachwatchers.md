@@ -28,7 +28,7 @@ WSU BeachWatchers’ mission is to train environmental volunteers and citizen sc
 
 When NOAA Scientist Casey Rice sent out a message inviting citizens to participate in monitoring juvenile fish in the Snohomish River estuary, I jumped at the chance. He took me into muddy sloughs to set up funnel traps that collect fish on the ebbing tide. It was hard work pulling nets over slippery mud, but the fish we caught fascinated me. I guess I showed promise, because I was then invited to participate in surface trawling in Puget Sound. This research effort, led by Correigh Greene, is testing the effects of estuary restoration on juvenile Chinook salmon populations.
 
-<div class="image-in-post-body" style="width: 410px">
+<div class="image-in-post-body">
   <img src="{{ site.baseurl }}/assets/img/post-images/2017/08/salmon.jpg" alt="" width="400"/>
   
   <p class="image-caption">
