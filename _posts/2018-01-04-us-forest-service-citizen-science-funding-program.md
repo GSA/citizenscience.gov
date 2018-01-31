@@ -26,7 +26,7 @@ This pilot program’s goal is to demonstrate how collaborative citizen science 
 
 Projects can be for any topic, including biological, social, economic, and more. They must have a genuine scientific or management outcome, have two Projects leads – one from the Forest Service and one from a Partner organization, and demonstrate meaningful engagement of volunteers. The proposed project must take place on National Forest System lands or data and information collected must be used to meet a Forest Service information need.
 
-<div class="image-in-post-body" style="width: 410px">
+<div class="image-in-post-body">
   <img src="{{ site.baseurl }}/assets/img/post-images/2018/01/Midewin-NTP-450x300.jpg" alt="Group of citizen scientists holding butterfly nets." width="400"/>
 </div>
 

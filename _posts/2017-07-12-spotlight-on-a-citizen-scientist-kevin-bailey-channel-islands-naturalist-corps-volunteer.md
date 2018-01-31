@@ -20,7 +20,7 @@ class: post-banner
 
 This summer NOAA’s Office of Education is shining the spotlight on citizen science projects across the country. Learn more about the work of Kevin Bailey, Channel Islands Naturalist Corps volunteer at [NOAA Channel Islands National Marine Sanctuary](https://www.facebook.com/ChannelIslandsNMS/?fref=mentions){.profileLink} who is monitoring whales off the coast of California.
 
-<div class="image-in-post-body" style="width: 410px">
+<div class="image-in-post-body">
   <img class="wp-image-32956" src="{{ site.baseurl }}/assets/img/post-images/2017/07/walewatchingcreditbobperry.jpg" alt="photo of humpback whale spouts near whale watchers" height="400" />
   
   <p class="image-caption">
