@@ -32,12 +32,16 @@
 	background-position: center -15em;
 }
 
+@media (min-width: 800px) {
 .center-top-eight {
 	background-position: center -8em;
 }
+}
 
+@media (min-width: 900px) {
 .center-top-twenty {
 	background-position: center -20em;
+}
 }
 
 .hide {
