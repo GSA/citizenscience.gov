@@ -20,6 +20,12 @@
 	overflow: hidden;
 }
 
+@media (max-width: 600px) {
+	.blog-list-image {
+		margin-bottom: 1em;
+	}
+}
+
 .center-top {
 	background-position: center -15em;
 }
