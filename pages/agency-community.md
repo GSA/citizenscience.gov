@@ -26,7 +26,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Education | IES | Ross Santy |
 | Department of Energy | DOE | Carly Robinson |
 | Department of Health and Human Services | CDC | Juliana Cyril |
-| Department of Health and Human Services | FDA | Elaine Johanson |
+| Department of Health and Human Services | FDA | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | HHS | Sandeep Patel
 | Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theitz |
 | Department of Homeland Security | DHS | Jim Grove |
