@@ -106,7 +106,7 @@ collections:
     output: true
   team:
     output: true
-  catalogprojects: 
+  catalog-projects: 
     output: true
   how-to-steps:
     output: true

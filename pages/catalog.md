@@ -1,8 +1,9 @@
 ---
-layout: base
+layout: catalog-project-indv
 permalink: /catalog/
+pagination: 
+  enabled: true
 ---
 
 
-
-{% include catalog.html %}
+Catalog Description Text HERE
