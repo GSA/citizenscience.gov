@@ -1,19 +1,18 @@
 ---
-layout: toolkit-base
+layout: catalog-base
 ---
 
 <div class="parent-container">
 
-<div class="search-container">
-  <aside>
-    <h2>Search Here</h2>
-    <!-- add include here -->
-  </aside>
-</div>
+  <div class="search-container">
+    <aside>
+      <h2>Search Here</h2>
+      <!-- add include here -->
+    </aside>
+  </div>
 
-  <!--<div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">-->
   <div class="entry-container">
-  <div class="entry-header-container">
+    <div class="entry-header-container">
       <h2>
           <a href="{{ page.project_url }}">{{ page.project_name }}</a>
       </h2>
@@ -21,24 +20,24 @@ layout: toolkit-base
     </div>
     <div class="entry-lists-container">
       <div class="entry-left-items-container">
-      <p><span class="project-field">Geographic Scope: </span>{{ page.geographic_scope }}</p>
-      <p><span class="project-field">Status: </span>{{ page.status }}</p>
-      <p><span class="project-field">Recruiting Volunteers: </span>{{ page.recruiting }}</p>
-      <p><span class="project-field">Participant Age: </span>{{ page.participant_age }}</p>
-      <p><span class="project-field">Participation Tasks: </span>{{ page.participation_tasks }}</p>
-      <p><span class="project-field">Federal Government Sponsor: </span>{{ page.agency_sponsor }}</p>
-      <p><span class="project-field">Intended Outcomes: </span>{{ page.intended_outcomes }}</p>
-      <p><span class="project-field">Start Date: </span>{{ page.start_date }}</p>
-      <p><span class="project-field">Project Contact: </span>{{ page.project_contact }}</p>
+        <p><span class="project-field">Geographic Scope: </span>{{ page.geographic_scope }}</p>
+        <p><span class="project-field">Status: </span>{{ page.status }}</p>
+        <p><span class="project-field">Recruiting Volunteers: </span>{{ page.recruiting }}</p>
+        <p><span class="project-field">Participant Age: </span>{{ page.participant_age }}</p>
+        <p><span class="project-field">Participation Tasks: </span>{{ page.participation_tasks }}</p>
+        <p><span class="project-field">Federal Government Sponsor: </span>{{ page.agency_sponsor }}</p>
+        <p><span class="project-field">Intended Outcomes: </span>{{ page.intended_outcomes }}</p>
+        <p><span class="project-field">Start Date: </span>{{ page.start_date }}</p>
+        <p><span class="project-field">Project Contact: </span>{{ page.project_contact }}</p>
+      </div>
+
+      <div class="entry-right-items-container">
+        <p><span class="project-field">Fields of Science: </span>{{ page.project_topic }}</p>
+        <p><span class="project-field">Other Federal Government Sponsor: </span>{{ page.agency_sponsor_other }}</p>
+        <p><span class="project-field">Name of Nonfederal Government Sponsors: </span>{{ page.agency_partner_name }}</p>
+      </div>
+    </div> 
   </div>
 
-  <div class="entry-right-items-container">
-      <p><span class="project-field">Fields of Science: </span>{{ page.project_topic }}</p>
-      <p><span class="project-field">Other Federal Government Sponsor: </span>{{ page.agency_sponsor_other }}</p>
-      <p><span class="project-field">Name of Nonfederal Government Sponsors: </span>{{ page.agency_partner_name }}</p>
-  </div>
-</div> 
-</div>
-<!--</div>-->
 </div>
 
