@@ -26,7 +26,7 @@ layout: catalog-base
         <p><span class="project-field">Participant Age: </span>{{ page.participant_age }}</p>
         <p><span class="project-field">Participation Tasks: </span>{{ page.participation_tasks }}</p>
         <p><span class="project-field">Federal Government Sponsor: </span>{{ page.agency_sponsor }}</p>
-        <p><span class="project-field">Intended Outcomes: </span>{{ page.intended_outcomes }}</p>
+        {% include intended-outcomes.html %}
         <p><span class="project-field">Start Date: </span>{{ page.start_date }}</p>
         <p><span class="project-field">Project Contact: </span>{{ page.project_contact }}</p>
       </div>
