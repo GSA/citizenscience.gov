@@ -137,7 +137,7 @@ permalink: /toolkit/resource-library/
 <li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues in Using Citizen Science (2015)</a></li>
 <li><a href="https://www.genome.gov/27559982" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Trans-NIH Workshop to Explore the Ethical, Legal and Social Implications of Citizen Science</a></li>
 <li><a href="https://www.wilsoncenter.org/publication/tweeting-storm-the-promise-and-perils-crisis-mapping" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
-<li><a href="http://bit.ly/2BlulAG" class="ext-link" rel="external nofollow" target="_blank" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)</a></li>
+<li><a href="https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf" class="ext-link" rel="external nofollow" target="_blank" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act (Public Law 114–329)</a></li>
 </ul>
 <br>
 <h2><strong>Toolkits and Guides</strong></h2>
