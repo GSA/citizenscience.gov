@@ -1,4 +1,4 @@
-﻿type: FeatureCollection
+type: FeatureCollection
 features: 
 - 
 type: Feature
@@ -388,7 +388,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy, regulation, research_advancement"
 participant_age: "targeted_group, general_public"
 cartodb_id_0: 110
-project_topic: "animals, biology, Birds, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, education, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 21:13:47.609573+00"
@@ -694,7 +694,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement, Other"
 participant_age: "general_public, Other"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, ocean_water, science_policy, Other"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, ocean_water, science_policy, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -745,7 +745,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 189
-project_topic: "animals, biology, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-28 14:17:00.180468+00"
@@ -796,7 +796,7 @@ agency_partner: "museum, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, regulation, research_advancement, other"
 participant_age: other
 cartodb_id_0: null
-project_topic: "animals, biology,ecology_environment, health_medicine, nature_outdoors, ocean_water, science_policy, other"
+project_topic: "Animals, biology,ecology_environment, health_medicine, nature_outdoors, ocean_water, science_policy, other"
 approved: null
 updated_at: ""
 created_at: ""
@@ -898,7 +898,7 @@ agency_partner: formal_nonprofit
 intended_outcomes: "education, operational_integration_use, research_advancement"
 participant_age: teens
 cartodb_id_0: 123
-project_topic: "animals, biology, Birds, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, education, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038+00"
 created_at: "2015-03-31 19:24:04.938+00"
@@ -949,7 +949,7 @@ agency_partner: "college_university, museum"
 intended_outcomes: "inform_public_policy, research_advancement, Other"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, ecology_environment, Other"
+project_topic: "Animals, ecology_environment, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -1051,7 +1051,7 @@ agency_partner: community_group
 intended_outcomes: "community_engagement_outreach, inform_public_policy, operational_integration_use"
 participant_age: adults
 cartodb_id_0: 227
-project_topic: "animals, Birds, transportation"
+project_topic: "Animals, Birds, transportation"
 approved: "true"
 updated_at: "2015-09-30 13:54:14.23852+00"
 created_at: "2015-09-29 16:28:59.7321+00"
@@ -1306,7 +1306,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, regulation, research_advancement"
 participant_age: general_public
 cartodb_id_0: 196
-project_topic: "animals, biology, nature_outdoors, ocean_water, science_policy"
+project_topic: "Animals, biology, nature_outdoors, ocean_water, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-10 21:06:24.596867+00"
@@ -1357,7 +1357,7 @@ agency_partner: "college_university, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, health_medicine, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, Birds, ecology_environment, health_medicine, nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -1408,7 +1408,7 @@ agency_partner: "community_group, formal_nonprofit_ngo, museum, state_local_gove
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement, Other"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -1459,7 +1459,7 @@ agency_partner: "community_group, formal_nonprofit_ngo, museum, state_local_gove
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement, Other"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -1561,7 +1561,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, regulation, research_advancement"
 participant_age: "families, general_public, seniors, teens"
 cartodb_id_0: 120
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 16:41:59.634003+00"
@@ -1765,7 +1765,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, inform_public_policy"
 participant_age: general_public
 cartodb_id_0: 240
-project_topic: "animals, ecology_environment, nature_outdoors"
+project_topic: "Animals, ecology_environment, nature_outdoors"
 approved: "true"
 updated_at: "2015-11-19 16:48:48.016555+00"
 created_at: "2015-11-11 19:24:43.297764+00"
@@ -2122,7 +2122,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, regulation, research_advancement"
 participant_age: general_public
 cartodb_id_0: 188
-project_topic: "animals, biology, climate_weather, ecology_environment, nature_outdoors, science_policy"
+project_topic: "Animals, biology, climate_weather, ecology_environment, nature_outdoors, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-24 23:07:57.600918+00"
@@ -2377,7 +2377,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, Other"
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, nature_outdoors, insects"
+project_topic: "Animals, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -2887,7 +2887,7 @@ agency_partner: "formal_nonprofit_ngo, museum, state_local_govermment"
 intended_outcomes: "inform_public_policy, operational_integration_use, regulation, research_advancement, io_education"
 participant_age: general_public
 cartodb_id_0: 91
-project_topic: "animals, biology, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:34:09.979089+00"
@@ -2989,7 +2989,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, Other"
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, birds, ecology_environment, education, nature_outdoors, ocean_water, insects"
+project_topic: "Animals, biology, birds, ecology_environment, education, nature_outdoors, ocean_water, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -3040,7 +3040,7 @@ agency_partner: "college_university, museum"
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, birds, ecology_environment, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -3397,7 +3397,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, archeology, astronomy_space, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, physics, insects, psychology, social_science, transportation"
+project_topic: "Animals, archeology, astronomy_space, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, physics, insects, psychology, social_science, transportation"
 approved: null
 updated_at: null
 created_at: null
@@ -3550,7 +3550,7 @@ agency_partner: "formal_nonprofit_ngo, other"
 intended_outcomes: "proof_of_concept, research_advancement"
 participant_age: "middle_school_children, general_public, teens"
 cartodb_id_0: 92
-project_topic: "animals, birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, birds, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:34:09.979089+00"
@@ -3856,7 +3856,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, stat
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, regulation, research_advancement"
 participant_age: general_public
 cartodb_id_0: 173
-project_topic: "animals, biology, chemistry, climate_weather, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, chemistry, climate_weather, ecology_environment, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-08 16:15:57.886427+00"
@@ -3907,7 +3907,7 @@ agency_partner: "college_university, k12_education, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy, regulation, research_advancement"
 participant_age: "families, general_public, seniors, teens"
 cartodb_id_0: 131
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-06 20:27:51.671479+00"
@@ -3958,7 +3958,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, operational_integration_use"
 participant_age: "general_public, seniors"
 cartodb_id_0: 172
-project_topic: "animals, biology, climate_weather, ecology_environment, food, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, climate_weather, ecology_environment, food, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-07 19:05:08.840629+00"
@@ -4570,7 +4570,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy,  io_education, research_advancement"
 participant_age: targeted_group
 cartodb_id_0: 222
-project_topic: "animals, biology, birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, birds, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-25 18:41:09.748421+00"
 created_at: "2015-09-22 17:23:41.701693+00"
@@ -4723,7 +4723,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: "families, general_public, seniors, teens"
 cartodb_id_0: 207
-project_topic: "animals, archeology, astronomy_space, biology, birds, insects, nature_outdoors"
+project_topic: "Animals, archeology, astronomy_space, biology, birds, insects, nature_outdoors"
 approved: ""
 updated_at: "2015-09-16 18:38:38.795405+00"
 created_at: "2015-09-16 16:38:49.526727+00"
@@ -4774,7 +4774,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "targeted_group, Other"
 cartodb_id_0: null
-project_topic: "animals, birds, climate_weather, Computers and technology, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, birds, climate_weather, Computers and technology, ecology_environment, nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -4825,7 +4825,7 @@ agency_partner: k12_education
 intended_outcomes: "inform_public_policy, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group, Other"
 cartodb_id_0: null
-project_topic: "animals, birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, birds, ecology_environment, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5029,7 +5029,7 @@ agency_partner: "college_university, museum"
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use"
 participant_age: "general_public, middle_school_children"
 cartodb_id_0: null
-project_topic: "animals, biology, education, nature_outdoors, Other"
+project_topic: "Animals, biology, education, nature_outdoors, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -5131,7 +5131,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 199
-project_topic: "animals, archeology, biology, ecology_environment, Geology and earth science, nature_outdoors, ocean_water, physics"
+project_topic: "Animals, archeology, biology, ecology_environment, Geology and earth science, nature_outdoors, ocean_water, physics"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-11 15:05:40.923188+00"
@@ -5182,7 +5182,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, state_local_govermmen
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 190
-project_topic: "animals, biology, birds, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, birds, ecology_environment, education, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-28 14:21:00.123796+00"
@@ -5386,7 +5386,7 @@ agency_partner: "college_university, for_profit, state_local_government, formal_
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement, operational_integration_use"
 participant_age: "general_public, families, middle_school_children, teens"
 cartodb_id_0: 119
-project_topic: "animals, biology, ecology_environment, health_medicine, nature_outdoors, ocean_water, science_policy"
+project_topic: "Animals, biology, ecology_environment, health_medicine, nature_outdoors, ocean_water, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 16:41:59.634003+00"
@@ -5431,7 +5431,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, community_group, for_
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, families, targeted_group"
 cartodb_id_0: null
-project_topic: "animals, birds, Disaster response, ecology_environment, health_medicine, nature_outdoors, ocean_water"
+project_topic: "Animals, birds, Disaster response, ecology_environment, health_medicine, nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5686,7 +5686,7 @@ agency_partner: "community_group, formal_nonprofit_ngo, state_local_govermment, 
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "targeted_group, Other"
 cartodb_id_0: null
-project_topic: "animals, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5737,7 +5737,7 @@ agency_partner: ""
 intended_outcomes: research_advancement
 participant_age: "general_public, teens"
 cartodb_id_0: null
-project_topic: "animals, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, Birds, ecology_environment, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5788,7 +5788,7 @@ agency_partner: "college_university, Other"
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5941,7 +5941,7 @@ agency_partner: "formal_nonprofit_ngo, museum"
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: 221
-project_topic: "animals, nature_outdoors, ocean_water"
+project_topic: "Animals, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-25 18:41:07.337286+00"
 created_at: "2015-09-23 20:12:49.649619+00"
@@ -5992,7 +5992,7 @@ agency_partner: ""
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: 211
-project_topic: "animals, ecology_environment, nature_outdoors"
+project_topic: "Animals, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-18 19:33:03.377739+00"
 created_at: "2015-09-17 19:58:43.771258+00"
@@ -6145,7 +6145,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: 239
-project_topic: "animals, biology, insects, nature_outdoors"
+project_topic: "Animals, biology, insects, nature_outdoors"
 approved: "true"
 updated_at: "2015-11-19 16:48:45.454498+00"
 created_at: "2015-11-03 00:16:23.654606+00"
@@ -6349,7 +6349,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: targeted_group
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, education, food, geography, nature_outdoors"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, education, food, geography, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -6553,7 +6553,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, for_
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy, regulation, research_advancement"
 participant_age: general_public
 cartodb_id_0: 130
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-06 20:27:51.671479+00"
@@ -6757,7 +6757,7 @@ agency_partner: "for_profit, museum, state_local_govermment"
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 95
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:57:53.891476+00"
@@ -6859,7 +6859,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, ocean_water"
 approved: true
 updated_at: null
 created_at: null
@@ -6910,7 +6910,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 184
-project_topic: "animals, biology, Birds, ecology_environment, education, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, Birds, ecology_environment, education, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-13 21:46:12.258126+00"
@@ -6961,7 +6961,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, operational_integration_use, research_advancement"
 participant_age: "families, general_public"
 cartodb_id_0: 93
-project_topic: "animals, Birds, ecology_environment"
+project_topic: "Animals, Birds, ecology_environment"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:57:53.891476+00"
@@ -7012,7 +7012,7 @@ agency_partner: other
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 198
-project_topic: "animals, biology, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-10 23:12:03.843108+00"
@@ -7063,7 +7063,7 @@ agency_partner: ""
 intended_outcomes: research_advancement
 participant_age: ""
 cartodb_id_0: 128
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038+00"
 created_at: "2015-03-31 19:24:04.938+00"
@@ -7216,7 +7216,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement, operational_integration_use, inform_public_policy, research_advancement, io_education"
 participant_age: "general_public, elementary_school_children, middle_school_children, teens, families"
 cartodb_id_0: 107
-project_topic: "animals, biology, climate_weather, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, climate_weather, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:18:43.378799+00"
 created_at: "2015-03-30 21:13:47.609573+00"
@@ -7420,7 +7420,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, museum"
 intended_outcomes: "community_engagement_outreach, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 127
-project_topic: "animals, biology, ecology_environment, insects, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, insects, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038+00"
 created_at: "2015-03-31 19:24:04.938+00"
@@ -7573,7 +7573,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, Birds, ecology_environment, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -7675,7 +7675,7 @@ agency_partner: "for_profit, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement, Other"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, ocean_water, insects"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, ocean_water, insects"
 approved: null
 updated_at: ""
 created_at: ""
@@ -7879,7 +7879,7 @@ agency_partner: "college_university, other, state_local_govermment"
 intended_outcomes: "inform_public_policy, other, research_advancement"
 participant_age: "families, general_public, seniors, teens"
 cartodb_id_0: 212
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors"
 approved: true
 updated_at: "2015-09-18 19:32:58.944097+00"
 created_at: "2015-09-15 17:58:10.160034+00"
@@ -8440,7 +8440,7 @@ agency_partner: "college_university, state_local_govermment"
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "general_public, teens"
 cartodb_id_0: null
-project_topic: "animals, nature_outdoors"
+project_topic: "Animals, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -8542,7 +8542,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education"
 participant_age: "elementary_school_children, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, nature_outdoors, ocean_water, science_policy, Other"
+project_topic: "Animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, nature_outdoors, ocean_water, science_policy, Other"
 approved: null
 updated_at: ""
 created_at: ""
@@ -8899,7 +8899,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy"
 participant_age: "elementary_school_children, families, middle_school_children, general_public, seniors, teens"
 cartodb_id_0: 170
-project_topic: "animals, biology, chemistry, ecology_environment, education, Geology and earth science, insects, nature_outdoors"
+project_topic: "Animals, biology, chemistry, ecology_environment, education, Geology and earth science, insects, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-07 19:05:08.840629+00"
@@ -9103,7 +9103,7 @@ agency_partner: "college_university, other"
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, operational_integration_use, proof_of_concept, regulation, research_advancement"
 participant_age: ""
 cartodb_id_0: 205
-project_topic: "animals, ecology_environment, science_policy"
+project_topic: "Animals, ecology_environment, science_policy"
 approved: "true"
 updated_at: "2015-09-16 18:38:33.845193+00"
 created_at: "2015-09-15 21:50:57.190603+00"
@@ -9358,7 +9358,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, state_local_govermmen
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -9409,7 +9409,7 @@ agency_partner: ""
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement, community_engagement_outreach"
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, food, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, food, nature_outdoors, insects"
 approved: null
 updated_at: ""
 created_at: ""
@@ -9460,7 +9460,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group, Other"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: ""
 created_at: ""
@@ -12826,7 +12826,7 @@ agency_partner: "community_group, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy, research_advancement"
 participant_age: "families, middle_school_children, general_public, seniors, teens"
 cartodb_id_0: 134
-project_topic: "animals, biology, climate_weather, Computers and technology, ecology_environment, education, food, Geology and earth science, health_medicine, nature_outdoors, nature_outdoors, science_policy"
+project_topic: "Animals, biology, climate_weather, Computers and technology, ecology_environment, education, food, Geology and earth science, health_medicine, nature_outdoors, nature_outdoors, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-06 20:27:51.671479+00"
@@ -12877,7 +12877,7 @@ agency_partner: state_local_govermment
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: 210
-project_topic: "animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, Geology and earth science, insects, insects, ocean_water, physics, science_policy"
+project_topic: "Animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, Geology and earth science, insects, insects, ocean_water, physics, science_policy"
 approved: true
 updated_at: "2015-09-18 19:33:00.968446+00"
 created_at: "2015-09-16 21:18:08.545291+00"
@@ -13132,7 +13132,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -13330,7 +13330,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -13427,7 +13427,7 @@ agency_partner_name: Zooniverse
 cartodb_georef_status: null
 agency_sponsor_other: ""
 scistarter: False
-agency_sponsor: doe
+agency_sponsor: Department of Energy
 agency_partner: formal_nonprofit_ngo
 intended_outcomes: research_advancement
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
@@ -13483,7 +13483,7 @@ agency_partner: college_university
 intended_outcomes: "Community_engagement_outreach,public_policy_information_acquisition,io_education,operational_integration_use,research_advancement"
 participant_age: "general_public, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: "animals, climate_weather, Computers and technology, ecology_environment, food, geography, Geology and earth science, social_science"
+project_topic: "Animals, climate_weather, Computers and technology, ecology_environment, food, geography, Geology and earth science, social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -13534,7 +13534,7 @@ agency_partner: for_profit
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 203
-project_topic: "animals, biology, Computers and technology, ecology_environment, education, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, Computers and technology, ecology_environment, education, nature_outdoors, ocean_water"
 approved: ""
 updated_at: "2015-09-14 17:01:51.008+00"
 created_at: "2015-09-10 20:56:55.515+00"
@@ -13687,7 +13687,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -13840,7 +13840,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, io_education"
 participant_age: general_public
 cartodb_id_0: 197
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-10 21:35:15.863086+00"
@@ -14140,7 +14140,7 @@ agency_partner: null
 intended_outcomes: "io_education, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, archeology, astronomy_space, biology, Birds, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, health_medicine, nature_outdoors, ocean_water, physics, insects"
+project_topic: "Animals, archeology, astronomy_space, biology, Birds, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, health_medicine, nature_outdoors, ocean_water, physics, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -14644,7 +14644,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, archeology, biology, Birds, climate_weather, Computers and technology, Disaster response, ecology_environment, education, food, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, insects, science_policy, social_science, transportation"
+project_topic: "Animals, archeology, biology, Birds, climate_weather, Computers and technology, Disaster response, ecology_environment, education, food, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, insects, science_policy, social_science, transportation"
 approved: null
 updated_at: null
 created_at: null
@@ -14842,7 +14842,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment"
+project_topic: "Animals, biology, ecology_environment"
 approved: null
 updated_at: null
 created_at: null
@@ -14893,7 +14893,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "general_public, middle_school_children"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, education, nature_outdoors"
+project_topic: "Animals, biology, Birds, climate_weather, education, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -14995,7 +14995,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Computers and technology, insects"
+project_topic: "Animals, biology, Computers and technology, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -15505,7 +15505,7 @@ agency_partner: "college_university, museum"
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors, ocean_water, insects"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors, ocean_water, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -15607,7 +15607,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, education, geography, nature_outdoors, ocean_water, insects, science_policy"
+project_topic: "Animals, biology, Birds, ecology_environment, education, geography, nature_outdoors, ocean_water, insects, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -15658,7 +15658,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: middle_school_children
 cartodb_id_0: null
-project_topic: "animals, biology, climate_weather, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, climate_weather, ecology_environment, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -15709,7 +15709,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use"
 participant_age: middle_school_children
 cartodb_id_0: null
-project_topic: "animals, archeology, biology, chemistry, climate_weather, Computers and technology, ecology_environment, education, nature_outdoors, insects"
+project_topic: "Animals, archeology, biology, chemistry, climate_weather, Computers and technology, ecology_environment, education, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -15760,7 +15760,7 @@ agency_partner: null
 intended_outcomes: "io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, education, nature_outdoors, insects, Other"
+project_topic: "Animals, biology, education, nature_outdoors, insects, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -15964,7 +15964,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education"
 participant_age: "elementary_school_children, general_public, middle_school_children"
 cartodb_id_0: null
-project_topic: "animals, Birds, ecology_environment"
+project_topic: "Animals, Birds, ecology_environment"
 approved: null
 updated_at: null
 created_at: null
@@ -16015,7 +16015,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, state_local_govermmen
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -16219,7 +16219,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: families
 cartodb_id_0: null
-project_topic: "animals, biology, education, ocean_water"
+project_topic: "Animals, biology, education, ocean_water"
 approved: null
 updated_at: null
 created_at: null
@@ -16411,7 +16411,7 @@ agency_partner: college_university
 intended_outcomes: "io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, health_medicine, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, health_medicine, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -16558,7 +16558,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -16756,7 +16756,7 @@ agency_partner: "college_university, community_group, k12_education, museum, sta
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Computers and technology, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, Computers and technology, ecology_environment, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -16858,7 +16858,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, Birds, ecology_environment"
+project_topic: "Animals, Birds, ecology_environment"
 approved: null
 updated_at: null
 created_at: null
@@ -17011,7 +17011,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, education, Geology and earth science, nature_outdoors"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, education, Geology and earth science, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17062,7 +17062,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, Geology and earth science"
+project_topic: "Animals, biology, ecology_environment, Geology and earth science"
 approved: null
 updated_at: null
 created_at: null
@@ -17164,7 +17164,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, insects, Other"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, insects, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -17232,7 +17232,7 @@ geographic_scope: "Columbia River Watershed"
 start_date: "2012-03-01"
 status: active
 keywords: "Crayfish, Columbia River"
-project_description: "\"The River Mile\" is a network of educators, students, resource managers and scientists in the\nColumbia River Watershed exploring the essential question: “How do relationships among components of an ecosystem affect watershed health?”\nThe River Mile is a participant driven approach to learning about, researching and exploring the watershed health of the Columbia River. Participants share best practices, lessons learned, examples, links to resources and real world scientific data.\nStudents and teachers engage in science education outdoors and explore scientific practices through real-world resource projects. By spending time in the field investigating and researching their section of the watershed, groups become intimately familiar with their outdoor classroom.\nThe Pacific Northwest has only 3 native species of crayfish and at least 6 non-native species. It appears that there is only one native species in Washington. Data is lacking on crayfish, so you and your students can contribute critical data by collecting and sharing data about the crayfish in your area. Additional information about this study and its protocols is available on TRM’s webpage:"
+project_description: "The River Mile is a network of educators, students, resource managers and scientists in the Columbia River Watershed exploring the essential question: “How do relationships among components of an ecosystem affect watershed health?" The River Mile is a participant driven approach to learning about, researching and exploring the watershed health of the Columbia River. Participants share best practices, lessons learned, examples, links to resources and real world scientific data. Students and teachers engage in science education outdoors and explore scientific practices through real-world resource projects. By spending time in the field investigating and researching their section of the watershed, groups become intimately familiar with their outdoor classroom. The Pacific Northwest has only 3 native species of crayfish and at least 6 non-native species. It appears that there is only one native species in Washington. Data is lacking on crayfish, so you and your students can contribute critical data by collecting and sharing data about the crayfish in your area. Additional information about this study and its protocols is available on TRM’s webpage."
 project_url: "www.therivermile.org"
 project_name: "The River Mile Columbia River Watershed Crayfish Study"
 - 
@@ -17419,7 +17419,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, climate_weather, Computers and technology, ecology_environment, education, Geology and earth science, nature_outdoors, science_policy"
+project_topic: "Animals, biology, climate_weather, Computers and technology, ecology_environment, education, Geology and earth science, nature_outdoors, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -17470,7 +17470,7 @@ agency_partner: community_group
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public"
 cartodb_id_0: null
-project_topic: "animals, climate_weather, ecology_environment, education, geography, nature_outdoors, insects"
+project_topic: "Animals, climate_weather, ecology_environment, education, geography, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -17572,7 +17572,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, education, nature_outdoors"
+project_topic: "Animals, biology, Birds, education, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17674,7 +17674,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17725,7 +17725,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17776,7 +17776,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, Geology and earth science, nature_outdoors, insects"
+project_topic: "Animals, biology, Birds, Geology and earth science, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -17827,7 +17827,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children"
 cartodb_id_0: null
-project_topic: "animals, biology, climate_weather, ecology_environment, nature_outdoors, insects, Other"
+project_topic: "Animals, biology, climate_weather, ecology_environment, nature_outdoors, insects, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -17878,7 +17878,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, climate_weather, ecology_environment, nature_outdoors, insects, Other"
+project_topic: "Animals, biology, climate_weather, ecology_environment, nature_outdoors, insects, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -17929,7 +17929,7 @@ agency_partner: "college_university, for_profit"
 intended_outcomes: "inform_public_policy, io_education"
 participant_age: "families, general_public"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, nature_outdoors, ocean_water, insects"
+project_topic: "Animals, biology, Birds, ecology_environment, nature_outdoors, ocean_water, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -18184,7 +18184,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education"
 participant_age: elementary_school_children
 cartodb_id_0: null
-project_topic: "animals, ecology_environment, education"
+project_topic: "Animals, ecology_environment, education"
 approved: null
 updated_at: null
 created_at: null
@@ -18286,7 +18286,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, Other"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, nature_outdoors, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -18337,7 +18337,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, Birds, ecology_environment"
+project_topic: "Animals, Birds, ecology_environment"
 approved: null
 updated_at: null
 created_at: null
@@ -18439,7 +18439,7 @@ agency_partner: state_local_govermment
 intended_outcomes: "community_engagement_outreach, inform_public_policy, operational_integration_use"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, education, nature_outdoors, science_policy"
+project_topic: "Animals, biology, ecology_environment, education, nature_outdoors, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -20626,7 +20626,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "animals, biology, ecology_environment, nature_outdoors, insects"
+project_topic: "Animals, biology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -20722,7 +20722,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, geography, nature_outdoors, insects, social_science"
+project_topic: "Animals, biology, Birds, ecology_environment, geography, nature_outdoors, insects, social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -21118,7 +21118,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 224
-project_topic: "animals, biology, Birds, climate_weather, ecology_environment, education, nature_outdoors, social_science"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, education, nature_outdoors, social_science"
 approved: true
 updated_at: "2015-09-25 18:41:15.898823+00"
 created_at: "2015-09-24 16:33:39.440488+00"
@@ -21169,7 +21169,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: targeted_group
 cartodb_id_0: null
-project_topic: "animals, biology, Birds, ecology_environment, education, nature_outdoors, insects, science_policy, Other"
+project_topic: "Animals, biology, Birds, ecology_environment, education, nature_outdoors, insects, science_policy, Other"
 approved: true
 updated_at: null
 created_at: null
