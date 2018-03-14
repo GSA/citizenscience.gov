@@ -28,7 +28,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | CDC | Juliana Cyril |
 | Department of Health and Human Services | FDA | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | HHS | Sandeep Patel
-| Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theitz |
+| Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theisz |
 | Department of Homeland Security | DHS | Jim Grove |
 | Department of Housing and Urban Development | HUD | Jon Sperling |
 | Department of Interior | BLM | Mara Alexander |
