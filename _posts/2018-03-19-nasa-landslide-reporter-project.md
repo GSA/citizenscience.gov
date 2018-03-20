@@ -23,7 +23,7 @@ Landslides cause billions of dollars in property damage and thousands of deaths 
   </p>
 </div>
 
-Landslide Reporter is part of a larger project launched called the Cooperative Open Online Landslide Repository, or COOLR. The goal of the <a href="https://science.gsfc.nasa.gov/600/citizen-science/landslides/index.html" target="blank" rel="noopener">COOLR project</a> is to create the largest global public online landslide catalog available for everyone to share, download, and analyze landslide information. In order to build a catalog of this size that encompasses the entire Earth’s landslide activity, NASA scientists are turning to crowdsourcing and citizen science. 
+Landslide Reporter is part of a larger project launched called the Cooperative Open Online Landslide Repository, or COOLR. The goal of the <a href="https://landslides.nasa.gov" target="blank" rel="noopener">COOLR project</a> is to create the largest global public online landslide catalog available for everyone to share, download, and analyze landslide information. In order to build a catalog of this size that encompasses the entire Earth’s landslide activity, NASA scientists are turning to crowdsourcing and citizen science. 
 
 **How it works**
 
@@ -63,4 +63,4 @@ Citizen science extends our reach with more hands to create a more up-to-date la
 
 **How to get involved**
 
-Your data makes a difference! It helps to support decisions that can save lives and property. If you want to begin submitting your own landslide reports, we encourage you to check out the <a href="https://science.gsfc.nasa.gov/600/citizen-science/landslides/getstarted.html" target="blank" rel="noopener">Get Started</a> page of our website, <a href="https://science.gsfc.nasa.gov/600/citizen-science/landslides/index.html" target="blank" rel="noopener">landslides.nasa.gov</a>. Use the how-to guides and videos to learn how to use Landslide Reporter and make high-quality reports. We look forward to seeing your submissions!
+Your data makes a difference! It helps to support decisions that can save lives and property. If you want to begin submitting your own landslide reports, we encourage you to check out the <a href="https://science.gsfc.nasa.gov/600/citizen-science/landslides/getstarted.html" target="blank" rel="noopener">Get Started</a> page of our website, <a href="https://landslides.nasa.gov" target="blank" rel="noopener">landslides.nasa.gov</a>. Use the how-to guides and videos to learn how to use Landslide Reporter and make high-quality reports. We look forward to seeing your submissions!
