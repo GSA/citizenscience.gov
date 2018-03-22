@@ -2,14 +2,21 @@
 .image-in-post-body {
   float: right;
   margin-left: 2em;
-  width: 410px
+  width: 410px;
+}
+}
+
+@media (min-width: 450px) {
+.image-in-post-body-center {
+  margin: auto;
+  width: 410px;
 }
 }
 
 .image-in-post-body-left {
   float: left;
   margin-right: 2em;
-  width: 410px
+  width: 410px;
 }
 
 .image-caption {
