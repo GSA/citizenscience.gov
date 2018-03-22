@@ -1,6 +1,6 @@
 ---
 layout: catalog-project-indv
-permalink: /catalog/
+permalink: 
 pagination: 
   enabled: true
 ---
