@@ -35,7 +35,7 @@ There seems to be no stopping the ‘Woodlawn Wildcats’ from finding ways to i
 </div>
 
 These and other activities earned the Woodlawn Elementary School a “Green Flag” from The <a href="https://www.nwf.org/Eco-Schools-USA/Become-an-Eco-School"
- target="blank" rel="noopener">Eco-Schools USA</a> program. Of the more than 5,000 schools in the U.S. that participate in Eco-Schools, Woodlawn School is one of 100 that have won the prestigious Green Flag for investigating their school’s environments and identifying solutions for making their schools safer and healthier.
+ target="blank" rel="noopener">Eco-Schools USA</a> program. Of the more than 5,000 U.S. schools that participate in Eco-Schools, Woodlawn School is one of 100 that have won the prestigious Green Flag for investigating their school’s environments and identifying solutions for making their schools safer and healthier.
 
 The students tell their impressive story through a <a href="https://www.globe.gov/web/space-science-and-engineering-center/home/news/newsdetail/22538099/woodlawn-school" target="blank" rel="noopener">video</a> they created. You can learn about their GLOBE Program activities at the 2:19 to 2:54 mark.
 
