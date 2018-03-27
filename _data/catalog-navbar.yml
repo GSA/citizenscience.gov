@@ -1,0 +1,16 @@
+assigned:
+
+    -
+        text: Add A Project
+        href: 
+        permalink: /catalog/add-project/
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: About The Catalog
+        href: 
+        permalink: /catalog/about/
+        show_in_menu: true
+        show_in_footer: false
+
+unassigned: []
