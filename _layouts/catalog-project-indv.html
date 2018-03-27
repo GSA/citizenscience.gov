@@ -22,7 +22,7 @@ layout: catalog-base
       <div class="entry-left-items-container">
         <p><span class="project-field">Geographic Scope: </span>{{ page.geographic_scope }}</p>
         <p><span class="project-field">Status: </span>{{ page.status }}</p>
-        <p><span class="project-field">Recruiting Volunteers: </span>{{ page.recruiting }}</p>
+        {% include catalog-project-recruitment.html %}
         {% include participant-age.html %}
         <p><span class="project-field">Participation Tasks: </span>{{ page.participation_tasks }}</p>
         {% include intended-outcomes.html %}
