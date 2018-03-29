@@ -1,10 +1,18 @@
 
-
     <p><span class="project-field">Intended Outcomes: </span>
   		{% if page.intended_outcomes contains "operational_integration_use" %}
-  			Operational advancement,
+  			Programmatic,
   		{% endif %}
   		{% if page.intended_outcomes contains "research_advancement" %}
   			Research development,
+  		{% endif %}
+  		{% if page.intended_outcomes contains "community_engagement_outreach" %}
+  			Civic and community,
+  		{% endif %}
+  		{% if page.intended_outcomes contains "io_education" %}
+  			Individual learning,
+  		{% endif %}
+  		{% if page.intended_outcomes contains "inform_public_policy" %}
+  			Conservation,
   		{% endif %}
     </p>

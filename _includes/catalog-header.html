@@ -44,7 +44,7 @@
     <div class="usa-grid">
         <div class="usa-width-one-third">
           <a href="{{ site.baseurl }}/catalog/">
-            <img style="padding-top: 2em;" src="{{ site.baseurl }}/assets/img/catalog-logo.png" alt="{{ post.title }}"   title="{{ post.title }}">
+            <img src="{{ site.baseurl }}/assets/img/new-catalog-logo.jpg" alt="{{ post.title }}"   title="{{ post.title }}">
           </a>
         </div>
         <div class="usa-width-two-thirds">
@@ -54,7 +54,7 @@
         <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/close.svg" alt="close">
       </button>
       <ul class="usa-nav-primary usa-accordion">
-      {% assign navs = site.data.toolkit-navbar.assigned %}
+      {% assign navs = site.data.catalog-navbar.assigned %}
       {% for nav in navs %}
         {% if nav.show_in_menu %}
         <li>
