@@ -31,7 +31,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, Disaster response, Geology and earth science"
+project_topic: "computers_technology, disaster_response, geology_earth_science"
 approved: null
 updated_at: null
 created_at: null
@@ -337,7 +337,7 @@ agency_partner: "college_university, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: 101
-project_topic: "Geology and earth science, nature_outdoors, Disaster response"
+project_topic: "geology_earth_science nature_outdoors, Disaster response"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 20:15:18.800027+00"
@@ -490,7 +490,7 @@ agency_partner: ""
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: 96
-project_topic: "Geology and earth science, climate_weather, ocean_water"
+project_topic: "geology_earth_science climate_weather, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:57:53.891476+00"
@@ -541,7 +541,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, research_advancement, io_education"
 participant_age: general_public
 cartodb_id_0: 174
-project_topic: "astronomy_space, climate_weather, nature_outdoors, physics, Computers and technology"
+project_topic: "astronomy_space, climate_weather, nature_outdoors, physics, computers_technology"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-08 16:15:57.886427+00"
@@ -592,7 +592,7 @@ agency_partner: ""
 intended_outcomes: "operational_integration_use, proof_of_concept"
 participant_age: general_public
 cartodb_id_0: 209
-project_topic: "Geology and earth science, ocean_water"
+project_topic: "geology_earth_science ocean_water"
 approved: true
 updated_at: "2015-09-16 18:38:24.656668+00"
 created_at: "2015-09-14 20:40:20.301434+00"
@@ -1000,7 +1000,7 @@ agency_partner: college_university
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, teens, middle_school_children, elementary_school_children, families, targeted_group"
 cartodb_id_0: 133
-project_topic: "astronomy_space, Computers and technology"
+project_topic: "astronomy_space, computers_technology"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-06 20:27:51.671479+00"
@@ -1102,7 +1102,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, proof_of_concept, research_advancement"
 participant_age: general_public
 cartodb_id_0: 193
-project_topic: "astronomy_space, Geology and earth science, nature_outdoors, physics, transportation"
+project_topic: "astronomy_space, geology_earth_science nature_outdoors, physics, transportation"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-10 20:24:05.159083+00"
@@ -1153,7 +1153,7 @@ agency_partner: ""
 intended_outcomes: "research_advancement, Other"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: null
-project_topic: "archeology, astronomy_space, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, food, geography, Geology and earth science, health_medicine, physics, psychology, social_science, transportation"
+project_topic: "archeology, astronomy_space, biology, chemistry, climate_weather, computers_technology, disaster_response, ecology_environment, education, food, geography, geology_earth_science health_medicine, physics, psychology, social_science, transportation"
 approved: null
 updated_at: ""
 created_at: ""
@@ -1255,7 +1255,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "general_public, teens"
 cartodb_id_0: null
-project_topic: "biology, climate_weather, ecology_environment, education, Geology and earth science, nature_outdoors"
+project_topic: "biology, climate_weather, ecology_environment, education, geology_earth_science nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -1816,7 +1816,7 @@ agency_partner: ""
 intended_outcomes: "operational_integration_use, community_engagement_outreach"
 participant_age: general_public
 cartodb_id_0: 118
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 15:42:38.378008+00"
@@ -1969,7 +1969,7 @@ agency_partner: "college_university, state_local_govermment, Other"
 intended_outcomes: "research_advancement, Other"
 participant_age: Other
 cartodb_id_0: null
-project_topic: "biology, Computers and technology, health_medicine"
+project_topic: "biology, computers_technology, health_medicine"
 approved: null
 updated_at: ""
 created_at: ""
@@ -2020,7 +2020,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, operational_integration_use, inform_public_policy, regulation, research_advancement"
 participant_age: "elementary_school_children, families, middle_school_children, general_public, seniors, teens"
 cartodb_id_0: 90
-project_topic: "ecology_environment, Geology and earth science, nature_outdoors, ocean_water"
+project_topic: "ecology_environment, geology_earth_science nature_outdoors, ocean_water"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 19:34:09.979089+00"
@@ -2071,7 +2071,7 @@ agency_partner: ""
 intended_outcomes: Other
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, health_medicine"
+project_topic: "computers_technology, health_medicine"
 approved: null
 updated_at: ""
 created_at: ""
@@ -2581,7 +2581,7 @@ agency_partner: "community_group, k12_education, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education"
 participant_age: "targeted_group, teens"
 cartodb_id_0: null
-project_topic: "climate_weather, Disaster response, nature_outdoors"
+project_topic: "climate_weather, disaster_response, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -2802,7 +2802,7 @@ geographic_scope: NATIONAL
 start_date: 2014
 status: active
 keywords: "Information datasource; information sharing, cooridination and collaboration"
-project_description: "Operation Dragon Fire (ODF) bridges the gap between data overload and meaningful and actionable information. As a clearinghouse or data marketplace for disaster response, ODF will provide a means to identify, aggregate, validate, and analyze data from multiple sources, and access to applicable information via multiple channels. With ODF, participating entities, including government at all levels, non-profits, response organizations, first responders, private sector industry, corporations, technology platforms, and the public can make faster, smarter decisions, with information provided by a preferred and trusted source. ODF strives to create an environment where unified, timely, and reliable information is available before, during, and after emergencies ODF will serve as a data conduit, connecting the public and private sectors, to encourage information sharing, coordination, and collaboration across the response community. Project kickoff was in June 2014."
+project_description: "Operation Dragon Fire (ODF) bridges the gap between data overload and meaningful and actionable information. As a clearinghouse or data marketplace for disaster_response, ODF will provide a means to identify, aggregate, validate, and analyze data from multiple sources, and access to applicable information via multiple channels. With ODF, participating entities, including government at all levels, non-profits, response organizations, first responders, private sector industry, corporations, technology platforms, and the public can make faster, smarter decisions, with information provided by a preferred and trusted source. ODF strives to create an environment where unified, timely, and reliable information is available before, during, and after emergencies ODF will serve as a data conduit, connecting the public and private sectors, to encourage information sharing, coordination, and collaboration across the response community. Project kickoff was in June 2014."
 project_url: "http://odf.nvoad.org/"
 project_name: "Operation Dragon Fire"
 - 
@@ -2836,7 +2836,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "astronomy_space, Computers and technology"
+project_topic: "astronomy_space, computers_technology"
 approved: null
 updated_at: ""
 created_at: ""
@@ -3397,7 +3397,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, archeology, astronomy_space, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, physics, insects, psychology, social_science, transportation"
+project_topic: "Animals, archeology, astronomy_space, biology, chemistry, climate_weather, computers_technology, disaster_response, ecology_environment, education, geography, geology_earth_science health_medicine, nature_outdoors, ocean_water, physics, insects, psychology, social_science, transportation"
 approved: null
 updated_at: null
 created_at: null
@@ -3499,7 +3499,7 @@ agency_partner: "for_profit, college_university"
 intended_outcomes: "community engagement outreach, inform public policy, io education, operational integration use, research advancement."
 participant_age: "general_public, teens"
 cartodb_id_0: null
-project_topic: "climate_weather, Computers and technology, ecology_environment, Geology and earth science, nature_outdoors, ocean_water"
+project_topic: "climate_weather, computers_technology, ecology_environment, geology_earth_science nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -3652,7 +3652,7 @@ agency_partner: "formal_nonprofit_ngo, for_profit"
 intended_outcomes: "inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, middle_school_children, general_public, teens"
 cartodb_id_0: 181
-project_topic: "Computers and technology, science_policy, social_science"
+project_topic: "computers_technology, science_policy, social_science"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-06-02 16:49:39.150435+00"
@@ -4774,7 +4774,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "targeted_group, Other"
 cartodb_id_0: null
-project_topic: "Animals, birds, climate_weather, Computers and technology, ecology_environment, nature_outdoors, ocean_water"
+project_topic: "Animals, birds, climate_weather, computers_technology, ecology_environment, nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5131,7 +5131,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 199
-project_topic: "Animals, archeology, biology, ecology_environment, Geology and earth science, nature_outdoors, ocean_water, physics"
+project_topic: "Animals, archeology, biology, ecology_environment, geology_earth_science nature_outdoors, ocean_water, physics"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-11 15:05:40.923188+00"
@@ -5233,7 +5233,7 @@ agency_partner: ""
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "astronomy_space, geography, Geology and earth science, nature_outdoors"
+project_topic: "astronomy_space, geography, geology_earth_science nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5284,7 +5284,7 @@ agency_partner: "college_university, state_local_government"
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group, Other"
 cartodb_id_0: null
-project_topic: "Computers and technology, Disaster response, Geology and earth science"
+project_topic: "computers_technology, disaster_response, geology_earth_science"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5335,7 +5335,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "ecology_environment, Geology and earth science, nature_outdoors"
+project_topic: "ecology_environment, geology_earth_science nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5431,7 +5431,7 @@ agency_partner: "college_university, formal_nonprofit_ngo, community_group, for_
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, families, targeted_group"
 cartodb_id_0: null
-project_topic: "Animals, birds, Disaster response, ecology_environment, health_medicine, nature_outdoors, ocean_water"
+project_topic: "Animals, birds, disaster_response, ecology_environment, health_medicine, nature_outdoors, ocean_water"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5482,7 +5482,7 @@ agency_partner: state_local_govermment
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: 113
-project_topic: "astronomy_space, climate_weather, Computers and technology, ecology_environment, Geology and earth science, ocean_water, science_policy"
+project_topic: "astronomy_space, climate_weather, computers_technology, ecology_environment, geology_earth_science ocean_water, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 13:29:22.563754+00"
@@ -5498,7 +5498,7 @@ participation_tasks: "data_entry, geolocation, classification_tagging, finding_e
 geographic_scope: International
 start_date: "2013-10-01"
 status: active
-keywords: "Proof of concept, disaster response, damage maps, natural disaster, remote sensing, Synthetic Aperture Radar"
+keywords: "Proof of concept, disaster_response, damage maps, natural disaster, remote sensing, Synthetic Aperture Radar"
 project_description: "The Advanced Rapid Imaging and Analysis Project at NASA's Jet Propulsion Laboratory and the California Institute of Technology develops algorithms and a system to automatically respond to natural disaster events and rapidly produce decision support information, using Synthetic Aperture Radar (SAR), Global Positioning System (GPS), and seismic data.  The ARIA Damage Validation Project combines change detection maps derived from SAR data and optical data using human brains through a mobile-friendly web interface. The crowdsourcing produces improved version of damage detection maps decreasing the number of false positives."
 project_url: "http://aria.jpl.nasa.gov/"
 project_name: "The Advanced Rapid Imaging and Analysis Project (ARIA) Damage Validation Project"
@@ -5584,7 +5584,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, ecology_environment, Geology and earth science, nature_outdoors"
+project_topic: "computers_technology, ecology_environment, geology_earth_science nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -5635,7 +5635,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: 104
-project_topic: "Geology and earth science, Disaster response"
+project_topic: "geology_earth_science Disaster response"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 21:13:47.609573+00"
@@ -5890,7 +5890,7 @@ agency_partner: college_university
 intended_outcomes: operational_integration_use
 participant_age: "general_public, teens"
 cartodb_id_0: 183
-project_topic: "Computers and technology, Disaster response, food"
+project_topic: "computers_technology, disaster_response, food"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-12 15:08:20.215979+00"
@@ -6043,7 +6043,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: 124
-project_topic: "Geology and earth science, nature_outdoors, Disaster response"
+project_topic: "geology_earth_science nature_outdoors, Disaster response"
 approved: true
 updated_at: "2015-09-14 17:01:51.038+00"
 created_at: "2015-03-31 19:24:04.938+00"
@@ -7114,7 +7114,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, proof_of_concept"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 185
-project_topic: "education, Geology and earth science"
+project_topic: "education, geology_earth_science"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-08-18 17:55:51.680977+00"
@@ -7267,7 +7267,7 @@ agency_partner: "college_university, community_group, state_local_govermment, Ot
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: "general_public, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "climate_weather, Computers and technology, nature_outdoors"
+project_topic: "climate_weather, computers_technology, nature_outdoors"
 approved: null
 updated_at: ""
 created_at: ""
@@ -7318,7 +7318,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement"
 participant_age: general_public
 cartodb_id_0: 230
-project_topic: "Computers and technology, ecology_environment, science_policy"
+project_topic: "computers_technology, ecology_environment, science_policy"
 approved: true
 updated_at: "2015-09-30 14:16:12.675611+00"
 created_at: "2015-09-28 23:31:11.037076+00"
@@ -7777,7 +7777,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, operational_integration_use, io_education, research_advancement"
 participant_age: "families, middle_school_children, general_public, teens"
 cartodb_id_0: 192
-project_topic: "Computers and technology, Disaster response, Geology and earth science, geography"
+project_topic: "computers_technology, disaster_response, geology_earth_science geography"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-09-04 13:13:07.976338+00"
@@ -7828,7 +7828,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: Geology and earth science
+project_topic: geology_earth_science
 approved: true
 updated_at: ""
 created_at: ""
@@ -7930,7 +7930,7 @@ agency_partner: "community_group, for_profit, state_local_govermment"
 intended_outcomes: "operational_integration_use, io_education, research_advancement"
 participant_age: "families, general_public, seniors"
 cartodb_id_0: 116
-project_topic: "Computers and technology, science_policy"
+project_topic: "computers_technology, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 13:29:22.563754+00"
@@ -7981,7 +7981,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, education, inform_public_policy, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: 228
-project_topic: "Computers and technology, ecology_environment, science_policy"
+project_topic: "computers_technology, ecology_environment, science_policy"
 approved: true
 updated_at: "2015-09-30 13:54:17.554+00"
 created_at: "2015-09-30 00:06:52.106+00"
@@ -8032,7 +8032,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, for_
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy"
 participant_age: general_public
 cartodb_id_0: 179
-project_topic: "Computers and technology, Disaster response, education"
+project_topic: "computers_technology, disaster_response, education"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-06-02 16:49:39.150435+00"
@@ -8083,7 +8083,7 @@ agency_partner: state_local_govermment
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "ecology_environment, education, Geology and earth science, health_medicine, nature_outdoors"
+project_topic: "ecology_environment, education, geology_earth_science health_medicine, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -8134,7 +8134,7 @@ agency_partner: community_group
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "biology, chemistry, climate_weather, Computers and technology, ecology_environment, education, Geology and earth science, nature_outdoors, ocean_water, science_policy"
+project_topic: "biology, chemistry, climate_weather, computers_technology, ecology_environment, education, geology_earth_science nature_outdoors, ocean_water, science_policy"
 approved: null
 updated_at: ""
 created_at: ""
@@ -8236,7 +8236,7 @@ agency_partner: null
 intended_outcomes: "research_advancement, Other"
 participant_age: "general_public, targeted_group"
 cartodb_id_0: null
-project_topic: "ecology_environment, Geology and earth science, health_medicine, nature_outdoors"
+project_topic: "ecology_environment, geology_earth_science health_medicine, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -8542,7 +8542,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education"
 participant_age: "elementary_school_children, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, geography, Geology and earth science, nature_outdoors, ocean_water, science_policy, Other"
+project_topic: "Animals, biology, chemistry, climate_weather, computers_technology, disaster_response, ecology_environment, education, geography, geology_earth_science nature_outdoors, ocean_water, science_policy, Other"
 approved: null
 updated_at: ""
 created_at: ""
@@ -8695,7 +8695,7 @@ agency_partner: ""
 intended_outcomes: "community_engagement_outreach, operational_integration_use, proof_of_concept"
 participant_age: "families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 111
-project_topic: "Computers and technology, transportation"
+project_topic: "computers_technology, transportation"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-30 21:13:47.609573+00"
@@ -8711,7 +8711,7 @@ participation_tasks: ""
 geographic_scope: National
 start_date: "2014-11-20"
 status: complete
-keywords: "Department of Energy, DOE, disaster response, gas stations, power outage, crowdsourcing"
+keywords: "Department of Energy, DOE, disaster_response, gas stations, power outage, crowdsourcing"
 project_description: "Lantern live (v1.0.4) is a mobile application (app) released by the Department of Energy (DOE). The app was created following Hurricane Sandy, when the energy department identified the need to provide real time information on energy during crises. DOE considers Lantern Live a pilot project, designed to investigate the potential for citizen science and crowdsourcing while informing best practices for government app development. Lantern Live’s code will be open source, allowing external innovators to iterate on the current technology to take advantage of the opportunities that open government and open data support."
 project_url: "http://en.openei.org/doe-opendata/dataset/utility-outage-information"
 project_name: "Lantern Live"
@@ -8899,7 +8899,7 @@ agency_partner: "college_university, community_group, formal_nonprofit_ngo, k12_
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy"
 participant_age: "elementary_school_children, families, middle_school_children, general_public, seniors, teens"
 cartodb_id_0: 170
-project_topic: "Animals, biology, chemistry, ecology_environment, education, Geology and earth science, insects, nature_outdoors"
+project_topic: "Animals, biology, chemistry, ecology_environment, education, geology_earth_science insects, nature_outdoors"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-07 19:05:08.840629+00"
@@ -9307,7 +9307,7 @@ agency_partner: ""
 intended_outcomes: "operational_integration_use, inform_public_policy, regulation"
 participant_age: general_public
 cartodb_id_0: 115
-project_topic: "Computers and technology, science_policy, social_science, Disaster response"
+project_topic: "computers_technology, science_policy, social_science, Disaster response"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 13:29:22.563754+00"
@@ -12571,7 +12571,7 @@ agency_partner: "community_group, state_local_govermment"
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "archeology, climate_weather, ecology_environment, Geology and earth science, nature_outdoors"
+project_topic: "archeology, climate_weather, ecology_environment, geology_earth_science nature_outdoors"
 approved: true
 updated_at: null
 created_at: null
@@ -12826,7 +12826,7 @@ agency_partner: "community_group, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, inform_public_policy, research_advancement"
 participant_age: "families, middle_school_children, general_public, seniors, teens"
 cartodb_id_0: 134
-project_topic: "Animals, biology, climate_weather, Computers and technology, ecology_environment, education, food, Geology and earth science, health_medicine, nature_outdoors, nature_outdoors, science_policy"
+project_topic: "Animals, biology, climate_weather, computers_technology, ecology_environment, education, food, geology_earth_science health_medicine, nature_outdoors, nature_outdoors, science_policy"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-04-06 20:27:51.671479+00"
@@ -12877,7 +12877,7 @@ agency_partner: state_local_govermment
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: 210
-project_topic: "Animals, biology, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, Geology and earth science, insects, insects, ocean_water, physics, science_policy"
+project_topic: "Animals, biology, chemistry, climate_weather, computers_technology, disaster_response, ecology_environment, education, geology_earth_science insects, insects, ocean_water, physics, science_policy"
 approved: true
 updated_at: "2015-09-18 19:33:00.968446+00"
 created_at: "2015-09-16 21:18:08.545291+00"
@@ -13030,7 +13030,7 @@ agency_partner: ""
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: "general_public, targeted_group, Other"
 cartodb_id_0: null
-project_topic: "Computers and technology, Disaster response, Geology and earth science"
+project_topic: "computers_technology, disaster_response, geology_earth_science"
 approved: null
 updated_at: ""
 created_at: ""
@@ -13081,7 +13081,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: "archeology, biology, climate_weather, Computers and technology, ecology_environment, education, geography, nature_outdoors"
+project_topic: "archeology, biology, climate_weather, computers_technology, ecology_environment, education, geography, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -13234,7 +13234,7 @@ agency_partner: college_university
 intended_outcomes: "io_education, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "geography, Geology and earth science, nature_outdoors"
+project_topic: "geography, geology_earth_science nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -13483,7 +13483,7 @@ agency_partner: college_university
 intended_outcomes: "Community_engagement_outreach,public_policy_information_acquisition,io_education,operational_integration_use,research_advancement"
 participant_age: "general_public, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: "Animals, climate_weather, Computers and technology, ecology_environment, food, geography, Geology and earth science, social_science"
+project_topic: "Animals, climate_weather, computers_technology, ecology_environment, food, geography, geology_earth_science social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -13534,7 +13534,7 @@ agency_partner: for_profit
 intended_outcomes: "community_engagement_outreach, io_education, inform_public_policy, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, seniors, teens"
 cartodb_id_0: 203
-project_topic: "Animals, biology, Computers and technology, ecology_environment, education, nature_outdoors, ocean_water"
+project_topic: "Animals, biology, computers_technology, ecology_environment, education, nature_outdoors, ocean_water"
 approved: ""
 updated_at: "2015-09-14 17:01:51.008+00"
 created_at: "2015-09-10 20:56:55.515+00"
@@ -13585,7 +13585,7 @@ agency_partner: college_university
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "biology, chemistry, Computers and technology, health_medicine"
+project_topic: "biology, chemistry, computers_technology, health_medicine"
 approved: null
 updated_at: null
 created_at: null
@@ -13891,7 +13891,7 @@ agency_partner: college_university
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: "archeology, biology, climate_weather, Computers and technology, ecology_environment, education, geography, nature_outdoors"
+project_topic: "archeology, biology, climate_weather, computers_technology, ecology_environment, education, geography, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -13987,7 +13987,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "climate_weather, Computers and technology, ecology_environment, education, geography, Geology and earth science, Other"
+project_topic: "climate_weather, computers_technology, ecology_environment, education, geography, geology_earth_science Other"
 approved: null
 updated_at: null
 created_at: null
@@ -14038,7 +14038,7 @@ agency_partner: "college_university, community_group, for_profit, formal_nonprof
 intended_outcomes: "io_education, research_advancement"
 participant_age: "elementary_school_children, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "astronomy_space, Computers and technology, Other"
+project_topic: "astronomy_space, computers_technology, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -14140,7 +14140,7 @@ agency_partner: null
 intended_outcomes: "io_education, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Animals, archeology, astronomy_space, biology, Birds, chemistry, climate_weather, Computers and technology, Disaster response, ecology_environment, education, health_medicine, nature_outdoors, ocean_water, physics, insects"
+project_topic: "Animals, archeology, astronomy_space, biology, Birds, chemistry, climate_weather, computers_technology, disaster_response, ecology_environment, education, health_medicine, nature_outdoors, ocean_water, physics, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -14242,7 +14242,7 @@ agency_partner: null
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -14344,7 +14344,7 @@ agency_partner: null
 intended_outcomes: research_advancement
 participant_age: "families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "astronomy_space, Computers and technology, physics"
+project_topic: "astronomy_space, computers_technology, physics"
 approved: null
 updated_at: null
 created_at: null
@@ -14395,7 +14395,7 @@ agency_partner: "college_university, community_group, museum"
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "biology, Computers and technology, ecology_environment, nature_outdoors, insects"
+project_topic: "biology, computers_technology, ecology_environment, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -14446,7 +14446,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public"
 cartodb_id_0: null
-project_topic: "Computers and technology, ecology_environment, education, ocean_water, psychology, social_science"
+project_topic: "computers_technology, ecology_environment, education, ocean_water, psychology, social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -14542,7 +14542,7 @@ agency_partner: null
 intended_outcomes: research_advancement
 participant_age: "general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "climate_weather, Geology and earth science, physics"
+project_topic: "climate_weather, geology_earth_science physics"
 approved: null
 updated_at: null
 created_at: null
@@ -14593,7 +14593,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "biology, climate_weather, Computers and technology, health_medicine"
+project_topic: "biology, climate_weather, computers_technology, health_medicine"
 approved: null
 updated_at: null
 created_at: null
@@ -14644,7 +14644,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, archeology, biology, Birds, climate_weather, Computers and technology, Disaster response, ecology_environment, education, food, geography, Geology and earth science, health_medicine, nature_outdoors, ocean_water, insects, science_policy, social_science, transportation"
+project_topic: "Animals, archeology, biology, Birds, climate_weather, computers_technology, disaster_response, ecology_environment, education, food, geography, geology_earth_science health_medicine, nature_outdoors, ocean_water, insects, science_policy, social_science, transportation"
 approved: null
 updated_at: null
 created_at: null
@@ -14740,7 +14740,7 @@ agency_partner: college_university
 intended_outcomes: "operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, Other"
+project_topic: "computers_technology, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -14791,7 +14791,7 @@ agency_partner: college_university
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -14944,7 +14944,7 @@ agency_partner: college_university
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -14995,7 +14995,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, Computers and technology, insects"
+project_topic: "Animals, biology, computers_technology, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -15046,7 +15046,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, ecology_environment, Other"
+project_topic: "computers_technology, ecology_environment, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -15148,7 +15148,7 @@ agency_partner: null
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -15199,7 +15199,7 @@ agency_partner: null
 intended_outcomes: "io_education, research_advancement"
 participant_age: null
 cartodb_id_0: null
-project_topic: "Computers and technology, Other"
+project_topic: "computers_technology, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -15454,7 +15454,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Disaster response, education, food, health_medicine, social_science"
+project_topic: "disaster_response, education, food, health_medicine, social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -15556,7 +15556,7 @@ agency_partner: null
 intended_outcomes: community_engagement_outreach
 participant_age: Other
 cartodb_id_0: null
-project_topic: "Computers and technology, science_policy"
+project_topic: "computers_technology, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -15709,7 +15709,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use"
 participant_age: middle_school_children
 cartodb_id_0: null
-project_topic: "Animals, archeology, biology, chemistry, climate_weather, Computers and technology, ecology_environment, education, nature_outdoors, insects"
+project_topic: "Animals, archeology, biology, chemistry, climate_weather, computers_technology, ecology_environment, education, nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -15862,7 +15862,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "astronomy_space, biology, chemistry, climate_weather, Computers and technology, ecology_environment, physics"
+project_topic: "astronomy_space, biology, chemistry, climate_weather, computers_technology, ecology_environment, physics"
 approved: null
 updated_at: null
 created_at: null
@@ -15913,7 +15913,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "general_public, Other"
 cartodb_id_0: null
-project_topic: "Computers and technology, geography, nature_outdoors, ocean_water, science_policy, social_science"
+project_topic: "computers_technology, geography, nature_outdoors, ocean_water, science_policy, social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -16360,7 +16360,7 @@ agency_partner: null
 intended_outcomes: "io_education, operational_integration_use, research_advancement, Other"
 participant_age: "general_public, middle_school_children, targeted_group, teens, Other"
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -16456,7 +16456,7 @@ agency_partner: null
 intended_outcomes: research_advancement
 participant_age: general_public
 cartodb_id_0: null
-project_topic: Computers and technology
+project_topic: computers_technology
 approved: null
 updated_at: null
 created_at: null
@@ -16609,7 +16609,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: general_public
 cartodb_id_0: null
-project_topic: "Computers and technology, health_medicine, Other"
+project_topic: "computers_technology, health_medicine, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -16756,7 +16756,7 @@ agency_partner: "college_university, community_group, k12_education, museum, sta
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, Computers and technology, ecology_environment, nature_outdoors"
+project_topic: "Animals, biology, computers_technology, ecology_environment, nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17011,7 +17011,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, education, Geology and earth science, nature_outdoors"
+project_topic: "Animals, biology, Birds, climate_weather, ecology_environment, education, geology_earth_science nature_outdoors"
 approved: null
 updated_at: null
 created_at: null
@@ -17062,7 +17062,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, ecology_environment, Geology and earth science"
+project_topic: "Animals, biology, ecology_environment, geology_earth_science"
 approved: null
 updated_at: null
 created_at: null
@@ -17317,7 +17317,7 @@ agency_partner: "community_group, for_profit, formal_nonprofit_ngo"
 intended_outcomes: "io_education, research_advancement"
 participant_age: "elementary_school_children, targeted_group"
 cartodb_id_0: null
-project_topic: "biology, ecology_environment, geography, Geology and earth science, nature_outdoors, insects, Other"
+project_topic: "biology, ecology_environment, geography, geology_earth_science nature_outdoors, insects, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -17419,7 +17419,7 @@ agency_partner: null
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, climate_weather, Computers and technology, ecology_environment, education, Geology and earth science, nature_outdoors, science_policy"
+project_topic: "Animals, biology, climate_weather, computers_technology, ecology_environment, education, geology_earth_science nature_outdoors, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -17776,7 +17776,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "Animals, biology, Birds, Geology and earth science, nature_outdoors, insects"
+project_topic: "Animals, biology, Birds, geology_earth_science nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -18133,7 +18133,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "io_education, research_advancement"
 participant_age: "elementary_school_children, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "biology, climate_weather, Computers and technology, ecology_environment, education, Geology and earth science, nature_outdoors, Other"
+project_topic: "biology, climate_weather, computers_technology, ecology_environment, education, geology_earth_science nature_outdoors, Other"
 approved: null
 updated_at: null
 created_at: null
@@ -18388,7 +18388,7 @@ agency_partner: "college_university, formal_nonprofit_ngo"
 intended_outcomes: "inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "education, Geology and earth science, nature_outdoors, science_policy"
+project_topic: "education, geology_earth_science nature_outdoors, science_policy"
 approved: null
 updated_at: null
 created_at: null
@@ -18490,7 +18490,7 @@ agency_partner: Other
 intended_outcomes: "io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, middle_school_children"
 cartodb_id_0: null
-project_topic: "biology, ecology_environment, Geology and earth science, ocean_water"
+project_topic: "biology, ecology_environment, geology_earth_science ocean_water"
 approved: null
 updated_at: null
 created_at: null
@@ -20818,7 +20818,7 @@ agency_partner: "community_group, formal_nonprofit_ngo, for_profit, k12_educatio
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, middle_school_children, families,  general_public, teens"
 cartodb_id_0: 126
-project_topic: "biology, chemistry, climate_weather, ecology_environment, Geology and earth science, geography, nature_outdoors, Computers and technology"
+project_topic: "biology, chemistry, climate_weather, ecology_environment, geology_earth_science geography, nature_outdoors, computers_technology"
 approved: true
 updated_at: "2015-09-14 17:01:51.038079+00"
 created_at: "2015-03-31 19:24:04.937637+00"
@@ -20971,7 +20971,7 @@ agency_partner: "community_group, formal_nonprofit_ngo"
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, teens"
 cartodb_id_0: null
-project_topic: "biology, climate_weather, Computers and technology, Disaster response, ecology_environment, Geology and earth science, nature_outdoors, insects"
+project_topic: "biology, climate_weather, computers_technology, disaster_response, ecology_environment, geology_earth_science nature_outdoors, insects"
 approved: null
 updated_at: null
 created_at: null
@@ -21067,7 +21067,7 @@ agency_partner: "college_university, community_group, state_local_govermment"
 intended_outcomes: "community_engagement_outreach, io_education, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group, teens"
 cartodb_id_0: null
-project_topic: "climate_weather, Disaster response, ocean_water"
+project_topic: "climate_weather, disaster_response, ocean_water"
 approved: null
 updated_at: null
 created_at: null
@@ -21265,7 +21265,7 @@ agency_partner: formal_nonprofit_ngo
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "elementary_school_children, families, general_public, middle_school_children, targeted_group"
 cartodb_id_0: null
-project_topic: "Geology and earth science, social_science"
+project_topic: "geology_earth_science social_science"
 approved: null
 updated_at: null
 created_at: null
@@ -21457,7 +21457,7 @@ agency_partner: null
 intended_outcomes: "community_engagement_outreach, io_education, operational_integration_use, research_advancement"
 participant_age: "families, general_public"
 cartodb_id_0: null
-project_topic: "chemistry, climate_weather, education, food, Geology and earth science"
+project_topic: "chemistry, climate_weather, education, food, geology_earth_science"
 approved: null
 updated_at: null
 created_at: null
@@ -21508,7 +21508,7 @@ agency_partner: college_university
 intended_outcomes: "community_engagement_outreach, inform_public_policy, io_education, operational_integration_use, research_advancement, Other"
 participant_age: "teens, Other"
 cartodb_id_0: null
-project_topic: "biology, chemistry, Computers and technology, ecology_environment, education, nature_outdoors, physics"
+project_topic: "biology, chemistry, computers_technology, ecology_environment, education, nature_outdoors, physics"
 approved: null
 updated_at: null
 created_at: null
