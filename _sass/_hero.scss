@@ -1,7 +1,7 @@
 .hero-unit {
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 32em;
+  min-height: 22em;
   position: relative;
 }
 .hero-content {
@@ -27,4 +27,20 @@
 .hero-content .usa-button {
   font-size: 22px;
   line-height: 30px;
+}
+
+
+@media (max-width: 646px) {
+  .hero-content h1 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+}
+
+
+@media (max-width: 320px) {
+  .hero-content h1 {
+    font-size: 22px;
+    line-height: 40px;
+  }
 }
