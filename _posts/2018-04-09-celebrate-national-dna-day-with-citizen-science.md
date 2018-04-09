@@ -2,7 +2,7 @@
 title: Celebrate National DNA Day with Citizen Science
 author: Elizabeth Tuck
 layout: posts
-permalink: /2018/04/09/celebrate-national-dna-day-with-citizen-science
+permalink: /2018/04/09/celebrate-national-dna-day-with-citizen-science/
 image: 
 categories:
   - Biology
