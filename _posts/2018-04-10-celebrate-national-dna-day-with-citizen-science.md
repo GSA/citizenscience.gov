@@ -2,7 +2,7 @@
 title: Celebrate National DNA Day with Citizen Science
 author: Elizabeth Tuck, Genomics Education Specialist [C] at the National Human Genome Research Institute
 layout: posts
-permalink: /2018/04/09/celebrate-national-dna-day-with-citizen-science/
+permalink: /2018/04/10/celebrate-national-dna-day-with-citizen-science/
 image: /assets/img/post-images/2018/04/dd18_landing.jpg
 categories:
   - Biology
