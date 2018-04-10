@@ -39,6 +39,16 @@
 	background-position: center -15em;
 }
 
+.center-top-ten {
+	background-position: center -10em;
+}
+
+@media (max-width: 414px) {
+.center-top-ten {
+	background-position: .1em;
+}
+}
+
 @media (min-width: 800px) {
 .center-top-eight {
 	background-position: center -8em;
@@ -53,4 +63,14 @@
 
 .hide {
 	display: none;
+}
+
+.blog-title {
+	font-size: 3.5rem;
+}
+
+@media (max-width: 414px) {
+.blog-title {
+	font-size: 2.5rem;
+}
 }

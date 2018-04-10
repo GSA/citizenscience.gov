@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head-blog.html %}
+
+  <body class="{{ page.body-class }}">
+  <div class="usa-overlay"></div>
+
+    {% include header.html %}
+      <main id="main" tabindex="-1">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+    {% include javascript.html %}
+  </body>
+</html>
