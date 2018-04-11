@@ -2,7 +2,7 @@
 title: Thanks to You this Citizen Science Day
 author: John McLaughlin, CitizenScience.gov Program Manager
 layout: posts
-permalink: /2018/04/11/third-annual-citizen-science-day/
+permalink: /2018/04/12/third-annual-citizen-science-day/
 image: /assets/img/post-images/2018/04/cit-sci-day.jpg
 image-caption: "There are numerous colonial archaeological sites on the campus of the Smithsonian Environmental Research Center in Edgewater, Maryland. Citizen scientists sift through soil to uncover artifacts that will give insight how the land was used by the previous owner. (credit: Copyright 2017 Smithsonian Environmental Research Center)"
 categories:
@@ -12,7 +12,7 @@ class: center-top-ten
 ---
 
 
-This Saturday is the third annual <a href="http://citizenscience.org/2017/11/14/citsciday2018/" target="blank" rel="noopener">Citizen Science Day</a>. The day “celebrates the work of citizen scientists and the diversity of citizen science projects across the world, encourages the public to get involved, and connects people to the power of citizen science.” These are worthy goals. However, I would like to reflect now on how we connect people through citizen science, not just to citizen science. A willingness to join together and work collaboratively is inherent in crowdsourcing and citizen science projects and is a driving force <span style="color:red;">for what our our</span> accomplishments.
+This Saturday is the third annual <a href="http://citizenscience.org/2017/11/14/citsciday2018/" target="blank" rel="noopener">Citizen Science Day</a>. The day “celebrates the work of citizen scientists and the diversity of citizen science projects across the world, encourages the public to get involved, and connects people to the power of citizen science.” These are worthy goals. However, I would like to reflect now on how we connect people through citizen science, not just to citizen science. The willingness of participants and practitioners to join together and work collaboratively is a hallmark of our projects that allows them to be successful.
 
 The <a href="https://www.citizenscience.gov/toolkit/howto/step3/" target="blank" rel="noopener">Build a Community</a> section of our Federal Crowdsourcing and Citizen Science Toolkit begins with this advice to project managers: “Citizen science and crowdsourcing projects rely on a community of participants and professionals. You will need to address the challenge of building and sustaining a trusting relationship with your community, which will include people with many different things to contribute and reasons for participating.” It is the volunteer participants that power these communities. Even the most thoughtfully designed project involving highly capable professionals would be merely an empty vessel without participants. On behalf of the projects our site supports, I want to express heartfelt gratitude to you amazing volunteers who share your time and diverse expertise to help improve our understanding of the world around us. Thank you!
 
