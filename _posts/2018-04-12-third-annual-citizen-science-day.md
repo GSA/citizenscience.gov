@@ -3,7 +3,7 @@ title: Thanks to You this Citizen Science Day
 author: John McLaughlin, CitizenScience.gov Program Manager
 layout: posts
 permalink: /2018/04/12/third-annual-citizen-science-day/
-image: /assets/img/post-images/2018/04/cit-sci-day.jpg
+image: /assets/img/post-images/2018/04/cit-sci-day-small.jpg
 image-caption: "There are numerous colonial archaeological sites on the campus of the Smithsonian Environmental Research Center in Edgewater, Maryland. Citizen scientists sift through soil to uncover artifacts that will give insight how the land was used by the previous owner. (credit: Copyright 2017 Smithsonian Environmental Research Center)"
 categories:
 tags:
