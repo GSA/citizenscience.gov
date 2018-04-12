@@ -8,6 +8,9 @@ layout: base-blog-posts
   {% if page.image %}
     <div class="page--banner {{ page.class }}" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
   {% endif %}
+  {% if page.image-caption %}
+	<p class="image-caption">{{ page.image-caption }}</p>
+  {% endif %}
 </div>
 
 <div class="usa-grid usa-full">
