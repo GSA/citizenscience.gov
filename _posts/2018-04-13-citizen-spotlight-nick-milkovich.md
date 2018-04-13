@@ -31,7 +31,7 @@ Everyone I have met during these events all have the same interest and passion f
 Get involved! Keep an eye out for various events, surveys, and projects near you or in areas you would like to work in. Even if you don't feel fit for the job, don't ever be afraid to volunteer and experience something new. Being interested and passionate makes you more than qualified. Get involved with conservation groups, as they usually need volunteers throughout the year. 
 <br>
 
-<div style="width: 800px; padding-top: 25px;">
+<div class="image-hide" style="width: 800px; padding-top: 25px;">
   <img src="{{ site.baseurl }}/assets/img/post-images/2018/04/nick-milkovich-2.jpg" alt="Nick Milkovich looks through a transparency tube" width="800"/>
   <p class="image-caption">
     Nick Milkovich looks through a transparency tube to help assess water quality. (photo credit:Josh Martz)
