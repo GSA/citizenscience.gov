@@ -14,7 +14,7 @@ LiMPETS is a youth-based citizen science program that monitors the coastal ecosy
 
 
 <div class="image-in-post-body">
-  <a href="https://www.citizenscience.gov/limpetssciencecommunication_april2015_jamesloganhigh_amydean/"><img class="size-medium wp-image-31981" src="{{ site.baseurl }}/assets/img/post-images/2016/07/LiMPETSScienceCommunication_April2015_JamesLoganHigh_AmyDean-300x219.jpg" alt="Students from James Logan High School put up their poster at the Monterey Bay Currents Symposium where they will present the scientific results of their LiMPETS Science Communication project" width="300" height="219" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img class="size-medium wp-image-31981" src="{{ site.baseurl }}/assets/img/post-images/2016/07/LiMPETSScienceCommunication_April2015_JamesLoganHigh_AmyDean-300x219.jpg" alt="Students from James Logan High School put up their poster at the Monterey Bay Currents Symposium where they will present the scientific results of their LiMPETS Science Communication project" width="300" height="219" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p class="image-caption">
     Students from James Logan High School put up their poster at the Monterey Bay Currents Symposium where they will present the scientific results of their LiMPETS Science Communication project (photo credit: Amy Dean)
