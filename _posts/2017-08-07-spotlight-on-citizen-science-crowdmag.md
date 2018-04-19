@@ -46,4 +46,4 @@ Learn how to become a CrowdMag citizen scientist: <https://www.ngdc.noaa.gov/geo
 
 FAQ about Geomagnetism: <https://www.ngdc.noaa.gov/geomag/faqgeom.shtml>
 
-_This spotlight originally appeared on the [NOAA Education and Outreach Facebook page](https://www.facebook.com/NOAAEducationOutreach/ rel="external nofollow")._
+This spotlight originally appeared on the <a href="https://www.facebook.com/NOAAEducationOutreach/" target="blank" rel="external nofollow">NOAA Education and Outreach Facebook page</a>

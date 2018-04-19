@@ -22,4 +22,4 @@ You can be a [CitizenScientist](https://www.facebook.com/hashtag/citizenscienti
 You will need the free GLOBE Observer app to guide you through data collection. Directions to download and use the app are available [here](https://observer.globe.gov/eclipse2017)
 
 
- _This spotlight originally appeared on the [NOAAEducationOutreach](https://www.facebook.com// rel="external nofollow)_
+ This spotlight originally appeared on the <a href="https://www.facebook.com/NOAAEducationOutreach/" target="blank" rel="external nofollow"> NOAAEducationOutreach</a>
