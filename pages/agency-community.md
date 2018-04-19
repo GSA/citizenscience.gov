@@ -46,3 +46,5 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | National Science Foundation | NSF | Ellen McCallie |
 | Smithsonian Institution | SI | Janet Abrams |
 
+*Please email citizenscience@gsa.gov if you would like to be put in contact with one of these Coordinators.*
+
