@@ -4,7 +4,7 @@ description: Citizenscience.gov is an official government website designed to ac
 url: "https://www.citizenscience.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 toolkit_logo: /assets/img/toolkit-images/toolkit-gray.png
-feature_image: /assets/img/logo-main.gif
+feature_image: /assets/img/hero-image.jpg
 
 colors:
   background: '#ffffff'
