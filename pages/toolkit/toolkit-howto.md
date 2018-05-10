@@ -7,4 +7,4 @@ This toolkit shows five basic process steps for planning, designing and carrying
 
 The steps are in sequence, but each is also independent. Each gives you resources to help answer your specific questions.
 
-Begin with the first process step — Scope Out Your Problem. Need inspiration? Check out Case Studies to read success stories.
+Begin with the first process step — Scope Your Problem. Need inspiration? Check out Case Studies to read success stories.

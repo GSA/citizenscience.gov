@@ -13,21 +13,21 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Resource Library
+        text: Resources
         href: pages/toolkit-resource-library.md
         permalink: /toolkit/resource-library/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Law and Policy
+        text: Law & Policy
         href: pages/toolkit-law-and-policy.md
         permalink: /toolkit/law-and-policy/
         show_in_menu: true
         show_in_footer: false
     -
-        text: About
-        href: pages/toolkit-about.html
-        permalink: /toolkit/about/
+        text: CitizenScience.gov
+        href: pages/home.html
+        permalink: /
         show_in_menu: true
         show_in_footer: false
 
