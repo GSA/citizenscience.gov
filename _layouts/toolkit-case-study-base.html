@@ -11,6 +11,7 @@
         <div>
       {{ content }}
         </div>
+      {{ page.last_modified_at | date: '%d-%b-%Y' }}
     </main>
     {% include toolkit-footer.html %}
     {% include footer.html %}
