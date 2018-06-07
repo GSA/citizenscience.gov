@@ -2,6 +2,7 @@
 layout: toolkit-case-study-base
 permalink: /toolkit/case-study/
 title: Case Studies
+last-updated: January 2018
 ---
 
 
