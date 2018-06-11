@@ -25,7 +25,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   ga('send', 'pageview');
 </script>
 
-<!--
-    script for jekyll api search plugin
--->
-{% jekyll_pages_api_search_load %}
+<script>
+//<![CDATA[
+      var usasearch_config = { siteHandle:"citizenscience.gov" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
