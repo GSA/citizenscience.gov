@@ -1,5 +1,5 @@
 ---
-layout: toolkit-case-study-base
+layout: toolkit-case-study-listing-page
 permalink: /toolkit/case-study/
 title: Case Studies
 last-updated: January 2018
