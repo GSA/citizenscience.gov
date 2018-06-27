@@ -1,9 +1,6 @@
 ---
-layout: catalog-project-indv
-permalink: 
+layout: catalog-base
+permalink: /catalog/
 pagination: 
   enabled: true
 ---
-
-
-Catalog Description Text HERE
