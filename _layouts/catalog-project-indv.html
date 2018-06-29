@@ -4,7 +4,7 @@ layout: catalog-base
 
 <div class="parent-container">
 
-  <div class="search-container">
+  <div class="indv-search-container">
     <aside>
       <h3>Find A Project</h3>
       {% include search-box.html %}
@@ -15,7 +15,7 @@ layout: catalog-base
   <div class="entry-container">
     <div class="entry-header-container">
       <h2>
-          <a href="{{ page.project_url }}">{{ page.project_name }}</a>
+          <a href="{{ page.project_url }}" target="blank" rel="noopener" >{{ page.project_name }}</a>
       </h2>
       <p>{{ page.project_description }}</p>
     </div>
