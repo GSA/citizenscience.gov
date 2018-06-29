@@ -1,0 +1,55 @@
+---
+layout: catalog-base
+---
+
+<div class="usa-grid">
+<div>
+<h2 class="catalog-title">{{ page.title }}</h2>
+</div>
+</div>
+
+<div class="parent-container">
+
+
+ <div class="search-container">
+    <aside>
+      <h3>Find A Project</h3>
+      <div>
+      	{% include search-box.html %}
+	  </div>
+	  <div>
+        {% include catalog-filters.html %}
+      </div>		
+    </aside>
+  </div>
+
+
+
+<div class="entry-container">
+
+{% for item in site.catalog-projects %}
+	{% assign third = forloop.index | modulo: 3 %} {% if third == 0 %}
+		<div class="usa-width-one-third usa-end-row catalog-project-list">
+				{% else %}
+				<div class="usa-width-one-third catalog-project-list">
+						{% endif %}
+						<article>
+								<a href="{{ item.url | prepend: site.baseurl }}">
+									<img src="{{ item.image | prepend: site.baseurl }}">
+								</a>
+								<div class="infos">
+										<a href="{{ item.url | prepend: site.baseurl }}">
+										<h3 class="title">{{ item.project_name }}</h3></a>
+										<p>
+											{% include catalog-list-project-topic.html %}
+											<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope }}</p>
+											{% include catalog-list-participant-age.html %}
+											{% include catalog-list-logo.html %}
+										</p>
+								</div>
+						</article>
+		</div>
+{% endfor %}
+</div>
+</div>
+</div>
