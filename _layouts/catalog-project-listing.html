@@ -23,20 +23,14 @@ layout: catalog-base
     </aside>
   </div>
 
-
-
 <div class="entry-container">
-
-{% for item in site.catalog-projects %}
-	{% assign third = forloop.index | modulo: 3 %} {% if third == 0 %}
-		<div class="usa-width-one-third usa-end-row catalog-project-list">
-				{% else %}
+{% assign sorted = (site.catalog-projects | sort: 'zip') | reverse %}
+{% for item in sorted %}
 				<div class="usa-width-one-third catalog-project-list">
-						{% endif %}
 						<article>
 								<div class="infos">
 										<a href="{{ item.url | prepend: site.baseurl }}">
-										<h3 class="title">{{ item.project_name | truncatewords: 5}}</h3></a>
+										<h3 class="title">{{ item.project_name | truncatewords: 5 }}</h3></a>
 										<p>
 											{% include catalog-list-project-status.html %}
 											<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope }}</p>
