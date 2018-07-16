@@ -30,7 +30,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | HHS | Sandeep Patel
 | Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theisz |
 | Department of Homeland Security | DHS | Jim Grove |
-| Department of Housing and Urban Development | HUD | Jon Sperling |
+| Department of Housing and Urban Development | HUD | Christopher Bourne |
 | Department of Interior | BLM | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
 | Department of Interior | NPS | Tim Watkins,  Kris Barnes |
