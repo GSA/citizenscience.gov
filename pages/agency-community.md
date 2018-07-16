@@ -41,7 +41,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Environmental Protection Agency | EPA | Jay Benforado |
 | Federal Communications Commission | FCC | James Miller |
 | Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
-| National Aeronautics and Space Administration | [NASA](www.nasa.gov/solve) | Amy Kaminski |
+| National Aeronautics and Space Administration | [NASA](https://www.nasa.gov/solve/index.html) | Amy Kaminski |
 | National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | NSF | Ellen McCallie |
 | Smithsonian Institution | SI | Janet Abrams |
