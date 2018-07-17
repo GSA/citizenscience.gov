@@ -154,7 +154,7 @@ project_description: "Help NASA identify craters and other terrain on Mars"
 project_url: "http://cosmoquest.org/?application=mars_simply_craters"
 project_name: "Mars Mappers"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
