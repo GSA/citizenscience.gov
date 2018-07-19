@@ -1429,7 +1429,7 @@ project_description: "The annual Cricket Crawl is a call to citizen scientists, 
 project_url: "http://www.discoverlife.org/cricket/"
 project_name: "NYC Cricket Crawl"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1480,7 +1480,7 @@ project_description: "The annual Cricket Crawl is a call to citizen scientists, 
 project_url: "http://www.discoverlife.org/cricket/DC/"
 project_name: "DC/Baltimore Cricket Crawl"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
