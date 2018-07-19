@@ -205,7 +205,7 @@ project_description: "Theodore Roosevelt National Park will focus on finding and
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Theodore Roosevelt"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
