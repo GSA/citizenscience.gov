@@ -409,7 +409,7 @@ project_description: "North American Breeding Bird Survey"
 project_url: "http://www.pwrc.usgs.gov/bbs"
 project_name: "North American Breeding Bird Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -460,7 +460,7 @@ project_description: "This project involves development of California HAB foreca
 project_url: "http://www.cencoos.org/data/models/habs"
 project_name: "Forecasting Harmful Algal Blooms in California"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -511,7 +511,7 @@ project_description: "The iCoast - Did the Coast Change? web application asks vo
 project_url: "http://coastal.er.usgs.gov/icoast"
 project_name: "iCoast- Did the Coast Change?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -562,7 +562,7 @@ project_description: "Aurorasaurus is the first citizen science project that agg
 project_url: "http://www.aurorasaurus.org"
 project_name: Aurorasaurus
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -613,7 +613,7 @@ project_description: "The International Hydrographic Office (IHO) is coordinatin
 project_url: "http://www.ngdc.noaa.gov/iho/#csb"
 project_name: "IHO Crowd Source Bathymetry Pilot Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
