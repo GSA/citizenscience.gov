@@ -256,7 +256,7 @@ project_description: "Citizen scientists are collecting coastal water samples an
 project_url: "http://www.plasticaware.org"
 project_name: "Florida Microplastic Awareness Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
