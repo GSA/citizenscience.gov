@@ -358,7 +358,7 @@ project_description: "Is Ash Falling? project is a database module and web inter
 project_url: "http://www.avo.alaska.edu/ashfall/ashreport.php"
 project_name: "Is Ash Falling?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
