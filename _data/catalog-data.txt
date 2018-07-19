@@ -307,7 +307,7 @@ project_description: "The NOAA National Severe Storms Laboratory (NSSL) is colle
 project_url: "http://www.nssl.noaa.gov/projects/ping/"
 project_name: "Meterologial Phenomena identification Near the Ground (mPING)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
