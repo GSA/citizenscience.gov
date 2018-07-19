@@ -664,7 +664,7 @@ project_description: "In collaboration with Cornell Lab of Ornithology and Natio
 project_url: "http://www.fws.gov/refuges/birding/ebirdTracker.html"
 project_name: "National Wildlife Refuge System eBird Tracker"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -715,7 +715,7 @@ project_description: "The U.S. Fish and Wildlife Service is partnering with Audu
 project_url: "http://ca.audubon.org/brownpelicansurvey"
 project_name: "California Brown Pelican Citizen Science Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -766,7 +766,7 @@ project_description: "Participants attend a one-day classroom and field based ed
 project_url: "http://www.crownscience.org/getinvolved/citizen-science/high-country"
 project_name: "High Country Citizen Science Project at Glacier National Park"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -817,7 +817,7 @@ project_description: "The Delaware Shorebird Project involves a dedicated team o
 project_url: "http://www.dnrec.delaware.gov/fw/Shorebirds/Pages/default.aspx"
 project_name: "Delaware Shorebird Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -868,7 +868,7 @@ project_description: "The Mobile App Marine Debris Tracker is a joint partnershi
 project_url: "http://www.marinedebris.engr.uga.edu/"
 project_name: "Marine Debris Tracker"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -919,7 +919,7 @@ project_description: "Through a collaboration with the Sister Cities program, Es
 project_url: "http://www.nps.gov/rlc/continentaldivide/international-partnerships.htm"
 project_name: "The Costa Rica Science Exchange"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -970,7 +970,7 @@ project_description: "The U.S. Fish and Wildlife Service is partnering with the 
 project_url: "http://www.sdnhm.org/science/birds-and-mammals/projects/flying-squirrel-study/"
 project_name: "Urban Edge Habitat Use by the San Bernardino Flying Squirrel"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1021,7 +1021,7 @@ project_description: "The web portals produced by the Lunar and Planetary Mappin
 project_url: "http://lmmp.nasa.gov"
 project_name: "Lunar and Planetary Mapping and Modeling Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1072,7 +1072,7 @@ project_description: "Gros Ventre Project - A Cooperative Project with the U.S. 
 project_url: "http://www.naturemappingjh.org/Gros-Ventre-Project.aspx"
 project_name: "Gros Ventre Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1123,7 +1123,7 @@ project_description: "In CrowdMag project, NOAA explore whether digital magnetom
 project_url: "http://www.ngdc.noaa.gov/geomag/crowdmag.shtml"
 project_name: CrowdMag
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1174,7 +1174,7 @@ project_description: "Crowdsource S&T Ideas from a diverse community that could 
 project_url: "futures.armyscitech.com"
 project_name: "Technology Wargaming"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1225,7 +1225,7 @@ project_description: "Mark2Cure allows anyone that can read English, regardless
 project_url: "https://mark2cure.org/"
 project_name: Mark2Cure
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1276,7 +1276,7 @@ project_description: "From barcodeli.org/about.html: Working with a qualified te
 project_url: "http://www.barcodeli.org/"
 project_name: "Barcode Long Island: Exploring Biodiversity in a Unique Urban Landscape"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1327,7 +1327,7 @@ project_description: "The Right Whale Sighting Advisory System (RWSAS) is a NOAA
 project_url: "http://www.nefsc.noaa.gov/psb/surveys/SAS.html"
 project_name: "Right Whale Sighting Advisory System"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1378,7 +1378,7 @@ project_description: "The Wildlife Health Event Reporter is a web-based applicat
 project_url: "http://www.wher.org/"
 project_name: "Wildlife Health Event Reporter"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
