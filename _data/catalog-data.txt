@@ -1531,7 +1531,7 @@ project_description: "Based in the Seung Computational Neuroscience Lab at Princ
 project_url: "http://eyewire.org"
 project_name: EyeWire
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
