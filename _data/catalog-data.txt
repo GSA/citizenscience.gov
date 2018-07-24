@@ -14059,7 +14059,7 @@ project_description: "SETI@home is a scientific experiment, based at UC Berkeley
 project_url: "http://setiathome.berkeley.edu/"
 project_name: "SETI@home/Astropulse"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14110,7 +14110,7 @@ project_description: "Jungle Rhythms strives to transcribe old observations of A
 project_url: "http://www.junglerhythms.org"
 project_name: "Jungle Rhythms"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14161,7 +14161,7 @@ project_description: "The Zooniverse has engaged 1.5 million registered users in
 project_url: "https://www.zooniverse.org/"
 project_name: Zooniverse
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14212,7 +14212,7 @@ project_description: "Excess nitrogen associated with urbanization is a critical
 project_url: "http://beslter.org"
 project_name: "Coastal SEES Collaborative Research: Restoration, redevelopment, revitalization and nitrogen in a coastal watershed"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14263,7 +14263,7 @@ project_description: "This project investigates methods of using natural languag
 project_url: "http://u.osu.edu/white.1240/projects/"
 project_name: "Closing the Loop: Generating Disambiguating Paraphrases for Crowd-Sourced Annotation of Structurally Ambiguous Sentences"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14314,7 +14314,7 @@ project_description: "A closely coordinated laboratory and astronomical study wi
 project_url: ""
 project_name: "A Coordinated Laboratory and Astronomical Study of the Progenitors of Dust Formation in Carbon-Rich AGB Stars and Oxygen-Rich Giants and Supergiants"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14365,7 +14365,7 @@ project_description: "The Gravity Spy project enlists citizen scientists to help
 project_url: "https://www.zooniverse.org/projects/zooniverse/gravity-spy"
 project_name: "Gravity Spy"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14416,7 +14416,7 @@ project_description: "Development of an online, open source training toolkit to 
 project_url: "macroinvertebrates.org"
 project_name: "Learning to See, Seeing to Learning"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14467,7 +14467,7 @@ project_description: "This project lays the foundations for the analysis and des
 project_url: "http://brooklynatlantis.poly.edu/"
 project_name: "Citizen Science uncovers Brooklyn Atlantis: An inter-disciplinary exploration of the dynamics of networks of humans and machines in peer production settings"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 371
@@ -14512,7 +14512,7 @@ project_description: "CyanoTRACKER will address a significant environmental issu
 project_url: "www.cyanotracker.uga.edu"
 project_name: CyanoTRACKER
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14563,7 +14563,7 @@ project_description: "EclipseMob is a crowdsourced effort to conduct a geographi
 project_url: "eclipsemob.org"
 project_name: EclipseMob
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14614,7 +14614,7 @@ project_description: "GoViral is a free and real-time online Cold & Flu surveill
 project_url: "https://www.goviralstudy.com/"
 project_name: GoViral
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14665,7 +14665,7 @@ project_description: "Global citizen science support platform"
 project_url: "http://www.citsci.org"
 project_name: "citsci.org"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 375
@@ -14710,7 +14710,7 @@ project_description: "This research will focus on a new framework called BACKBOn
 project_url: "http://www.geo.mtu.edu/~toommen/"
 project_name: "A Crowdsourced Knowledge Base for the Damage Assessment of Extreme Events"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14761,7 +14761,7 @@ project_description: "In the era of data-intensive scientific discovery, Big Dat
 project_url: "http://humain.acis.ufl.edu/"
 project_name: "HuMaIN (Human- and Machine-Intelligent Software Elements for Cost-Effective Scientific Data Digitization)"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14812,7 +14812,7 @@ project_description: "This project collects privacy ratings of permissions for A
 project_url: "http://www.onapermission.org/"
 project_name: "(Per)Mission"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14863,7 +14863,7 @@ project_description: "Millions of camera-trap photographs of wildlife in Serenge
 project_url: "www.snapshotserengeti.org"
 project_name: SnapshotSerengeti
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14914,7 +14914,7 @@ project_description: "The Citizen Science Grid is dedicated to supporting a wide
 project_url: "http://csgrid.org"
 project_name: "Citizen Science Grid"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14965,7 +14965,7 @@ project_description: "Since the Spring of 2011, we have deployed an Android appl
 project_url: "http://wieye.lyle.smu.edu/Home.html"
 project_name: WiEye
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15016,7 +15016,7 @@ project_description: "The naming and classifying of living organisms is a fundam
 project_url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564386"
 project_name: "ODOMATIC: Automatic Species Identification, Functional Morphology, and Feature Extraction to alleviate the taxonomic impediment and broaden citizen science tools."
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
