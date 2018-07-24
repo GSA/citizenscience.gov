@@ -1,7 +1,8 @@
 ---
 layout: catalog-base
 permalink: /catalog/usfs/
-title: USFS
+title: US Forest Service
+tooltip: USFS
 agency_sponsor: usfs
 ---
 
