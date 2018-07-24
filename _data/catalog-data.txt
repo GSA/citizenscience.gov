@@ -5503,7 +5503,7 @@ project_description: "The Advanced Rapid Imaging and Analysis Project at NASA's 
 project_url: "http://aria.jpl.nasa.gov/"
 project_name: "The Advanced Rapid Imaging and Analysis Project (ARIA) Damage Validation Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5554,7 +5554,7 @@ project_description: "The University of Florida IFAS Monroe County Extension dev
 project_url: "http://monroe.ifas.ufl.edu/pdf/environment/fkww.pdf"
 project_name: "Florida Keys Water Watch"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5605,7 +5605,7 @@ project_description: "Monitor Change is a simple and elegant visual citizen scie
 project_url: "http://monitorchange.org/"
 project_name: "Monitor Change"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5656,7 +5656,7 @@ project_description: "The Did You Feel It? (DYFI) project is designed to gather 
 project_url: "http://earthquake.usgs.gov/dyfi"
 project_name: "Did You Feel It?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5707,7 +5707,7 @@ project_description: "Insect emergence is a fundamental process in streams and r
 project_url: "http://www.gcmrc.gov/research_areas/food_base/citizen_science_monitoring.aspx"
 project_name: "Citizen Science Insect Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5758,7 +5758,7 @@ project_description: "The goal of AMBLE was to empower concerned citizens to mon
 project_url: "http://www.nwhc.usgs.gov/our_research/amble/"
 project_name: "Lake Michigan AMBLE (Avian Monitoring for Botulism Lakeshore Events)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5809,7 +5809,7 @@ project_description: "The Butterflies and Moths of North America (BAMONA) projec
 project_url: "http://www.butterfliesandmoths.org/"
 project_name: "Butterflies and Moths of North America"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5860,7 +5860,7 @@ project_description: "The Dolphin & Whale 911 app will enhance accurate and time
 project_url: "http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/index.html"
 project_name: "Dolphin & Whale 911 Smartphone App"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5911,7 +5911,7 @@ project_description: "The GeoCenter’s Mapping for Resilience Program empowers 
 project_url: "https://www.usaid.gov/GlobalDevLab/about"
 project_name: "Mapping for Resilience"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
