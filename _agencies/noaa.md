@@ -1,7 +1,7 @@
 ---
 layout: catalog-base
 permalink: /catalog/noaa/
-title: NOAA	
+title: National Oceanic and Atmospheric Administration	
 tooltip: NOAA	
 agency_sponsor: noaa	
 ---
