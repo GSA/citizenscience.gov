@@ -22,7 +22,6 @@
 }
 
 .search-container {
-	padding-right: 3em; 
 	margin-top: 3em;
 	min-width: 215px;
 }
@@ -68,7 +67,7 @@
 	margin-bottom: 20px;
 	padding: 4px;
 	max-width: 96%;
-	min-width: 250px;
+	width: 231px;
 	background: 1px #F9F9F9;
 	height: 210px;
 	min-height: 210px;
@@ -80,6 +79,16 @@
 .catalog-project-list h3 {
 	border-bottom: 1px solid inherit;
 	height: 2.5em;
+	font-size: initial;
+}
+
+.catalog-project-list p {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+.agency-list h3 {
+	margin-top: 1.5em;
 }
 
 .image-position-bottom {
@@ -93,6 +102,11 @@
 	padding-top: 30px;
 }
 
+.sidebar-agency-list li {
+	font-size: small;
+	text-decoration: none;
+}
+
 .sidebar-agency-list button {
 	font-weight: 500;
 	color: #205493;	
@@ -103,7 +117,9 @@
 	color: #205493;	
 }
 
-
+.catalog-agency-list ul {
+	padding-left: 0px;
+}
 
 
 
