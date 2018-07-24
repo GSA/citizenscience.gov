@@ -18358,7 +18358,7 @@ project_description: "Rock Creek's forest makes an ideal summer home — with fo
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1177#picset=18215&orientation"
 project_name: "NPS Wood Thrush Picture Post"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18409,7 +18409,7 @@ project_description: "The Secchi Dip-In began in 1994 by eminent limnologist Dr.
 project_url: "http://www.secchidipin.org/"
 project_name: "The Secchi Dip-In"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18460,7 +18460,7 @@ project_description: "Training and support will be provided to the local governm
 project_url: /a"
 project_name: "Mojkovac BioBlitz Pilot Training"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18511,7 +18511,7 @@ project_description: "Summer on the Marsh followed from our successful Summer Sc
 project_url: "http://www.neosec.dreamhosters.com/summer-on-the-marsh/"
 project_name: "Summer on the Marsh"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18562,7 +18562,7 @@ project_description: "The Chesapeake Monitoring Cooperative was formed for the I
 project_url: "http://chesmonitoringcoop.org"
 project_name: "Chesapeake Monitoring Cooperative"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18613,7 +18613,7 @@ project_description: "The Lakes of Missouri Volunteer Program generates research
 project_url: "www.lmvp.org"
 project_name: "Lakes of Missouri Volunteer Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18664,7 +18664,7 @@ project_description: "The Picture Post Project is a part of the Digital Earth Wa
 project_url: "http://beec.org"
 project_name: "Bonnyvale Environmental Education Center: Picture Post"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18715,7 +18715,7 @@ project_description: "Join National Geographic and the National Park Service at 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Channel Islands"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18766,7 +18766,7 @@ project_description: "Join National Geographic and the National Park Service in 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Cuyahoga Valley"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18817,7 +18817,7 @@ project_description: "Join  Assateague Island National Seashore to help identify
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Assateague Island "
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18868,7 +18868,7 @@ project_description: "The 2016 BioBlitz at Pipestone National Monument will expl
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Pipestone"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18919,7 +18919,7 @@ project_description: "The 2016 BioBlitz at Cabrillo National Monument will explo
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Cabrillo Intertidal BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 472
@@ -18964,7 +18964,7 @@ project_description: "Smoke Sense is a project that aims to understand the exten
 project_url: "https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app"
 project_name: "Smoke Sense"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19015,7 +19015,7 @@ project_description: "Charles Pinckney National Historic Site will be part of th
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Charles Pinckney"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19066,7 +19066,7 @@ project_description: "We are encouraging area scientists, students, and voluntee
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Gates of the Arctic"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19117,7 +19117,7 @@ project_description: "The Wind Cave Bird Blitz focus is on migratory bird specie
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Wind Cave Bird Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19168,7 +19168,7 @@ project_description: "The goal of this BioBlitz is to identify as many species a
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Mississippi Coldwater BioBlitz: Mississippi River Coldwater BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19219,7 +19219,7 @@ project_description: "Antietam National Battlefield will be part of the 2016 Bio
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Antietam: Grassland birds"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19270,7 +19270,7 @@ project_description: "The 2016 BioBlitz at Missouri National Recreational River 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Missouri"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19321,7 +19321,7 @@ project_description: "President's Park will be part of the 2016 BioBlitz showcas
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - President's Park"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19372,7 +19372,7 @@ project_description: "Join Big Thicket National Preserve  to help identify as ma
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Big Thicket Mini-BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19423,7 +19423,7 @@ project_description: "This bioblitz will be a day long event looking at a specif
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Colonial Insect Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19474,7 +19474,7 @@ project_description: "The focus is to observe and identify as many species of li
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Craters of the Moon: Lichen Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19525,7 +19525,7 @@ project_description: "The 2016 BioBlitz at Hot Springs National Park will focus 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Hot Springs: Reptilian Roundup and Fungus Find"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19576,7 +19576,7 @@ project_description: "Enables citizen scientists to collect credible water quali
 project_url: "http://azdeq.gov/programs/azww"
 project_name: "Arizona Water Watch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19627,7 +19627,7 @@ project_description: "This will be our eighth annual BioBlitz and we will focus 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Great Basin Bird BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19678,7 +19678,7 @@ project_description: "Join John Muir National Historic Site to help identify as 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - John Muir: Fernando Villalba"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19729,7 +19729,7 @@ project_description: "Ebey's Landing National Historical Reserve will be part of
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Ebey's Landing"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19780,7 +19780,7 @@ project_description: "Theodore Roosevelt had a passion for nature, especially bi
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Sagamore Hill BirdBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19831,7 +19831,7 @@ project_description: "The Bandelier BioBlitz will focus on the collection of sci
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Bandelier"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19882,7 +19882,7 @@ project_description: "Fort Sumter National Monument will be part of the 2016 Bio
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Fort Moultrie"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19933,7 +19933,7 @@ project_description: "The 2016 BioBlitz at Death Valley National Park will explo
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Death Valley: Discovering Life on the Edge"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -19984,7 +19984,7 @@ project_description: "The 2016 BioBlitz at Great Smoky Mountains National Park -
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz -Great Smoky Mountains: North Carolina"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20035,7 +20035,7 @@ project_description: "The 2016 BioBlitz at Lava Beds National Monument will be a
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks Bioblitz - Lava Beds Bug-Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20086,7 +20086,7 @@ project_description: "The 2016 BioBlitz at National Park of American Samoa will 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - American Samoa"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20137,7 +20137,7 @@ project_description: "National Mall will be part of the 2016 BioBlitz showcase e
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - National Mall"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20188,7 +20188,7 @@ project_description: "The 2016 BioBlitz at George Washington Carver National Mon
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - George Washington Carver: Harkins Woods"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20239,7 +20239,7 @@ project_description: "The 2016 BioBlitz at Pinnacles National Park will explore 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Pinnacles"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
