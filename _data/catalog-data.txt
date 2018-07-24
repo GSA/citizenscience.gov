@@ -15781,7 +15781,7 @@ project_description: "Backyard Bark Beetles is a citizen science initiative aime
 project_url: "http://www.backyardbarkbeetles.org/"
 project_name: "UF/IFAS Backyard Bark Beetles"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15832,7 +15832,7 @@ project_description: "This project is intended to help engage individuals in usi
 project_url: "collaborativescience.org"
 project_name: "collaborativescience.org"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15883,7 +15883,7 @@ project_description: "BOINC is a software platform for volunteer computing, used
 project_url: "https://boinc.berkeley.edu"
 project_name: BOINC
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15934,7 +15934,7 @@ project_description: "Our mission is to work with communities across the globe t
 project_url: "Http://citizensciencesgis.org"
 project_name: "Citizen Science GIS"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15985,7 +15985,7 @@ project_description: "We are working with a local nature center, The Urban Ecolo
 project_url: "http://people.uwm.edu/pdunn/"
 project_name: "Disease Ecology in birds"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16036,7 +16036,7 @@ project_description: "Data collected from this study will be used by scientists 
 project_url: "http://www.maranaaz.gov/bats/"
 project_name: "Southern Arizona Bat-Hummingbird Feeder Monitoring Study"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16087,7 +16087,7 @@ project_description: "The Battle of the Atlantic Research and Expedition Group (
 project_url: "https://sites.google.com/site/researchandexpedition/"
 project_name: "Battle of the Atlantic Shipwreck Study"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16138,7 +16138,7 @@ project_description: "Alternate URL: http://farallones.noaa.gov/science/beachwat
 project_url: "http://beachwatch.farallones.org/"
 project_name: "Beach Watch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16189,7 +16189,7 @@ project_description: "The Intertidal Monitoring Partnership started in 2008 as a
 project_url: none
 project_name: "Intertidal Monitoring Partnership"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16240,7 +16240,7 @@ project_description: "CARIB Tails enlists yachters and cruisers to help track th
 project_url: "http://www.caribtails.org"
 project_name: "CARIB Tails"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 409
@@ -16285,7 +16285,7 @@ project_description: "Is there a large planet at the fringes of our solar system
 project_url: "http://backyardworlds.org"
 project_name: "Backyard Worlds: Planet 9"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 410
@@ -16330,7 +16330,7 @@ project_description: "Citizen science project focused on documenting the health 
 project_url: "http://sentinelsnc.weebly.com/"
 project_name: "Sentinels of the sounds"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16381,7 +16381,7 @@ project_description: "The main thrust of this research is to discover novel mapp
 project_url: "https://untangled.unt.edu"
 project_name: "Harnessing human intelligence for mapping on custom reconfigurable architectures"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16432,7 +16432,7 @@ project_description: "Monarch Health is a citizen science project in which volun
 project_url: "monarchparasites.org"
 project_name: "Monarch Health"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 416
@@ -16477,7 +16477,7 @@ project_description: "This project will develop theory, algorithms, and example 
 project_url: "http://dtr.northwestern.edu/Projects"
 project_name: "Coordination of Opportunistic Actions to Produce Globally Effective Behaviors for Physical Crowdsourcing"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16528,7 +16528,7 @@ project_description: "Supported by the National Science Foundation, Water for Li
 project_url: "w4l.prel.org"
 project_name: "Water for Life"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16579,7 +16579,7 @@ project_description: "Over the past twenty years native ladybugs that were once 
 project_url: "http://www.lostladybug.org"
 project_name: "Lost Ladybug Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16630,7 +16630,7 @@ project_description: "Our team is developing a platform for low-cost air quality
 project_url: "http://seelab.ucsd.edu/health/overview.shtml"
 project_name: MetaSense
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16681,7 +16681,7 @@ project_description: "Kelp forests scientists need your help. We have hundreds o
 project_url: "https://www.floatingforests.org/"
 project_name: "Floating Forests"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 421
@@ -16726,7 +16726,7 @@ project_description: "The objective of this project is to develop key components
 project_url: "http://www.cacr.caltech.edu/projects/PerDis/"
 project_name: "Pervasive Computing for Disaster Response"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
