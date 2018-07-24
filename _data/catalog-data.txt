@@ -20290,7 +20290,7 @@ project_description: "The 2016 BioBlitz at Voyageurs National Park will explore 
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Voyageurs"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20341,7 +20341,7 @@ project_description: "The 2016 BioBlitz at Sequoia & Kings Canyon National Parks
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Sequoia and Kings Canyon: Newt Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20392,7 +20392,7 @@ project_description: "The 2016 BioBlitz at Zion National Park will explore the d
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Zion Dragonfly BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20443,7 +20443,7 @@ project_description: "Congaree National Park will be part of the 2016 BioBlitz s
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Congaree"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20494,7 +20494,7 @@ project_description: "The 2016 BioBlitz at Hopewell Furnace National Historic Si
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Hopewell Furnace"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20545,7 +20545,7 @@ project_description: "The 2016 BioBlitz at Montezuma Castle National Monument wi
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Montezuma Castle Invertebrate BioBlitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20596,7 +20596,7 @@ project_description: "CDC’s Division of Global Migration and Quarantine, Skoll
 project_url: "http://kidenga.org"
 project_name: "U.S.-Mexico Border Early Warning Disease Surveillance for Dengue and Chikungunya"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20647,7 +20647,7 @@ project_description: "Scientists know very little about the behaviors of bats in
 project_url: "https://www.arizonabatwatch.org"
 project_name: "Arizona BatWatch"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 462
@@ -20692,7 +20692,7 @@ project_description: "The U.S. Deaf community “a minority group of 500,000 peo
 project_url: "https://umassmed.edu/DeafYes/research-page/events/"
 project_name: "Deaf ACCESS: Adapting Consent through Community Engagement and State-of-the-art Simulation"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20743,7 +20743,7 @@ project_description: "This project will help to identify and document the biodiv
 project_url: "http://www.inaturalist.org/projects/kaibab-nf-2017-citizen-science-project"
 project_name: "Kaibab National Forest Citizen Science Project"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 474
@@ -20788,7 +20788,7 @@ project_description: "This project explores how communities can use low-cost air
 project_url: "https://www.engg.ksu.edu/chsr/SA2%20Air%20Monitoring%20Project"
 project_name: "Shared Air/Shared Action (Sa2): Community Empowerment through Low-Cost Air Pollution Monitoring"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20839,7 +20839,7 @@ project_description: "GLOBE, the Global Learning and Observations to benefit the
 project_url: "https://www.globe.gov"
 project_name: "The GLOBE Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20890,7 +20890,7 @@ project_description: "National Jewish Health and RTI International are teaming u
 project_url: "https://www.epa.gov/air-research/air-pollution-monitoring-communities-grants"
 project_name: "Monitoring the Air in Our Community: Engaging Citizens in Research"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20941,7 +20941,7 @@ project_description: "The S'COOL Project involves people (ages 5-99) in real sci
 project_url: "http://scool.larc.nasa.gov"
 project_name: "Students' Cloud observations On-Line"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -20992,7 +20992,7 @@ project_description: "In 2013, the Rim Fire burned more than 400 square miles in
 project_url: "http://rimfire.whollyh2o.org/"
 project_name: "Rim Fire Monitoring"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 465
@@ -21037,7 +21037,7 @@ project_description: "This project is part of National Coral Reef Monitoring Pro
 project_url: "http://docs.wixstatic.com/ugd/de16c8_447bb34214f143b99b65e9b924e617b8.pdf"
 project_name: "\"Evaluating the condition of marine resources in the Reserva Marina Tres Palmas, Rincon\""
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -21088,7 +21088,7 @@ project_description: "This application collects and displays photos of water lev
 project_url: "http://noaa.maps.arcgis.com/apps/MapSeries/index.html?appid=8e4a278576964f47b4fc050e51f344ca"
 project_name: "What's your water level?"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -21139,7 +21139,7 @@ project_description: "Neighborhood Nestwatch is a citizen science program that u
 project_url: "https://nationalzoo.si.edu/scbi/Migratorybirds/Research/Neighborhood_Nestwatch/"
 project_name: "Neighborhood Nestwatch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
