@@ -3469,7 +3469,7 @@ project_description: "This integrated monitoring effort gathers information asso
 project_url: "http://www.fws.gov/savethemonarch/"
 project_name: "Monarch Butterfly Integrated Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3520,7 +3520,7 @@ project_description: "Collect pH coastal data easily with a device that links to
 project_url: "https://itunes.apple.com/us/app/co2calc/id407782321"
 project_name: "pH Pro"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3571,7 +3571,7 @@ project_description: "Volunteers counted migratory birds on the Summer Equinox o
 project_url: /a"
 project_name: "Rocky Mountain National Park Summer Bird Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3622,7 +3622,7 @@ project_description: "The 2016 BioBlitz at Boston Harbor Islands National Recrea
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks Bioblitz - Boston Harbor Islands"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3673,7 +3673,7 @@ project_description: "SciCast is a crowd-sourced prediction market for science a
 project_url: "https://scicast.org/#!/"
 project_name: SciCast
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3724,7 +3724,7 @@ project_description: "The American Woodcock Singing-Ground Survey, conducted by 
 project_url: "\nhttp://www.fws.gov/birds/surveys-and-data/webless-migratory-game-birds/american-woodcock.php"
 project_name: "American Woodcock Singing-ground Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3775,7 +3775,7 @@ project_description: "TreesCount! 2015 is New York City’s third decadal effort
 project_url: "nyc.gov/parks/treescount"
 project_name: "TreesCount! 2015"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3826,7 +3826,7 @@ project_description: "Annual bird count survey is conducted in the Fajardo PR ar
 project_url: None
 project_name: "22nd Fajardo Christmas Bird Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3877,7 +3877,7 @@ project_description: "The Phytoplankton Monitoring Network (PMN) project was cre
 project_url: "http://products.coastalscience.noaa.gov/pmn/"
 project_name: "Phytoplankton Monitoring Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
