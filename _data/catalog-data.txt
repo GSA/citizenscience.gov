@@ -5962,7 +5962,7 @@ project_description: "Once a month, volunteers watch, count, and record sea turt
 project_url: "http://www.aquariumofpacific.org/conservation/sea_turtle_monitoring"
 project_name: "San Gabriel River Sea Turtle Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6013,7 +6013,7 @@ project_description: "The purpose of SMAP-SOC is to provide BLM natural resource
 project_url: "http://www.dri.edu/"
 project_name: "System for Mapping and Predicting Species of Concern"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6064,7 +6064,7 @@ project_description: "Did You See It? (DYSI) - Report a Landslide is a website d
 project_url: "http://landslides.usgs.gov/dysi"
 project_name: "Did You See It? - Report a Landslide"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6115,7 +6115,7 @@ project_description: "The Biosecurity for birds outreach campaign produces an ed
 project_url: "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian-influenza-disease/birdbiosecurity"
 project_name: "Biosecurity for birds Calendars"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6166,7 +6166,7 @@ project_description: "We need your help to better understand dragonfly migration
 project_url: "http://www.migratorydragonflypartnership.org/index/welcome"
 project_name: "Migratory Dragonfly Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6217,7 +6217,7 @@ project_description: "Forest Service employees host the annual Christmas Bird Co
 project_url: None
 project_name: "2016 Orilla Verde Christmas Bird Count"
 - 
-type: Feature
+type: Feature 129
 geometry: 
 type: Point
 coordinates: 
@@ -6268,7 +6268,7 @@ project_description: "The CrowdHydrology mission is to create freely available d
 project_url: "http://www.crowdhydrology.com/"
 project_name: CrowdHydrology
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6319,7 +6319,7 @@ project_description: "The Wrangell Ranger District assisted the Alaska Departmen
 project_url: None
 project_name: "Tongass National Forest Bat Citizen Science Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6370,7 +6370,7 @@ project_description: "The overarching goal of this study is to examine how scien
 project_url: "http://www.ars.usda.gov/Research/docs.htm?docid=25733"
 project_name: "Adaptive Grazing Management Experiment"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6421,7 +6421,7 @@ project_description: "Craig and Thorne Bay Ranger District personal partnered wi
 project_url: None
 project_name: "Tongass National Forest Twelvemile Watershed Restoration Project & Stream Team"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6472,7 +6472,7 @@ project_description: "An annual bioblitz is conducted on the Black Kattle Nation
 project_url: None
 project_name: "BioBlitz on Black Kettle National Grassland"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
