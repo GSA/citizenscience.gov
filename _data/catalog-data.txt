@@ -6523,7 +6523,7 @@ project_description: "The BMSB is an introduced insect that is indigenous throug
 project_url: "http://delfosse.ent.msu.edu/"
 project_name: "Classical Biological Control of the Brown Marmorated Stink Bug (BMSB)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6574,7 +6574,7 @@ project_description: "The Hudson River Eel Project is a survey style study of th
 project_url: "http://www.dec.ny.gov/lands/49580.html"
 project_name: "The Hudson River Eel Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6625,7 +6625,7 @@ project_description: "The US Department of Homeland Security's Immigrations and 
 project_url: "https://www.ice.gov/predator/smartphone-app"
 project_name: "Operation Predator"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
