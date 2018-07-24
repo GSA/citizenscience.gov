@@ -16777,7 +16777,7 @@ project_description: "Help us study wildlife by running a motion sensitive \"cam
 project_url: "http://www.nccandidcritters.org"
 project_name: "NC Candid Critters"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16828,7 +16828,7 @@ project_description: "Improved understanding of climate and environmental change
 project_url: "https://www.oldweather.org"
 project_name: "Old Weather"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16879,7 +16879,7 @@ project_description: "The public helped document what birds are using the park a
 project_url: "https://www.nps.gov/grba/learn/nature/great-basin-bioblitz.htm"
 project_name: "Great Basin Bio Blitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16930,7 +16930,7 @@ project_description: "The All Taxa Biodiversity Inventory (ATBI)/BioBlitz SWAT T
 project_url: "http://eowilsonfoundation.org/atbibioblitz-swat-team/ "
 project_name: "ATBI (All Taxa Biodiversity Inventory)/BioBlitz SWAT Team 2014: Rocky Mountain National Park"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -16981,7 +16981,7 @@ project_description: "At the site of the Western US's greatest raptor migration 
 project_url: "www.ggro.org"
 project_name: "Golden Gate Raptor Observatory"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17032,7 +17032,7 @@ project_description: "Visitors can complete the Citizen Science Booklet during t
 project_url: "https://www.nps.gov/crmo/index.htm"
 project_name: "Citizen Science Booklet"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17083,7 +17083,7 @@ project_description: "The \"Dragonfly Mercury Project\" (DMP) engages citizen sc
 project_url: "http://www.nature.nps.gov/air/studies/air_toxics/dragonfly/index.cfm"
 project_name: "Dragonfly Mercury Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17134,7 +17134,7 @@ project_description: "Joshua Tree National Park Wildflower Watch uses the citize
 project_url: "http://www.inaturalist.org/projects/joshua-tree-national-park-wildflower-watch"
 project_name: "Joshua Tree National Park Wildflower Watch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17185,7 +17185,7 @@ project_description: "A.T. Seasons is your opportunity to help track the unfoldi
 project_url: "https://www.usanpn.org/appalachian/"
 project_name: "A.T. Seasons Phenology Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17236,7 +17236,7 @@ project_description: "The River Mile is a network of educators, students, resour
 project_url: "www.therivermile.org"
 project_name: "The River Mile Columbia River Watershed Crayfish Study"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17287,7 +17287,7 @@ project_description: "The Urban Archeology Corps is a national program where you
 project_url: "https://www.nps.gov/articles/urban-archeology-corps.htm"
 project_name: "Urban Archeology Corps"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17338,7 +17338,7 @@ project_description: "This event will be held at Mt. Ashland with all of our par
 project_url: "https://www.facebook.com/events/200642850330253/"
 project_name: "BioBlitz: Every Kid in a Park at Mt. Ashland"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17389,7 +17389,7 @@ project_description: "An annual worldwide \"snap shot\" of where people see bird
 project_url: "http://gbbc.birdcount.org/"
 project_name: "Great Backyard Bird Count"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17440,7 +17440,7 @@ project_description: "Students take measurements in the field, analyze their dat
 project_url: "https://www.nps.gov/crmo/learn/education/classrooms/life-in-the-extreme.htm"
 project_name: "Life in the Extreme"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17491,7 +17491,7 @@ project_description: "Self Guided Trail Brochure that provides opportunities for
 project_url: "http://www.kidsinparks.com/carl-sandburg-home-national-historic-site"
 project_name: "Citizen Science Track Trail"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17542,7 +17542,7 @@ project_description: "\"Mothball\" historic cowboy bunk and cook houses for safe
 project_url: "https://www.facebook.com/Mojave-National-Preserve-151022481577447/"
 project_name: "Rock Tank Cabin Restoration"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17593,7 +17593,7 @@ project_description: "The annual Christmas Bird Count will take place at Craters
 project_url: "https://www.nps.gov/crmo/index.htm"
 project_name: "Christmas Bird Count"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17644,7 +17644,7 @@ project_description: "Stabilization/cleanup of a historic mining cabin"
 project_url: "https://www.facebook.com/Mojave-National-Preserve-151022481577447/"
 project_name: "Larrieu Cabin Rehabilitation"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17695,7 +17695,7 @@ project_description: "Condor watch is using photos collected at California condo
 project_url: "https://www.condorwatch.org/"
 project_name: "Condor Watch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17746,7 +17746,7 @@ project_description: "iNaturalist Project for collecting flora and fauna observa
 project_url: "https://www.inaturalist.org/projects/petrified-forest-national-park-natural-history-observations"
 project_name: "Petrified Forest National Park Natural History Observations"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17797,7 +17797,7 @@ project_description: "iNaturalist public project started in 2016 to identify spe
 project_url: "http://www.inaturalist.org/observations?verifiable=any&project_id=6810&place_id=95234"
 project_name: "Little River Canyon Bioblitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17848,7 +17848,7 @@ project_description: "The result of a National Park Service-George Mason Univers
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1190#picset=17044&orientation"
 project_name: "Wolftrap National Park for the Performing Arts Digital Earth Watch (DEW) Picture Post Phenology Wayside #2"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17899,7 +17899,7 @@ project_description: "The result of a National Park Service-George Mason Univers
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1178#picset=17421&orientation"
 project_name: "Wolftrap National Park for the Performing Arts Digital Earth Watch (DEW) Picture Post Phenology Wayside #1"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -17950,7 +17950,7 @@ project_description: "Use iNaturalist to explore Gulf Islands National Seashore 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "Gulf Islands Mini Bioblitz"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18001,7 +18001,7 @@ project_description: "The objective of this project is to estimate the status an
 project_url: "https://science.nature.nps.gov/im/units/ucbn/monitor/camas.cfm"
 project_name: "Camas Lily Monitoring Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18052,7 +18052,7 @@ project_description: "The result of a National Park Service-George Mason Univers
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1194#picset=19115&orientation"
 project_name: "Kenilworth Aquatic Gardens Digital Earth Watch (DEW) Picture Post Phenology Wayside"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18103,7 +18103,7 @@ project_description: "The result of a National Park Service-George Mason Univers
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1192#picset=18112&orientation"
 project_name: "Kenilworth Aquatic Gardens Digital Earth Watch (DEW) Picture Post Phenology Wayside"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18154,7 +18154,7 @@ project_description: "The MHPP asks students to monitor spring bud development a
 project_url: "https://www.nps.gov/rlc/craterlake/upload/Spring-Teacher-Guide-Spring-2017-Classroom-at-Crater-Lake-12.pdf"
 project_name: "Mountain Hemlock Phenology Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18205,7 +18205,7 @@ project_description: "The Kelly Warm Spring Citizen Science Project seeks to gat
 project_url: "https://www.nps.gov/grte/learn/education/for-teachers.htm"
 project_name: "Kelly Warm Spring Citizen Science Species Monitoring Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18256,7 +18256,7 @@ project_description: "Sugar maple (Acer saccharum) is a key cultural and ecologi
 project_url: "http://joshuamrapp.com/2015/10/acernet-funded-by-ne-csc/"
 project_name: "Climate Effects on the Culture and Ecology of Sugar Maple"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -18307,7 +18307,7 @@ project_description: "The result of a National Park Service-George Mason Univers
 project_url: "https://picturepost.unh.edu/post.jsp?postId=1177#picset=18215&orientation"
 project_name: "Rock Creek Park Digital Earth Watch (DEW) Picture Post Phenology Wayside"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
