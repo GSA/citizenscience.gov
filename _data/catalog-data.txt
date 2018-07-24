@@ -5050,7 +5050,7 @@ project_description: "Building the Tree of Life requires the study of comparativ
 project_url: "http://www.theevolutionproject.org/"
 project_name: "The Evolution Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5101,7 +5101,7 @@ project_description: "Cattail populations are changing due to hybridization of t
 project_url: "http://nwrcwebapps.cr.usgs.gov/cattail/"
 project_name: "Volunteer Cattail Monitoring Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5152,7 +5152,7 @@ project_description: "Volunteer Dive Program at Grays' Reef National Marine Sanc
 project_url: "http://graysreef.noaa.gov/involved/volunteer/team_ocean.html"
 project_name: "Team Ocean Science Diver Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5203,7 +5203,7 @@ project_description: "Citizen scientists are trained to conduct surveys at 45 la
 project_url: "http://www.crownscience.org/getinvolved/citizen-science/loons"
 project_name: "Common Loon Citizen Science Project at Glacier National Park"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5254,7 +5254,7 @@ project_description: "Adopt a Pixel is a citizen science program that engages th
 project_url: "https://lta.cr.usgs.gov/adopt_a_pixel"
 project_name: "Adopt a Pixel"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5305,7 +5305,7 @@ project_description: "The USGS is trying to achieve a denser and more uniform sp
 project_url: "http://earthquake.usgs.gov/monitoring/netquakes/"
 project_name: NetQuakes
 - 
-type: Feature
+type: Feature KC 
 geometry: 
 type: Point
 coordinates: 
@@ -5356,7 +5356,7 @@ project_description: "Invasive weedy plants are a widespread problem throughout 
 project_url: "http://www.gri.msstate.edu/research/ipams"
 project_name: "Invasive Plant Atlas of the MidSouth"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5407,7 +5407,7 @@ project_description: "The Delaware Bay Horseshoe Crab Survey was founded in 1990
 project_url: "http://horseshoecrabsurvey.com"
 project_name: "The Delaware Bay Horseshoe Crab Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: null
 properties: 
 cartodb_id: 189
@@ -5452,7 +5452,7 @@ project_description: "The Seabird Ecological Assessment Network (SEANET) is a ci
 project_url: "http://vet.tufts.edu/seanet/"
 project_name: "Seabird Ecological Assessment Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
