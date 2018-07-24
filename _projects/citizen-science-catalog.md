@@ -7,12 +7,19 @@ permalink: /about/catalog/
 read-more-link: https://www.citizenscience.gov/about/catalog/
 tags: project
 image: /assets/img/project-images/catalog.jpg
-link-out: https://ccsinventory.wilsoncenter.org/
+link-out: /about/catalog/
 ---
 
 ## About the Catalog
+
+<div class="usa-alert usa-alert-error" role="alert">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Maintanance Status</h3>
+    <p class="usa-alert-text">The Catalog is currenlty unavailable as we are transitioning it to a new server. We estimate to have this completed by 10 Aug. 2018. Please email citizenscience@gsa.gov for any inquiries. </p>
+  </div>
+</div>
+
 This database provides a government-wide listing of citizen science and crowdsourcing projects by agency. 
 
 It is designed to improve cross-agency collaboration, reveal opportunities for new and high-impact projects, and make it easier for volunteers to find projects in which they can participate. Projects submitted to the catalog are validated for agency involvement by federal employees.
 
-[Visit the Catalog here](https://ccsinventory.wilsoncenter.org/)
