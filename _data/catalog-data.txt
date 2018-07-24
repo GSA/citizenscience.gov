@@ -1531,7 +1531,7 @@ project_description: "Based in the Seung Computational Neuroscience Lab at Princ
 project_url: "http://eyewire.org"
 project_name: EyeWire
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1582,7 +1582,7 @@ project_description: "The North American Bird Phenology Programis a project supp
 project_url: "https://www.pwrc.usgs.gov/bpp/index.cfm"
 project_name: "North American Bird Phenology Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1633,7 +1633,7 @@ project_description: "DISCOVER-AQ is a NASA led Earth Venture Mission which invo
 project_url: "http://www.epa.gov/nerl/features/discover-aq.html"
 project_name: "DISCOVER-AQ"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1684,7 +1684,7 @@ project_description: "Global pollinator populations are in decline for a variety
 project_url: "http://gapp.org/"
 project_name: "Greater Atlanta Pollinator Partnership: A model for urban pollinator conservation"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1735,7 +1735,7 @@ project_description: "Plains to the Park is a scientific research program hosted
 project_url: "http://stem.svvsd.org/plains-park-student-research-project"
 project_name: "Plains to the Park"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1786,7 +1786,7 @@ project_description: "Volunteers from Adventurers and Scientists for Conservatio
 project_url: "http://www.adventurescience.org/uinta-carnivore-survey.html"
 project_name: "Rare Carnivore Monitoring in the Uinta Mountains"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1837,7 +1837,7 @@ project_description: "Citizen Archivist is a project run through the National Ar
 project_url: "http://www.archives.gov/citizen-archivist/"
 project_name: "Citizen Archivist "
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1888,7 +1888,7 @@ project_description: "The Cooperative Observer Program (Coop) was initiated by a
 project_url: "http://www.nws.noaa.gov/om/coop/become.htm"
 project_name: "National Weather Service Cooperative Observer Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1939,7 +1939,7 @@ project_description: "As part of the White House’s Precision Medicine Initiati
 project_url: "https://precision.fda.gov"
 project_name: precisionFDA
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -1990,7 +1990,7 @@ project_description: "The GenomeTrakr network is the first distributed network o
 project_url: "http://www.fda.gov/Food/FoodScienceResearch/WholeGenomeSequencingProgramWGS/ucm363134.htm"
 project_name: "FDA GenomeTrakr"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2041,7 +2041,7 @@ project_description: "Beach profiling is a simple surveying technique used to me
 project_url: "http://www.seagrant.umaine.edu/extension/beach-profile-monitoring/home"
 project_name: "Southern Maine Volunteer Beach Profile Monitoring Program"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2092,7 +2092,7 @@ project_description: "openFDA allows users to explore more of FDAs information a
 project_url: "https://open.fda.gov"
 project_name: openFDA
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2143,7 +2143,7 @@ project_description: "Specially trained citizen scientists with NOAA Channel Isl
 project_url: "http://sanctuarysimon.org/news/2015/08/whale-sightings-in-the-northern-channel-islands/"
 project_name: "Marine Mammal Sightings Data - Channel Islands National Marine Sanctuary "
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2194,7 +2194,7 @@ project_description: "Help NASA identify craters and other terrain on the astero
 project_url: "http://cosmoquest.org/?application=vesta_mappers"
 project_name: "Asteroid Mappers"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2245,7 +2245,7 @@ project_description: "ATSDR has an environmental odors website with videos and d
 project_url: "http://www.atsdr.cdc.gov/odors/index.html"
 project_name: "ATSDR Environmental Odors website"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2296,7 +2296,7 @@ project_description: "Citizen Scientists are trained to identify five invasive p
 project_url: "http://www.crownscience.org/getinvolved/citizen-science/noxious-weeds"
 project_name: "Invasive Plant Citizen Science Project at Glacier National Park"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2347,7 +2347,7 @@ project_description: "Since November of 2013, the Influenza Division at the Cent
 project_url: "http://www.cdc.gov/flu/news/flu-forecast-website-launched.htm and http://predict.phiresearchlab.org/flu/index.html"
 project_name: "FluSight: Seasonal Influenza Forecasting"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2398,7 +2398,7 @@ project_description: "Butterflies are sensitive indicators of climate change bec
 project_url: "http://www.nps.gov/noca/getinvolved/supportyourpark/butterfly-project.htm"
 project_name: "Cascades Butterfly Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2449,7 +2449,7 @@ project_description: "Target Asteroids! is a citizen science project which engag
 project_url: "http://www.asteroidmission.org/get-involved/target-asteroids/"
 project_name: "Target Asteroids!"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2500,7 +2500,7 @@ project_description: "Using our app, people from all walks of life can contribut
 project_url: "http://science.nasa.gov/science-news/science-at-nasa/2011/13dec_meteorcounter/"
 project_name: "Meteor Counter App"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2551,7 +2551,7 @@ project_description: "Workshop to engage citizens in participatory research in t
 project_url: "http://bit.ly/1RQKely"
 project_name: "Citizen Scientists: Making a World of Difference"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2602,7 +2602,7 @@ project_description: "EPA is working with the community in Mattapoisett to prepa
 project_url: /A"
 project_name: "Mattapoisett/EPA Preparing for Extreme Weather"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2653,7 +2653,7 @@ project_description: "Help develop an early warning system to alert communities 
 project_url: TBD
 project_name: "A General Aviation Citizen Science Study of Harmful Algal Blooms"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2704,7 +2704,7 @@ project_description: "Gulf Islands National Seashore will work with resource exp
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Gulf Islands"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2755,7 +2755,7 @@ project_description: "The 2016 BioBlitz at Cesar E. Chavez National Monument wil
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - César E. Chávez"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
