@@ -2806,7 +2806,7 @@ project_description: "Operation Dragon Fire (ODF) bridges the gap between data o
 project_url: "http://odf.nvoad.org/"
 project_name: "Operation Dragon Fire"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -2857,7 +2857,7 @@ project_description: "When NASA's Juno mission arrives at Jupiter on July 4, 201
 project_url: "missionjuno.swri.edu/junocam"
 project_name: JunoCam
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13351,7 +13351,7 @@ project_description: "Learning to See, Seeing to Learn is a web-based project (m
 project_url: "macroinvertebrates.org"
 project_name: "Learning to See, Seeing to Learning: A socio-technical system to support volunteer water quality biomonitoring"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13402,7 +13402,7 @@ project_description: "The Student Watershed Research Project involves high schoo
 project_url: "http://www.swrp.esr.pdx.edu"
 project_name: "Student Watershed Research Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13453,7 +13453,7 @@ project_description: "Crowd-sourcing the discovery of gravitational lenses in as
 project_url: "http://spacewarps.org"
 project_name: "Space Warps"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13504,7 +13504,7 @@ project_description: "We are developing and implementing a global, open-source, 
 project_url: "http://landpotential.org/"
 project_name: "Land-Potential Knwledge System (LandPKS)"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13555,7 +13555,7 @@ project_description: "With the free Whale Alert app, mariners and members of the
 project_url: "http://www.whalealert.org/"
 project_name: "Whale Alert app"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13606,7 +13606,7 @@ project_description: "The goal of this project is to engage the Foldit community
 project_url: "https://depts.washington.edu/biowww/pages/faculty-Baker.shtml"
 project_name: "Foldit Game Empowering the Citizen Scientist in the Fight Against Ebolaviruses"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13657,7 +13657,7 @@ project_description: "This project will be conducted on the Yukon-Kuskokwim (Y-K
 project_url: "http://learnscape.org/goose/"
 project_name: "Asynchrony in the timing of goose-vegetation interactions: implications for biogeochemical cycling in wet sedge tundra"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13708,7 +13708,7 @@ project_description: "There are an estimated two billion specimens housed in nat
 project_url: "https://www.notesfromnature.org/"
 project_name: "Notes From Nature"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13759,7 +13759,7 @@ project_description: "Analyze thousands of infrared images of the Milky Way Gala
 project_url: "www.milkywayproject.org"
 project_name: "The Milky Way Project"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13810,7 +13810,7 @@ project_description: "Berkeley Lab scientists have spent decades investigating h
 project_url: "http://indoorair.lbl.gov/"
 project_name: "Berkeley Lab Range Hood Roundup"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13861,7 +13861,7 @@ project_description: "LiMPETS (Long-term Monitoring Program and Experiential Tra
 project_url: "http://limpets.org"
 project_name: "Long-term Monitoring Program and Experiential Training for Students (LiMPETS)"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -13912,7 +13912,7 @@ project_description: "The Digital Earth Watch (DEW) Picture Post Network empower
 project_url: "http://picturepost.unh.edu"
 project_name: "DEW Picture Post"
 - 
-type: Feature
+type: Feature cms
 geometry: null
 properties: 
 cartodb_id: 412
@@ -13957,7 +13957,7 @@ project_description: "High-school students throughout the United States analyze 
 project_url: "pulsarsearchcollaboratory.com"
 project_name: "Pulsar Search Collaboratory"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -14008,7 +14008,7 @@ project_description: "HydroShare is an online, collaborative Hydrologic Informat
 project_url: "http://www.hydroshare.org"
 project_name: "HydroShare - community collaboration using hydrologic data and models"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
