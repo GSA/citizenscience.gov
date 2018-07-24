@@ -15067,7 +15067,7 @@ project_description: "This Frontier award supports the SONYC project, a smart ci
 project_url: "https://wp.nyu.edu/sonyc/"
 project_name: SONYC
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15118,7 +15118,7 @@ project_description: "National Science Foundation Research Coordination Network 
 project_url: ""
 project_name: "3dNaturalists and polliinator hotshots"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15169,7 +15169,7 @@ project_description: "How can we train robots to act autonomously, but also safe
 project_url: "https://www.youtube.com/watch?v=vzND2qKGKAk"
 project_name: "Twitch Plays Robotics."
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15220,7 +15220,7 @@ project_description: "Combining human intuition and experience (hunch) with big 
 project_url: ""
 project_name: "Hunch and Crunch"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15271,7 +15271,7 @@ project_description: "We need you to look at images taken by a network of automa
 project_url: "http://seasonspotter.org/"
 project_name: "Season Spotter"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15322,7 +15322,7 @@ project_description: "Documenting and sharing sustainable, wildlife-friendly lan
 project_url: "http://Habitat.Network"
 project_name: "Habitat Network"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15373,7 +15373,7 @@ project_description: "This is an NSF Math Science Partnership project that is in
 project_url: "http://ievolvewithstem.org"
 project_name: "iEvolve with STEM (Inquiry and Engagement to Invigorate and Optimize Learning for Everyone with STEM)"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15424,7 +15424,7 @@ project_description: "Project Sidewalk combines remote crowdsourcing + machine l
 project_url: "http://sidewalk.umiacs.umd.edu/"
 project_name: "Project Sidewalk"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15475,7 +15475,7 @@ project_description: "Introduction\r\r\nThis project lays the foundations for a 
 project_url: ""
 project_name: "RAPID: Collabortive Research: What Makes Lay/Expert Collaborations Succeed?"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15526,7 +15526,7 @@ project_description: "Worldwide Engagement for Digitizing Biocollections (WeDigB
 project_url: "https://www.wedigbio.org"
 project_name: "Worldwide Engagement for Digitizing Biocollections (WeDigBio)"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15577,7 +15577,7 @@ project_description: "This research aims to improve socio-technical understandin
 project_url: "http://www.eng.auburn.edu/~yilmaz"
 project_name: "Dynamics of Creativity and Innovation in Virtual Scientific Commons"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15628,7 +15628,7 @@ project_description: "Putting biodiversity in the palm of your hand. Discover an
 project_url: "https://mol.org/mobile"
 project_name: "Map of Life"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15679,7 +15679,7 @@ project_description: "This is an educational module for middle and early high sc
 project_url: "http://www.biology.pitt.edu/k-12-outreach"
 project_name: "Ectotherm ER: Frogs under the weather!"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
@@ -15730,7 +15730,7 @@ project_description: "Students Discover offers free, high-quality curriculum to 
 project_url: "http://studentsdiscover.org/"
 project_name: "Students Discover"
 - 
-type: Feature
+type: Feature cms
 geometry: 
 type: Point
 coordinates: 
