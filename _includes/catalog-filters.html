@@ -8,12 +8,17 @@
   </button>
   <div id="a1" class="usa-accordion-content catalog-agency-list">
     <ul>
-      <a href="{{ site.baseurl }}/catalog/nasa/" title="NASA">National Aeronautics and Space Administration</a>
-    </ul>
-    <ul>
-      <a href="{{ site.baseurl }}/catalog/usfs/" title="USFS">U.S. Forest Service</a>
+    {% for item in site.agencies %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.tooltip }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
     </ul>
   </div>
 </li>
 </ul>
 </div>
+
+
+
+
