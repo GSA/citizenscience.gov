@@ -27,11 +27,10 @@ layout: catalog-base
 
 {% for item in site.catalog-projects %}
 				<div class="usa-width-one-third catalog-project-list">
-						<article>
+						<article class="agency-list-article">
 								<div class="infos">
 										<a href="{{ item.url | prepend: site.baseurl }}">
 										<h3 class="title">{{ item.project_name | truncatewords: 5 }}</h3></a>
-									
 											{% include catalog-list-project-status.html %}
 											<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope }}</p>
 										

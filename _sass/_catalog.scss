@@ -98,13 +98,23 @@
 
 // Agency list sidebar /catalog/ page
 
+ul ul {
+	list-style-type: none;
+}
+
+.agency-list-article {
+	padding: 10px;
+	line-height: 0;
+}
+
 .sidebar-agency-list {
 	padding-top: 30px;
 }
 
 .sidebar-agency-list li {
-	font-size: small;
+	font-size: medium;
 	text-decoration: none;
+	line-height: 1em;
 }
 
 .sidebar-agency-list button {
