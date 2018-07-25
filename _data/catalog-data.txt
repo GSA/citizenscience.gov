@@ -154,7 +154,7 @@ project_description: "Help NASA identify craters and other terrain on Mars"
 project_url: "http://cosmoquest.org/?application=mars_simply_craters"
 project_name: "Mars Mappers"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -205,7 +205,7 @@ project_description: "Theodore Roosevelt National Park will focus on finding and
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Theodore Roosevelt"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -256,7 +256,7 @@ project_description: "Citizen scientists are collecting coastal water samples an
 project_url: "http://www.plasticaware.org"
 project_name: "Florida Microplastic Awareness Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -307,7 +307,7 @@ project_description: "The NOAA National Severe Storms Laboratory (NSSL) is colle
 project_url: "http://www.nssl.noaa.gov/projects/ping/"
 project_name: "Meterologial Phenomena identification Near the Ground (mPING)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -358,7 +358,7 @@ project_description: "Is Ash Falling? project is a database module and web inter
 project_url: "http://www.avo.alaska.edu/ashfall/ashreport.php"
 project_name: "Is Ash Falling?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -409,7 +409,7 @@ project_description: "North American Breeding Bird Survey"
 project_url: "http://www.pwrc.usgs.gov/bbs"
 project_name: "North American Breeding Bird Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -460,7 +460,7 @@ project_description: "This project involves development of California HAB foreca
 project_url: "http://www.cencoos.org/data/models/habs"
 project_name: "Forecasting Harmful Algal Blooms in California"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -511,7 +511,7 @@ project_description: "The iCoast - Did the Coast Change? web application asks vo
 project_url: "http://coastal.er.usgs.gov/icoast"
 project_name: "iCoast- Did the Coast Change?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -562,7 +562,7 @@ project_description: "Aurorasaurus is the first citizen science project that agg
 project_url: "http://www.aurorasaurus.org"
 project_name: Aurorasaurus
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -613,7 +613,7 @@ project_description: "The International Hydrographic Office (IHO) is coordinatin
 project_url: "http://www.ngdc.noaa.gov/iho/#csb"
 project_name: "IHO Crowd Source Bathymetry Pilot Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -664,7 +664,7 @@ project_description: "In collaboration with Cornell Lab of Ornithology and Natio
 project_url: "http://www.fws.gov/refuges/birding/ebirdTracker.html"
 project_name: "National Wildlife Refuge System eBird Tracker"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -715,7 +715,7 @@ project_description: "The U.S. Fish and Wildlife Service is partnering with Audu
 project_url: "http://ca.audubon.org/brownpelicansurvey"
 project_name: "California Brown Pelican Citizen Science Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -766,7 +766,7 @@ project_description: "Participants attend a one-day classroom and field based ed
 project_url: "http://www.crownscience.org/getinvolved/citizen-science/high-country"
 project_name: "High Country Citizen Science Project at Glacier National Park"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -817,7 +817,7 @@ project_description: "The Delaware Shorebird Project involves a dedicated team o
 project_url: "http://www.dnrec.delaware.gov/fw/Shorebirds/Pages/default.aspx"
 project_name: "Delaware Shorebird Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -868,7 +868,7 @@ project_description: "The Mobile App Marine Debris Tracker is a joint partnershi
 project_url: "http://www.marinedebris.engr.uga.edu/"
 project_name: "Marine Debris Tracker"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -919,7 +919,7 @@ project_description: "Through a collaboration with the Sister Cities program, Es
 project_url: "http://www.nps.gov/rlc/continentaldivide/international-partnerships.htm"
 project_name: "The Costa Rica Science Exchange"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -970,7 +970,7 @@ project_description: "The U.S. Fish and Wildlife Service is partnering with the 
 project_url: "http://www.sdnhm.org/science/birds-and-mammals/projects/flying-squirrel-study/"
 project_name: "Urban Edge Habitat Use by the San Bernardino Flying Squirrel"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1021,7 +1021,7 @@ project_description: "The web portals produced by the Lunar and Planetary Mappin
 project_url: "http://lmmp.nasa.gov"
 project_name: "Lunar and Planetary Mapping and Modeling Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1072,7 +1072,7 @@ project_description: "Gros Ventre Project - A Cooperative Project with the U.S. 
 project_url: "http://www.naturemappingjh.org/Gros-Ventre-Project.aspx"
 project_name: "Gros Ventre Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1123,7 +1123,7 @@ project_description: "In CrowdMag project, NOAA explore whether digital magnetom
 project_url: "http://www.ngdc.noaa.gov/geomag/crowdmag.shtml"
 project_name: CrowdMag
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1174,7 +1174,7 @@ project_description: "Crowdsource S&T Ideas from a diverse community that could 
 project_url: "futures.armyscitech.com"
 project_name: "Technology Wargaming"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1225,7 +1225,7 @@ project_description: "Mark2Cure allows anyone that can read English, regardless
 project_url: "https://mark2cure.org/"
 project_name: Mark2Cure
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1276,7 +1276,7 @@ project_description: "From barcodeli.org/about.html: Working with a qualified te
 project_url: "http://www.barcodeli.org/"
 project_name: "Barcode Long Island: Exploring Biodiversity in a Unique Urban Landscape"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1327,7 +1327,7 @@ project_description: "The Right Whale Sighting Advisory System (RWSAS) is a NOAA
 project_url: "http://www.nefsc.noaa.gov/psb/surveys/SAS.html"
 project_name: "Right Whale Sighting Advisory System"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1378,7 +1378,7 @@ project_description: "The Wildlife Health Event Reporter is a web-based applicat
 project_url: "http://www.wher.org/"
 project_name: "Wildlife Health Event Reporter"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1429,7 +1429,7 @@ project_description: "The annual Cricket Crawl is a call to citizen scientists, 
 project_url: "http://www.discoverlife.org/cricket/"
 project_name: "NYC Cricket Crawl"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -1480,7 +1480,7 @@ project_description: "The annual Cricket Crawl is a call to citizen scientists, 
 project_url: "http://www.discoverlife.org/cricket/DC/"
 project_name: "DC/Baltimore Cricket Crawl"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -2908,7 +2908,7 @@ project_description: "The Nonindigenous Aquatic Species (NAS) Program provides a
 project_url: "http://nas.er.usgs.gov/"
 project_name: "Nonindigenous Aquatic Species (NAS) Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -2959,7 +2959,7 @@ project_description: "Project designed to document the occurrence and timing of 
 project_url: "in progress"
 project_name: Cyanomonitoring
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3010,7 +3010,7 @@ project_description: "The Encyclopedia of Life (EOL) provides free, open, multil
 project_url: "http://eol.org/info/contribute_research"
 project_name: "Encyclopedia of Life"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3061,7 +3061,7 @@ project_description: "eMammal is a system for collecting, storing, and sharing c
 project_url: "emammal.si.edu/participate"
 project_name: eMammal
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3112,7 +3112,7 @@ project_description: "This Geo-Referenced Field Photo Library is a community- an
 project_url: "http://www.eomf.ou.edu/photos/#new_sept_event"
 project_name: "Field Photo App"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3163,7 +3163,7 @@ project_description: "This event is geared more towards public engagement and ed
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Natchez Trace BioBlitz and Wildlife Weekend"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3214,7 +3214,7 @@ project_description: "Project BudBurst is a national network of citizen scientis
 project_url: "http://www.budburst.org"
 project_name: "Project BudBurst"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3265,7 +3265,7 @@ project_description: "In 1998, the Watershed Education Summit (WES) began as a c
 project_url: None
 project_name: "Eldorado National Forest Watershed Education Summit"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3316,7 +3316,7 @@ project_description: "As part of the Department of Homeland Security's (DHS) Imm
 project_url: "https://www.ice.gov/predator"
 project_name: Predator
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3367,7 +3367,7 @@ project_description: "Conservation Education and Interpretation staff on the Ton
 project_url: None
 project_name: "Project Budburst on the Tongass National Forest"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3418,7 +3418,7 @@ project_description: "MMOWGLI stands for Massive Multiplayer Online Wargame Leve
 project_url: "https://portal.mmowgli.nps.edu/game-wiki"
 project_name: MMOWGLI
 - 
-type: Feature
+type: Feature  KC
 geometry: 
 type: Point
 coordinates: 
@@ -3469,7 +3469,7 @@ project_description: "This integrated monitoring effort gathers information asso
 project_url: "http://www.fws.gov/savethemonarch/"
 project_name: "Monarch Butterfly Integrated Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3520,7 +3520,7 @@ project_description: "Collect pH coastal data easily with a device that links to
 project_url: "https://itunes.apple.com/us/app/co2calc/id407782321"
 project_name: "pH Pro"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3571,7 +3571,7 @@ project_description: "Volunteers counted migratory birds on the Summer Equinox o
 project_url: /a"
 project_name: "Rocky Mountain National Park Summer Bird Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3622,7 +3622,7 @@ project_description: "The 2016 BioBlitz at Boston Harbor Islands National Recrea
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks Bioblitz - Boston Harbor Islands"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3673,7 +3673,7 @@ project_description: "SciCast is a crowd-sourced prediction market for science a
 project_url: "https://scicast.org/#!/"
 project_name: SciCast
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3724,7 +3724,7 @@ project_description: "The American Woodcock Singing-Ground Survey, conducted by 
 project_url: "\nhttp://www.fws.gov/birds/surveys-and-data/webless-migratory-game-birds/american-woodcock.php"
 project_name: "American Woodcock Singing-ground Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3775,7 +3775,7 @@ project_description: "TreesCount! 2015 is New York City’s third decadal effort
 project_url: "nyc.gov/parks/treescount"
 project_name: "TreesCount! 2015"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3826,7 +3826,7 @@ project_description: "Annual bird count survey is conducted in the Fajardo PR ar
 project_url: None
 project_name: "22nd Fajardo Christmas Bird Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -3877,7 +3877,7 @@ project_description: "The Phytoplankton Monitoring Network (PMN) project was cre
 project_url: "http://products.coastalscience.noaa.gov/pmn/"
 project_name: "Phytoplankton Monitoring Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5050,7 +5050,7 @@ project_description: "Building the Tree of Life requires the study of comparativ
 project_url: "http://www.theevolutionproject.org/"
 project_name: "The Evolution Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5101,7 +5101,7 @@ project_description: "Cattail populations are changing due to hybridization of t
 project_url: "http://nwrcwebapps.cr.usgs.gov/cattail/"
 project_name: "Volunteer Cattail Monitoring Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5152,7 +5152,7 @@ project_description: "Volunteer Dive Program at Grays' Reef National Marine Sanc
 project_url: "http://graysreef.noaa.gov/involved/volunteer/team_ocean.html"
 project_name: "Team Ocean Science Diver Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5203,7 +5203,7 @@ project_description: "Citizen scientists are trained to conduct surveys at 45 la
 project_url: "http://www.crownscience.org/getinvolved/citizen-science/loons"
 project_name: "Common Loon Citizen Science Project at Glacier National Park"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5254,7 +5254,7 @@ project_description: "Adopt a Pixel is a citizen science program that engages th
 project_url: "https://lta.cr.usgs.gov/adopt_a_pixel"
 project_name: "Adopt a Pixel"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5305,7 +5305,7 @@ project_description: "The USGS is trying to achieve a denser and more uniform sp
 project_url: "http://earthquake.usgs.gov/monitoring/netquakes/"
 project_name: NetQuakes
 - 
-type: Feature
+type: Feature KC 
 geometry: 
 type: Point
 coordinates: 
@@ -5356,7 +5356,7 @@ project_description: "Invasive weedy plants are a widespread problem throughout 
 project_url: "http://www.gri.msstate.edu/research/ipams"
 project_name: "Invasive Plant Atlas of the MidSouth"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5407,7 +5407,7 @@ project_description: "The Delaware Bay Horseshoe Crab Survey was founded in 1990
 project_url: "http://horseshoecrabsurvey.com"
 project_name: "The Delaware Bay Horseshoe Crab Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: null
 properties: 
 cartodb_id: 189
@@ -5452,7 +5452,7 @@ project_description: "The Seabird Ecological Assessment Network (SEANET) is a ci
 project_url: "http://vet.tufts.edu/seanet/"
 project_name: "Seabird Ecological Assessment Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5503,7 +5503,7 @@ project_description: "The Advanced Rapid Imaging and Analysis Project at NASA's 
 project_url: "http://aria.jpl.nasa.gov/"
 project_name: "The Advanced Rapid Imaging and Analysis Project (ARIA) Damage Validation Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5554,7 +5554,7 @@ project_description: "The University of Florida IFAS Monroe County Extension dev
 project_url: "http://monroe.ifas.ufl.edu/pdf/environment/fkww.pdf"
 project_name: "Florida Keys Water Watch"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5605,7 +5605,7 @@ project_description: "Monitor Change is a simple and elegant visual citizen scie
 project_url: "http://monitorchange.org/"
 project_name: "Monitor Change"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5656,7 +5656,7 @@ project_description: "The Did You Feel It? (DYFI) project is designed to gather 
 project_url: "http://earthquake.usgs.gov/dyfi"
 project_name: "Did You Feel It?"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5707,7 +5707,7 @@ project_description: "Insect emergence is a fundamental process in streams and r
 project_url: "http://www.gcmrc.gov/research_areas/food_base/citizen_science_monitoring.aspx"
 project_name: "Citizen Science Insect Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5758,7 +5758,7 @@ project_description: "The goal of AMBLE was to empower concerned citizens to mon
 project_url: "http://www.nwhc.usgs.gov/our_research/amble/"
 project_name: "Lake Michigan AMBLE (Avian Monitoring for Botulism Lakeshore Events)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5809,7 +5809,7 @@ project_description: "The Butterflies and Moths of North America (BAMONA) projec
 project_url: "http://www.butterfliesandmoths.org/"
 project_name: "Butterflies and Moths of North America"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5860,7 +5860,7 @@ project_description: "The Dolphin & Whale 911 app will enhance accurate and time
 project_url: "http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/index.html"
 project_name: "Dolphin & Whale 911 Smartphone App"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5911,7 +5911,7 @@ project_description: "The GeoCenter’s Mapping for Resilience Program empowers 
 project_url: "https://www.usaid.gov/GlobalDevLab/about"
 project_name: "Mapping for Resilience"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -5962,7 +5962,7 @@ project_description: "Once a month, volunteers watch, count, and record sea turt
 project_url: "http://www.aquariumofpacific.org/conservation/sea_turtle_monitoring"
 project_name: "San Gabriel River Sea Turtle Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6013,7 +6013,7 @@ project_description: "The purpose of SMAP-SOC is to provide BLM natural resource
 project_url: "http://www.dri.edu/"
 project_name: "System for Mapping and Predicting Species of Concern"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6064,7 +6064,7 @@ project_description: "Did You See It? (DYSI) - Report a Landslide is a website d
 project_url: "http://landslides.usgs.gov/dysi"
 project_name: "Did You See It? - Report a Landslide"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6115,7 +6115,7 @@ project_description: "The Biosecurity for birds outreach campaign produces an ed
 project_url: "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian-influenza-disease/birdbiosecurity"
 project_name: "Biosecurity for birds Calendars"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6166,7 +6166,7 @@ project_description: "We need your help to better understand dragonfly migration
 project_url: "http://www.migratorydragonflypartnership.org/index/welcome"
 project_name: "Migratory Dragonfly Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6217,7 +6217,7 @@ project_description: "Forest Service employees host the annual Christmas Bird Co
 project_url: None
 project_name: "2016 Orilla Verde Christmas Bird Count"
 - 
-type: Feature
+type: Feature 129
 geometry: 
 type: Point
 coordinates: 
@@ -6268,7 +6268,7 @@ project_description: "The CrowdHydrology mission is to create freely available d
 project_url: "http://www.crowdhydrology.com/"
 project_name: CrowdHydrology
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6319,7 +6319,7 @@ project_description: "The Wrangell Ranger District assisted the Alaska Departmen
 project_url: None
 project_name: "Tongass National Forest Bat Citizen Science Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6370,7 +6370,7 @@ project_description: "The overarching goal of this study is to examine how scien
 project_url: "http://www.ars.usda.gov/Research/docs.htm?docid=25733"
 project_name: "Adaptive Grazing Management Experiment"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6421,7 +6421,7 @@ project_description: "Craig and Thorne Bay Ranger District personal partnered wi
 project_url: None
 project_name: "Tongass National Forest Twelvemile Watershed Restoration Project & Stream Team"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6472,7 +6472,7 @@ project_description: "An annual bioblitz is conducted on the Black Kattle Nation
 project_url: None
 project_name: "BioBlitz on Black Kettle National Grassland"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6523,7 +6523,7 @@ project_description: "The BMSB is an introduced insect that is indigenous throug
 project_url: "http://delfosse.ent.msu.edu/"
 project_name: "Classical Biological Control of the Brown Marmorated Stink Bug (BMSB)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6574,7 +6574,7 @@ project_description: "The Hudson River Eel Project is a survey style study of th
 project_url: "http://www.dec.ny.gov/lands/49580.html"
 project_name: "The Hudson River Eel Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6625,7 +6625,7 @@ project_description: "The US Department of Homeland Security's Immigrations and 
 project_url: "https://www.ice.gov/predator/smartphone-app"
 project_name: "Operation Predator"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
