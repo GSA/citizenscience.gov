@@ -14,8 +14,8 @@ link-out: /about/catalog/
 
 <div class="usa-alert usa-alert-error" role="alert">
   <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Maintanance Status</h3>
-    <p class="usa-alert-text">The Catalog is currenlty unavailable as we are transitioning it to a new server. We estimate to have this completed by 10 Aug. 2018. Please email citizenscience@gsa.gov for any inquiries. </p>
+    <h3 class="usa-alert-heading">Maintenance Status</h3>
+    <p class="usa-alert-text">The Catalog is currently unavailable as we are transitioning it to a new server. We estimate to have this completed by 10 Aug. 2018. Please email citizenscience@gsa.gov for any inquiries. </p>
   </div>
 </div>
 
