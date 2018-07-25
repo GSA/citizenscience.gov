@@ -61,18 +61,17 @@
 
 .catalog-project-list {
 	border: 1px solid #DDD;
-	box-shadow: 2px 2px 3px #888;
-	/* -webkit-box-shadow: 2px 2px 3px #888; */
-	-moz-box-shadow: 2px 2px 3px #888;
-	border-radius: 4px;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
+	box-shadow: 1px 1px 2px #888;
+	/* -webkit-box-shadow: 1px 1px 2px #888; */
+	-moz-box-shadow: 1px 1px 2px #888;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
 	line-height: 18px;
 	margin-bottom: 20px;
 	padding: 4px;
 	max-width: 96%;
 	width: 231px;
-	background: 1px #F9F9F9;
 	height: 210px;
 	min-height: 210px;
 	overflow: overlay;
@@ -82,7 +81,7 @@
 
 .catalog-project-list h3 {
 	border-bottom: 1px solid inherit;
-	height: 2.5em;
+	height: 3em;
 	font-size: initial;
 }
 

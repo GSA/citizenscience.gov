@@ -1,7 +1,4 @@
 
-	{% if item.agency_sponsor contains "usgs" %}
-  		<img src="{{ site.baseurl }}/assets/img/agency-logos/usgs.jpg" alt="USGS logo" height="40px">
-	{% endif %}
 
 	{% if item.agency_sponsor contains "nsf" %}
   		<img src="{{ site.baseurl }}/assets/img/agency-logos/nsf.png" alt="NSF logo" height="40px">
@@ -101,6 +98,10 @@
 
 	{% if item.agency_sponsor contains "nara" %}
   		<img src="{{ site.baseurl }}/assets/img/toolkit-images/logos/nara-logo-150x150.png" alt="NARA logo" height="40px">
+	{% endif %}
+
+	{% if item.agency_sponsor contains "usgs" %}
+  		<img src="{{ site.baseurl }}/assets/img/agency-logos/usgs.jpg" alt="USGS logo" height="30px">
 	{% endif %}
 
 
