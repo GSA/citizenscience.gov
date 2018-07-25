@@ -6,6 +6,10 @@
 	color: #ed6d42;
 }
 
+.top-project-field {
+	padding-top: .5em;
+}
+
 .parent-container {
 	display: flex;
 	padding: 3em 8em 4em;
@@ -85,6 +89,7 @@
 .catalog-project-list p {
 	margin-top: .5em;
 	margin-bottom: .5em;
+	line-height: 1;
 }
 
 .agency-list h3 {
@@ -93,7 +98,7 @@
 
 .image-position-bottom {
 	position: absolute;
-	bottom: 0;
+	bottom: .75em;
 }
 
 // Agency list sidebar /catalog/ page
