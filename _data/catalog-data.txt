@@ -6676,7 +6676,7 @@ project_description: "The Bloomington Urban Forest Research Group, at Indiana Un
 project_url: "www.indiana.edu/~cipec/nucfac/"
 project_name: "Evaluating the Ecological and Social Outcomes of Neighborhood and Nonprofit Urban Forestry"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6727,7 +6727,7 @@ project_description: "Gray's Reef National Marine Sanctuary volunteers are invit
 project_url: "http://products.coastalscience.noaa.gov/values_survey/"
 project_name: "Social Science Study: What do you value on Georgia's Coast? Measuring and Mapping the Social Values of Ecosystem Services off of Georgia's Coast"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6778,7 +6778,7 @@ project_description: "The Summer Science in New England project, performed by th
 project_url: "http://www.neosec.org/summer-science-in-new-england"
 project_name: "Summer Science in New England"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6829,7 +6829,7 @@ project_description: "Partner organizations and volunteers conduct shoreline mon
 project_url: "http://marinedebris.noaa.gov/research/marine-debris-monitoring-and-assessment-project"
 project_name: "Marine Debris Monitoring and Assessment Project (MDMAP)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6880,7 +6880,7 @@ project_description: "Scientists are studying sites all around the Chesapeake Ba
 project_url: "serc.si.edu"
 project_name: "Chesapeake Bay Parasite Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6931,7 +6931,7 @@ project_description: "Stellwagen Bank National Marine Sanctuary, in collaboratio
 project_url: "http://stellwagen.noaa.gov/involved/vol_facts.html"
 project_name: "Stellwagen Sanctuary Seabird Stewards"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -6982,7 +6982,7 @@ project_description: "Rocky Mountain National Park participates in the National 
 project_url: "http://www.nps.gov/romo/christmas_bird_count.htm"
 project_name: "Rocky Mountain National Park Christmas Bird Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7033,7 +7033,7 @@ project_description: "The West Coast collaboration was conceived by the five nat
 project_url: "http://westcoast.whalealert.org/"
 project_name: "Whale Alert West Coast"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7084,7 +7084,7 @@ project_description: "This study became the first formal research study on hummi
 project_url: "http://www.nps.gov/romo/hummingbird_survey.htm"
 project_name: "Hummingbird Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7135,7 +7135,7 @@ project_description: "Use your geography skills to geolocate Astronaut photograp
 project_url: "http://eol.jsc.nasa.gov/BeyondThephotography/ImageDetective/"
 project_name: "Image Detective"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7186,7 +7186,7 @@ project_description: "The Urban Watch Program monitors storm drain outfalls duri
 project_url: "http://montereybay.noaa.gov/getinvolved/volunteer/urbanwatch.html"
 project_name: "Urban Watch"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
