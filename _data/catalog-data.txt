@@ -10450,7 +10450,7 @@ project_description: "Mount Rainier National Park will be part of the 2016 BioBl
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Mount Rainier"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10501,7 +10501,7 @@ project_description: "The 2016 BioBlitz at Oregon Caves National Monument will b
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Oregon Caves Millipede and Butterfly BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10552,7 +10552,7 @@ project_description: "The 2016 BioBlitz at Point Reyes National Seashore will ex
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Point Reyes: Rare Plant-A-Thon & Mudflat Invertebrates"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10603,7 +10603,7 @@ project_description: "Piscataway Park will be part of the 2016 BioBlitz showcase
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Piscataway"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10654,7 +10654,7 @@ project_description: "The 2016 BioBlitz at Petrified Forest National Park will b
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Petrified Forest Nocturnal ReptileBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10705,7 +10705,7 @@ project_description: "The 2016 BioBlitz at Hawai'i Volcanoes National Park will 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Hawai'i Volcanoes: E Ho'omau...To perpetuate"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10756,7 +10756,7 @@ project_description: "The 2016 BioBlitz at Gateway National Recreation Area will
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Gateway: Sandy Hook BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10807,7 +10807,7 @@ project_description: "The 2016 BioBlitz at Glacier National Park will explore th
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Glacier Weed Blitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10858,7 +10858,7 @@ project_description: "The 2016 BioBlitz at Fort Bowie National Historic Site wil
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Fort Bowie: birds, Bugs and Botany"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10909,7 +10909,7 @@ project_description: "The 2016 BioBlitz at Effigy Mounds National Monument will 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Effigy Mounds: Arthropodapolooza"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10960,7 +10960,7 @@ project_description: "The 2016 BioBlitz at Richmond National Battlefield Park wi
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Richmond Battlefield Biota"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11011,7 +11011,7 @@ project_description: "Rock Creek Park will be part of the 2016 BioBlitz showcase
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Rock Creek Park"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11062,7 +11062,7 @@ project_description: "San Juan Island National Historical Park will be part of t
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - San Juan Island"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11113,7 +11113,7 @@ project_description: "Ninety Six National Historic Site will be part of the 2016
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Ninety Six"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11164,7 +11164,7 @@ project_description: "The 2016 BioBlitz at Lake Mead National Recreation Area wi
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Lake Mead"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11215,7 +11215,7 @@ project_description: "Santa Monica Mountains National Recreation Area will be pa
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Santa Monica Mountains"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11266,7 +11266,7 @@ project_description: "The 2016 BioBlitz at Sequoia & Kings Canyon National Parks
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Sequoia and Kings Canyon"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11317,7 +11317,7 @@ project_description: "The 2016 BioBlitz at Valley Forge National Historical Park
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Valley Forge: Wildlife Watchers Photoblitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11368,7 +11368,7 @@ project_description: "The 2016 BioBlitz at Upper Delaware Scenic & Recreational 
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Upper Delaware"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11419,7 +11419,7 @@ project_description: "The 2016 BioBlitz at Tumacacori National Historical Park w
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Tumacacori Pollinator BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11470,7 +11470,7 @@ project_description: "The 2016 BioBlitz at Tallgrass Prairie National Preserve w
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Tallgrass Prairie Pollinators: Wildflowers and Butterflies"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11521,7 +11521,7 @@ project_description: "The 2016 BioBlitz at Valles Caldera National Preserve will
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Valles Caldera"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11572,7 +11572,7 @@ project_description: "The 2016 BioBlitz at Whiskeytown National Recreation Area 
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Whiskeytown: birds, Bees, and Butterflies BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11623,7 +11623,7 @@ project_description: "The 2016 BioBlitz at Yosemite National Park will explore e
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Yosemite BloomBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -11674,7 +11674,7 @@ project_description: "Our citizen scientists, primarily students, will sample dr
 project_url: "go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks Bioblitz - Yellowstone Dragonfly Hg"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
