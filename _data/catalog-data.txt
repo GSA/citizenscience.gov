@@ -8512,7 +8512,7 @@ project_description: "The Ironbound Community Corporation is a non-profit advoca
 project_url: "http://ironboundcc.org/what-we-do/community/environmental-justice/"
 project_name: "Ironbound Community Corporation (ICC) Environmental Monitoring"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8563,7 +8563,7 @@ project_description: "KIC-NET (Keep It Clean – Neighborhood Environmental Trio
 project_url: "https://earthforce.org/KICNET/"
 project_name: "Earth Force’s Keep It Clean – Neighborhood Environmental Trios (KIC-NET)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8614,7 +8614,7 @@ project_description: "SKYWARN® is a National Weather Service (NWS) program deve
 project_url: "http://www.nws.noaa.gov/skywarn/"
 project_name: "NOAA NWS SKYWARN® Weather Spotter Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8665,7 +8665,7 @@ project_description: "Invasive plants negatively impact both natural and managed
 project_url: None
 project_name: "Development and Deployment of Habitat Suitability Models under Current and Future Climate for Regulated Invasive Plants in Wisconsin"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8716,7 +8716,7 @@ project_description: "Lantern live (v1.0.4) is a mobile application (app) releas
 project_url: "http://en.openei.org/doe-opendata/dataset/utility-outage-information"
 project_name: "Lantern Live"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8767,7 +8767,7 @@ project_description: "Invertebrates were our main focus of the 2013 National Geo
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Jean Lafitte BugBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8818,7 +8818,7 @@ project_description: "The 2016 BioBlitz at Fort Caroline National Memorial will 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Fort Caroline: Insect BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8869,7 +8869,7 @@ project_description: "We will identify as many species as possible in all taxono
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Indiana Dunes: Miller Woods BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8920,7 +8920,7 @@ project_description: "IDAH2O is an innovative program to train citizen volunteer
 project_url: "http://www.uidaho.edu/cda/idah2o"
 project_name: " IDAH2O Master Water Stewards"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8971,7 +8971,7 @@ project_description: "Join Klondike Gold Rush National Historic Park to help obs
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Klondike Gold Rush"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9022,7 +9022,7 @@ project_description: "The Manassas National Battlefield Park BioBlitz will inclu
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Manassas"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
