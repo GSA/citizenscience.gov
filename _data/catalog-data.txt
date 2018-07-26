@@ -9532,7 +9532,7 @@ project_description: "Wild Life Weekend at Dinosaur will include a variety of ac
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Dinosaur Wild Life Weekend"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9583,7 +9583,7 @@ project_description: "The 2016 BioBlitz at Devils Tower National Monument will e
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Devils Tower Porcupine BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9634,7 +9634,7 @@ project_description: "The 2016 BioBlitz at Glacier National Park will explore th
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Glacier Alpine Aquatic Insect Blitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9685,7 +9685,7 @@ project_description: "The 2016 BioBlitz at Glacier National Park will explore th
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Glacier Lake Ecology Blitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9736,7 +9736,7 @@ project_description: "The 2016 BioBlitz at Gateway National Recreation Area will
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Gateway: Jamaica Bay BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9787,7 +9787,7 @@ project_description: "The 2016 BioBlitz at Gettysburg National Military Park wil
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Gettysburg"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9838,7 +9838,7 @@ project_description: "The 2016 BioBlitz at First State National Historical Park 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - First State"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9889,7 +9889,7 @@ project_description: "George Washington Memorial Parkway will be part of the 201
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - George Washington Memorial Parkway"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9940,7 +9940,7 @@ project_description: "The 2016 BioBlitz at Homestead National Monument of Americ
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Homestead Bee BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9991,7 +9991,7 @@ project_description: "The 2016 BioBlitz at Marsh-Billings-Rockefeller National H
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Marsh-Billings-Rockefeller"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10042,7 +10042,7 @@ project_description: "Harpers Ferry National Historical Park will be part of the
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Harpers Ferry"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10093,7 +10093,7 @@ project_description: "The 2016 BioBlitz at Great Smoky Mountains National Park -
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Great Smoky Mountains: Tennessee"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10144,7 +10144,7 @@ project_description: "North Cascades Complex will be part of the 2016 BioBlitz s
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - North Cascades"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10195,7 +10195,7 @@ project_description: "Lewis and Clark National Historical Park will be part of t
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Lewis and Clark"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10246,7 +10246,7 @@ project_description: "Klondike Gold Rush - Seattle Unit National Historical Park
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Klondike Gold Rush: Seattle Unit"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10297,7 +10297,7 @@ project_description: "The 2016 BioBlitz at Knife River Indian Villages National 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Knife River Indian Villages ArcheoBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10348,7 +10348,7 @@ project_description: "Kings Mountain National Military Park will be part of the 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Kings Mountain"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -10399,7 +10399,7 @@ project_description: "Monocacy National Battlefield will be part of the 2016 Bio
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Monocacy"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
