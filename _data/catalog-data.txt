@@ -7645,7 +7645,7 @@ project_description: "Help NASA identify craters on Mercury"
 project_url: "http://cosmoquest.org/?application=mercury_simply_craters"
 project_name: "Mercury Mappers"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7696,7 +7696,7 @@ project_description: "iSeeChange is an unprecedented national climate reporting 
 project_url: "iseechange.org"
 project_name: "I See Change"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7747,7 +7747,7 @@ project_description: "Help NASA identify craters on the Moon"
 project_url: "http://cosmoquest.org/?application=simply_craters"
 project_name: "Moon Mappers"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7798,7 +7798,7 @@ project_description: "The National Map Corps enlists volunteers to collect and e
 project_url: "http://nationalmap.gov/TheNationalMapCorps/"
 project_name: "The National Map Corps"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7849,7 +7849,7 @@ project_description: "Detailed exploration case studies, such as Beaumont and Fo
 project_url: "http://en.openei.org/wiki/CSA"
 project_name: "Geothermal Case Studies and Exploration"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7900,7 +7900,7 @@ project_description: "The Coastal observation And Seabird Survey Team (COASST) i
 project_url: "https://depts.washington.edu/coasst/"
 project_name: "Coastal observation And Seabird Survey Team (COASST)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7951,7 +7951,7 @@ project_description: "The Open PV Project brings together the public, industry a
 project_url: "https://openpv.nrel.gov"
 project_name: "The Open PV Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8002,7 +8002,7 @@ project_description: "This is an EPA Region 10 ‘Making a Visible Difference’
 project_url: "https://www.cmascenter.org/c-tools/c-line.cfm"
 project_name: "Making a Visible Difference (MVD) in/NE Portland: Engaging Communities, Using Citizen Science to Assess and Address Children's Environmental Health from Transit and Air Pollution "
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8053,7 +8053,7 @@ project_description: "MapGive is a flagship initiative of the State Department�
 project_url: "http://mapgive.state.gov/"
 project_name: MapGive
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
