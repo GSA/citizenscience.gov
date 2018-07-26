@@ -8104,7 +8104,7 @@ project_description: "Gardenroots was developed by Mónica Ramírez-Andreotta, S
 project_url: "http://www.superfund.pharmacy.arizona.edu/projects/community-engaged-research/gardenroots/home"
 project_name: Gardenroots
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8155,7 +8155,7 @@ project_description: "Baseline water quality testing and analysis (pre-Refuge de
 project_url: none
 project_name: "EPA Urban Waters Program -- Amigos Bravos"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8206,7 +8206,7 @@ project_description: "From http://www.utmb.edu/GCHARMS/: GC-HARMS focuses on und
 project_url: "http://www.utmb.edu/GCHARMS/"
 project_name: "Gulf Coast Health Alliance: health Risks related to the Macondo Spill (GC-HARMS)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8257,7 +8257,7 @@ project_description: "Led by PIs Erin. Haynes, Dr.PH., and Kim Anderson, Ph.D., 
 project_url: "http://med.uc.edu/eh/outreach/coec/updates/research-updates"
 project_name: "Understanding the Effect of Unconventional Gas Drilling on Air Quality"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8308,7 +8308,7 @@ project_description: "CoCoRaHS is a network of community weather monitors active
 project_url: "http://www.cocorahs.org"
 project_name: "The Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8359,7 +8359,7 @@ project_description: "The Youth Forest Monitoring Program (YFMP) is an intensive
 project_url: None
 project_name: "Youth Forest Monitoring Program 2015"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8410,7 +8410,7 @@ project_description: "We plan to take a snapshot of biological interactions and 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - City of Rocks: birds and Blooms"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -8461,7 +8461,7 @@ project_description: "The goal of the work is to conduct research that will addr
 project_url: None
 project_name: "Identifying Factors Responsible for the Occurrence, Distribution, and Impacts Of Disease In Wildlife Populations"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
