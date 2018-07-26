@@ -7237,7 +7237,7 @@ project_description: "Nature's Notebook gathers information on plant and animal 
 project_url: "https://www.usanpn.org/natures_notebook"
 project_name: "Nature's Notebook"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7288,7 +7288,7 @@ project_description: "The USDA Natural Resources Conservation Service (NRCS), Na
 project_url: "http://www.wcc.nrcs.usda.gov/snow/"
 project_name: "Volunteer Snow Surveyors"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7339,7 +7339,7 @@ project_description: "Many communities are faced with exposure to environmental 
 project_url: "http://www2.epa.gov/healthresearch/community-focused-exposure-and-risk-screening-tool-c-ferst"
 project_name: "Supporting Communities using EPA Science Tools"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7390,7 +7390,7 @@ project_description: "First Flush is a storm drain monitoring program where volu
 project_url: "http://montereybay.noaa.gov/getinvolved/volunteer/firstflush.html"
 project_name: "First Flush"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7441,7 +7441,7 @@ project_description: "Since 1995, volunteer citizen scientists following standar
 project_url: "http://www.nps.gov/romo/naturescience/rocky-mountain-butterfly-project.htm"
 project_name: "Rocky Mountain Butterfly Project"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7492,7 +7492,7 @@ project_description: "Leafsnap is a series of electronic field guides developed 
 project_url: "http://leafsnap.com"
 project_name: Leafsnap
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7543,7 +7543,7 @@ project_description: "The Regulatory and Permitting Information Desktop (RAPID) 
 project_url: "http://en.openei.org/wiki/RAPID"
 project_name: "Regulatory and Permitting Information Desktop (RAPID) Toolkit"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -7594,7 +7594,7 @@ project_description: "The Midwinter Bald Eagle Survey takes place during the fir
 project_url: "http://corpslakes.usace.army.mil/employees/bird/midwinter.cfm"
 project_name: "Midwinter Bald Eagle Survey"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
