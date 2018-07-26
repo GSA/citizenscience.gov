@@ -9073,7 +9073,7 @@ project_description: "This event is being run by the North American Mycological 
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Shenandoah: Mycological Foray"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9124,7 +9124,7 @@ project_description: "Balancing sustainable ecological and economic objectives i
 project_url: "http://appliedsciences.nasa.gov/content/ecocatch-improving-ecological-and-economic-sustainability-marine-fisheries-using-remotely"
 project_name: "EcoCast: Improving Ecological and Economic Sustainability of Marine Fisheries Using Remotely-sensed Oceanographic Data"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9175,7 +9175,7 @@ project_description: "To observe and identify as many specific birds and vascula
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Wolf Trap"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9226,7 +9226,7 @@ project_description: "The St. Croix BioBlitz will focus on identifying as many s
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - St. Croix"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9277,7 +9277,7 @@ project_description: "As this will be our first bioblitz, we will attempt to ide
 project_url: "http://www.nature.nps.gov/biology/biodiversity/bioblitz2016.cfm"
 project_name: "2016 National Parks BioBlitz - Weir Farm"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9328,7 +9328,7 @@ project_description: "The Federal Communication Commission’s Measuring Broadb
 project_url: "https://www.fcc.gov/general/measuring-broadband-america"
 project_name: "Measuring Broadband America’s FCC Speed Test App for Android and iOS: Crowdsourcing Mobile Broadband Performance"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9379,7 +9379,7 @@ project_description: "Purpose of the project is to assess population change for 
 project_url: "https://www.pwrc.usgs.gov/naamp"
 project_name: "North American Amphibian Monitoring Program"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9430,7 +9430,7 @@ project_description: "ScienceCache is a geocaching mobile app that connects the 
 project_url: "https://www.sciencbase.gov/sciencecache"
 project_name: "ScienceCache:  Geocaching for Goals"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -9481,7 +9481,7 @@ project_description: "The network is composed of volunteer monitors from public 
 project_url: "http://www.gri.msstate.edu/research/cmdmn/"
 project_name: "Cactus Moth Detection & Monitoring Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
