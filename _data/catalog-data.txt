@@ -12388,7 +12388,7 @@ project_description: "The 2016 BioBlitz at Homestead National Monument of Americ
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Homestead Critter Count"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12439,7 +12439,7 @@ project_description: "Cowpens National Battlefield will be part of the 2016 BioB
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Cowpens"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12490,7 +12490,7 @@ project_description: "Prince William Forest Park will be part of the 2016 BioBli
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Prince William Forest"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12541,7 +12541,7 @@ project_description: "Scientists have been studying the marsh at the Global Chan
 project_url: "http://serc.si.edu"
 project_name: "Plant Census at Smithsonian's Global Change Research Wetland"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12592,7 +12592,7 @@ project_description: "Work with scientists and students to excavate sites, prese
 project_url: "http://serc.si.edu"
 project_name: "Environmental Archaeology at Smithsonian Environmental Research Center"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12643,7 +12643,7 @@ project_description: "Olympic National Park will be part of the 2016 BioBlitz sh
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Olympic"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12694,7 +12694,7 @@ project_description: "The 2016 BioBlitz at Ocmulgee National Monument will be ex
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Ocmulgee Butterfly BioBlitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12745,7 +12745,7 @@ project_description: "The 2016 BioBlitz at Aztec Ruins National Monument will en
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Aztec Ruins"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12796,7 +12796,7 @@ project_description: "The 2016 BioBlitz at Joshua Tree National Park will be an 
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Joshua Tree Ethno-Bot-Blitz"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12847,7 +12847,7 @@ project_description: "The Local Environmental Observer Network is a project that
 project_url: "http://www.leonetwork.org"
 project_name: "Local Environmental Observer Network"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12898,7 +12898,7 @@ project_description: "Georgia's Environmental Protection Division has 4 programs
 project_url: "http://www.georgiaadoptastream.com"
 project_name: "Georgia Adopt-a-Stream"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -12949,7 +12949,7 @@ project_description: "Kenilworth Park & Aquatic Gardens will be part of the 2016
 project_url: "http://go.nps.gov/2016bioblitz"
 project_name: "2016 National Parks BioBlitz - Kenilworth"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13000,7 +13000,7 @@ project_description: "The Genetics of Taste Lab is a unique venue for both citiz
 project_url: "www.dmns.org/genetics"
 project_name: "Genetics of Taste Lab"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13051,7 +13051,7 @@ project_description: "Tweet Earthquake Dispatch uses social networks to support 
 project_url: "http://earthquake.usgs.gov/earthquakes/ted/"
 project_name: "Tweet Earthquake Dispatch"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13102,7 +13102,7 @@ project_description: "The Digital Earth Watch (DEW) Picture Post Network empower
 project_url: "http://picturepost.unh.edu"
 project_name: "DEW Picture Post"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13153,7 +13153,7 @@ project_description: "Citizen scientists are helping transcribe occurrence data 
 project_url: "https://www.zooniverse.org/projects/zooniverse/notes-from-nature/classify?reload=1&workflow=2765&_ga=1.249836678.1679137723.1466428860"
 project_name: "Notes from Nature: Aquatic insects in the Clemson University Arthropod Collection"
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13204,7 +13204,7 @@ project_description: "WeDigFLPlants is a collaboration between professional rese
 project_url: "https://biospex.org/project/wedigflplants"
 project_name: WeDigFLPlants
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13255,7 +13255,7 @@ project_description: "Mobile and web application designed to allow anyone to lea
 project_url: "rockd.org"
 project_name: Rockd
 - 
-type: Feature
+type: Feature KC
 geometry: 
 type: Point
 coordinates: 
@@ -13306,7 +13306,7 @@ project_description: "People living at many latitudes in North America, Eurasia,
 project_url: "http://www.nwrc.usgs.gov/special/purplel/"
 project_name: "Purple Loosestrife Volunteers"
 - 
-type: Feature
+type: Feature KC
 geometry: null
 properties: 
 cartodb_id: 411
