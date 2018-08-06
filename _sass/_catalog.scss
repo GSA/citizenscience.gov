@@ -6,6 +6,10 @@
 	color: #ed6d42;
 }
 
+.top-project-field {
+	padding-top: .5em;
+}
+
 .parent-container {
 	display: flex;
 	padding: 3em 8em 4em;
@@ -22,25 +26,11 @@
 }
 
 .search-container {
-	padding-right: 3em; 
 	margin-top: 3em;
 	min-width: 215px;
 }
 
 .search-container h3 {
-	padding-bottom: .5em;
-	letter-spacing: .05em;
-
-}
-
-.indv-search-container {
-	max-width: 700px; 
-	min-width: 215px;
-	padding-right: 3em; 
-	margin-top: 3em;
-}
-
-.indv-search-container h3 {
 	padding-bottom: .5em;
 	letter-spacing: .05em;
 
@@ -58,18 +48,17 @@
 
 .catalog-project-list {
 	border: 1px solid #DDD;
-	box-shadow: 2px 2px 3px #888;
-	/* -webkit-box-shadow: 2px 2px 3px #888; */
-	-moz-box-shadow: 2px 2px 3px #888;
-	border-radius: 4px;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
+	box-shadow: 1px 1px 2px #888;
+	/* -webkit-box-shadow: 1px 1px 2px #888; */
+	-moz-box-shadow: 1px 1px 2px #888;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
 	line-height: 18px;
 	margin-bottom: 20px;
 	padding: 4px;
 	max-width: 96%;
-	min-width: 250px;
-	background: 1px #F9F9F9;
+	width: 275px;
 	height: 210px;
 	min-height: 210px;
 	overflow: overlay;
@@ -79,10 +68,60 @@
 
 .catalog-project-list h3 {
 	border-bottom: 1px solid inherit;
-	height: 2.5em;
+	height: 3em;
+	font-size: initial;
+}
+
+.catalog-project-list p {
+	margin-top: .5em;
+	margin-bottom: .5em;
+	line-height: 1;
+}
+
+.agency-list h3 {
+	margin-top: 1.5em;
 }
 
 .image-position-bottom {
 	position: absolute;
-	bottom: 0;
+	bottom: .75em;
 }
+
+// Agency list sidebar /catalog/ page
+
+ul ul {
+	list-style-type: none;
+}
+
+.agency-list-article {
+	padding: 10px;
+	line-height: 0;
+}
+
+.sidebar-agency-list {
+	padding-top: 30px;
+}
+
+.sidebar-agency-list li {
+	font-size: medium;
+	text-decoration: none;
+	line-height: 1em;
+}
+
+.sidebar-agency-list button {
+	font-weight: 500;
+	color: #205493;	
+}	
+
+.sidebar-agency-list button:hover {
+	font-weight: 500;
+	color: #205493;	
+}
+
+.catalog-agency-list ul {
+	padding-left: 0px;
+}
+
+
+
+
