@@ -33,7 +33,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Housing and Urban Development | HUD | Jon Sperling |
 | Department of Interior | BLM | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
-| Department of Interior | NPS | Tim Watkins,  Kris Barnes |
+| Department of Interior | [NPS]({{ site.baseurl }}/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
 | Department of Interior | USGS | Sophia Liu,  David Govoni |
 | Department of Justice | FBI | David B. Smith |
 | Department of State | OES | Samuel B. Howerton |
