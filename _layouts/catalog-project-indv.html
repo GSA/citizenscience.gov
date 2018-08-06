@@ -4,10 +4,15 @@ layout: catalog-base
 
 <div class="parent-container">
 
-  <div class="indv-search-container">
+ <div class="search-container">
     <aside>
       <h3>Find A Project</h3>
-      {% include catalog-search-box.html %}
+      <div>
+        {% include catalog-search-box.html %}
+    </div>
+    <div>
+        {% include catalog-filters.html %}
+      </div>    
     </aside>
   </div>
 
