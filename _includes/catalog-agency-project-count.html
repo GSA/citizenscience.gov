@@ -1,0 +1,7 @@
+{% assign counter = 0 %}
+{% for project in site.catalog-projects %}
+{% if project.agency_sponsor contains page.agency_sponsor %}
+{% assign counter = counter | plus: 1 %}
+{% endif %}
+{% endfor %}
+{{ counter }}
