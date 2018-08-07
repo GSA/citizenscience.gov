@@ -9,8 +9,8 @@ layout: catalog-base
       <h3>Find A Project</h3>
       <div>
         {% include catalog-search-box.html %}
-    </div>
-    <div>
+      </div>
+      <div>
         {% include catalog-filters.html %}
       </div>    
     </aside>
@@ -19,27 +19,27 @@ layout: catalog-base
   <div class="entry-container">
     <div class="entry-header-container">
       <h2>
-          <a href="{{ page.project_url }}" target="blank" rel="noopener" >{{ page.project_name }}</a>
+          {{ page.project_name }}
       </h2>
       <p>{{ page.project_description }}</p>
     </div>
     <div class="entry-lists-container">
       <div class="entry-left-items-container">
+        <p><span class="project-field">Project URL: </span><a href="{{ page.project_url }}" target="blank" rel="noopener">{{ page.project_url }}</a>
         <p><span class="project-field">Geographic Scope: </span>{{ page.geographic_scope }}</p>
         {% include catalog-project-status.html %}
         {% include catalog-project-recruitment.html %}
-        {% include participant-age.html %}
         {% include catalog-participation-tasks.html %}
         {% include intended-outcomes.html %}
         <p><span class="project-field">Start Date: </span>{{ page.start_date }}</p>
-        <p><span class="project-field">Project Contact: </span>{{ page.project_contact }}</p>
+        <p><span class="project-field">Project Contact: </span>{{ page.email }}</p>
       </div>
 
       <div class="entry-right-items-container">
         {% include agency-logos.html %}
         {% include catalog-project-topic.html %}
         <p><span class="project-field">Other Federal Government Sponsor: </span>{{ page.agency_sponsor_other }}</p>
-        <p><span class="project-field">Name of Nonfederal Government Sponsors: </span>{{ page.agency_partner_name }}</p>
+        <p><span class="project-field">Name of Nonfederal Sponsors: </span>{{ page.agency_partner_name }}</p>
       </div>
     </div> 
   </div>
