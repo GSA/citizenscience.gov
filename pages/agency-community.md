@@ -17,7 +17,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 
 | Agency Coordinators (as of 12/19/2017)|
 | ----------- |
-| Department of Agriculture | Forest Service | Michelle Tamez |
+| Department of Agriculture | [Forest Service](https://www.fs.fed.us/working-with-us/citizen-science) | Michelle Tamez |
 | Department of Agriculture | USDA | Jim Kahler |
 | Department of Commerce | Census | Barbara A. Downs |
 | Department of Commerce | NIST | Heather Evans |
@@ -31,17 +31,17 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theisz |
 | Department of Homeland Security | DHS | Jim Grove |
 | Department of Housing and Urban Development | HUD | Jon Sperling |
-| Department of Interior | BLM | Mara Alexander |
+| Department of Interior | [BLM](https://www.blm.gov/learn/science-in-blm/citizen-science) | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
-| Department of Interior | [NPS]({{ site.baseurl }}/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
+| Department of Interior | [NPS](https://www.citizenscience.gov/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
 | Department of Interior | USGS | Sophia Liu,  David Govoni |
 | Department of Justice | FBI | David B. Smith |
 | Department of State | OES | Samuel B. Howerton |
 | Department of State | USAID | Cameron D. Bess, Ph.D. |
-| Environmental Protection Agency | EPA | Jay Benforado |
+| Environmental Protection Agency | [EPA](https://www.epa.gov/citizen-science) | Jay Benforado |
 | Federal Communications Commission | FCC | James Miller |
 | Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
-| National Aeronautics and Space Administration | NASA | Amy Kaminski |
+| National Aeronautics and Space Administration | [NASA](www.nasa.gov/solve) | Amy Kaminski |
 | National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | NSF | Ellen McCallie |
 | Smithsonian Institution | SI | Janet Abrams |
