@@ -7,7 +7,7 @@ permalink: /about/catalog/
 read-more-link: https://www.citizenscience.gov/about/catalog/
 tags: project
 image: /assets/img/project-images/catalog.jpg
-link-out: https://www.citizenscience.gov/catalog/
+link-out: https://www.citizenscience.gov/about/catalog/
 ---
 
 ## About the Catalog
