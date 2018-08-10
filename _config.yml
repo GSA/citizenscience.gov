@@ -112,6 +112,8 @@ collections:
     output: true
   case-study:
     output: true
+  agencies:
+    output: true
 
 
 wds-version: 1.4.2

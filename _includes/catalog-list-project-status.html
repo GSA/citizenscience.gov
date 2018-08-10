@@ -1,0 +1,20 @@
+  <p><span class="project-field top-project-field">Status: </span>
+  		{% if item.status contains "active" %}
+  			Active
+  		{% endif %}
+  		{% if item.status contains "complete" %}
+  			Complete
+  		{% endif %}
+  		{% if item.status contains "hiatus" %}
+  			Hiatus or on hold
+  		{% endif %}
+  		{% if item.status contains "pending" %}
+  			Pending or in planning
+  		{% endif %}
+  		{% if item.status contains "active_but_seasonal" %}
+  			Periodically active
+  		{% endif %}
+      {% if item.status contains "other" %}
+        Other
+      {% endif %}
+    </p>

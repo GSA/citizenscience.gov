@@ -1,0 +1,31 @@
+
+
+    <p><span class="project-field">Participant Age: </span>
+  		{% if item.participant_age contains "elementary_school_children" %}
+  			Elementary school (6-10),
+  		{% endif %}
+
+  		{% if item.participant_age contains "families" %}
+  			Families,
+  		{% endif %}
+
+  		{% if item.participant_age contains "general_public" %}
+  			General public,
+  		{% endif %}
+
+  		{% if item.participant_age contains "middle_school_children" %}
+  			Middle school (11-13),
+  		{% endif %}
+
+  		{% if item.participant_age contains "targeted_group" %}
+  			Targeted group,
+  		{% endif %}
+
+  		{% if item.participant_age contains "teens" %}
+  			Youth/teen (up to 17),
+  		{% endif %}
+
+  		{% if item.participant_age contains "other" %}
+  			Other
+  		{% endif %}
+    </p>
