@@ -86,7 +86,7 @@
 
 .catalog-project-list h3 {
 	border-bottom: 1px solid inherit;
-	height: 3em;
+	height: 3.5em;
 	font-size: initial;
 }
 
@@ -101,6 +101,10 @@
 	margin-top: .5em;
 	margin-bottom: .5em;
 	line-height: 1;
+}
+
+.top-project-field {
+	padding-top: .5em;
 }
 
 @media only screen and (max-width: 1275px) {
