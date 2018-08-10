@@ -30,16 +30,16 @@ layout: catalog-base
         {% include catalog-project-status.html %}
         {% include catalog-project-recruitment.html %}
         {% include catalog-participation-tasks.html %}
-        {% include intended-outcomes.html %}
         <p><span class="project-field">Start Date: </span>{{ page.start_date }}</p>
         <p><span class="project-field">Project Contact: </span>{{ page.email }}</p>
       </div>
 
       <div class="entry-right-items-container">
         {% include agency-logos.html %}
-        {% include catalog-project-topic.html %}
         <p><span class="project-field">Other Federal Government Sponsor: </span>{{ page.agency_sponsor_other }}</p>
         <p><span class="project-field">Name of Nonfederal Sponsors: </span>{{ page.agency_partner_name }}</p>
+        {% include catalog-project-topic.html %}
+        {% include intended-outcomes.html %}
       </div>
     </div> 
   </div>
