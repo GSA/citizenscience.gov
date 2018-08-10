@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About CitizenScience.gov
 
-Citizenscience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. The site provides a portal to three key components: <a href="https://ccsinventory.wilsoncenter.org/" target="blank" rel="noopener">a catalog</a> of federally supported citizen science projects, <a href="{{ site.baseurl }}/toolkit">a toolkit</a> to assist federal practitioners with designing and maintaining their projects, and a <a href="{{ site.baseurl }}/about/community-of-practice/">gateway to a community</a> of hundreds of citizen science practitioners and coordinators across government as called for in the [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://bit.ly/2BlulAG).
+Citizenscience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. The site provides a portal to three key components: <a href="{{ site.baseurl }}/catalog/" target="blank" rel="noopener">a catalog</a> of federally supported citizen science projects, <a href="{{ site.baseurl }}/toolkit">a toolkit</a> to assist federal practitioners with designing and maintaining their projects, and a <a href="{{ site.baseurl }}/about/community-of-practice/">gateway to a community</a> of hundreds of citizen science practitioners and coordinators across government as called for in the [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://bit.ly/2BlulAG).
 
 Through citizen science and crowdsourcing, the federal government and nongovernmental organizations can engage the American public in addressing societal needs and accelerating science, technology, and innovation.
 
