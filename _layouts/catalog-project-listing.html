@@ -25,8 +25,8 @@ layout: catalog-base
   </div>
 
 <div class="entry-container">
-
-{% for item in site.catalog-projects %}
+{% assign sorted = site.catalog-projects | sort: 'cartodb_id' | reverse %}
+{% for item in sorted %}
 				<div class="usa-width-one-third catalog-project-list">
 						<article class="agency-list-article">
 								<div class="infos">
