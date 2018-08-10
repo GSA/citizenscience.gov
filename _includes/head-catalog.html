@@ -11,8 +11,8 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="{{ /assets/img/new-catalog-logo.jpg | prepend: site.baseurl | prepend: site.url }}">
-  <meta name="twitter:image" content="{{ /assets/img/new-catalog-logo.jpg | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="twitter:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
