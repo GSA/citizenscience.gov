@@ -30,7 +30,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | HHS | Sandeep Patel
 | Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theisz |
 | Department of Homeland Security | DHS | Jim Grove |
-| Department of Housing and Urban Development | HUD | Jon Sperling |
+| Department of Housing and Urban Development | HUD | Christopher Bourne |
 | Department of Interior | [BLM](https://www.blm.gov/learn/science-in-blm/citizen-science) | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
 | Department of Interior | [NPS](https://www.citizenscience.gov/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
@@ -41,7 +41,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Environmental Protection Agency | [EPA](https://www.epa.gov/citizen-science) | Jay Benforado |
 | Federal Communications Commission | FCC | James Miller |
 | Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
-| National Aeronautics and Space Administration | [NASA](www.nasa.gov/solve) | Amy Kaminski |
+| National Aeronautics and Space Administration | [NASA](https://www.nasa.gov/solve/index.html) | Amy Kaminski |
 | National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | NSF | Ellen McCallie |
 | Smithsonian Institution | SI | Janet Abrams |
