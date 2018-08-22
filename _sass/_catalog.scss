@@ -54,11 +54,6 @@
 	}
 }
 
-.entry-lists-container {
-	display: flex;
-	justify-content: space-between;
-}
-
 .search-container {
 	margin-top: 3em;
 	min-width: 215px;
@@ -83,18 +78,22 @@
 	}
 }
 
-.entry-left-items-container {
-	width: 50%;
-	margin-right: 3em;
+@media only screen and (min-width: 600px) {
+	.entry-left-items-container {
+		width: 50%;
+		margin-right: 3em;
+	}
 }
 
 .entry-left-items-container a {
 	overflow-wrap: break-word;
 }
 
-.entry-right-items-container {
-	width: 50%;
-	padding-right: 3em;
+@media only screen and (min-width: 600px) {
+	.entry-right-items-container {
+		width: 50%;
+		margin-right: 3em;
+	}
 }
 
 .catalog-project-list {
