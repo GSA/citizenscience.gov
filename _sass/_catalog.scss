@@ -1,3 +1,16 @@
+.catalog-nav {
+	background-color: #F3F2F3;
+	padding: 1em;
+	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 600px) {
+	.catalog-nav {
+		margin-top: .5em;
+	}
+
+}
+
 .catalog-title {
 	margin-top: 45px;
 }
@@ -11,6 +24,19 @@
 	padding: 3em 4em 4em;
 }
 
+@media (min-width: 500px) and (max-width: 1307px) {
+	.parent-container {
+		padding-right: 2em;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.parent-container {
+		display: flex;
+		flex-direction: column;
+	}
+}
+
 .entry-container {
 	padding-left: 2em;
 	padding-right: 2em;
@@ -19,6 +45,12 @@
 @media only screen and (max-width: 1199px) {
 	.entry-container {
 		padding-right: 0;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.entry-container {
+		padding-left: .75em;
 	}
 }
 
@@ -44,6 +76,13 @@
 	}
 }
 
+@media only screen and (max-width: 600px) {
+	.search-container {
+		margin-bottom: 2em;
+		margin-top: 0;
+	}
+}
+
 .entry-left-items-container {
 	width: 50%;
 	margin-right: 3em;
@@ -56,12 +95,6 @@
 .entry-right-items-container {
 	width: 50%;
 	padding-right: 3em;
-}
-
-@media only screen and (max-width: 1307px) {
-	.parent-container {
-		padding-right: 2em;
-	}
 }
 
 .catalog-project-list {
