@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+    {% include head-catalog.html %}
+  <body class="{{ page.body-class }}">
+  <div class="usa-overlay"></div>
+    {% include catalog-header.html %}
+      <main id="main" tabindex="-1">
+        <div>
+          {{ content }}
+        </div>
+      </main>
+    {% include catalog-footer.html %}
+    {% include footer.html %}
+    {% include javascript.html %}
+  </body>
+</html>
