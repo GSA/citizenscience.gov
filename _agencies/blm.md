@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/blm/
 title: Bureau of Land Management
 tooltip: BLM

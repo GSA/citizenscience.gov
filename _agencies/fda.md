@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/fda/
 title: Food and Drug Administration
 tooltip: FDA

@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/nara/
 title: National Archives and Records Administration
 tooltip: NARA

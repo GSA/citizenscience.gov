@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/noaa/
 title: National Oceanic and Atmospheric Administration	
 tooltip: NOAA	
