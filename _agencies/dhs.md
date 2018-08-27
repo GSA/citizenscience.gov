@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/dhs/
 title: Department of Homeland Security
 tooltip: DHS

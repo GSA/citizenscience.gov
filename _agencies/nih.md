@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/nih/
 title: National Institutes of Health
 tooltip: NIH

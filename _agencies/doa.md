@@ -1,7 +1,7 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/doa/
-title: US Department of Agriculture 
+title: Department of Agriculture 
 tooltip: DOA
 agency_sponsor: doa
 ---

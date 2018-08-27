@@ -1,5 +1,5 @@
 ---
-layout: catalog-base
+layout: catalog-agency-base
 permalink: /catalog/assi/
 title: Smithsonian Institution
 tooltip: ASSI
