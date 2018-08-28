@@ -6,4 +6,3 @@ tooltip: EPA
 agency_sponsor: epa
 ---
 
-{% include catalog-agency-projects.html %}

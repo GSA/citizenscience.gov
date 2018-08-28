@@ -6,4 +6,4 @@ tooltip:
 agency_sponsor: peace_corps
 ---
 
-{% include catalog-agency-projects.html %}
+

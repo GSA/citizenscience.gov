@@ -6,4 +6,3 @@ tooltip:
 agency_sponsor: fish_wildlife_service
 ---
 
-{% include catalog-agency-projects.html %}

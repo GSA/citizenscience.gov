@@ -6,4 +6,3 @@ tooltip: USFS
 agency_sponsor: usfs
 ---
 
-{% include catalog-agency-projects.html %}

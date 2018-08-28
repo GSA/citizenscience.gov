@@ -6,4 +6,3 @@ tooltip: DOD
 agency_sponsor: dod
 ---
 
-{% include catalog-agency-projects.html %}

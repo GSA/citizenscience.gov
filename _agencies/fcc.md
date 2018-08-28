@@ -6,4 +6,3 @@ tooltip: FCC
 agency_sponsor: federal_communications_commission
 ---
 
-{% include catalog-agency-projects.html %}

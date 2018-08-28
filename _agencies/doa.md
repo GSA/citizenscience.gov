@@ -6,4 +6,3 @@ tooltip: DOA
 agency_sponsor: doa
 ---
 
-{% include catalog-agency-projects.html %}

@@ -6,4 +6,3 @@ tooltip: CDC
 agency_sponsor: center__disease_control
 ---
 
-{% include catalog-agency-projects.html %}
