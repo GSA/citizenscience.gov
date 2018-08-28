@@ -33,7 +33,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Housing and Urban Development | HUD | Christopher Bourne |
 | Department of Interior | [BLM](https://www.blm.gov/learn/science-in-blm/citizen-science) | Mara Alexander |
 | Department of Interior | FWS | Emily Silverman |
-| Department of Interior | [NPS](https://www.citizenscience.gov/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
+| Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
 | Department of Interior | USGS | Sophia Liu,  David Govoni |
 | Department of Justice | FBI | David B. Smith |
 | Department of State | OES | Samuel B. Howerton |
