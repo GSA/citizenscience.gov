@@ -203,6 +203,24 @@ ul ul {
 	padding-left: 0px;
 }
 
+/* Agency page styles */
+.agency-parent-container {
+	display: flex;
+}
+
+@media (min-width: 500px) and (max-width: 1307px) {
+	.agency-parent-container {
+		padding-right: 2em;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.agency-parent-container {
+		display: flex;
+		flex-direction: column;
+	}
+}
+
 
 
 
