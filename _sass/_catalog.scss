@@ -59,6 +59,12 @@
 	min-width: 215px;
 }
 
+@media only screen and (min-width: 600px) {
+	.search-container {
+		width: 215px;
+	}
+}
+
 .search-container h3 {
 	padding-bottom: .5em;
 	letter-spacing: .05em;
@@ -204,6 +210,7 @@ ul ul {
 }
 
 /* Agency page styles */
+
 .agency-parent-container {
 	display: flex;
 }
@@ -220,6 +227,8 @@ ul ul {
 		flex-direction: column;
 	}
 }
+
+
 
 
 
