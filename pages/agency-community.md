@@ -19,11 +19,11 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | ----------- |
 | Department of Agriculture | [Forest Service](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Jim Kahler |
-| Department of Commerce | Census | Barbara A. Downs |
-| Department of Commerce | NIST | Heather Evans |
+| Department of Commerce | [Census](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs |
+| Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
 | Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland |
 | Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | Dr. Richard Ames |
-| Department of Education | IES | Ross Santy |
+| Department of Education | [IES](https://www.citizenscience.gov/catalog/doed/) | Ross Santy |
 | Department of Energy | [DOE](https://www.citizenscience.gov/catalog/doe/) | Carly Robinson |
 | Department of Health and Human Services | [CDC](https://www.citizenscience.gov/catalog/cdc/) | Juliana Cyril |
 | Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
@@ -35,7 +35,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
 | Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu,  David Govoni |
-| Department of Justice | FBI | David B. Smith |
+| Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | David B. Smith |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
 | Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/}) | Jay Benforado |
