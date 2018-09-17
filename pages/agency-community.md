@@ -38,7 +38,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Justice | FBI | David B. Smith |
 | Department of State | OES | Samuel B. Howerton |
 | Department of State | USAID | Cameron D. Bess, Ph.D. |
-| Environmental Protection Agency | [EPA](https://www.epa.gov/citizen-science) | Jay Benforado |
+| Environmental Protection Agency | [EPA]({ site.baseurl }/catalog/epa/}) | Jay Benforado |
 | Federal Communications Commission | FCC | James Miller |
 | Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
 | National Aeronautics and Space Administration | [NASA](https://www.nasa.gov/solve/index.html) | Amy Kaminski |
