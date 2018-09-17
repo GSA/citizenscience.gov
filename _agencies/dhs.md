@@ -6,4 +6,3 @@ tooltip: DHS
 agency_sponsor: dhs
 ---
 
-{% include catalog-agency-projects.html %}

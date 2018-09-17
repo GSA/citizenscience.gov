@@ -6,4 +6,3 @@ tooltip: NARA
 agency_sponsor: nara
 ---
 
-{% include catalog-agency-projects.html %}

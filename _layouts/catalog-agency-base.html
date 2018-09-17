@@ -1,16 +1,46 @@
-<!doctype html>
-<html lang="en">
-    {% include head-catalog.html %}
-  <body class="{{ page.body-class }}">
-  <div class="usa-overlay"></div>
-    {% include catalog-header.html %}
-      <main id="main" tabindex="-1">
-        <div>
-          {{ content }}
-        </div>
-      </main>
-    {% include catalog-footer.html %}
-    {% include footer.html %}
-    {% include javascript.html %}
-  </body>
-</html>
+---
+layout: catalog-base
+---
+
+<div class="parent-container">
+
+ <div class="search-container">
+    <aside>
+      <h3>Find A Project</h3>
+      <div>
+        {% include catalog-search-box.html %}
+      </div>
+      <div>
+        {% include catalog-filters.html %}
+      </div>    
+    </aside>
+  </div>
+
+  <div class="entry-container">
+    <div class="entry-header-container">
+      <h2>{{ page.title }}</h2>
+      <p>{{ content }}</p>
+  </div>
+  <br>
+      <h3 class ="project-field">Number of Projects: {% include catalog-agency-project-count.html %}</h3>
+                      {% for item in site.catalog-projects %}
+                      {% if item.agency_sponsor contains page.agency_sponsor %}
+                    <div class="usa-width-one-whole agency-list">
+                      {% else %}
+                    <div style="display: none;">
+                      {% endif %}
+                      <article>
+                        <div class="infos">
+                          <a href="{{ item.url | prepend: site.baseurl }}" class="details">
+                            <h3 class="title">{{ item.project_name }}</h3>
+                          </a>
+                        </div>
+                      </article>
+                      </div>
+                      {% endfor %}
+                    </div>
+
+  </div>
+
+</div>
+

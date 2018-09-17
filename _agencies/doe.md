@@ -6,4 +6,3 @@ tooltip: DOE
 agency_sponsor: doe
 ---
 
-{% include catalog-agency-projects.html %}

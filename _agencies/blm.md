@@ -6,4 +6,4 @@ tooltip: BLM
 agency_sponsor: bureau_land_management_blm
 ---
 
-{% include catalog-agency-projects.html %}
+<p>Visit the agency’s <a href="https://www.blm.gov/learn/science-in-blm/citizen-science" target="blank" rel="noopener">crowdsourcing and citizen science</a> page.</p>

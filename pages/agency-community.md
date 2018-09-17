@@ -17,34 +17,34 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 
 | Agency Coordinators (as of 12/19/2017)|
 | ----------- |
-| Department of Agriculture | [Forest Service](https://www.fs.fed.us/working-with-us/citizen-science) | Michelle Tamez |
-| Department of Agriculture | USDA | Jim Kahler |
-| Department of Commerce | Census | Barbara A. Downs |
-| Department of Commerce | NIST | Heather Evans |
-| Department of Commerce | NOAA | Laura Oremland |
-| Department of Defense | DDR&E | Dr. Richard Ames |
-| Department of Education | IES | Ross Santy |
-| Department of Energy | DOE | Carly Robinson |
-| Department of Health and Human Services | CDC | Juliana Cyril |
-| Department of Health and Human Services | FDA | Elaine Johanson, Amber Griffin |
+| Department of Agriculture | [Forest Service](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
+| Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Jim Kahler |
+| Department of Commerce | [Census](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs |
+| Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
+| Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland |
+| Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | Dr. Richard Ames |
+| Department of Education | [IES](https://www.citizenscience.gov/catalog/doed/) | Ross Santy |
+| Department of Energy | [DOE](https://www.citizenscience.gov/catalog/doe/) | Carly Robinson |
+| Department of Health and Human Services | [CDC](https://www.citizenscience.gov/catalog/cdc/) | Juliana Cyril |
+| Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | HHS | Sandeep Patel
-| Department of Health and Human Services | NIH | Jennifer Couch,  Katrina Theisz |
-| Department of Homeland Security | DHS | Jim Grove |
-| Department of Housing and Urban Development | HUD | Christopher Bourne |
-| Department of Interior | [BLM](https://www.blm.gov/learn/science-in-blm/citizen-science) | Mara Alexander |
-| Department of Interior | FWS | Emily Silverman |
-| Department of Interior | [NPS](https://www.citizenscience.gov/assets/files/NPS-one-pager.pdf) | Tim Watkins,  Kris Barnes |
-| Department of Interior | USGS | Sophia Liu,  David Govoni |
-| Department of Justice | FBI | David B. Smith |
-| Department of State | OES | Samuel B. Howerton |
-| Department of State | USAID | Cameron D. Bess, Ph.D. |
-| Environmental Protection Agency | [EPA](https://www.epa.gov/citizen-science) | Jay Benforado |
-| Federal Communications Commission | FCC | James Miller |
-| Intelligence Advanced Research Projects Agency | IARPA | Ruthanna Gordon |
-| National Aeronautics and Space Administration | [NASA](https://www.nasa.gov/solve/index.html) | Amy Kaminski |
-| National Archives and Records Administration | NARA | Andrew Wilson,  Suzanne Isaacs |
-| National Science Foundation | NSF | Ellen McCallie |
-| Smithsonian Institution | SI | Janet Abrams |
+| Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch,  Katrina Theisz |
+| Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Jim Grove |
+| Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
+| Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Mara Alexander |
+| Department of Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
+| Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
+| Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu,  David Govoni |
+| Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | David B. Smith |
+| Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
+| Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
+| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/}) | Jay Benforado |
+| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | James Miller |
+| Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | Ruthanna Gordon |
+| National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski |
+| National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
+| National Science Foundation | [NSF](https://www.citizenscience.gov/catalog/nsf/) | Ellen McCallie |
+| Smithsonian Institution | [SI](https://www.citizenscience.gov/catalog/assi/) | Janet Abrams |
 
 *Please email citizenscience@gsa.gov if you would like to be put in contact with one of these Coordinators.*
 

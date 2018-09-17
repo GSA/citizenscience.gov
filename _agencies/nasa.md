@@ -6,4 +6,5 @@ tooltip: NASA
 agency_sponsor: nasa
 ---
 
-{% include catalog-agency-projects.html %}
+<p>Visit the agency’s <a href="https://www.nasa.gov/solve/index.html" target="blank" rel="noopener">crowdsourcing and citizen science</a> page.</p>
+

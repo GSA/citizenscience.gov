@@ -6,4 +6,3 @@ tooltip: FDA
 agency_sponsor: fda
 ---
 
-{% include catalog-agency-projects.html %}

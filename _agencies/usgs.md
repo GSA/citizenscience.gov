@@ -6,4 +6,3 @@ tooltip: USGS
 agency_sponsor: usgs
 ---
 
-{% include catalog-agency-projects.html %}
