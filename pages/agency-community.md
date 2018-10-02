@@ -19,7 +19,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | ----------- |
 | Department of Agriculture | [Forest Service](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Jim Kahler |
-| Department of Commerce | [Census](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs |
+| Department of Commerce | [Census](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs, Lorena Molina-Irizarry |
 | Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
 | Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland |
 | Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | Dr. Richard Ames |
