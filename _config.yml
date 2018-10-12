@@ -1,6 +1,6 @@
 # Site settings
 title: CitizenScience.gov
-description: Citizenscience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.
+description: CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.
 url: "https://www.citizenscience.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 toolkit_logo: /assets/img/toolkit-images/toolkit-gray.png
@@ -79,7 +79,7 @@ footer:
   image: /assets/img/gsa-logo-dark.jpg
   contact:
     name: 
-    email: citizenscience@gsa.gov
+    email: CitizenScience@gsa.gov
     twitter: fedcitsci
     facebook: 
     youtube: 
