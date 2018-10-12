@@ -11,8 +11,7 @@ tags:
 class: center-top-twenty
 ---
 
-
-<a href="http://citizenscience.org/2017/11/14/citsciday2018/" target="blank" rel="noopener">Citizen Science Day 2018</a> celebrates the work of the amazing volunteers who power the field. Nick Milkovich is a citizen scientist who recently participated in a Water Quality Snapshot Day event in the <a href="https://www.fs.usda.gov/allegheny" target="blank" rel="noopener">Allegheny National Forest</a>. This effort by Trout Unlimited, the U.S. Forest Service (USFS) and Penn State University involved citizen scientists in assessing water quality conditions throughout the forest and establishing a baseline for future comparison. Over 50 volunteers, USFS Staff and partners were organized into 17 groups that collected data and samples at 85 sites on 64 streams. Nick was gracious enough to answer some questions about his experiences.
+Citizen Science Day 2018 celebrates the work of the amazing volunteers who power the field. Nick Milkovich is a citizen scientist who recently participated in a Water Quality Snapshot Day event in the <a href="https://www.fs.usda.gov/allegheny" target="blank" rel="noopener">Allegheny National Forest</a>. This effort by Trout Unlimited, the U.S. Forest Service (USFS) and Penn State University involved citizen scientists in assessing water quality conditions throughout the forest and establishing a baseline for future comparison. Over 50 volunteers, USFS Staff and partners were organized into 17 groups that collected data and samples at 85 sites on 64 streams. Nick was gracious enough to answer some questions about his experiences.
  
 <h5>How did you find out about your project?</h5>
  

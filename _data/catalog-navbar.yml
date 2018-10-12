@@ -12,5 +12,11 @@ assigned:
         permalink: /about/catalog/
         show_in_menu: true
         show_in_footer: false
+    -
+        text: CitizenScience.gov
+        href: 
+        permalink: /
+        show_in_menu: true
+        show_in_footer: false
 
 unassigned: []

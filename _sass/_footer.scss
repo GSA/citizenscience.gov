@@ -30,3 +30,10 @@ footer a:visited {
 	padding-top: 1em;
 	padding-left: 1.5em;
 }
+
+@media only screen and (max-width: 400px) {
+	.footer-logo {
+    padding-left: 0;
+    padding-top: 2em;
+	}
+}
