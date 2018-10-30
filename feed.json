@@ -11,7 +11,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog
     "feed_url": "{{ site.url }}/feed/index.json",
     "author": "Stephanie Green",
     "expired": false,
-    "projects": [
+    "project": [
 {% for post in site.catalog-projects %}
         {
             "project_id": "{{ post.cartodb_id }}",
@@ -30,8 +30,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog
             "participation_tasks": "{{ post.participation_tasks }}",
             "scistarter": "{{ post.scistarter }}",
             "email": "{{ post.email }}",
-            "start_date": "{{ post.start_date }}",[
-            ]
+            "start_date": "{{ post.start_date }}"
         }{% unless forloop.last == true %},{% endunless %}
 {% endfor %}
     ]
