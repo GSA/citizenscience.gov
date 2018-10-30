@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /feed/
+title: Federal Crowdsourcing and Citizen Science Catalog
+
+---
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": {{ page.title | smartify | jsonify }},
+    "page_url": "https://citizenscience.gov/catalog/",
+    "feed_url": "{{ site.url }}/feed/index.json",
+    "author": "Stephanie Green",
+    "expired": false,
+    "project": [
+{% for post in site.catalog-projects %}
+        {
+            "project_id": "{{ post.cartodb_id }}",
+            "project_name": {{ post.project_name | smartify | jsonify }},
+            "project_url_on_catalog": "{{ site.url }}{{ post.url }}",
+            "project_url_external": "{{ post.project_url }}",
+            "project_description": "{{ post.project_description }}",
+            "keywords": "{{ post.keywords }}",
+            "fields_of_science": "{{ post.project_topic }}",
+            "project_status": "{{ post.status }}",
+            "agency_sponsor": "{{ post.agency_sponsor }}",
+            "agency_sponsor_other": "{{ post.agency_sponsor_other }}",
+            "geographic_scope": "{{ post.geographic_scope }}",
+            "participant_age": "{{ post.participant_age }}",
+            "project_goals": "{{ post.project_goals }}",
+            "participation_tasks": "{{ post.participation_tasks }}",
+            "scistarter": "{{ post.scistarter }}",
+            "email": "{{ post.email }}",
+            "start_date": "{{ post.start_date }}"
+        }{% unless forloop.last == true %},{% endunless %}
+{% endfor %}
+    ]
+}
