@@ -4,6 +4,13 @@
 	margin-bottom: 0;
 }
 
+@media only screen and (max-width: 600px) {
+	.toolkit-nav {
+		margin-top: .5em;
+	}
+
+}
+
 .wp-caption {
 	border: 1px solid #DDD;
 	box-shadow: 2px 2px 3px #888;
