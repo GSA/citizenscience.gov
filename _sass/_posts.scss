@@ -65,7 +65,7 @@
 	display: none;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 850px) {
 .image-hide {
 	display: none;
 }
@@ -80,3 +80,9 @@
 	font-size: 2.5rem;
 }
 }
+
+@media (max-width: 600px) {
+	.blog-list-body {
+		padding-left: 0;
+	}
+	}

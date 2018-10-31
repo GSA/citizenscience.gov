@@ -52,7 +52,7 @@ Blog Section
     <div class="usa-grid  blog-section">
         <div class="usa-width-one-third blog-list-image"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"   title="{{ post.title }}"></div>
         <div class="usa-width-two-thirds">
-      <ul>
+      <ul class="blog-list-body">
           <li>
             <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
