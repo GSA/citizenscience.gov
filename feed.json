@@ -4,7 +4,12 @@ permalink: /feed/
 title: Federal Crowdsourcing and Citizen Science Catalog
 ---
 {
-    "project": [
+    "version": "https://jsonfeed.org/version/1",
+    "title": {{ page.title | smartify | jsonify }},
+    "home_page_url": "https://citizenscience.gov/catalog/",
+    "feed_url": "{{ site.url }}/feed/index.json",
+    "expired": false
+    "_project": [
 {% for post in site.catalog-projects %}
         {
             "project_id": "{{ post.cartodb_id }}",
