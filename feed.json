@@ -8,7 +8,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog
     "title": {{ page.title | smartify | jsonify }},
     "home_page_url": "https://citizenscience.gov/catalog/",
     "feed_url": "{{ site.url }}/feed/index.json",
-    "expired": false
+    "expired": false,
     "_project": [
 {% for post in site.catalog-projects %}
         {
@@ -16,7 +16,6 @@ title: Federal Crowdsourcing and Citizen Science Catalog
             "project_name": {{ post.project_name | smartify | jsonify }},
             "project_url_on_catalog": "{{ site.url }}{{ post.url }}",
             "project_url_external": "{{ post.project_url }}",
-            "project_description": "{{ post.project_description }}",
             "keywords": "{{ post.keywords }}",
             "fields_of_science": "{{ post.project_topic }}",
             "project_status": "{{ post.status }}",
