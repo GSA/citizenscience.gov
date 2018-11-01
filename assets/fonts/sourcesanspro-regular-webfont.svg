@@ -73,7 +73,7 @@
 <glyph unicode="Y" horiz-adv-x="974" d="M-2 1343h182l174 -378q33 -74 64 -145.5t65 -147.5h9q35 76 69.5 147.5t65.5 145.5l172 378h178l-404 -823v-520h-172v520z" />
 <glyph unicode="Z" horiz-adv-x="1103" d="M92 0v102l707 1098h-643v143h856v-100l-709 -1098h715v-145h-926z" />
 <glyph unicode="[" horiz-adv-x="620" d="M193 -311v1761h366v-96h-240v-1569h240v-96h-366z" />
-<glyph unicode="\" horiz-adv-x="716" d="M29 1454h121l546 -1782h-121z" />
+<glyph unicode="  horiz-adv-x="716" d="M29 1454h121l546 -1782h-121z" />
 <glyph unicode="]" horiz-adv-x="620" d="M63 -215h238v1569h-238v96h365v-1761h-365v96z" />
 <glyph unicode="^" d="M123 582l311 790h150l311 -790h-147l-134 360l-100 272h-8l-103 -272l-133 -360h-147z" />
 <glyph unicode="_" horiz-adv-x="1024" d="M25 -145h974v-113h-974v113z" />
@@ -272,8 +272,8 @@
 <hkern u1="X" u2="x" k="20" />
 <hkern u1="X" u2="v" k="33" />
 <hkern u1="X" u2="&#x2a;" k="20" />
-<hkern u1="\" u2="v" k="41" />
-<hkern u1="\" u2="V" k="109" />
+<hkern u1="  u2="v" k="41" />
+<hkern u1="  u2="V" k="109" />
 <hkern u1="v" u2="&#x2122;" k="-27" />
 <hkern u1="v" u2="&#xae;" k="-92" />
 <hkern u1="v" u2="V" k="8" />
@@ -294,13 +294,13 @@
 <hkern u1="&#xbf;" u2="X" k="86" />
 <hkern u1="&#xbf;" u2="V" k="119" />
 <hkern u1="&#xde;" u2="&#x2122;" k="49" />
-<hkern u1="&#xde;" u2="\" k="82" />
+<hkern u1="&#xde;" u2="  k="82" />
 <hkern u1="&#xde;" u2="&#x2f;" k="119" />
 <hkern u1="&#xde;" u2="&#x2a;" k="127" />
 <hkern u1="&#xdf;" u2="&#xae;" k="72" />
 <hkern u1="&#xdf;" u2="x" k="-12" />
 <hkern u1="&#xdf;" u2="v" k="33" />
-<hkern u1="&#xdf;" u2="\" k="53" />
+<hkern u1="&#xdf;" u2="  k="53" />
 <hkern g1="backslash" 	g2="Eth" 	k="51" />
 <hkern g1="backslash" 	g2="T" 	k="174" />
 <hkern g1="backslash" 	g2="U,Ugrave,Uacute,Ucircumflex,Udieresis" 	k="59" />
