@@ -2,16 +2,14 @@
 layout: null
 permalink: /feed/
 title: Federal Crowdsourcing and Citizen Science Catalog
-
 ---
 {
     "version": "https://jsonfeed.org/version/1",
     "title": {{ page.title | smartify | jsonify }},
-    "page_url": "https://citizenscience.gov/catalog/",
+    "home_page_url": "https://citizenscience.gov/catalog/",
     "feed_url": "{{ site.url }}/feed/index.json",
-    "author": "Stephanie Green",
     "expired": false,
-    "project": [
+    "_project": [
 {% for post in site.catalog-projects %}
         {
             "project_id": "{{ post.cartodb_id }}",
