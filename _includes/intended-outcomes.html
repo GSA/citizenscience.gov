@@ -14,5 +14,8 @@
   		{% endif %}
   		{% if page.intended_outcomes contains "inform_public_policy" %}
   			Conservation,
-  		{% endif %}
+		{% endif %}
+		{% if page.project_goals != "" %}
+  			{{ page.project_goals }}
+		{% endif %}
     </p>
