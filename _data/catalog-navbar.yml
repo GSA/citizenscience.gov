@@ -1,10 +1,10 @@
 assigned:
 
     -
-        text: Add A Project
+        text: Add or Edit a Project
         href: 
         permalink: /catalog/add-project/
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: false
     -
         text: About The Catalog
