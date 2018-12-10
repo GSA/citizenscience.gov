@@ -18,9 +18,24 @@ layout: catalog-base
       <div>
         {% include catalog-search-box.html %}
       </div>
+      <div class="">
+        <fieldset class="usa-fieldset-inputs usa-sans">
+          <legend class="usa-sr-only">Historical figures 1</legend>
+          <ul class="usa-unstyled-list">
+            <li>
+              <input id="active-projects" type="checkbox" name="active-projects" value="active" checked>
+              <label for="active">Active</label>
+            </li>
+            <li>
+              <input id="completed-projects" type="checkbox" name="completed-projects" value="completed" checked>
+              <label for="completed">Complete</label>
+            </li>
+          </ul>
+        </fieldset>
+      </div>
 	  <div>
         {% include catalog-filters.html %}
-      </div>		
+      </div>
     </aside>
   </div>
 
@@ -34,7 +49,7 @@ layout: catalog-base
 										<h3 class="title">{{ item.project_name | truncatewords: 5 }}</h3></a>
 											{% include catalog-list-project-status.html %}
 											<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope | truncatewords: 8 }}</p>
-										
+
 										<div class="image-position-bottom">{% include catalog-list-logo.html %}</div>
 								</div>
 						</article>
