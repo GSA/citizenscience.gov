@@ -42,17 +42,17 @@ layout: catalog-base
 <div class="entry-container">
 {% assign sorted = site.catalog-projects | sort: 'cartodb_id' | reverse %}
 {% for item in sorted %}
-				<div class="usa-width-one-third catalog-project-list">
-						<article class="agency-list-article">
-								<div class="infos">
-										<a href="{{ item.url | prepend: site.baseurl }}">
-										<h3 class="title">{{ item.project_name | truncatewords: 5 }}</h3></a>
-											{% include catalog-list-project-status.html %}
-											<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope | truncatewords: 8 }}</p>
+		<div class="usa-width-one-third catalog-project-list" data-project-topic="{{item.project_topic}}">
+			<article class="agency-list-article">
+				<div class="infos">
+					<a href="{{ item.url | prepend: site.baseurl }}">
+					<h3 class="title">{{ item.project_name | truncatewords: 5 }}</h3></a>
+						{% include catalog-list-project-status.html %}
+						<p><span class="project-field">Geographic Scope: </span>{{ item.geographic_scope | truncatewords: 8 }}</p>
 
-										<div class="image-position-bottom">{% include catalog-list-logo.html %}</div>
-								</div>
-						</article>
+					<div class="image-position-bottom">{% include catalog-list-logo.html %}</div>
+				</div>
+			</article>
 		</div>
 {% endfor %}
 </div>

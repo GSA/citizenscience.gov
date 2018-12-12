@@ -26,16 +26,29 @@
         View by Field of Science
       </button>
       <div id="a2" class="usa-accordion-content catalog-agency-list">
-        <ul id="fields-of-science-checkboxes">
-          <!-- our list of fields of science will be rendered here -->
-          <hr>
-        </ul>
+        <fieldset>
+          <ul id="fields-of-science-checkboxes">
+            <!-- our list of fields of science will be rendered here -->
+            <hr>
+          </ul>
+        </fieldset>
       </div>
     </li>
   </ul>
 </div>
 
 <script type="text/javascript">
+  function reRenderResults() {
+    $(".catalog-project-list").hide();
+
+    // MATCH ANIMALS
+    $.each($("input[type='checkbox']"), function(i, checkbox) {
+      // Show the projects that match Active Checkbox `Criteria`.
+      $(".catalog-project-list").show();
+      console.log(i, checkbox.checked)
+    })
+  }
+
   $(function() {
     var fieldsOfScience = [
       "Animals",
@@ -62,10 +75,18 @@
       "Social science",
       "Transportation"
     ]
-    
+
     $.each(fieldsOfScience, function(i, fieldOfScience) {
       var li = $("<li>");
-      li.text(fieldOfScience),
+      var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '" checked>');
+      checkbox.on("click", function() {
+        reRenderResults();
+      });
+      var label = $('<label for="checkbox-' + i + '">');
+      label.text(fieldOfScience);
+      li.append(checkbox);
+      li.append(label);
+
       $("#fields-of-science-checkboxes").prepend(li);
     });
   });
