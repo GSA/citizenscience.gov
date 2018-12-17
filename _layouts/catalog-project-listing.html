@@ -24,11 +24,11 @@ layout: catalog-base
           <ul class="usa-unstyled-list">
             <li>
               <input id="active-projects" type="checkbox" name="active-projects" value="active" checked>
-              <label for="active">Active</label>
+              <label for="active-projects">Active</label>
             </li>
             <li>
               <input id="completed-projects" type="checkbox" name="completed-projects" value="completed" checked>
-              <label for="completed">Complete</label>
+              <label for="completed-projects">Complete</label>
             </li>
           </ul>
         </fieldset>
@@ -42,7 +42,7 @@ layout: catalog-base
 <div class="entry-container">
 {% assign sorted = site.catalog-projects | sort: 'cartodb_id' | reverse %}
 {% for item in sorted %}
-		<div class="usa-width-one-third catalog-project-list" data-project-topic="{{item.project_topic}}">
+		<div class="usa-width-one-third catalog-project-list" data-project-topic="{{item.project_topic}}" data-project-status={{item.status}} data-project-agency={{item.agency_sponsor}}>
 			<article class="agency-list-article">
 				<div class="infos">
 					<a href="{{ item.url | prepend: site.baseurl }}">
