@@ -40,13 +40,39 @@
 <script type="text/javascript">
   function reRenderResults() {
     $(".catalog-project-list").hide();
+    var checkedCheckboxes = $.each($("input[type='checkbox']:checked");
 
-    // MATCH ANIMALS
-    $.each($("input[type='checkbox']"), function(i, checkbox) {
-      // Show the projects that match Active Checkbox `Criteria`.
-      $(".catalog-project-list").show();
-      console.log(i, checkbox.checked)
-    })
+    // Loop through all Projects
+    // and display the projects that satisfy the Filter criterion
+    $.each($(".catalog-project-list"), function(i, project) {
+      var project = $(project);
+      var topics = project.attr("data-project-topic");
+      var status = project.attr("data-project-status");
+      var agency = project.attr("data-project-agency");
+
+      $.each(checkedCheckboxes, function(j, checkedCheckbox) {
+        var checkboxValue = checkedCheckbox.value.toLowerCase();
+        console.log(j, checkedCheckbox, checkboxValue);
+
+        // for Active/Complete Checkboxes
+        var foundStatus = topics.match(new RegExp(status, 'i'));
+        if(foundStatus) {
+          project.show()
+        }
+
+        // for Agency Checkboxes
+        var foundAgency = topics.match(new RegExp(agency, 'i'));
+        if(foundAgency) {
+          project.show()
+        }
+
+        // for Fields of Science Checkboxes
+        var found = topics.match(new RegExp(checkboxValue, 'i'));
+        if(found) {
+          project.show()
+        }
+      });
+    });
   }
 
   $(function() {
@@ -78,16 +104,18 @@
 
     $.each(fieldsOfScience, function(i, fieldOfScience) {
       var li = $("<li>");
-      var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '" checked>');
-      checkbox.on("click", function() {
-        reRenderResults();
-      });
+      var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '">');
       var label = $('<label for="checkbox-' + i + '">');
       label.text(fieldOfScience);
       li.append(checkbox);
       li.append(label);
 
       $("#fields-of-science-checkboxes").prepend(li);
+    });
+
+    var checkboxes = $("input[type='checkbox']");
+    checkboxes.on("click", function() {
+      reRenderResults();
     });
   });
 </script>
