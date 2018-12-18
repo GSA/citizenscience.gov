@@ -24,7 +24,7 @@ layout: catalog-base
   <br>
       <h3 class ="project-field">Number of Projects: {% include catalog-agency-project-count.html %}</h3>
                       {% for item in site.catalog-projects %}
-                      {% if item.agency_sponsor contains page.agency_sponsor %}
+                      {% if item.agency_sponsor contains page.agency_sponsor or item.agency_sponsor contains page.title %}
                     <div class="usa-width-one-whole agency-list">
                       {% else %}
                     <div style="display: none;">
