@@ -4,7 +4,7 @@
       <button class="usa-accordion-button"
         aria-expanded="false"
         aria-controls="a1">
-      View by Agency
+        View by Agency
       </button>
       <div id="a1" class="usa-accordion-content catalog-agency-list">
         <ul>
@@ -38,9 +38,10 @@
 </div>
 
 <script type="text/javascript">
+  // Called when a checkbox is clicked
   function reRenderResults() {
     $(".catalog-project-list").hide();
-    var checkedCheckboxes = $.each($("input[type='checkbox']:checked");
+    var checkedCheckboxes = $("input[type='checkbox']:checked");
 
     // Loop through all Projects
     // and display the projects that satisfy the Filter criterion
@@ -50,32 +51,24 @@
       var status = project.attr("data-project-status");
       var agency = project.attr("data-project-agency");
 
+      // Loop all checkboxes and show Projects that match active checkboxes
       $.each(checkedCheckboxes, function(j, checkedCheckbox) {
+        var checkboxType = $(checkedCheckbox).attr("data-checkbox-type");
         var checkboxValue = checkedCheckbox.value.toLowerCase();
-        console.log(j, checkedCheckbox, checkboxValue);
 
         // for Active/Complete Checkboxes
-        var foundStatus = topics.match(new RegExp(status, 'i'));
-        if(foundStatus) {
-          project.show()
-        }
-
-        // for Agency Checkboxes
-        var foundAgency = topics.match(new RegExp(agency, 'i'));
-        if(foundAgency) {
-          project.show()
-        }
-
-        // for Fields of Science Checkboxes
-        var found = topics.match(new RegExp(checkboxValue, 'i'));
-        if(found) {
-          project.show()
+        if(checkboxType === "status") {
+          var foundStatus = status.match(new RegExp(checkboxValue, 'i'));
+          if(foundStatus) {
+            project.show()
+          }
         }
       });
     });
   }
 
   $(function() {
+    // Define the fieldsOfScience
     var fieldsOfScience = [
       "Animals",
       "Archeology and cultural",
@@ -102,6 +95,7 @@
       "Transportation"
     ]
 
+    // Write new checkboxes for each fieldOfScience
     $.each(fieldsOfScience, function(i, fieldOfScience) {
       var li = $("<li>");
       var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '">');
@@ -113,6 +107,7 @@
       $("#fields-of-science-checkboxes").prepend(li);
     });
 
+    // Re-render the filtered results when a checkbox is clicked
     var checkboxes = $("input[type='checkbox']");
     checkboxes.on("click", function() {
       reRenderResults();
