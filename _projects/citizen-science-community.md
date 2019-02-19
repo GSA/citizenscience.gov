@@ -7,7 +7,7 @@ permalink: /about/community-of-practice/
 read-more-link: https://www.digitalgov.gov/communities/crowdsourcing-and-citizen-science/
 tags: project
 image: /assets/img/project-images/community.jpg
-link-out: https://www.citizenscience.gov/about/community-of-practice/
+link-out: /about/community-of-practice/
 ---
 ## Welcome to Our Community!
 #### There are two primary groups within the federal government working to advance crowdsourcing and citizen science use and practice. These are:
