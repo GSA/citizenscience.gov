@@ -3,7 +3,7 @@ layout: catalog-agency-base
 permalink: /catalog/nps/
 title: National Park Service
 tooltip: NPS
-agency_sponsor: nps
+agency_sponsor: National Park Service (NPS)
 ---
 
 The National Park Service (NPS) values and uses citizen science in pursuit of its mission to preserve natural and cultural resources and to provide enjoyment and education for visitors. For the past few decades, the NPS and its diverse partners have offered a wide array of citizen science projects in parks across the country. They range from one-day events like BioBlitzes and ArcheoBlitzes to ongoing activities like monitoring plant phenology and camera-trapping mammals. 
