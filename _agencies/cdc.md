@@ -3,6 +3,6 @@ layout: catalog-agency-base
 permalink: /catalog/cdc/
 title: Center for Disease Control
 tooltip: CDC
-agency_sponsor: center__disease_control
+agency_sponsor: Center for Disease Control
 ---
 
