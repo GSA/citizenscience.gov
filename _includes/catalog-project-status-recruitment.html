@@ -1,72 +1,40 @@
 	
 	<p><span class="project-field">Project Status: </span>
 
-{% comment %} New Form Fields {% endcomment %}
 
-		{% if page.status contains "Active - recruiting volunteers" %}
-			{% assign status = 'Active - recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "Active - not recruiting volunteers" %}
-			{% assign status = 'Active - not recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "Periodically Active - recruiting volunteers" %}
-			{% assign status = 'Periodically Active - recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "Periodically Active - not recruiting volunteers" %}
-			{% assign status = 'Periodically Active - not recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "In Planning or Pending - recruiting volunteers" %}
-			{% assign status = 'In Planning or Pending - recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "In Planning or Pending - not recruiting volunteers" %}
-			{% assign status = 'In Planning or Pending - not recruiting volunteers' %}
-		{% endif %}
-
-		{% if page.status contains "Hiatus or on Hold" %}
-			{% assign status = 'Hiatus or on Hold' %}
-		{% endif %}
-
-		{% if page.status contains "Complete" %}
-			{% assign status = 'Complete' %}
-		{% endif %}
 
 		
 
 
 {% comment %} Legacy CartoDB Fields {% endcomment %}
 
-  		{% if page.status contains "active" %}
+  		{% if page.status contains "active" or page.status contains "Active" %}
 			{% assign status = 'Active' %}
 		{% endif %}
 			
-  		{% if page.status contains "complete" %}
+  		{% if page.status contains "complete" or page.status contains "Complete" %}
 			{% assign status = 'Complete' %}
 		{% endif %}
 			
-  		{% if page.status contains "hiatus" %}
+  		{% if page.status contains "hiatus" or page.status contains "Hiatus" %}
 			{% assign status = 'Hiatus or on hold' %}
 		{% endif %}
 			
-  		{% if page.status contains "pending" %}
+  		{% if page.status contains "pending" or page.status contains "Pending" %}
 			{% assign status = 'In Planning or Pending' %}
 		{% endif %}
 			
-  		{% if page.status contains "active_but_seasonal" %}
+  		{% if page.status contains "active_but_seasonal" or page.status contains "Periodically Active" %}
 			{% assign status = 'Periodically active' %}
 		{% endif %}
 
 
 		{% if page.recruiting == true %}
-  			{% assign recruiting = ' -recruiting volunteers' %}
+  			{% assign recruiting = ' - recruiting volunteers' %}
 		{% endif %}
 
 		{% if page.recruiting == false %}
-  			{% assign recruiting = ' -not recruiting volunteers' %}
+  			{% assign recruiting = ' - not recruiting volunteers' %}
 		{% endif %}
 			
 		{{ status }}{{ recruiting }}

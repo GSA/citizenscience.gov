@@ -1,8 +1,8 @@
   <p><span class="project-field top-project-field">Status: </span>
-  		{% if item.status contains "active" %}
+  		{% if item.status contains "active" or item.status contains "Active" %}
   			Active
   		{% endif %}
-  		{% if item.status contains "complete" %}
+  		{% if item.status contains "complete" or item.status contains "Complete" %}
   			Complete
   		{% endif %}
   		{% if item.status contains "hiatus" %}
