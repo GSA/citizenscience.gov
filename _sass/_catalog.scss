@@ -147,6 +147,11 @@
 	line-height: 1;
 }
 
+.catalog-project-list {
+	width: 250px;
+	height: 230px;
+}
+
 .top-project-field {
 	padding-top: .5em;
 }
@@ -156,14 +161,6 @@
 		padding-top: 1em;
 	}
 }
-
-@media only screen and (max-width: 1275px) {
-	.catalog-project-list {
-		width: 250px;
-		height: 230px;
-	}
-}
-
 
 .agency-list h3 {
 	margin-top: 1.5em;

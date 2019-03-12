@@ -1,20 +1,32 @@
   <p><span class="project-field top-project-field">Status: </span>
-  		{% if item.status contains "active" %}
-  			Active
-  		{% endif %}
-  		{% if item.status contains "complete" %}
-  			Complete
-  		{% endif %}
-  		{% if item.status contains "hiatus" %}
-  			Hiatus or on hold
-  		{% endif %}
-  		{% if item.status contains "pending" %}
-  			Pending or in planning
-  		{% endif %}
-  		{% if item.status contains "active_but_seasonal" %}
-  			Periodically active
-  		{% endif %}
-      {% if item.status contains "other" %}
-        Other
-      {% endif %}
+  	{% if item.status contains "active" or item.status contains "Active" %}
+			{% assign status = 'Active' %}
+		{% endif %}
+			
+  		{% if item.status contains "complete" or item.status contains "Complete" %}
+			{% assign status = 'Complete' %}
+		{% endif %}
+			
+  		{% if item.status contains "hiatus" or item.status contains "Hiatus" %}
+			{% assign status = 'Hiatus or on hold' %}
+		{% endif %}
+			
+  		{% if item.status contains "pending" or item.status contains "Pending" %}
+			{% assign status = 'In Planning or Pending' %}
+		{% endif %}
+			
+  		{% if item.status contains "active_but_seasonal" or item.status contains "Periodically Active" %}
+			{% assign status = 'Periodically active' %}
+		{% endif %}
+
+
+		{% if item.recruiting == true %}
+  			{% assign recruiting = ' - recruiting volunteers' %}
+		{% endif %}
+
+		{% if item.recruiting == false %}
+  			{% assign recruiting = ' - not recruiting volunteers' %}
+		{% endif %}
+			
+		{{ status }}{{ recruiting }}
     </p>
