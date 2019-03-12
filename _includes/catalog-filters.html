@@ -10,7 +10,7 @@
         <ul class="usa-unstyled-list">
           {% for item in site.agencies %}
           <li>
-            <input id="filter-{{item.agency_sponsor}}" name="{{item.agency_sponsor}}" type="checkbox" value="{{item.agency_sponsor}}" data-checkbox-type="agency" checked>
+            <input id="filter-{{item.agency_sponsor}}" name="{{item.agency_sponsor}}" type="checkbox" value="{{item.agency_sponsor}}" data-checkbox-type="agency">
             <label for="filter-{{item.agency_sponsor}}">
               {{ item.title }}
             </label>

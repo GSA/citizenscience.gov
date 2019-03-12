@@ -82,13 +82,13 @@ function reRenderResults() {
 
     // for Active/Complete Checkboxes.
     // Match the selected Status in the Filter against the Projects elements rendered
-    var foundStatus = catalogFilter.statuses.includes(status);
+    var foundStatus = catalogFilter.statuses.length == 0 || catalogFilter.statuses.includes(status);
     if(foundStatus) {
       // Match the selected Agencies in the Filter against the Projects elements rendered
-      var foundAgency = matchArrays(catalogFilter.agencies, agencyTags);
+      var foundAgency = catalogFilter.agencies.length == 0 || matchArrays(catalogFilter.agencies, agencyTags);
       if(foundAgency) {
         // Match the selected Fields of Science in the Filter against the Projects elements rendered
-        var foundFieldOfScience = matchArrays(catalogFilter.fieldsOfScience, fieldOfScienceTags);
+        var foundFieldOfScience = catalogFilter.fieldsOfScience.length == 0 || matchArrays(catalogFilter.fieldsOfScience, fieldOfScienceTags);
         if(foundFieldOfScience) {
           project.show()
         }
@@ -118,7 +118,7 @@ function createFieldOfScienceCheckboxes() {
   // Create a checkbox for each unique Field of Science
   $.each(uniqueSortedFieldsOfScience, function(i, fieldOfScience) {
     var li = $("<li>");
-    var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '" data-checkbox-type="field-of-science" checked>');
+    var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '" data-checkbox-type="field-of-science">');
     var label = $('<label for="checkbox-' + i + '">');
     label.text(fieldOfScience);
     li.append(checkbox);
