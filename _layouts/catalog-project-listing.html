@@ -5,7 +5,12 @@ layout: catalog-base
 <div class="usa-grid">
   <div>
     <h2 class="catalog-title">{{ page.title }}</h2>
-    <h3>Number of Projects: {% include catalog-all-project-count.html %}</h3>
+    <h3>
+      Number of Projects:
+      <span class="project-count">
+        {% include catalog-all-project-count.html %}
+      </span>
+    </h3>
   </div>
 </div>
 

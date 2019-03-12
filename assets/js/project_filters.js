@@ -95,6 +95,9 @@ function reRenderResults() {
       }
     }
   });
+
+  // update the Project count
+  $(".project-count").text($(".catalog-project-list:visible").length);
 }
 
 // Write new checkboxes for each fieldOfScience
