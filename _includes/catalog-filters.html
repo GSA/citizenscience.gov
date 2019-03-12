@@ -7,17 +7,21 @@
         View by Agency
       </button>
       <div id="a1" class="usa-accordion-content catalog-agency-list">
-        <ul>
+        <ul class="usa-unstyled-list">
           {% for item in site.agencies %}
           <li>
-            <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.tooltip }}">{{ item.title }}</a>
+            <input id="filter-{{item.agency_sponsor}}" name="{{item.agency_sponsor}}" type="checkbox" value="{{item.agency_sponsor}}" data-checkbox-type="agency" checked>
+            <label for="filter-{{item.agency_sponsor}}">
+              {{ item.title }}
+            </label>
+            <!-- <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.tooltip }}">{{ item.title }}</a> -->
           </li>
-          <hr>
           {% endfor %}
         </ul>
       </div>
     </li>
   </ul>
+
   <ul class="usa-accordion">
     <li>
       <button class="usa-accordion-button"
@@ -29,88 +33,9 @@
         <fieldset>
           <ul id="fields-of-science-checkboxes">
             <!-- our list of fields of science will be rendered here -->
-            <hr>
           </ul>
         </fieldset>
       </div>
     </li>
   </ul>
 </div>
-
-<script type="text/javascript">
-  // Called when a checkbox is clicked
-  function reRenderResults() {
-    $(".catalog-project-list").hide();
-    var checkedCheckboxes = $("input[type='checkbox']:checked");
-
-    // Loop through all Projects
-    // and display the projects that satisfy the Filter criterion
-    $.each($(".catalog-project-list"), function(i, project) {
-      var project = $(project);
-      var topics = project.attr("data-project-topic");
-      var status = project.attr("data-project-status");
-      var agency = project.attr("data-project-agency");
-
-      // Loop all checkboxes and show Projects that match active checkboxes
-      $.each(checkedCheckboxes, function(j, checkedCheckbox) {
-        var checkboxType = $(checkedCheckbox).attr("data-checkbox-type");
-        var checkboxValue = checkedCheckbox.value.toLowerCase();
-
-        // for Active/Complete Checkboxes
-        if(checkboxType === "status") {
-          var foundStatus = status.match(new RegExp(checkboxValue, 'i'));
-          if(foundStatus) {
-            project.show()
-          }
-        }
-      });
-    });
-  }
-
-  $(function() {
-    // Define the fieldsOfScience
-    var fieldsOfScience = [
-      "Animals",
-      "Archeology and cultural",
-      "Astronomy and space",
-      "Biology",
-      "Birds",
-      "Chemistry",
-      "Climate and weather",
-      "Computers and technology",
-      "Disaster response",
-      "Ecology and environment",
-      "Education",
-      "Food",
-      "Geography",
-      "Geology and earth science",
-      "Health and medicine",
-      "Nature and outdoors",
-      "Ocean/water and marine",
-      "Physics",
-      "Pollinators/insects",
-      "Psychology",
-      "Science policy",
-      "Social science",
-      "Transportation"
-    ]
-
-    // Write new checkboxes for each fieldOfScience
-    $.each(fieldsOfScience, function(i, fieldOfScience) {
-      var li = $("<li>");
-      var checkbox = $('<input id="checkbox-' + i + '" type="checkbox" value="' + fieldOfScience + '">');
-      var label = $('<label for="checkbox-' + i + '">');
-      label.text(fieldOfScience);
-      li.append(checkbox);
-      li.append(label);
-
-      $("#fields-of-science-checkboxes").prepend(li);
-    });
-
-    // Re-render the filtered results when a checkbox is clicked
-    var checkboxes = $("input[type='checkbox']");
-    checkboxes.on("click", function() {
-      reRenderResults();
-    });
-  });
-</script>
