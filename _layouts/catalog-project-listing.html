@@ -16,9 +16,10 @@ layout: catalog-base
       <div>
         {% include catalog-search-box.html %}
       </div>
+      <br>
       <div class="">
         <fieldset class="usa-fieldset-inputs usa-sans">
-          <legend class="usa-sr-only">Historical figures 1</legend>
+          <legend class="usa-sr-only">Project Status</legend>
           <ul class="usa-unstyled-list">
             <li>
               <input id="active-projects" type="checkbox" name="active-projects" value="active" checked data-checkbox-type="status">
@@ -40,7 +41,7 @@ layout: catalog-base
   <div class="entry-container">
     {% assign sorted = site.catalog-projects | sort: 'cartodb_id' | reverse %}
     {% for item in sorted %}
-    <div class="usa-width-one-third catalog-project-list" data-project-topic="{{item.project_topic}}" data-project-status={{item.status}} data-project-agency={{item.agency_sponsor}}>
+    <div class="usa-width-one-third catalog-project-list" data-project-topic="{{item.project_topic}}" data-project-status="{{item.status}}" data-project-agency="{{item.agency_sponsor}}">
       <article class="agency-list-article">
         <div class="infos">
           <a href="{{ item.url | prepend: site.baseurl }}">
