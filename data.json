@@ -53,7 +53,8 @@ title: Federal Crowdsourcing and Citizen Science Catalog - data.json
       }{% endif %}      
     ],
     "keyword": ["{{ post.keywords }}, {{ post.participant_age }}, {{ post.participation_tasks }}"],
-    "programCode": ["{{ post.email }}"],
+    "programCode": ["{{ post.email | split: "@" | last | prepend: "@" }}"],
+    "bureauCode": ["{{ post.email | split: "@" | last | prepend: "@" }}"],       
     "theme": ["{{ post.project_topic }}"]
     }{% unless forloop.last == true %},{% endunless %}
     {% endfor %}
