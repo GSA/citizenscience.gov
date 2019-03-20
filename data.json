@@ -12,7 +12,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog - data.json
   "dataset": [{% for post in site.catalog-projects %}{
       "@type": "dcat:Dataset",      
       "title": "{{ post.project_name | smartify }}",
-      "identifier": "{{ post.cartodb_id }}-{{ post.project_name | url_encode }}",
+      "identifier": "{{ post.cartodb_id }}-{{ post.project_name | smartify }}",
       "description": "{{ post.status }}. {{ post.project_description | escape | strip }}",
       "issued": "{{ post.start_date }}",
       "modified": "{{ post.start_date }}",

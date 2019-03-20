@@ -13,10 +13,10 @@ title: Federal Crowdsourcing and Citizen Science Catalog
 {% for post in site.catalog-projects %}
         {
             "project_id": "{{ post.cartodb_id }}",
-            "project_name": "{{ post.project_name | smartify | jsonify }}",
+            "project_name": "{{ post.project_name | smartify }}",
             "project_url_on_catalog": "{{ site.url }}{{ post.url }}",
             "project_url_external": "{{ post.project_url }}",
-            "project_description": "{{ post.project_description }}",
+            "project_description": "{{ post.project_description | strip | escape }}",
             "keywords": "{{ post.keywords }}",
             "fields_of_science": "{{ post.project_topic }}",
             "project_status": "{{ post.status }}",
@@ -24,7 +24,7 @@ title: Federal Crowdsourcing and Citizen Science Catalog
             "agency_sponsor_other": "{{ post.agency_sponsor_other }}",
             "geographic_scope": "{{ post.geographic_scope }}",
             "participant_age": "{{ post.participant_age }}",
-            "project_goals": "{{ post.project_goals }}",
+            "project_goals": "{{ post.project_goals | strip | strip_newlines }}",
             "participation_tasks": "{{ post.participation_tasks }}",
             "scistarter": "{{ post.scistarter }}",
             "email": "{{ post.email }}",
