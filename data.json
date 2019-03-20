@@ -1,0 +1,61 @@
+---
+layout: null
+permalink: /data.json
+title: Federal Crowdsourcing and Citizen Science Catalog - data.json
+---
+{
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "{{ site.url }}/data.json",
+  "@type": "dcat:Catalog",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [{% for post in site.catalog-projects %}{
+      "@type": "dcat:Dataset",      
+      "title": "{{ post.project_name | smartify }}",
+      "identifier": "{{ post.cartodb_id }}",
+      "description": "{{ post.status }}. {{ post.project_description | escape | strip }}",
+      "issued": "{{ post.start_date }}",
+      "modified": "{{ page.date | date: "%Y-%m-%d" }}",
+      "accessLevel": "public",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "spatial": "{{ post.geographic_scope }}",      
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "{{ post.agency_sponsor }}{% if post.agency_sponsor_other %}, {{ post.agency_sponsor_other }}{% endif %}"
+      },
+      "category": "{{ post.project_topic }}",
+      "contactPoint": {
+				"@type": "vcard:Contact",
+        "fn": "{{ post.email }}",
+        "hasEmail": "mailto:{{ post.email }}"
+      },
+			"distribution": [{
+        "@type": "dcat:Distribution",
+        "mediaType": "text/html",
+        "format": "html",
+        "accessURL": "{{ site.url }}{{ post.url }}",
+        "title": "{{ post.project_name | smartify }}",
+        "description": "Link to Project on Citizenscience.gov"
+      }{% if post.project_url %}, {
+        "@type": "dcat:Distribution",
+        "mediaType": "text/html",
+        "format": "html",
+        "accessURL": "{{ post.project_url }}",
+        "title": "Project Website",
+        "description": "Link to Project Website"
+      }{% endif %} {% if post.scistarter %}, {
+        "@type": "dcat:Distribution",
+        "mediaType": "text/html",
+        "format": "html",
+        "accessURL": "{{ post.scistarter }}",
+        "title": "Scistarter.org",
+        "description": "Link to Project on Scistarter.org"
+      }{% endif %}      
+    ],
+    "keyword": ["{{ post.keywords }}, {{ post.participant_age }}, {{ post.participation_tasks }}"],
+    "programCode": ["{{ post.email }}"],
+    "theme": ["{{ post.project_topic }}"]
+    }{% unless forloop.last == true %},{% endunless %}
+    {% endfor %}
+        ]
+  }
