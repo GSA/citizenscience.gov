@@ -1,25 +1,41 @@
 <div class="sidebar-agency-list">
-<ul class="usa-accordion">
-  <li>
-    <button class="usa-accordion-button"
-    aria-expanded="false"
-    aria-controls="a1">
-    View by Agency
-  </button>
-  <div id="a1" class="usa-accordion-content catalog-agency-list">
-    <ul>
-    {% for item in site.agencies %}
-      <li>
-        <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.tooltip }}">{{ item.title }}</a>
-      </li>
-      <hr>
-    {% endfor %}
-    </ul>
-  </div>
-</li>
-</ul>
+  <ul class="usa-accordion">
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="a1">
+        View by Agency
+      </button>
+      <div id="a1" class="usa-accordion-content catalog-agency-list">
+        <ul class="usa-unstyled-list">
+          {% for item in site.agencies %}
+          <li>
+            <input id="filter-{{item.agency_sponsor}}" name="{{item.agency_sponsor}}" type="checkbox" value="{{item.agency_sponsor}}" data-checkbox-type="agency">
+            <label for="filter-{{item.agency_sponsor}}">
+              {{ item.title }}
+            </label>
+            <!-- <a href="{{ site.baseurl }}{{ item.url }}" title="{{ item.tooltip }}">{{ item.title }}</a> -->
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+  <ul class="usa-accordion">
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="a2">
+        View by Field of Science
+      </button>
+      <div id="a2" class="usa-accordion-content catalog-agency-list">
+        <fieldset>
+          <ul id="fields-of-science-checkboxes">
+            <!-- our list of fields of science will be rendered here -->
+          </ul>
+        </fieldset>
+      </div>
+    </li>
+  </ul>
 </div>
-
-
-
-
