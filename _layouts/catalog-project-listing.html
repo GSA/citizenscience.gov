@@ -17,27 +17,8 @@ layout: catalog-base
 <div class="parent-container">
   <div class="search-container">
     <aside>
-      <h3>Find A Project</h3>
-      <div>
-        {% include catalog-search-box.html %}
-      </div>
-      <br>
-      <div class="">
-        <fieldset class="usa-fieldset-inputs usa-sans">
-          <legend class="usa-sr-only">Project Status</legend>
-          <ul class="usa-unstyled-list">
-            <li>
-              <input id="active-projects" type="checkbox" name="active-projects" value="active" data-checkbox-type="status">
-              <label for="active-projects">Active</label>
-            </li>
-            <li>
-              <input id="completed-projects" type="checkbox" name="completed-projects" value="complete" data-checkbox-type="status">
-              <label for="completed-projects">Complete</label>
-            </li>
-          </ul>
-        </fieldset>
-      </div>
-      <div>
+      <h3>Filter Projects</h3>
+      <div class="sidebar-agency-list">
         {% include catalog-filters.html %}
       </div>
     </aside>
