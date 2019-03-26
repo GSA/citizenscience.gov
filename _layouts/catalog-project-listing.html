@@ -16,9 +16,15 @@ layout: catalog-base
 
 <div class="parent-container">
   <div class="search-container">
-    <aside>
+    <aside><h3>Search Projects</h3>
+      <div>
+        {% include catalog-search-box.html %}
+      </div>
+			<br>
+			<hr>
+			<br>
+			<div class="sidebar-agency-list">
       <h3>Filter Projects</h3>
-      <div class="sidebar-agency-list">
         {% include catalog-filters.html %}
       </div>
     </aside>
