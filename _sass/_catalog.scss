@@ -182,10 +182,6 @@ ul ul {
 	line-height: 0;
 }
 
-.sidebar-agency-list {
-	padding-top: 30px;
-}
-
 .sidebar-agency-list li {
 	font-size: medium;
 	text-decoration: none;
@@ -200,6 +196,10 @@ ul ul {
 .sidebar-agency-list button:hover {
 	font-weight: 500;
 	color: #205493;	
+}
+
+.sidebar-agency-list .usa-accordion-content {
+	padding-top: 0;
 }
 
 .catalog-agency-list ul {

@@ -21,7 +21,7 @@
             <p>
               <strong>The .gov means it’s official.</strong>
               <br>
-              Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+              Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or "location") bar.
             </p>
           </div>
         </div>
@@ -42,32 +42,31 @@
  
   <section class="usa-section catalog-nav">
     <div class="usa-grid">
-        <button class="usa-menu-btn">Menu</button>
-        <div class="usa-width-one-third">
-          <a href="{{ site.baseurl }}/catalog/">
-            <img src="{{ site.baseurl }}/assets/img/new-catalog-logo.jpg" alt="{{ post.title }}"   title="{{ post.title }}">
-          </a>
-        </div>
-        <div class="usa-width-two-thirds">
-  
-      <nav role="navigation" class="usa-nav usa-nav-toolkit">
-      <button class="usa-nav-close">
-        <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/close.svg" alt="close">
-      </button>
-      <ul class="usa-nav-primary usa-accordion">
-      {% assign navs = site.data.catalog-navbar.assigned %}
-      {% for nav in navs %}
-        {% if nav.show_in_menu %}
-        <li>
-          <a class="usa-nav-link" href="{{ nav.permalink | prepend: site.baseurl }}"><span>{{ nav.text }}</span></a>
-        </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </nav>
+      <button class="usa-menu-btn">Menu</button>
+      <div class="usa-width-one-third">
+        <a href="{{ site.baseurl }}/catalog/">
+          <img src="{{ site.baseurl }}/assets/img/new-catalog-logo.jpg" alt="{{ post.title }}"   title="{{ post.title }}">
+        </a>
+      </div>
+      
+      <div class="usa-width-two-thirds">
+        <nav role="navigation" class="usa-nav usa-nav-toolkit">
+          <button class="usa-nav-close">
+            <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/close.svg" alt="close">
+          </button>
+          <ul class="usa-nav-primary usa-accordion">
+            {% assign navs = site.data.catalog-navbar.assigned %}
+            {% for nav in navs %}
+              {% if nav.show_in_menu %}
+              <li>
+                <a class="usa-nav-link" href="{{ nav.permalink | prepend: site.baseurl }}"><span>{{ nav.text }}</span></a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
       </div>
   </div>
 </section>
-
     
 </header>

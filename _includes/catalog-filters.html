@@ -1,12 +1,30 @@
-<div class="sidebar-agency-list">
+    <legend class="usa-sr-only">Project Status</legend>
+    <ul class="usa-accordion">
+        <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="a1">
+        View by Status
+      </button>
+      <div id="a1" class="usa-accordion-content">
+      <li>
+        <input id="active-projects" type="checkbox" name="active-projects" value="active" data-checkbox-type="status">
+        <label for="active-projects">Active</label>
+      </li>
+      <li>
+        <input id="completed-projects" type="checkbox" name="completed-projects" value="complete" data-checkbox-type="status">
+        <label for="completed-projects">Complete</label>
+      </li>
+      </div>
+    </ul>
+
   <ul class="usa-accordion">
     <li>
       <button class="usa-accordion-button"
         aria-expanded="false"
-        aria-controls="a1">
+        aria-controls="a2">
         View by Agency
       </button>
-      <div id="a1" class="usa-accordion-content catalog-agency-list">
+      <div id="a2" class="usa-accordion-content catalog-agency-list">
         <ul class="usa-unstyled-list">
           {% for item in site.agencies %}
           <li>
@@ -26,10 +44,10 @@
     <li>
       <button class="usa-accordion-button"
         aria-expanded="false"
-        aria-controls="a2">
+        aria-controls="a3">
         View by Field of Science
       </button>
-      <div id="a2" class="usa-accordion-content catalog-agency-list">
+      <div id="a3" class="usa-accordion-content catalog-agency-list">
         <fieldset>
           <ul id="fields-of-science-checkboxes">
             <!-- our list of fields of science will be rendered here -->
@@ -38,4 +56,4 @@
       </div>
     </li>
   </ul>
-</div>
+
