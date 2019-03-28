@@ -21,7 +21,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Jim Kahler |
 | Department of Commerce | [Census](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs, Lorena Molina-Irizarry |
 | Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
-| Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland |
+| Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland, John McLaughlin |
 | Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | Dr. Richard Ames |
 | Department of Education | [IES](https://www.citizenscience.gov/catalog/doed/) | Ross Santy |
 | Department of Energy | [DOE](https://www.citizenscience.gov/catalog/doe/) | Carly Robinson |
@@ -39,7 +39,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
 | Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jay Benforado |
-| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | James Miller |
+| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | Ruthanna Gordon |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
