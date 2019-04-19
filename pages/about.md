@@ -15,6 +15,10 @@ In citizen science, the public participates voluntarily in the scientific proces
 *CitizenScience.gov was developed under a partnership between the U.S. General Services Administration (GSA) and the Woodrow Wilson International Center for Scholars (Wilson Center), a Trust Instrumentality of the U.S. government.*
 <br>
 <br>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Kx1kSJ4y-7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="image-caption" style="text-align: left; width: 55%;">This webinar from April of 2019 overviews the Federal Community of Practice for Crowdsourcing and Citizen Science and the resources it offers through our website.</p>
+
 <br>
 <br>
 <br>
