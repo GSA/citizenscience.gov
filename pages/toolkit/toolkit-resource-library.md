@@ -93,7 +93,7 @@ last-updated-date: December 2017
 <br>
 <a href="{{ site.baseurl }}/assets/appendix-d-crowdsourcing-and-citizen-science-under-other-authorities.pdf" target="_blank" rel="noopener"> - Appendix D. Crowdsourcing and Citizen Science under Other Authorities (pdf)</a>
 <br>
-<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.csv" target="_blank" rel="noopener">- All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv)</a> 
+<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">- All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv)</a> 
 </li>
 </ul>
 <br>
