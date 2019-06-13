@@ -85,7 +85,7 @@ last-updated-date: December 2017
 <hr>
 <ul>
 <li>
-Fiscal Year 2017-18 Full Report (June 2019, pdf) <br>- Executive Summary (pdf) <br>- Appendix of Crowdsourcing and Citizen Science activities (CSV) 
+<a href="{{ site.baseurl }}/assets/implementation-of-federal-prize-and-citizen-science-authority-17-18.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report (June 2019, pdf)</a> <br>- Executive Summary (pdf) <br>- <a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">Appendix of Crowdsourcing and Citizen Science activities (CSV)</a> 
 </li>
 </ul>
 <br>
