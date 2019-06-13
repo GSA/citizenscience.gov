@@ -85,7 +85,15 @@ last-updated-date: December 2017
 <hr>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/assets/implementation-of-federal-prize-and-citizen-science-authority-17-18.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report (June 2019, pdf)</a> <br>- Executive Summary (pdf) <br>- <a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">Appendix of Crowdsourcing and Citizen Science activities (CSV)</a> 
+<a href="{{ site.baseurl }}/assets/federal-prize-and-citizen-science-implementation-FY17-18_report-and-appendices_full-report.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report with Appendices (June 2019, pdf)</a> 
+<br>
+<a href="{{ site.baseurl }}/assets/federal-prize-and-citizen-science-implementation-FY17-18_report.pdf" target="_blank" rel="noopener">- Report without Appendices (pdf)</a>
+<br>
+<a href="{{ site.baseurl }}/assets/appendix-c-crowdsourcing-and-citizen-science-under-CCSAct.pdf" target="_blank" rel="noopener">- Appendix C. Crowdsourcing and Citizen Science under the American Innovation and Competitiveness Act (pdf)</a>
+<br>
+<a href="{{ site.baseurl }}/assets/appendix-d-crowdsourcing-and-citizen-science-under-other-authorities.pdf" target="_blank" rel="noopener"> - Appendix D. Crowdsourcing and Citizen Science under Other Authorities (pdf)</a>
+<br>
+<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.csv" target="_blank" rel="noopener">- All crowdsourcing and citizen science activities - This CSV file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv)</a> 
 </li>
 </ul>
 <br>
