@@ -81,6 +81,14 @@ last-updated-date: December 2017
 <li><a href="https://www.zooniverse.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Zooniverse: A Citizen Science Web Platform</a></li>
 </ul>
 <br>
+<h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
+<hr>
+<ul>
+<li>
+Fiscal Year 2017-18 Full Report (June 2019, pdf) <br>- Executive Summary (pdf) <br>- Appendix of Crowdsourcing and Citizen Science activities (CSV) 
+</li>
+</ul>
+<br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
 <br>
