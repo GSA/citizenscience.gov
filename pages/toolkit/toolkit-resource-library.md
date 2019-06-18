@@ -81,22 +81,6 @@ last-updated-date: December 2017
 <li><a href="https://www.zooniverse.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Zooniverse: A Citizen Science Web Platform</a></li>
 </ul>
 <br>
-<h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
-<hr>
-<ul>
-<li>
-<a href="{{ site.baseurl }}/assets/federal-prize-and-citizen-science-implementation-FY17-18_report-and-appendices_full-report.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report with Appendices (June 2019, pdf)</a> 
-<br>
-<a href="{{ site.baseurl }}/assets/federal-prize-and-citizen-science-implementation-FY17-18_report.pdf" target="_blank" rel="noopener">- Report without Appendices (pdf)</a>
-<br>
-<a href="{{ site.baseurl }}/assets/appendix-c-crowdsourcing-and-citizen-science-under-CCSAct.pdf" target="_blank" rel="noopener">- Appendix C. Crowdsourcing and Citizen Science under the American Innovation and Competitiveness Act (pdf)</a>
-<br>
-<a href="{{ site.baseurl }}/assets/appendix-d-crowdsourcing-and-citizen-science-under-other-authorities.pdf" target="_blank" rel="noopener"> - Appendix D. Crowdsourcing and Citizen Science under Other Authorities (pdf)</a>
-<br>
-<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">- All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv)</a> 
-</li>
-</ul>
-<br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
 <br>
