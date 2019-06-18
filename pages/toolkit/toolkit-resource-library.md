@@ -81,6 +81,20 @@ last-updated-date: December 2017
 <li><a href="https://www.zooniverse.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Zooniverse: A Citizen Science Web Platform</a></li>
 </ul>
 <br>
+<h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
+<hr>
+<ul>
+<li>
+<a href="https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report with Appendices (June 2019)</a> 
+<br>
+<ul>
+<li style="list-style-type: circle;">
+<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
+</li>
+</ul> 
+</li>
+</ul>
+<br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
 <br>
