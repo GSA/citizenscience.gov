@@ -3,5 +3,5 @@ layout: null
 permalink: /feed.csv
 ---
 "project_id","project_name","project_url_on_catalog","project_url_external","project_description","keywords","fields_of_science","project_status","agency_sponsor","agency_sponsor_other","geographic_scope","participant_age","participation_tasks","scistarter","email","start_date","project_goals"
-{% for post in site.catalog-projects %}"{{ post.cartodb_id }}","{{ post.project_name }}","{{ site.url }}{{ post.url }}","{{ post.project_url }}","{{ post.project_description }}","{{ post.keywords }}","{{ post.project_topic }}","{{ post.status }}","{{ post.agency_sponsor }}","{{ post.agency_sponsor_other }}","{{ post.geographic_scope }}","{{ post.participant_age }}","{{ post.participation_tasks }}","{{ post.scistarter }}","{{ post.email }}","{{ post.start_date }}","{{ post.project_goals }}"
+{% for post in site.catalog-projects %}"{{ post.cartodb_id }}","{{ post.project_name }}","{{ site.url }}{{ post.url }}","{{ post.project_url }}","{{ post.project_description | strip | escape }}","{{ post.keywords }}","{{ post.project_topic }}","{{ post.status }}","{{ post.agency_sponsor }}","{{ post.agency_sponsor_other }}","{{ post.geographic_scope }}","{{ post.participant_age }}","{{ post.participation_tasks }}","{{ post.scistarter }}","{{ post.email }}","{{ post.start_date }}","{{ post.project_goals }}"
 {% endfor %}
