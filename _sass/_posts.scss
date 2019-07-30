@@ -61,6 +61,12 @@
 }
 }
 
+@media (min-width: 414px) {
+	.center-bottom-ten {
+		background-position: center .1em;
+	}
+	}
+
 .hide {
 	display: none;
 }
