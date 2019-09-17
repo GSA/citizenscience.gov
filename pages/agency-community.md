@@ -39,7 +39,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
 | Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jay Benforado |
-| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine |
+| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine, Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | Ruthanna Gordon |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
