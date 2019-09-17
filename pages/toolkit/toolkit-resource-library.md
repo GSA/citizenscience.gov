@@ -177,6 +177,8 @@ last-updated-date: December 2017
 <br>
 <h3>Project Design</h3>
 <ul>
+<li><a href="https://www.epa.gov/citizen-science/quality-assurance-handbook-and-guidance-documents-citizen-science-projects" target="_blank" class="ext-link" rel="external nofollow">EPA Quality Assurance Handbook and Guidance Documents for Citizen Science Projects</a>
+</li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/resources" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a></li>
 <li><a href="http://diytoolkit.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Development, Impact, &amp; You Toolkit (DIY)</a></li>
 <li><a href="https://vimeo.com/91934378" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">DIY Toolkit: Problem Definition (Video)</a></li>
