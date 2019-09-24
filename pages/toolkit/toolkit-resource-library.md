@@ -146,13 +146,13 @@ last-updated-date: December 2017
 <li><a href="https://www.wilsoncenter.org/publication/citizen-science-the-law-web-enabled-policy-tool" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science &amp; The Law: A Web-Enabled Policy Tool</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/toolkit/policy/legal-policy" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central Legal Policy</a></li>
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2491054" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science: The Law and Ethics of Public Access to Medical Big Data (2014)</a></li>
+<li><a href="https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf" class="ext-link" rel="external nofollow" target="_blank" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act (Public Law 114–329)</a></li>
 <li><a href="http://www.acc.com/legalresources/quickcounsel/caipi.cfm" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Intellectual Property Issues (2012)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/toolkit/policy/Bowser%20et%20al%202013%20Data%20Policy%20Guide.pdf/view" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">DataONE Data Policy Guide</a></li>
 <li><a href="http://www2.unb.ca/gge/Pubs/TR283.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues and Validation of Volunteered Geographic Information (2013)</a></li>
 <li><a href="http://wilsoncenter.org/sites/default/files/STIP_CS_Legal_FINAL.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Legal Issues in Using Citizen Science (2015)</a></li>
 <li><a href="https://www.genome.gov/27559982" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Trans-NIH Workshop to Explore the Ethical, Legal and Social Implications of Citizen Science</a></li>
 <li><a href="https://www.wilsoncenter.org/publication/tweeting-storm-the-promise-and-perils-crisis-mapping" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tweeting Up a Storm: The Promise and Perils of Crisis-Mapping</a></li>
-<li><a href="https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf" class="ext-link" rel="external nofollow" target="_blank" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing and Citizen Science Act (Public Law 114–329)</a></li>
 </ul>
 <br>
 <h2><strong>Toolkits and Guides</strong></h2>
@@ -177,11 +177,11 @@ last-updated-date: December 2017
 <br>
 <h3>Project Design</h3>
 <ul>
-<li><a href="https://www.epa.gov/citizen-science/quality-assurance-handbook-and-guidance-documents-citizen-science-projects" target="_blank" class="ext-link" rel="external nofollow">EPA Quality Assurance Handbook and Guidance Documents for Citizen Science Projects</a>
-</li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/resources" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a></li>
 <li><a href="http://diytoolkit.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Development, Impact, &amp; You Toolkit (DIY)</a></li>
 <li><a href="https://vimeo.com/91934378" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">DIY Toolkit: Problem Definition (Video)</a></li>
+<li><a href="https://www.epa.gov/citizen-science/quality-assurance-handbook-and-guidance-documents-citizen-science-projects" target="_blank" class="ext-link" rel="external nofollow">EPA Quality Assurance Handbook and Guidance Documents for Citizen Science Projects</a>
+</li>
 <li><a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Getting Started With Iterative Project Management (Managing Iterative Soft</a><a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ware Development Projects, PDF)</a></li>
 <li><a href="http://www.oesd.noaa.gov/leadership/DEP_Manual_2ndEdt_Final.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Designing Education Projects (NOAA, PDF)</a></li>
 <li><a href="http://communityfunded.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Online Fundraising Campaigns and Crowdfunding Platforms</a></li>

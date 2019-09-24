@@ -12,12 +12,6 @@ link-out: /catalog/
 
 ## About the Catalog
 
-<div class="usa-alert usa-alert-info" role="alert">
-  <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Beta Release</h3>
-    <p class="usa-alert-text">Please note that this is the Beta release of the Catalog. We will be adding new features and functionality in the coming weeks.  Please email citizenscience@gsa.gov for any inquiries. </p>
-  </div>
-</div>
 
 This database provides a government-wide listing of citizen science and crowdsourcing projects by agency.
 
