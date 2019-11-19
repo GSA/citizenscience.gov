@@ -99,8 +99,12 @@
   		<img src="{{ site.baseurl }}/assets/img/agency-logos/hud.png" alt="HUD logo" height="40px" title="HUD">
 	{% endif %}
 
-	{% if item.agency_sponsor contains "census" or item.agency_sponsor contains "Census" %}
+	{% if page.agency_sponsor contains "census" or page.agency_sponsor contains "Census" %}
 	<img src="{{ site.baseurl }}/assets/img/agency-logos/census.png" alt="Census logo" height="40px" title="Census">
+	{% endif %}
+
+	{% if page.agency_sponsor contains "Library of Congress" or page.agency_sponsor contains "Library of Congress" %}
+	<img src="{{ site.baseurl }}/assets/img/agency-logos/library-of-congress_small.png" alt="LOC logo" height="40px" title="LOC">
 	{% endif %}
 
 
