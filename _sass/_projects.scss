@@ -109,6 +109,26 @@
   }
 }
 
+.card-read-dark-background {
+  margin: 0 3rem;
+  color: $project-accent-color;
+  font-size: $small-font-size;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:visited {
+    color: $project-accent-color;
+  }
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px;
+  }
+}
+
 @media screen and (max-width: 600px) {
   .project-title {
     font-size: 3rem;
