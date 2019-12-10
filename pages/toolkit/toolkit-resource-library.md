@@ -212,5 +212,4 @@ last-updated-date: December 2017
 <li><a href="https://ombudsman.nih.gov/sites/default/files/A%20Conflict%20Resolution%20Framework.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
 <p><br></p>
-<p>Last updated:  <span class="last-modified-timestamp">{{ page.last-updated-date }}</span></p>
 </div>
