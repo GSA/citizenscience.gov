@@ -39,9 +39,12 @@ footer a:visited {
 }
 
 .feedback-email {
-  font-size: 1em;
-  color: #e87853;
   font-weight: 800 !important;
 	max-width: 30rem;
 	text-align: center;
+  font-size: 1em;
+  color: #e87853;
+  &:hover {
+    color: #FFF;
+  }
 }
