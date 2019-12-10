@@ -1,44 +1,36 @@
 <footer class="usa-footer usa-footer-medium" role="contentinfo">
+
   <div class="usa-footer-secondary_section">
-    <div class="usa-grid">
+    <div class="usa-grid-full">
+
       <div class="usa-footer-logo usa-width-one-half">
-        {% if site.footer.image %}
-        <a href="https://www.gsa.gov"  target="blank" rel="noopener">
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt=" GSA Logo image">
-        </a>
-        {% endif %}
-        <a href="{{ site.url }}">
-          <img class="footer-logo" src="{{ site.baseurl }}/assets/img/logo-main_transparent.png" alt="www.citizenscience.gov">
-        </a>
-        {% if site.footer.text %}
-          <p>{{ site.footer.text }}</p>
-        {% endif %}
+        <div>
+          <a href="https://www.gsa.gov"  target="blank" rel="noopener">
+            <img style="margin-right: 1em;" class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt=" GSA Logo">
+          </a>
+        </div>
+        <p style="font-size: 1.5rem; line-height: 1.2; color: #565c65; padding-left: 1em;"><a href="www.citizenscience.gov">CitizenScience.gov</a> is published and supported by<br>
+        <span style="color: #203131; font-size: 20px;">U.S. General Services Administration</span></p>
       </div>
 
-      <div class="usa-footer-contact-links usa-width-one-half">
-          {% if site.footer.contact.twitter %}
+      <div class="usa-width-one-half" style="text-align: right;">
+          <a href="{{ site.url }}">
+              <img class="footer-logo" src="{{ site.baseurl }}/assets/img/logo-main_transparent.png" alt="www.citizenscience.gov">
+            </a><br>
           <a class="usa-link-twitter" href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}" target="blank" rel="noopener"><span>Twitter</span></a>
-          {% endif %}
-          {% if site.footer.contact.facebook %}
-          <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
-          {% endif %}
-          {% if site.footer.contact.youtube %}
-          <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
-          {% endif %}
-          {% if site.footer.contact.rss %}
-          <a class="usa-link-rss" href="{{ rss }}"><span>RSS feed</span></a>
-          {% endif %}
-        <address>
-          {% if site.footer.contact.name %}
-            <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>
-          {% endif %}
+          <a class="usa-link-youtube" href="https://www.youtube.com/watch?v=Kx1kSJ4y-7s&feature=emb_title" target="blank" rel="noopener"><span>YouTube</span></a>
+          <a class="usa-link-rss" style="padding-right: 4em;" href="{{ site.baseurl }}/sitemap.xml"><span>RSS feed</span></a>
           {% if site.footer.contact.phonenumber %}
             <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
           {% endif %}
-          <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
-        </address>
-
       </div>
+
     </div>
   </div>
+
+  <div style="background-color: #203131">
+      <div class="usa-grid-full">
+          <p style="text-align: center; color:white;">Have feedback or questions about this page? <a class="usa-external_link feedback-email" href="mailto: citizenscience@gsa.gov">Send us an email</a> <br><em>Last updated on {{ page.last_modified_at | date: "%m-%d-%Y" }}.</em></p>
+      </div>
+    </div>
 </footer>
