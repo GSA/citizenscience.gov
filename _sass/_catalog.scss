@@ -22,6 +22,7 @@
 .parent-container {
 	display: flex;
 	padding: 3em 4em 4em;
+	min-height: 45em;
 }
 
 @media (min-width: 500px) and (max-width: 1307px) {

@@ -31,9 +31,61 @@ footer a:visited {
 	padding-left: 1.5em;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
 	.footer-logo {
-    padding-left: 0;
-    padding-top: 2em;
+    max-width: 25rem;
+    float: left;
+    padding: 0;
 	}
 }
+
+@media only screen and (max-width: 600px) {
+	.usa-footer-logo-img {
+    max-width: 6rem !important;
+	}
+}
+
+.feedback-email {
+  font-weight: 800 !important;
+	max-width: 30rem;
+	text-align: center;
+  font-size: 1em;
+  color: #e87853;
+  &:hover {
+    color: #FFF;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+	.usa-footer-secondary_section {
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.usa-footer-secondary_section {
+    padding-left: 4em !important;
+    padding-right: 4em !important;
+	}
+}
+
+.footer-logo-text {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  color: #565c65;
+}
+
+@media only screen and (min-width: 600px) {
+	.footer-logo-text {
+    padding-left: 1em;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.footer-socials {
+    float: left;
+    padding-left: 1em;
+	}
+}
+

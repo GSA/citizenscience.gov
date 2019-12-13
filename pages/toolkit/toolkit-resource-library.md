@@ -111,7 +111,7 @@ last-updated-date: December 2017
 <li><a href="http://www.jstor.org/stable/27786204?seq=1#page_scan_tab_contents" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Buckets of Resistance: Standards and the Effectiveness of Citizen Science (2010)</a></li>
 <li><a href="https://crowston.syr.edu/sites/crowston.syr.edu/files/WigginsCrowstonIJODE2010.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Conceptual Model of Virtual Organizations for Citizen Science (2010)</a></li>
 <li><a href="http://uiuc.libguides.com/citizen-science/evaluation" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluating Citizen Science (2015)</a></li>
-<li><a href="http://www.esajournals.org/toc/fron/10/6" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Frontiers in Ecology and the Environment Citizen Science Collection</a></li>
+<li><a href="https://doi.org/10.1890/110280" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Key issues and new approaches for evaluating citizen‐science learning outcomes (2012)</a></li>
 <li><a href="http://www.esa.org/esa/wp-content/uploads/2015/09/Issue19.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Investing in Citizen Science Can Improve Natural Resource Management and Environmental Protection (2015)</a></li>
 <li><a href="http://edis.ifas.ufl.edu/pdffiles/FR/FR35900.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Lessons Learned from Evaluations of Citizen Science Programs (2014, PDF)</a></li>
 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090375" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Drives the Quantity and Quality of Online Citizen Science Participation? (2014)</a></li>
@@ -130,7 +130,7 @@ last-updated-date: December 2017
 <ul>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
 <li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0048733312001436" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Structuring Interdisciplinary Research Management (2013)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048733312001436" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Structuring Interdisciplinary Research Management (2013)</a></li>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
 <li><a href="http://www.esajournals.org/doi/abs/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
 </ul>
@@ -183,7 +183,7 @@ last-updated-date: December 2017
 <li><a href="https://www.epa.gov/citizen-science/quality-assurance-handbook-and-guidance-documents-citizen-science-projects" target="_blank" class="ext-link" rel="external nofollow">EPA Quality Assurance Handbook and Guidance Documents for Citizen Science Projects</a>
 </li>
 <li><a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Getting Started With Iterative Project Management (Managing Iterative Soft</a><a href="http://www.pearsonhighered.com/samplechapter/032126889X.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ware Development Projects, PDF)</a></li>
-<li><a href="http://www.oesd.noaa.gov/leadership/DEP_Manual_2ndEdt_Final.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Designing Education Projects (NOAA, PDF)</a></li>
+<li><a href="https://www.noaa.gov/education/resource-collections/resources-for-noaa-educators/designing-education-projects" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Designing Education Projects (NOAA, PDF)</a></li>
 <li><a href="http://communityfunded.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Online Fundraising Campaigns and Crowdfunding Platforms</a></li>
 <li><a href="https://www.teamsciencetoolkit.cancer.gov/Public/Home.aspx" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Team Science Toolkit (National Cancer Institute)</a></li>
 <li><a href="http://pubs.usgs.gov/of/2013/1265/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">USGS Science Data Lifecycle Model</a></li>
@@ -212,5 +212,4 @@ last-updated-date: December 2017
 <li><a href="https://ombudsman.nih.gov/sites/default/files/A%20Conflict%20Resolution%20Framework.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
 <p><br></p>
-<p>Last updated:  <span class="last-modified-timestamp">{{ page.last-updated-date }}</span></p>
 </div>
