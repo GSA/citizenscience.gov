@@ -7,7 +7,7 @@
           <a href="https://www.gsa.gov"  target="blank" rel="noopener">
             <img style="margin-right: 1em;" class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt=" GSA Logo">
           </a>
-        <p style="font-size: 1.5rem; line-height: 1.2; color: #565c65; padding-left: 1em;"><a href="www.citizenscience.gov">CitizenScience.gov</a> is published and supported by<br>
+        <p class="footer-logo-text"><a href="www.citizenscience.gov">CitizenScience.gov</a> is published and supported by<br>
         <span style="color: #203131; font-size: 20px;">U.S. General Services Administration</span></p>
       </div>
 
@@ -15,12 +15,12 @@
           <a href="{{ site.url }}">
               <img class="footer-logo" src="{{ site.baseurl }}/assets/img/logo-main_transparent.png" alt="www.citizenscience.gov">
             </a><br>
-          <a class="usa-link-twitter" href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}" target="blank" rel="noopener"><span>Twitter</span></a>
-          <a class="usa-link-youtube" href="https://www.youtube.com/watch?v=Kx1kSJ4y-7s&feature=emb_title" target="blank" rel="noopener"><span>YouTube</span></a>
-          <a class="usa-link-rss" style="padding-right: 4em;" href="{{ site.baseurl }}/sitemap.xml"><span>RSS feed</span></a>
-          {% if site.footer.contact.phonenumber %}
-            <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
-          {% endif %}
+          <div class="footer-socials">
+            <a class="usa-link-twitter" href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}" target="blank" rel="noopener"><span>Twitter</span></a>
+            <a class="usa-link-youtube" href="https://www.youtube.com/watch?v=Kx1kSJ4y-7s&feature=emb_title" target="blank" rel="noopener"><span>YouTube</span></a>
+            <a class="usa-link-rss" style="padding-right: 4em;" href="{{ site.baseurl }}/sitemap.xml"><span>RSS feed</span></a>
+          <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
+          </div>
       </div>
 
     </div>
