@@ -31,7 +31,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch,  Katrina Theisz |
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Jim Grove |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
-| Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Mara Alexander |
+| Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin | Rachel Sowards Thompson |
 | Department of Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
 | Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu,  David Govoni |
