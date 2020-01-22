@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /agency-community/
+title: Agency Citizen Science and Crowdsourcing Coordinators
 ---
-## Agency Citizen Science and Crowdsourcing Coordinators
+ 
 The Agency Citizen Science and Crowdsourcing Coordinators are a group of federal employees designated by their agency leaders to be the point people for advancing crowdsourcing and citizen science.  The need for these Coordinators was articulated in a [September 2015 memo](https://obamawhitehouse.archives.gov/blog/2015/09/30/accelerating-use-citizen-science-and-crowdsourcing-address-societal-and-scientific) from the White House Office of Science and Technology Policy to the heads of federal departments and agencies.
 #### What the Agency Coordinators Do
 Today, these coordinators are:

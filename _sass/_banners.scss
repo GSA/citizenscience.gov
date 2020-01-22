@@ -44,3 +44,18 @@
   background-color: $banner-button-color;
   color: $banner-button-text-color;
 }
+
+.banner-tagline-accent-color {
+  a {
+    color: #e87853;
+    &:hover {
+    color: white;
+    }
+    &:active {
+    color: white;
+    }
+    &:visited {
+    color: #e87853;
+    }
+  }
+}
