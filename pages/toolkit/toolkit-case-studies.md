@@ -18,7 +18,7 @@ last-updated: January 2018
 						{% endif %}
 						<article>
 								<a href="{{ item.url | prepend: site.baseurl }}">
-									<img src="{{ item.image | prepend: site.baseurl }}">
+									<img src="{{ item.image | prepend: site.baseurl }}" alt="{{ item.alt-text }}">
 								</a>
 								<div class="infos">
 										<h3 class="title">{{ item.title }}</h3>
