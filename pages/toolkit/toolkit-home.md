@@ -75,19 +75,19 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-section banner tagline">
 	<div class="usa-grid">
-    <h2 style="text-align:center" class="banner-tagline-accent-color">Visit <a href = "https://www.citizenscience.gov">CitizenScience.gov</a> to also learn about a catalog of <a href="https://ccsinventory.wilsoncenter.org/">projects</a> and <a href="{{ site.baseurl }}/about/community-of-practice/">communities</a> to join!</h2>
+    	<h2 style="text-align:center" class="banner-tagline-accent-color">Visit <a href = "https://www.citizenscience.gov">CitizenScience.gov</a> to also learn about a catalog of <a href="https://ccsinventory.wilsoncenter.org/">projects</a> and <a href="{{ site.baseurl }}/about/community-of-practice/">communities</a> to join!</h2>
     </div>
 </section>
 
-<section class="usa-grid usa-section"> 
-        <div class="usa-width-two-thirds">
-	<h2 style="text-decoration: underline">Other Innovation Communities</h2>
-		<ul>
-			<li><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank">Challenges and Prizes</a></li>
-			<li><a href="https://www.digitalgov.gov/communities/" target="blank">DigitalGov</a></li>
-			<li><a href="https://www.data.gov/" target="blank">Data.gov</a></li>
-			<li><a href="https://www.digitalgov.gov/communities/social-media/" target="blank">SocialMedia CoP</a></li>
-		</ul>
+<section class="usa-grid usa-section innovation-communities"> 
+    <div class="usa-width-one-whole innovation-communities">
+		<h2 class="innovation-communities">Other Innovation Communities</h2>
+			<ul class="innovation-communities">
+				<li class="innovation-communities"><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank">Challenges and Prizes</a></li>
+				<li class="innovation-communities"><a href="https://www.digitalgov.gov/communities/" target="blank">DigitalGov</a></li>
+				<li class="innovation-communities"><a href="https://www.data.gov/" target="blank">Data.gov</a></li>
+				<li class="innovation-communities"><a href="https://www.digitalgov.gov/communities/social-media/" target="blank">SocialMedia CoP</a></li>
+			</ul>
     </div>
 </section>
 
