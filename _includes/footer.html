@@ -4,31 +4,31 @@
     <div class="usa-grid-full">
 
       <div class="usa-footer-logo usa-width-one-half">
-          <a href="https://www.gsa.gov"  target="blank" rel="noopener">
-            <img style="margin-right: 1em;" class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt=" GSA Logo">
-          </a>
+        <a href="https://www.gsa.gov"  target="blank" rel="noopener">
+          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt=" GSA Logo">
+        </a>
         <p class="footer-logo-text"><a href="https://www.citizenscience.gov">CitizenScience.gov</a> is published and supported by<br>
-        <span style="color: #203131; font-size: 20px;">U.S. General Services Administration</span></p>
+        <span class="footer-logo-text-span">U.S. General Services Administration</span></p>
       </div>
 
-      <div class="usa-width-one-half" style="text-align: right;">
-          <a href="{{ site.url }}">
-              <img class="footer-logo" src="{{ site.baseurl }}/assets/img/logo-main_transparent.png" alt="www.citizenscience.gov">
-            </a><br>
-          <div class="footer-socials">
-            <a class="usa-link-twitter" href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}" target="blank" rel="noopener"><span>Twitter</span></a>
-            <a class="usa-link-youtube" href="https://www.youtube.com/watch?v=Kx1kSJ4y-7s&feature=emb_title" target="blank" rel="noopener"><span>YouTube</span></a>
-            <a class="usa-link-rss" style="padding-right: 4em;" href="{{ site.baseurl }}/sitemap.xml"><span>RSS feed</span></a>
+      <div class="usa-width-one-half footer-citsci-logo">
+        <a href="{{ site.url }}">
+          <img class="footer-logo" src="{{ site.baseurl }}/assets/img/logo-main_transparent.png" alt="www.citizenscience.gov">
+        </a><br>
+        <div class="footer-socials">
+          <a class="usa-link-twitter" href="https://twitter.com/FedCitSci?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/{{ twitter }}" target="blank" rel="noopener"><span>Twitter</span></a>
+          <a class="usa-link-youtube" href="https://www.youtube.com/watch?v=Kx1kSJ4y-7s&feature=emb_title" target="blank" rel="noopener"><span>YouTube</span></a>
+          <a class="usa-link-rss" href="{{ site.baseurl }}/sitemap.xml"><span>RSS feed</span></a>
           <p>{{ site.footer.contact.phonenumber }}</p>
-          </div>
+        </div>
       </div>
 
     </div>
   </div>
 
-  <div style="background-color: #203131; padding: .5em;">
-      <div class="usa-grid-full">
-          <p style="text-align: center; color:white;">Have feedback or questions about this page? <a class="feedback-email" href="mailto:citizenscience@gsa.gov">Send us an email</a><img style="color: #e87853; height: 12px; padding-left: .5em;" src="{{ site.baseurl }}/assets/img/external-link-alt-solid.svg" alt=""> </p>
-      </div>
+  <div class="footer-questions">
+    <div class="usa-grid-full">
+      <p class="footer-questions">Have feedback or questions about this page? <br class="mobile-break"> <a class="feedback-email" href="mailto:citizenscience@gsa.gov">Send us an email</a><img class="footer-questions" src="{{ site.baseurl }}/assets/img/external-link-alt-solid.svg" alt=""> </p>
     </div>
+  </div>
 </footer>
