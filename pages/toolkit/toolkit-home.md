@@ -80,12 +80,14 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 </section>
 
 <section class="usa-grid usa-section innovation-communities"> 
-    <div class="usa-width-one-whole innovation-communities">
-		<h2 class="innovation-communities">Crowdsourcing Communities</h2>
+    <div class="innovation-communities">
+		<h2 class="innovation-communities">Other Crowdsourcing Communities</h2>
 			<ul class="innovation-communities">
 				<li class="innovation-communities"><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\challenge-logo.png" alt="Challenge.gov logo" class="innovation-communities-challenge"></a></li>
-				<li class="innovation-communities"><a href="https://code.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\code-logo.svg" alt-="Code.gov logo" class="innovation-communities"></a></li>
-				<li class="innovation-communities"><a href="https://www.data.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\data-logo.png" al="Data.gov logo" class="innovation-communities"></a></li>
+				<span class="vertical-line"></span>
+				<li class="innovation-communities"><a href="https://code.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\code-logo.svg" alt="Code.gov logo" class="innovation-communities-code"></a></li>
+				<span class="vertical-line"></span>
+				<li class="innovation-communities"><a href="https://www.data.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\data-logo.png" alt="Data.gov logo" class="innovation-communities"></a></li>
 			</ul>
     </div>
 </section>

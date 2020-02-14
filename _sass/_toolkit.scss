@@ -57,19 +57,19 @@ td {
 }
 
 @media screen and (max-width: 600px) {
-.how-to-grid {
-	max-width: 200px;
-	margin: 0 auto;
-	margin-top: 1em;
-}
+	.how-to-grid {
+		max-width: 200px;
+		margin: 0 auto;
+		margin-top: 1em;
 	}
+}
 
 
 @media screen and (max-width: 600px) {
-.how-to-image {
-	margin-top: 2em;
-}
+	.how-to-image {
+		margin-top: 2em;
 	}
+}
 
 .how-to-icon {
 	margin-left: 17%;
@@ -77,10 +77,10 @@ td {
 }
 
 @media screen and (max-width: 600px) {
-.how-to-icon {
-	display: none;
-}
+	.how-to-icon {
+		display: none;
 	}
+}
 
 .last-updated {
 	padding-bottom: 1em;
@@ -111,15 +111,46 @@ li.innovation-communities {
 	}
 
 img.innovation-communities {
-	height: 50px;
-	width: 200px;
-	padding-right: 1em;
+	height: 45px;
+	padding-right: 3em;
+	padding-left: 3em;
+	padding-bottom: 0.5em;
+}
+
+img.innovation-communities-code {
+	height: 45px;
+	padding-right: 3em;
+	padding-left: 3em;
+	padding-bottom: 1em;
 }
 
 img.innovation-communities-challenge {
+	height: 65px;
+	padding-right: 3em;
+	padding-left: 3em;
+}
+
+@media screen and (max-width: 600px) {
+	img {
+		text-align: center;
+	}
+	img.innovation-communities-challenge {
+		padding-left: 0.5em;
+		padding-bottom: 5px;
+	}
+}
+
+.vertical-line {
+	display: inline-block;
+	border-left: 1px solid #d6d7d9;
+	margin: 0 10px;
 	height: 75px;
-	width: 210px;
-	padding-right: 1em;
+}
+
+@media screen and (max-width: 600px) {
+	.vertical-line {
+		display: none;
+	}
 }
 
 
