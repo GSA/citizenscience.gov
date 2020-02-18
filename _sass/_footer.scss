@@ -23,12 +23,35 @@ footer a:visited {
   font-size: .7em;
 }
 
-
 .footer-logo {
 	max-width: 30rem;
 	text-align: center;
 	padding-top: 1em;
 	padding-left: 1.5em;
+}
+
+.usa-footer-logo-img {
+  margin-right: 1em;
+}
+
+.footer-citsci-logo {
+  text-align: right;
+}
+
+.usa-link-rss {
+  padding-right: 4em;
+}
+
+div.footer-questions {
+  background-color: #203131; padding: .5em;
+}
+
+p.footer-questions {
+  text-align: center; color:white;
+}
+
+img.footer-questions {
+  color: #e87853; height: 12px; padding-left: .5em;
 }
 
 @media only screen and (max-width: 600px) {
@@ -43,20 +66,6 @@ footer a:visited {
 	.usa-footer-logo-img {
     max-width: 6rem !important;
 	}
-}
-
-.feedback-email {
-  font-weight: 800 !important;
-	max-width: 30rem;
-	text-align: center;
-  font-size: 1em;
-  color: #e87853;
-  &:hover {
-    color: #FFF;
-  }
-  &:visited {
-    color: #FFF;
-  }
 }
 
 @media only screen and (max-width: 1100px) {
@@ -79,6 +88,10 @@ footer a:visited {
   color: #565c65;
 }
 
+.footer-logo-text-span {
+  color: #203131; font-size: 20px !important;
+}
+
 @media only screen and (min-width: 600px) {
 	.footer-logo-text {
     padding-left: 1em;
@@ -89,6 +102,27 @@ footer a:visited {
 	.footer-socials {
     float: left;
     padding-left: 1em;
-	}
+  }
 }
 
+@media only screen and (min-width: 600px) {
+  .mobile-break {
+    display: none;
+    padding-left: 20px;
+  }
+}
+
+
+.feedback-email {
+  font-weight: 800 !important;
+	max-width: 30rem;
+	text-align: center;
+  font-size: 1em;
+  color: #e87853;
+  &:hover {
+    color: #FFF;
+  }
+  &:visited {
+    color: #FFF;
+  }
+}
