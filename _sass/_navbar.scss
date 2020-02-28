@@ -12,6 +12,11 @@
   }
 }
 
+.usa-nav-container {
+  display: inline;
+  text-align: center;
+}
+
 .usa-nav-primary a:hover {
   color: $button-color;
 }
@@ -20,9 +25,20 @@
   border-bottom-color: $button-color;
 }
 
-  .usa-nav {
-    background: white;
-  }
+.usa-nav {
+  background: white;
+  padding-top: 50px;
+  padding-right: 20px;
+}
+
+.usa-nav-submenu a:visited {
+  color: #e87853;
+}
+
+.usa-navbar {
+  margin-top: 30px;
+  margin-left: 20px;
+}
 
 .usa-nav-toolkit {
     background: none;
