@@ -12,6 +12,10 @@
   }
 }
 
+.usa-nav-container {
+  text-align: left;
+}
+
 .usa-nav-primary a:hover {
   color: $button-color;
 }
@@ -20,9 +24,26 @@
   border-bottom-color: $button-color;
 }
 
+.usa-nav {
+  background: white;
+  padding-right: 20px;
+}
+
+@media all and (min-width: 951px) {
   .usa-nav {
-    background: white;
+    padding-top: 2rem;
+    float: none;
   }
+}
+
+.usa-nav-submenu a:visited {
+  color: #e87853;
+}
+
+.usa-navbar {
+  margin-top: 30px;
+  margin-left: 20px;
+}
 
 .usa-nav-toolkit {
     background: none;
