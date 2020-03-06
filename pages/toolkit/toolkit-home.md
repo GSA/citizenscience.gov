@@ -23,7 +23,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	      </div>
 	    </a>
 	      <div class="card-banner">
-	        <h3 class="card-description">How To: Step by Step</h3>
+	        <h3 class="card-description">Getting Started</h3>
 	        <p class="card-summary">This toolkit shows five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project. At each step, you’ll find a list of tips you can use to keep your project on track.</p>
 	      </div>
 	      <a class="card-read" href="{{ page.how-to-link | prepend: site.baseurl }}">
@@ -75,7 +75,10 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-section banner tagline">
 	<div class="usa-grid">
-    	<h2 style="text-align:center" class="banner-tagline-accent-color">Visit <a href = "https://www.citizenscience.gov">CitizenScience.gov</a> to also learn about a catalog of <a href="https://ccsinventory.wilsoncenter.org/">projects</a> and <a href="{{ site.baseurl }}/about/community-of-practice/">communities</a> to join!</h2>
+    	<h2>About the Toolkit</h2>
+		<p>The Federal Crowdsourcing and Citizen Science Toolkit, released in September 2015, provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.</p>
+		<p>The toolkit also provides case studies, models, and other resources, including success stories and some of the challenges that developers faced in designing and carrying out citizen science and crowdsourcing projects. The case studies can serve as models for federal employees inspired to carry out their own projects. </p>
+		<a class="card-read-dark-background" href="{{ site.baseurl }}/toolkit/about/">Read more</a>
     </div>
 </section>
 
@@ -92,5 +95,13 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
     </div>
 </section>
 
-{% include contact.html %}
+<section class="usa-section banner tagline">
+	<div class="usa-grid">
+    	<h2>Acknowledgements</h2>
+		<p>The toolkit was developed with the support and collaboration of more than 25 federal agencies in collaboration with the White House Office of Science and Technology Policy, the Federal Crowdsourcing and Citizen Science Community of Practice (CCS), and GSA’s Open Opportunities Program.</p>
+		<a class="card-read-dark-background" href="{{ site.baseurl }}/toolkit/credits/">Read more</a>
+    </div>
+</section>
+
+
 
