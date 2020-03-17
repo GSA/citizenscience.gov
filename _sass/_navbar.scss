@@ -17,7 +17,7 @@
 }
 
 .usa-nav-primary a:hover {
-  color: $button-color;
+  color: #5b616b;
 }
 
 .usa-nav-link:hover span {
@@ -35,9 +35,27 @@
     float: none;
   }
 }
+.usa-nav-submenu{
+  background-color: #5b616b;
+  opacity: 0.90;
+}
+
+.usa-nav-primary button[aria-expanded=true] {
+  background-color: #5b616b;
+  opacity: 0.90;
+}
+
+.usa-nav-primary button[aria-expanded=true]:hover {
+  background-color: #5b616b;
+  opacity: 0.90;
+}
 
 .usa-nav-submenu a:visited {
-  color: #e87853;
+  color: #FFFFFF;
+}
+
+.usa-nav-submenu a:hover {
+  background-color: #5b616b;
 }
 
 .usa-navbar {

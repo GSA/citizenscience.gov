@@ -103,6 +103,7 @@ h2.innovation-communities {
 ul.innovation-communities {
 	padding: 0em;
 	text-align: center;
+	display: inline;
 	}
 
 li.innovation-communities {
@@ -151,6 +152,19 @@ img.innovation-communities-challenge {
 	.vertical-line {
 		display: none;
 	}
+}
+
+p.toolkit-banner {
+	font-size: 20px;
+}
+
+.toolkit-img {
+  text-align: center;
+}
+
+img.toolkit-img {
+	width: 500px;
+	padding-top: 50px;
 }
 
 

@@ -57,25 +57,26 @@
       </button>
       <ul class="usa-nav-primary usa-accordion">
         <li>
-          <a class="usa-nav-link" href="{{ site.baseurl }}/">
-            <span>Home</span>
-          </a>
-        </li>
-        <li>
-          <a class="usa-nav-link" href="{{ site.baseurl }}/about/">
-            <span>About</span>
-          </a>
-        </li>
-        <li>
-          <a class="usa-nav-link" href="{{ site.baseurl }}/blog/">
-            <span>Blog</span>
-          </a>
-        </li>
-        <li>
           <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
-            <span>Catalog</span>
+            <span>About</span>
           </button>
             <ul id="basic-nav-section-one" class="usa-nav-submenu">
+              <li>
+                <a href="{{ site.baseurl }}/about/">Overview</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/about/community-of-practice/">Community</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/blog/">Blog</a>
+              </li>
+            </ul>
+        </li>
+        <li>
+          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-two">
+            <span>Catalog</span>
+          </button>
+            <ul id="basic-nav-section-two" class="usa-nav-submenu">
               <li>
                 <a href="{{ site.baseurl }}/catalog/">View Projects</a>
               </li>
@@ -85,10 +86,10 @@
             </ul>
         </li>
         <li>
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-two">
+          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-three">
             <span>Toolkit</span>
           </button>
-            <ul id="basic-nav-section-two" class="usa-nav-submenu">
+            <ul id="basic-nav-section-three" class="usa-nav-submenu">
               <li>
                 <a href="{{ site.baseurl }}/toolkit/">Overview</a>
               </li>
@@ -105,11 +106,6 @@
                 <a href="{{ site.baseurl }}/toolkit/law-and-policy/">Law & Policy</a>
               </li>
             </ul>
-        </li>
-        <li>
-          <a class="usa-nav-link" href="{{ site.baseurl }}/about/community-of-practice/">
-            <span>Community</span>
-          </a>
         </li>
       </ul>
       {% include search-box.html %}
