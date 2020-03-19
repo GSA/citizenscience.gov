@@ -10,9 +10,6 @@ banner-text: The Federal Crowdsourcing and Citizen Science Catalog provides a go
 banner-button-text: view the catalog
 banner-button-link: https://ccsinventory.wilsoncenter.org/
 ---
-<div class="toolkit-img">
-<img src="{{ site.baseurl }}/assets/img/toolkit-gray.png" class="toolkit-img">
-</div>
 
 <div class="usa-section usa-grid">
 
