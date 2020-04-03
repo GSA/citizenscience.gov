@@ -35,7 +35,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin, Rachel Sowards Thompson |
 | Department of Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
-| Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu,  David Govoni |
+| Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu |
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | David B. Smith |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
