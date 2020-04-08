@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /agency-community/
-title: Agency Citizen Science and Crowdsourcing Coordinators
+title: Agency Crowdsourcing and Citizen Science Coordinators
 ---
  
-The Agency Citizen Science and Crowdsourcing Coordinators are a group of federal employees designated by their agency leaders to be the point people for advancing crowdsourcing and citizen science.  The need for these Coordinators was articulated in a [September 2015 memo](https://obamawhitehouse.archives.gov/blog/2015/09/30/accelerating-use-citizen-science-and-crowdsourcing-address-societal-and-scientific) from the White House Office of Science and Technology Policy to the heads of federal departments and agencies.
+The Agency Crowdsourcing and Citizen Science Coordinators are a group of federal employees designated by their agency leaders to be the point people for advancing crowdsourcing and citizen science.  The need for these Coordinators was articulated in a [September 2015 memo](https://obamawhitehouse.archives.gov/blog/2015/09/30/accelerating-use-citizen-science-and-crowdsourcing-address-societal-and-scientific) from the White House Office of Science and Technology Policy to the heads of federal departments and agencies.
 #### What the Agency Coordinators Do
 Today, these coordinators are:
 - Working with GSA to maintain and improve the citizen science and crowdsourcing catalog for all such projects across the U.S. government;
@@ -35,13 +35,13 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin, Rachel Sowards Thompson |
 | Department of Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins,  Kris Barnes |
-| Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu,  David Govoni |
+| Department of Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia Liu |
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | David B. Smith |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Samuel B. Howerton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess, Ph.D. |
 | Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jay Benforado |
 | Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine, Alex Simmons |
-| Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | Ruthanna Gordon |
+| Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | [NSF](https://www.citizenscience.gov/catalog/nsf/) | Ellen McCallie |
