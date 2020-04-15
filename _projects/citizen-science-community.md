@@ -13,7 +13,7 @@ link-out: /about/community-of-practice/
 #### There are groups within the federal government working to advance crowdsourcing and citizen science use and practice. These are:
 
 <div markdown="1" class="community-about">
-The [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-citizen-science/) is a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science.
+The [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-citizen-science/) is a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. To join the listserv, email FCPCCS-subscribe-request@listserv.gsa.gov with subscribe FCPCCS in the subject and enter your name + agency you work for.
 
 [Agency Citizen Science and Crowdsourcing Coordinators]( {{ site.baseurl }}/agency-community/) are a group of federal employees designated by their agency leaders to be responsible for implementing tasks to advance crowdsourcing and citizen science.
 
