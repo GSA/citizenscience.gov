@@ -162,7 +162,7 @@ last-updated-date: December 2017
 <ul>
 <li><a href="http://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Choosing and Using Citizen Science (Centre for Ecology and Hydrology, PDF)</a></li>
 <li><a href="http://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/citizen-science-guide.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Citizen Science (UK Environmental Observation Framework, PDF)</a></li>
-<li><a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
+<li><a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20140006049.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
 <li><a href="https://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
 </ul>
 <br>
