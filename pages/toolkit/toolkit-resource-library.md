@@ -35,7 +35,7 @@ last-updated-date: December 2017
 <ul>
 <li><a href="https://eyewire.org/signup" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">EyeWire: A Game to Map the Brain</a></li>
 <li><a href="http://www.galaxyzoo.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: A Crowdsourced Astronomy Project</a></li>
-<li><a href="https://www.rockethub.com/42228" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</a></li>
+<li>ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</li>
 <li><a href="http://www.patientslikeme.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Patients Like Me: A Healthcare Advocacy Project</a></li>
 </ul>
 <br>
