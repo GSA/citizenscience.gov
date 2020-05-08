@@ -198,7 +198,7 @@ last-updated-date: December 2017
 <br>
 <h3><strong>Templates</strong></h3>
 <ul>
-<li><a href="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Collaborative+Agreement+Template" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collaborative Agreement Template (NIH Collaboration and&nbsp;Team Science Field Guide)</a></li>
+<li><a href="https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collaborative Agreement Template (NIH Collaboration and&nbsp;Team Science Field Guide)</a></li>
 <li><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Model Amendment to TOS for Government</a></li>
 <li><a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Negotiated Terms of Service Agreement Templates (DigitalGov)</a></li>
 </ul>
