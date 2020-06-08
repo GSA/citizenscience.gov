@@ -1,5 +1,5 @@
 ---
-layout: catalog-project-indv
+layout: catalog-project-indv (will not change)
 permalink: /catalog/project-number-here/
 cartodb_id: numbered in order
 created_at: format is xx/xx/xx
@@ -18,14 +18,16 @@ participant_age: (choose from a list)
 project_goals: (Less than 50 words)
 participation_tasks: (choose from a list)
 scistarter: (Yes or No)
-email: jace@utexas.edu
-gov_contact: Matt Chasse
-gov_contact_email: matt.chasse@noaa.gov
+email: 
+gov_contact: 
+gov_contact_email: 
 image: (Yes or No)
 social_media: 'must be in quotes ex. "@MissionAransas #NurdlePatrol"'
 app: (Yes or No)
 app_detail: 
 data_public: (Yes or No)
 data_url: 
-start_date: 11/28/2018 format is xx/xx/xxxx
+start_date: format is xx/xx/xxxx
 ---
+
+<!-- save your file in the _catalog-projects folder using the id number as the file name with .md, ex: 505.md -->
