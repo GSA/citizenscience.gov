@@ -1,5 +1,5 @@
 ---
-layout: catalog-project-indv (will not change)
+layout: catalog-project-indv 
 permalink: /catalog/project-number-here/
 cartodb_id: numbered in order
 created_at: format is xx/xx/xx
