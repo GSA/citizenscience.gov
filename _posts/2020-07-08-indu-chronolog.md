@@ -7,7 +7,7 @@ image: /assets/img/post-images/2020/blog-post-070820.jpg
 image-caption: 
 categories:
 tags:
-class: center-bottom-ten
+class: center-bottom-eight
 ---
 
 
