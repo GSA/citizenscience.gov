@@ -1,6 +1,6 @@
 ---
-title: INDU blog post
-author: Author Here
+title: Park Visitors Chronolog Ecosystems To Help Monitor Change
+author: Laura Brennan, Biologist with the National Park Service
 layout: posts
 permalink: /2020/07/08/new-blog-post/
 image: /assets/img/post-images/2020/blog-post-070820.jpg
