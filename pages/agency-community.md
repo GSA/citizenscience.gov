@@ -29,7 +29,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 | Department of Health and Human Services | [CDC](https://www.citizenscience.gov/catalog/cdc/) | Juliana Cyril |
 | Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | [HHS](https://www.citizenscience.gov/catalog/hhs/) | Sandeep Patel
-| Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch,  Katrina Theisz |
+| Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch |
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Jim Grove |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
 | Department of Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin, Rachel Sowards Thompson |
