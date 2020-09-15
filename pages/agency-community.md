@@ -16,7 +16,7 @@ As coordinators, these individuals advocate for citizen science and crowdsourcin
 
 
 
-| Agency Coordinators (as of 10/11/2018)|
+| Agency Coordinators (as of 09/14/2020)|
 | ----------- |
 | Department of Agriculture | [Forest Service](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Michelle Tamez |
