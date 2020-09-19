@@ -14,10 +14,10 @@ Today, these coordinators are:
 - As coordinators, these individuals advocate for citizen science and crowdsourcing where possible, and provide a support network and mentoring for each other and their respective agencies for future projects.
 
 
+Coordinator List Below Updated on 09/14/2020
 
-#### Coordinator List Below Updated on 09/14/2020
-| ----------- |
 | Department | Agency with Links to Agency Projects | Agency Coordinators |
+| ----------- |
 | Department of Agriculture | [USFS](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Peggy Biga |
 | Department of Commerce | [USCB](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs, Lorena Molina-Irizarry |
