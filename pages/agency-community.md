@@ -16,8 +16,9 @@ Today, these coordinators are:
 
 
 Coordinator List Below Updated on 09/14/2020
-| Department | Agency with Links to Agency Projects | Agency Coordinators |
+
 | ----------- |
+| Department | Agency with Links to Agency Projects | Agency Coordinators |
 | Department of Agriculture | [USFS](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Peggy Biga |
 | Department of Commerce | [USCB](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs, Lorena Molina-Irizarry |
