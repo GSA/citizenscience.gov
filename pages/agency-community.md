@@ -15,30 +15,29 @@ Today, these coordinators are:
 
 
 
-
-| Coordinator List Below Updated on 09/14/2020 |
-| ----------- |
+Coordinator List Below Updated on 09/14/2020
 | Department | Agency with Links to Agency Projects | Agency Coordinators |
+| ----------- |
 | Department of Agriculture | [USFS](https://www.citizenscience.gov/catalog/usfs) | Michelle Tamez |
 | Department of Agriculture | [USDA](https://www.citizenscience.gov/catalog/doa/) | Peggy Biga |
 | Department of Commerce | [USCB](https://www.citizenscience.gov/catalog/census/) | Barbara A. Downs, Lorena Molina-Irizarry |
 | Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
 | Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland, John McLaughlin |
 | Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | To be named |
-| Department of Education | [DoEd](https://www.citizenscience.gov/catalog/doed/) | Ross Santy |
+| Department of Education | [ED](https://www.citizenscience.gov/catalog/ed/) | Ross Santy |
 | Department of Energy | [DOE](https://www.citizenscience.gov/catalog/doe/) | Carly Robinson |
 | Department of Health and Human Services | [CDC](https://www.citizenscience.gov/catalog/cdc/) | Diana Bartlett |
 | Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | [HHS](https://www.citizenscience.gov/catalog/hhs/) | Kristen Honey |
 | Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch |
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kathleen Kenyon |
-| Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kimberly Stephens, Katherine Picchione |
+| Department of Homeland Security | [FEMA](https://www.citizenscience.gov/catalog/fema/) | Kimberly Stephens, Katherine Picchione |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
 | Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin, Rachel Sowards Thompson |
 | Department of the Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of the Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins |
 | Department of the Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia B. Liu |
-| Department of the Interior | [BOEM](https://www.citizenscience.gov/catalog/usgs/) | Jacob Levenson |
+| Department of the Interior | [BOEM](https://www.citizenscience.gov/catalog/boem/) | Jacob Levenson |
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Sarah Staton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess |
