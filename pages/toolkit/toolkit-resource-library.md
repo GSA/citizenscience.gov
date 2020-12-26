@@ -128,10 +128,10 @@ last-updated-date: December 2017
 <br>
 <h3>Interdisciplinary Research</h3>
 <ul>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
 <li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048733312001436" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Structuring Interdisciplinary Research Management (2013)</a></li>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
 <li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
 </ul>
 <br>
@@ -171,7 +171,6 @@ last-updated-date: December 2017
 <li><a href="https://www.changemakers.com/storytelling" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">A Changemaker’s Guide to Storytelling</a></li>
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
-<li><a href="http://www.wombatcreative.com.au/wp-content/uploads/2012/12/engaging-queenslanders-methods-and-techniques_2_.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
 </ul>
 <br>
