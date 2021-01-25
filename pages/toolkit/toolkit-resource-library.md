@@ -60,7 +60,6 @@ last-updated-date: December 2017
 <li><a href="https://fold.it/portal/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">FoldIt: A Game to Solve Puzzles for Science</a></li>
 <li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (IEEE eScience Conference)</a></li>
 <li><a href="http://www.oldweather.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Old Weather: Transcribing Ship Logs for Climate Modeling</a></li>
-<li><a href="http://citizencyberlab.eu/research/gamification/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Gamification? (Citizen Cyberlab)</a></li>
 </ul>
 <br>
 <h3><strong>Funding</strong></h3>
