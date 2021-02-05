@@ -30,4 +30,4 @@ data_url:
 start_date: format is xx/xx/xxxx
 ---
 
-<!-- save your file in the _catalog-projects folder using the id number as the file name with .md, ex: 505.md -->
+<!-- save your file in the _catalog-projects folder using the id number as the file name with .md, ex: 505.md  -->
