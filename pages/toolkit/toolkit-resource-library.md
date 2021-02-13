@@ -88,8 +88,6 @@ last-updated-date: December 2017
 <li style="list-style-type: circle;">
 <a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
 </li>
-</ul> 
-</li>
 </ul>
 <br>
 <h2><strong>Journal Articles</strong></h2>
