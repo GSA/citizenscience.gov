@@ -33,7 +33,7 @@ Today, these coordinators are:
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kathleen Kenyon |
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kimberly Stephens, Katherine Picchione |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
-| Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Derrick Baldwin, Rachel Sowards Thompson |
+| Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Frederick Klasner, Rachel Sowards Thompson |
 | Department of the Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of the Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins |
 | Department of the Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia B. Liu |
