@@ -110,7 +110,6 @@
 }
 
 .card-read-dark-background {
-  margin: 0 3rem;
   color: #e87853;
   font-size: $small-font-size;
   font-weight: bold;
@@ -118,7 +117,7 @@
 
   &:visited {
     color: #e87853;
-  }
+}
 
   svg {
     display: inline-block;
@@ -127,6 +126,13 @@
     width: 1.2rem;
     margin-left: 4px;
   }
+}
+
+.card-read-light-background {
+  color: #205493;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 600px) {

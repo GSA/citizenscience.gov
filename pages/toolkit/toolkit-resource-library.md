@@ -35,7 +35,7 @@ last-updated-date: December 2017
 <ul>
 <li><a href="https://eyewire.org/signup" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">EyeWire: A Game to Map the Brain</a></li>
 <li><a href="http://www.galaxyzoo.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Galaxy Zoo: A Crowdsourced Astronomy Project</a></li>
-<li><a href="https://www.rockethub.com/42228" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</a></li>
+<li>ISEE-3 Reboot Project: Crowdsourcing Spacecraft Data (RocketHub)</li>
 <li><a href="http://www.patientslikeme.com/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Patients Like Me: A Healthcare Advocacy Project</a></li>
 </ul>
 <br>
@@ -60,7 +60,6 @@ last-updated-date: December 2017
 <li><a href="https://fold.it/portal/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">FoldIt: A Game to Solve Puzzles for Science</a></li>
 <li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (IEEE eScience Conference)</a></li>
 <li><a href="http://www.oldweather.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Old Weather: Transcribing Ship Logs for Climate Modeling</a></li>
-<li><a href="http://citizencyberlab.eu/research/gamification/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Gamification? (Citizen Cyberlab)</a></li>
 </ul>
 <br>
 <h3><strong>Funding</strong></h3>
@@ -83,15 +82,11 @@ last-updated-date: December 2017
 <br>
 <h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
 <hr>
-<ul>
-<li>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report with Appendices (June 2019)</a> 
 <br>
+<h3>Fiscal Year 2017-18 Full Report with Appendices (June 2019)
 <ul>
 <li style="list-style-type: circle;">
 <a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
-</li>
-</ul> 
 </li>
 </ul>
 <br>
@@ -128,11 +123,11 @@ last-updated-date: December 2017
 <br>
 <h3>Interdisciplinary Research</h3>
 <ul>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
 <li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048733312001436" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Structuring Interdisciplinary Research Management (2013)</a></li>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
-<li><a href="http://www.esajournals.org/doi/abs/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
+<li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
 </ul>
 <br>
 <h3>Motivations</h3>
@@ -162,7 +157,7 @@ last-updated-date: December 2017
 <ul>
 <li><a href="http://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Choosing and Using Citizen Science (Centre for Ecology and Hydrology, PDF)</a></li>
 <li><a href="http://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/citizen-science-guide.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Citizen Science (UK Environmental Observation Framework, PDF)</a></li>
-<li><a href="http://ntrs.nasa.gov/search.jsp?R=20140006049" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
+<li><a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20140006049.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The NASA Solution Mechanism Guide (NASA Technical Reports Server)</a></li>
 <li><a href="https://www.ceh.ac.uk/sites/default/files/sepa_choosingandusingcitizenscience_interactive_4web_final_amended-blue1.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">When and How to Use Citizen Science (Centre for Ecology and Hydrology)</a></li>
 </ul>
 <br>
@@ -171,7 +166,6 @@ last-updated-date: December 2017
 <li><a href="https://www.changemakers.com/storytelling" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">A Changemaker’s Guide to Storytelling</a></li>
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
-<li><a href="http://www.wombatcreative.com.au/wp-content/uploads/2012/12/engaging-queenslanders-methods-and-techniques_2_.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
 </ul>
 <br>
@@ -198,7 +192,7 @@ last-updated-date: December 2017
 <br>
 <h3><strong>Templates</strong></h3>
 <ul>
-<li><a href="https://ccrod.cancer.gov/confluence/display/NIHOMBUD/Collaborative+Agreement+Template" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collaborative Agreement Template (NIH Collaboration and&nbsp;Team Science Field Guide)</a></li>
+<li><a href="https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Collaborative Agreement Template (NIH Collaboration and&nbsp;Team Science Field Guide)</a></li>
 <li><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Model Amendment to TOS for Government</a></li>
 <li><a href="https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Negotiated Terms of Service Agreement Templates (DigitalGov)</a></li>
 </ul>
