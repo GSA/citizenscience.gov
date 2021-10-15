@@ -11,6 +11,7 @@ banner-button-text: view the catalog
 banner-button-link: https://ccsinventory.wilsoncenter.org/
 ---
 
+
 <div class="usa-section usa-grid">
 
 	<h2>{{ page.title }}</h2>
@@ -22,7 +23,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 	      </div>
 	    </a>
 	      <div class="card-banner">
-	        <h3 class="card-description">Getting Started</h3>
+	        <h3 class="card-description">How To: Step by Step</h3>
 	        <p class="card-summary">This toolkit shows five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project. At each step, you’ll find a list of tips you can use to keep your project on track.</p>
 	      </div>
 	      <a class="card-read" href="{{ page.how-to-link | prepend: site.baseurl }}">
@@ -74,21 +75,22 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 <section class="usa-section banner tagline">
 	<div class="usa-grid">
-    	<h2>About the Toolkit</h2>
-			<p class="toolkit-banner">The Federal Crowdsourcing and Citizen Science Toolkit, released in September 2015, provides five basic process steps for planning, designing and carrying out a crowdsourcing or citizen science project to help federal employees use crowdsourcing and citizen science to advance the missions of their agencies.</p>
-			<p class="toolkit-banner">The toolkit also provides case studies, models, and other resources, including success stories and some of the challenges that developers faced in designing and carrying out citizen science and crowdsourcing projects. The case studies can serve as models for federal employees inspired to carry out their own projects. </p>
-			<a class="card-read-dark-background" style="font-size: 17px; " href="{{ site.baseurl }}/toolkit/about/">Read more</a>
+    	<h2 style="text-align:center" class="banner-tagline-accent-color">Visit <a href = "https://www.citizenscience.gov">CitizenScience.gov</a> to also learn about a catalog of <a href="https://ccsinventory.wilsoncenter.org/">projects</a> and <a href="{{ site.baseurl }}/about/community-of-practice/">communities</a> to join!</h2>
     </div>
 </section>
 
-<section class="usa-grid usa-section"> 
-    <div>
-		<h2>Acknowledgments</h2>
-			<p class="toolkit-banner">The toolkit was developed with the support and collaboration of more than 25 federal agencies in collaboration with the White House Office of Science and Technology Policy, the Federal Crowdsourcing and Citizen Science Community of Practice (CCS), and GSA’s Open Opportunities Program.</p>
-			<a class="card-read-light-background" href="{{ site.baseurl }}/toolkit/credits/">Read more</a>
+<section class="usa-grid usa-section innovation-communities"> 
+    <div class="innovation-communities">
+		<h2 class="innovation-communities">Other Crowdsourcing Communities</h2>
+			<ul class="innovation-communities">
+				<li class="innovation-communities"><a href="https://www.digitalgov.gov/communities/challenges-prizes/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\challenge-logo.png" alt="Challenge.gov logo" class="innovation-communities-challenge"></a></li>
+				<span class="vertical-line"></span>
+				<li class="innovation-communities"><a href="https://code.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\code-logo.svg" alt="Code.gov logo" class="innovation-communities-code"></a></li>
+				<span class="vertical-line"></span>
+				<li class="innovation-communities"><a href="https://www.data.gov/" target="blank"><img src="{{ site.baseurl }}\assets\img\toolkit-images\logos\data-logo.png" alt="Data.gov logo" class="innovation-communities"></a></li>
+			</ul>
     </div>
 </section>
 
-
-
+{% include contact.html %}
 

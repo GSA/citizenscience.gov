@@ -62,4 +62,4 @@ I would always encourage anyone with a passion for citizen science to seek out a
 
 To get involved in [citizenscience](https://www.facebook.com/hashtag/citizenscience?source=feed_text) at the Channel Islands National Marine Sanctuary visit: <a href="http://channelislands.noaa.gov/involved/citizenscience.html" target="_blank" rel="nofollow noopener">http://channelislands.noaa.gov/involved/citizenscience.html</a>
 
-_This spotlight originally appeared on the [NOAA Education and Outreach Facebook page](https://www.facebook.com/NOAAeducation/)._
+_This spotlight originally appeared on the [NOAA Education and Outreach Facebook page](https://www.facebook.com/NOAAEducationOutreach/)._

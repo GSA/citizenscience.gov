@@ -5,12 +5,13 @@
 
   <body class="{{ page.body-class }}">
   <div class="usa-overlay"></div>
-    {% include header.html %}
+    {% include toolkit-header.html %}
     <main id="main" tabindex="-1">
       <div>
         {{ content }}
       </div>
     </main>
+    {% include toolkit-footer.html %}
     {% include footer.html %}
     {% include javascript.html %}
   </body>
