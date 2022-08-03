@@ -41,7 +41,7 @@ Today, these coordinators are:
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Sarah Staton |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess |
-| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jay Benforado |
+| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Heather Drumm |
 | Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine, Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski, Dave Draper, Maria Santos |
