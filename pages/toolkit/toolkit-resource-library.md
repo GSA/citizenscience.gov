@@ -201,7 +201,6 @@ last-updated-date: December 2017
 <ul>
 <li><a href="http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">5 Tips for Writing a Great Survey</a></li>
 <li><a href="https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Checklist of Requirements for Federal Websites and Digital Services (Digital Gov)</a></li>
-<li><a href="http://www.teklalabs.org/about/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Constructing Affordable Lab Equipment (Tekla Labs)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a></li>
 <li><a href="https://ombudsman.nih.gov/sites/default/files/A%20Conflict%20Resolution%20Framework.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
