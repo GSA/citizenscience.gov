@@ -33,21 +33,21 @@ Today, these coordinators are:
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kathleen Kenyon |
 | Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kimberly Stephens, Katherine Picchione |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
-| Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Frederick Klasner, Rachel Sowards Thompson |
+| Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Frederick Klasner, Rachel Sowards Thompson, Madeline (Nikki) Grant-Hoffman |
 | Department of the Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of the Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins |
 | Department of the Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia B. Liu |
 | Department of the Interior | [BOEM](https://www.citizenscience.gov/catalog/usgs/) | Jacob Levenson |
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Sarah Staton |
-| Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Cameron D. Bess |
-| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jay Benforado |
-| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Anne Levine, Alex Simmons |
+| Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Njemile Davis |
+| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Heather Drumm |
+| Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
-| National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Amy Kaminski, Dave Draper, Maria Santos |
+| National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Marc Kuchner |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | [NSF](https://www.citizenscience.gov/catalog/nsf/) | Ellen McCallie |
-| Smithsonian Institution | [SI](https://www.citizenscience.gov/catalog/assi/) | Janet Abrams |
+| Smithsonian Institution | [SI](https://www.citizenscience.gov/catalog/assi/) | Amy Marino |
 
 *Please email citizenscience@gsa.gov if you would like to be put in contact with one of these Coordinators.*
 
