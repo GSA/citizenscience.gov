@@ -14,7 +14,7 @@ Today, these coordinators are:
 - As coordinators, these individuals advocate for citizen science and crowdsourcing where possible, and provide a support network and mentoring for each other and their respective agencies for future projects.
 
 
-#### Coordinator List Below Updated on 09/14/2020
+#### Coordinator List Below Updated on 08/29/2022
 
 | Department | Agency with Links to Agency Projects | Agency Coordinators |
 | ----------- |
