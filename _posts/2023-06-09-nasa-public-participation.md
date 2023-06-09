@@ -45,10 +45,10 @@ The celebration was a great way to learn about NASA’s participatory research p
 
 **Learn More**
 
-NASA’s Citizen Science Page: https://science.nasa.gov/citizenscience 
+NASA’s Citizen Science Page: [https://science.nasa.gov/citizenscience](https://science.nasa.gov/citizenscience)
 
-Publications by NASA volunteers: https://science.nasa.gov/citizenscience/publications 
+Publications by NASA volunteers: [https://science.nasa.gov/citizenscience/publications](https://science.nasa.gov/citizenscience/publications)
 
-Are We Alone in the Universe project page: http://arewealone.earth/
+Are We Alone in the Universe project page: [http://arewealone.earth/](http://arewealone.earth/)
 
-Chesapeake Water Watch project page: https://serc.si.edu/citizen-science/projects/chesapeake-water-watch 
+Chesapeake Water Watch project page: [https://serc.si.edu/citizen-science/projects/chesapeake-water-watch](https://serc.si.edu/citizen-science/projects/chesapeake-water-watch)
