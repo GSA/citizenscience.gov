@@ -1,5 +1,5 @@
 ---
-title: Empowering Public Participation NASA Citizen Science Projects Propel Discovery
+title: Empowering Public Participation - NASA Citizen Science Projects Propel Discovery
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2023/06/09/nasa-public-participation/
