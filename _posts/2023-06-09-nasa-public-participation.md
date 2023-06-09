@@ -3,7 +3,7 @@ title: Empowering Public Participation - NASA Citizen Science Projects Propel Di
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2023/06/09/nasa-public-participation/
-image: /assets/img/post-images/2020/CitSci-NASA-event-banner.jpg
+image: /assets/img/post-images/2020/nasa-citsci-event-blog-image.jpg
 image-caption: 
 categories:
 tags:
