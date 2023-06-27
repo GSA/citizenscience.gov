@@ -1,7 +1,7 @@
 ---
 layout: toolkit-base
 permalink: /toolkit/resource-library/
-last-updated-date: December 2017
+last-updated-date: June 2023
 ---
 
 <div class="usa-section usa-grid">
@@ -83,10 +83,10 @@ last-updated-date: December 2017
 <h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
 <hr>
 <br>
-<h3>Fiscal Year 2017-18 Full Report with Appendices (June 2019)
+<h3>Fiscal Year 2019-20 Full Report with Appendices (March 2022)
 <ul>
 <li style="list-style-type: circle;">
-<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
+<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">This document presents the seventh report on the use of prize competitions and challenges conducted by Federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions.</a>
 </li>
 </ul>
 <br>
