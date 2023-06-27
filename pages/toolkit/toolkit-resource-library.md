@@ -167,6 +167,7 @@ last-updated-date: December 2017
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
+<li><a href="https://bootcamp.cvn.columbia.edu/blog/how-to-impact-your-community-with-citizen-science-even-if-youre-new-to-data-analysis/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">How to Impact Your Community with Citizen Science, Even if You’re New to Data Analysis</a></li>
 </ul>
 <br>
 <h3>Project Design</h3>
