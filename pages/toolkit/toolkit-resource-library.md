@@ -86,7 +86,7 @@ last-updated-date: June 2023
 <h3>Fiscal Year 2019-20 Full Report with Appendices (March 2022)
 <ul>
 <li style="list-style-type: circle;">
-<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">This document presents the seventh report on the use of prize competitions and challenges conducted by Federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions.</a>
+<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">This document presents the seventh report on the use of prize competitions and challenges conducted by Federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions. It also presents the second report on crowdsourcing and citizen science activities conducted by Federal agencies.</a>
 </li>
 </ul>
 <br>
