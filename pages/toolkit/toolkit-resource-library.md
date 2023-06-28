@@ -1,7 +1,7 @@
 ---
 layout: toolkit-base
 permalink: /toolkit/resource-library/
-last-updated-date: December 2017
+last-updated-date: June 2023
 ---
 
 <div class="usa-section usa-grid">
@@ -83,10 +83,10 @@ last-updated-date: December 2017
 <h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
 <hr>
 <br>
-<h3>Fiscal Year 2017-18 Full Report with Appendices (June 2019)
+<h3>Fiscal Year 2019-20 Full Report with Appendices (March 2022)
 <ul>
 <li style="list-style-type: circle;">
-<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
+<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">This document presents the seventh report on the use of prize competitions and challenges conducted by Federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions. It also presents the second report on crowdsourcing and citizen science activities conducted by Federal agencies.</a>
 </li>
 </ul>
 <br>
@@ -167,6 +167,7 @@ last-updated-date: December 2017
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
+<li><a href="https://bootcamp.cvn.columbia.edu/blog/how-to-impact-your-community-with-citizen-science-even-if-youre-new-to-data-analysis/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">How to Impact Your Community with Citizen Science, Even if You’re New to Data Analysis</a></li>
 </ul>
 <br>
 <h3>Project Design</h3>
