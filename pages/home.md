@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/hero-image.jpg
+hero-image: /assets/img/hero-image2.png
 hero-text: "Helping federal agencies accelerate innovation through public participation. "
 hero-button-text: Learn more
 hero-button-link: /about/
