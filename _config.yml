@@ -87,7 +87,7 @@ footer:
 
 # Build settings
 plugins: 
-  - jekyll-paginate-v2
+  #- jekyll-paginate-v2
 markdown: kramdown
 include:
   - _navigation.json
