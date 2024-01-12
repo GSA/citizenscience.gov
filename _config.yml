@@ -86,7 +86,7 @@ footer:
     rss: 
 
 # Build settings
-plugins: 
+#plugins: 
   #- jekyll-paginate-v2
 markdown: kramdown
 include:
