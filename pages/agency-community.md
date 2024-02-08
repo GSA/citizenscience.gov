@@ -24,7 +24,7 @@ Today, these coordinators are:
 | Department of Commerce | [NIST](https://www.citizenscience.gov/catalog/nist/) | Heather Evans |
 | Department of Commerce | [NOAA](https://www.citizenscience.gov/catalog/noaa/) | Laura Oremland, John McLaughlin |
 | Department of Defense | [DOD](https://www.citizenscience.gov/catalog/dod/) | To be named |
-| Department of Education | [DoEd](https://www.citizenscience.gov/catalog/doed/) | Ross Santy |
+| Department of Education | [DoEd](https://www.citizenscience.gov/catalog/doed/) | Chris Birch |
 | Department of Energy | [DOE](https://www.citizenscience.gov/catalog/doe/) | Carly Robinson |
 | Department of Health and Human Services | [CDC](https://www.citizenscience.gov/catalog/cdc/) | Diana Bartlett |
 | Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
