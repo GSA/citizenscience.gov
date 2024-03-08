@@ -12,12 +12,15 @@ To nurture collaboration between the federal government and the public to advanc
 
 <h2>Our Values</h2>
 <b>Inclusion</b>
+<br/>
 CitizenScience.gov works to ensure our program and platform are accessible and inclusive. We value different points of view and seek to increase the range of perspectives involved in the scientific process. We work with federal agencies to highlight forms of science including participatory science, community science, open science, and citizen science that actively seek to draw in participants from underrepresented viewpoints. 
 
 <b>Collaboration</b>
+<br/>
 We believe that more participation in the scientific process will lead to increased transparency and openness in scientific data collection and results. We facilitate open avenues for collaboration between the federal government and the public to advance scientific research.
 
 <b>Scientific Advancement</b>
+<br/>
 We believe participatory forms of discovery lead to better scientific outcomes and increase trust in the scientific process. We support the federal government to create scientific projects that include members of the public in scientific discovery for the good of the American people.
 
 <h2>Learn More</h2>
