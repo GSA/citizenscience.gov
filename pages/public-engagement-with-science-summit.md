@@ -34,17 +34,17 @@ title: Public Engagement with Science Summit Strategies for Federal Implementati
 
 ## <span style="color:#000000">Speakers</span>
 <details>
-  <summary><b>### Speaker 1</b></summary>
+  <summary><b>Speaker 1</b></summary>
   <p>Here is their bio.</p>
 </details>
 
 <details>
-  <summary><b>### Speaker 2</b></summary>
+  <summary><b>Speaker 2</b></summary>
   <p>Here is their bio.</p>
 </details>
 
 <details>
-  <summary><b>### Speaker 3</b></summary>
+  <summary><b>Speaker 3</b></summary>
   <p>Here is their bio.</p>
 </details>
 
