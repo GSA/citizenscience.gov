@@ -3,7 +3,7 @@ layout: page
 permalink: /public-engagement-with-science-summit/
 title: Public Engagement with Science Summit Strategies for Federal Implementation
 ---
-# Welcome to the Event
+# Welcome
 ### Introduction paragraph</p>
 
 
