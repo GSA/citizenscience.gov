@@ -43,8 +43,7 @@ title: Event Details
 ### Speaker 3
   <p>Here is their bio.</p>
 
-
-
+<br>
 
 ## <span style="color:#000000">Useful Links</span>
 
