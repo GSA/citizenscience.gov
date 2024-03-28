@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /public-engagement-with-science-summit/
-title: Public Engagement with Science Summit: Strategies for Federal Implementation
+title: Public Engagement with Science Summit 
+Strategies for Federal Implementation
 ---
 # Welcome to the Event
 <p>Introduction paragraph</p>
@@ -13,22 +14,24 @@ April 17, 2024<br>
 General Services Administration Headquarters<br>
 1800 F St NW, Washington, DC
 
-<hr>
 
 ## Schedule/Agenda
 asdf
 
-<hr>
+
+
 
 ## Food Options
 asdf
 
-<hr>
+
+
 
 ## Other Details/Logistics
 asdf
 
-<hr>
+
+
 
 ## Speakers
 <details>
