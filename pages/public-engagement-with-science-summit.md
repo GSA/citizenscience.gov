@@ -25,17 +25,17 @@ Agenda:
 - something
 
 <details>
-  <summary>Speaker 1</summary>
+  <summary><b>Speaker 1</b></summary>
   <p>Here is their bio.</p>
 </details>
 
 <details>
-  <summary>Speaker 1</summary>
+  <summary><b>Speaker 2</b></summary>
   <p>Here is their bio.</p>
 </details>
 
 <details>
-  <summary>Speaker 1</summary>
+  <summary><b>Speaker 3</b></summary>
   <p>Here is their bio.</p>
 </details>
 
