@@ -8,7 +8,7 @@ title: Event Details
 
 ### <span style="color:#000000">Introduction paragraph.</span>
 
-
+<br>
 
 ## <span style="color:#000000">Date & Location</span>
 ### April 17, 2024<br>
@@ -22,18 +22,15 @@ title: Event Details
 
 <br>
 
-
 ## <span style="color:#000000">Food Options</span>
 ### asdf
 
-
-
+<br>
 
 ## <span style="color:#000000">Other Details/Logistics</span>
 ### asdf
 
-
-
+<br>
 
 ## <span style="color:#000000">Speakers</span>
 ### Speaker 1
