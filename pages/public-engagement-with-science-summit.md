@@ -14,7 +14,11 @@ General Services Administration Headquarters<br>
 ### Schedule/Agenda
 asdf
 
+### Food Options
+asdf
 
+### Other Details/Logistics
+asdf
 
 ### Speakers
 <details>
