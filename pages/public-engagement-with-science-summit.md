@@ -11,7 +11,7 @@ title: Public Engagement with Science Summit Strategies for Federal Implementati
 ## <span style="color:#000000">Date & Location</span>
 ### April 17, 2024<br>
 ### General Services Administration Headquarters<br>
-### 1800 F St NW, Washington, DC</span>
+### 1800 F St NW, Washington, DC
 
 
 ## <span style="color:#000000">Schedule/Agenda</span>
