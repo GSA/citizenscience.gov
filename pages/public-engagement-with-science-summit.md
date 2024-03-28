@@ -30,12 +30,7 @@ General Services Administration Headquarters<br>
 
 
 
-#### Speakers
-Agenda:
-- something
-- something
-- something
-
+## Speakers
 <details>
   <summary><b>Speaker 1</b></summary>
   <p>Here is their bio.</p>
@@ -52,7 +47,7 @@ Agenda:
 </details>
 
 
-#### Links
+## Links
 
-| Title | [USFS](https://www.citizenscience.gov/catalog/usfs) | Other info |
+[USFS](https://www.citizenscience.gov/catalog/usfs)
 
