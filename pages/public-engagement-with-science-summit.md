@@ -13,7 +13,7 @@ title: Event Details
 ## <span style="color:#000000">Date & Location</span>
 ### April 17, 2024<br>
 ### General Services Administration Headquarters<br>
-### 1800 F St NW, Washington, DC
+### 1800 F St NW, Washington, DC, 20405
 
 <br>
 
