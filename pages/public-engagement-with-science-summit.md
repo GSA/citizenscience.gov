@@ -4,9 +4,9 @@ permalink: /public-engagement-with-science-summit/
 title: Event Details
 ---
 
-## Public Engagement with Science Summit: Strategies for Federal Implementation
+## Public Engagement with Science Summit:<br>Strategies for Federal Implementation
 
-### Introduction paragraph
+### <span style="color:#000000">Introduction paragraph.</span>
 
 
 
@@ -15,11 +15,12 @@ title: Event Details
 ### General Services Administration Headquarters<br>
 ### 1800 F St NW, Washington, DC
 
+<br>
 
 ## <span style="color:#000000">Schedule/Agenda</span>
 ### asdf
 
-
+<br>
 
 
 ## <span style="color:#000000">Food Options</span>
