@@ -10,12 +10,7 @@ title: Public Engagement with Science Summit
   <div class="usa-width-one-half">
     <div class="usa-card">
       <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-need-help" role="img">
-          <title id="cm-need-help">ChallengeGov challenge manager help resources</title>        
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#support"></use>
-        </svg>
-      </svg>
-      <h2 class="usa-card__heading">Need Help?</h2>
+      <h2 class="usa-card__heading">Date & Location</h2>
       <p class="usa-card__text">For technical support or questions about the platform, please contact us at <a href="mailto:team@challenge.gov" class="link">team@challenge.gov</a> for help. </p>
       <a href="mailto:team@challenge.gov" class="usa-button usa-button--primary margin-bottom-0">
         <span style="color: #ffffff;">Email us</span>
@@ -28,12 +23,7 @@ title: Public Engagement with Science Summit
   <div class="usa-width-one-half">
     <div class="usa-card">
       <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-need-help" role="img">
-          <title id="cm-need-help">ChallengeGov challenge manager help resources</title>        
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#support"></use>
-        </svg>
-      </svg>
-      <h2 class="usa-card__heading">Need Help?</h2>
+      <h2 class="usa-card__heading">Schedule/Agenda</h2>
       <p class="usa-card__text">For technical support or questions about the platform, please contact us at <a href="mailto:team@challenge.gov" class="link">team@challenge.gov</a> for help. </p>
       <a href="mailto:team@challenge.gov" class="usa-button usa-button--primary margin-bottom-0">
         <span style="color: #ffffff;">Email us</span>
