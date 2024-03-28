@@ -3,36 +3,36 @@ layout: page
 permalink: /public-engagement-with-science-summit/
 title: Public Engagement with Science Summit Strategies for Federal Implementation
 ---
-# <span style="color:#000000">Welcome
+# <span style="color:#000000">Welcome</span>
 ### Introduction paragraph
 
 
 
-## Date & Location
-<span style="color:#000000">### April 17, 2024<br>
+## <span style="color:#000000">Date & Location</span>
+### April 17, 2024<br>
 ### General Services Administration Headquarters<br>
 ### 1800 F St NW, Washington, DC</span>
 
 
-## Schedule/Agenda
+## <span style="color:#000000">Schedule/Agenda</span>
 ### asdf
 
 
 
 
-## Food Options
+## <span style="color:#000000">Food Options</span>
 ### asdf
 
 
 
 
-## Other Details/Logistics
+## <span style="color:#000000">Other Details/Logistics</span>
 ### asdf
 
 
 
 
-## Speakers
+## <span style="color:#000000">Speakers</span>
 <details>
   <summary><b>### Speaker 1</b></summary>
   <p>Here is their bio.</p>
@@ -49,7 +49,7 @@ title: Public Engagement with Science Summit Strategies for Federal Implementati
 </details>
 
 
-## Useful Links
+## <span style="color:#000000">Useful Links</span>
 
 [USFS](https://www.citizenscience.gov/catalog/usfs)
 
