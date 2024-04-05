@@ -42,13 +42,13 @@ title: Event Details
 ### 11:00 am - 12:30 pm; Facilitated Feedback Session: Opportunities and challenges for federal implementation
 ### 12:30 pm - 2:00 pm; Lunch break and networking
 ### 2:00 pm - 3:30 pm; Project Panel Discussion: Lessons and insights on a continuum of public engagement featuring exemplary projects.
-- Aurorasaurus (NASA) (invited)
-- Climate Adaptation Partnerships (NOAA) (invited)
-- ComPASS (NIH) (invited)
-- Crocus (Argonne National Labs, DOE) (confirmed)
-- Project Community (FDA) (confirmed)
-- Smoke Sense (EPA) (invited)
-- WHONDRS Project (Pacific Northwest National Laboratory, DOE) (confirmed)
+- [Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA) (invited)
+- [Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA) (invited)
+- [ComPASS](https://commonfund.nih.gov/compass) (NIH) (invited)
+- [Crocus](https://crocus-urban.org/) (Argonne National Labs, DOE) (confirmed)
+- [Project Community](https://www.fda.gov/about-fda/oncology-center-excellence/project-community) (FDA) (confirmed)
+- [Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA) (invited)
+- [WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE) (confirmed)
 
 
 <br>
