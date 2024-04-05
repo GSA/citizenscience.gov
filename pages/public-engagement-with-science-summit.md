@@ -6,7 +6,7 @@ title: Event Details
 
 ## Public Engagement with Science Summit:<br>Strategies for Federal Implementation
 
-### <span style="color:#000000">This Summit is inspired by the letter sent in August 2023 by PCAST to President Biden on Advancing Public Engagement with the Sciences. In the letter, PCAST issued a call to action to advance public engagement with science. </span>
+### <span style="color:#000000">This Summit is inspired by the letter sent in August 2023 by PCAST to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. </span>
 ### <span style="color:#000000">Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.</span>
 
 <br>
@@ -53,7 +53,7 @@ title: Event Details
 
 <br>
 
-## <span style="color:#000000">Food Options</span>
+## <span style="color:#000000">Project Links</span>
 ### asdf
 
 <br>
