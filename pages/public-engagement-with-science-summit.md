@@ -37,9 +37,7 @@ title: Event Details
 - Paul Allwood, Branch Chief, Lead Poisoning Prevention and Environmental Health Tracking Branch, Centers for Disease Control and Prevention
 ### 10:55 am - 11:00 am; Transition
 ### 11:00 am - 12:30 pm; Facilitated Feedback Session: Opportunities and challenges for federal implementation
-<br>
 ### 12:30 pm - 2:00 pm; Lunch break and networking
-<br>
 ### 2:00 pm - 3:30 pm; Project Panel Discussion: Lessons and insights on a continuum of public engagement featuring exemplary projects.
 - Aurorasaurus (NASA) (invited)
 - Climate Adaptation Partnerships (NOAA) (invited)
