@@ -33,6 +33,7 @@ title: Event Details
 - **Saul Perlmutter**, 2011 Nobel Prize Laureate in Physics
 - **Geraldine “Geri” Richmond**, Under Secretary for Science and Innovation, U.S. Department of Energy
 - **Karen Marrongelle**, Chief Operating Officer, National Science Foundation
+
 <br />
  
 ### 9:40 am - 9:45 am; Transition
@@ -44,6 +45,7 @@ title: Event Details
 - **Jonathan Pennock**, Director, National Sea Grant Office, National Oceanic and Atmospheric Administration
 - **Christopher Frey**, Assistant Administrator, Office of Research and Development, Environmental Protection Agency
 - **Paul Allwood**, Branch Chief, Lead Poisoning Prevention and Environmental Health Tracking Branch, Centers for Disease Control and Prevention
+
 <br />
 
 ### 10:55 am - 11:00 am; Transition
