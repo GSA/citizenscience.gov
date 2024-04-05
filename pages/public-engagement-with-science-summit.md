@@ -60,12 +60,12 @@ title: Event Details
 
 
 <br>
-
+<!---
 ## <span style="color:#000000">Project Links</span>
 ### asdf
 
 <br>
-
+--->
 ## <span style="color:#000000">Speakers</span>
 ### Speaker 1
   <p>Here is their bio.</p>
