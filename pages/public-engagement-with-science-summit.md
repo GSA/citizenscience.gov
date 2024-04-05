@@ -26,21 +26,17 @@ title: Event Details
 ### 8:30am - 8:40 am; Opening Remarks
 - **Ann Lewis**, Director, Technology Transformation Services, General Services Administration
 - **Kei Koizumi**, Principal Deputy Director for Policy, White House Office of Science and Technology Policy
-
-<br>
-
+<br />
 
 ### 8:40 am - 9:40 am; Fireside Chat: The value and importance of public engagement with science
 - **Kei Koizumi**, Principal Deputy Director for Policy, White House Office of  Science and Technology Policy (moderator)
 - **Saul Perlmutter**, 2011 Nobel Prize Laureate in Physics
 - **Geraldine “Geri” Richmond**, Under Secretary for Science and Innovation, U.S. Department of Energy
 - **Karen Marrongelle**, Chief Operating Officer, National Science Foundation
-
-<br>
+<br />
  
 ### 9:40 am - 9:45 am; Transition
- 
-<br>
+<br />
 
 ### 9:45 am - 10:55 am; Panel Discussion: Perspectives and high-level agency overviews of programs and portfolios that support public engagement with science.
 - **Shaibya Dalal**, Senior Advisor, White House Office of Management and Budget (moderator)
@@ -48,20 +44,16 @@ title: Event Details
 - **Jonathan Pennock**, Director, National Sea Grant Office, National Oceanic and Atmospheric Administration
 - **Christopher Frey**, Assistant Administrator, Office of Research and Development, Environmental Protection Agency
 - **Paul Allwood**, Branch Chief, Lead Poisoning Prevention and Environmental Health Tracking Branch, Centers for Disease Control and Prevention
- 
-<br>
+<br />
 
 ### 10:55 am - 11:00 am; Transition
- 
-<br>
+<br />
 
 ### 11:00 am - 12:30 pm; Facilitated Feedback Session: Opportunities and challenges for federal implementation
- 
-<br>
+<br />
 
 ### 12:30 pm - 2:00 pm; Lunch break and networking
- 
-<br>
+<br />
 
 ### 2:00 pm - 3:30 pm; Project Panel Discussion: Lessons and insights on a continuum of public engagement featuring exemplary projects.
 - [Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA) (invited)
