@@ -1,28 +1,27 @@
 ---
 layout: page
 permalink: /public-engagement-with-science-summit/
-title: Event Details
+title: 
 ---
 <img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
-## Public Engagement with Science Summit: Strategies for Federal Implementation
+## Public Engagement with Science Summit: <i>Strategies for Federal Implementation</i>
 <br>
 
-## <span style="color:#000000">Date & Location</span>
-### April 17, 2024<br>
-### General Services Administration Headquarters<br>
-### 1800 F St NW, Washington, DC, 20405
-### Conference Rooms #1459 - 1461
-
+## Event Details
+#### April 17, 2024
+#### 8:30 am - 3:00 pm ET
+#### General Services Administration (GSA) Headquarters
+#### 1800 F St. NW, Washington, DC, 20405
+#### Conference Rooms 1459, 1460, 1461
 <br>
 
-### <span style="color:#000000">This Summit is inspired by the letter sent in August 2023 by PCAST to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. </span>
-
+This Summit is inspired by the letter sent in August 2023 by PCAST to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. </span>
 <br>
 
-### <span style="color:#000000">Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.</span>
+Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.</span>
 
-## <span style="color:#000000">Summit Agenda</span>
+## <span style="color:#000000">Agenda</span>
 **8:30am - 8:40 am**; Opening Remarks
 - **Ann Lewis**, Director, Technology Transformation Services, General Services Administration
 - **Kei Koizumi**, Principal Deputy Director for Policy, White House Office of Science and Technology Policy
