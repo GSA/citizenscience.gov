@@ -9,7 +9,7 @@ title:
 <br>
 
 ## Date and Time:
-#### Wednesday April 17, 2024
+#### April 17, 2024
 #### 8:30 am - 3:30 pm ET
 
 ## Location:
@@ -69,6 +69,11 @@ The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems
 <br>
 
 ## Speakers:
+
+### Ann Lewis
+<p>Ann Lewis is the Director of Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA), and runs a team of ~600 technologists working on a variety of platforms, products and programs that bring tech industry best practices and tools into government. Ann is a tech industry veteran, and has held a variety of tech leadership roles, including 2 CTO roles, and Senior Advisor for Technology and Delivery at the U.S. Small Business Administration. Ann is passionate about shipping great products, building great teams, and using tech as a force for good. Ann is based in DC, and holds a B.S. in Computer Science from Carnegie Mellon University.
+</p>
+  
 ### Kei Koizumi
   <p>Here is their bio.</p>
 
@@ -102,6 +107,9 @@ The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems
 ### Karen Andrade
   <p>Here is their bio.</p>
 
+### Jarah Meador
+  <p>Here is their bio.</p>
+
 <br>
 
 ## Additional Details and Logistics:
@@ -126,7 +134,7 @@ Food and beverage will not be provided. We suggest the following options conveni
 <br>
 
 ### Questions?
-Contact team@challenge.gov
+[Contact team@challenge.gov](mailto:team@challenge.gov)
 <br>
 
 ## Maps 
