@@ -112,14 +112,14 @@ Please visit [here](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) for 
 This event is federal-only and will not be recorded. In addition, we ask attendees to refrain from photographs and social media communications.
 
 ### Maps 
-Building Enterance Maps: Please enter building at the 1800 F Street lobby.
+Building Entrance Maps: Please enter building at the 1800 F Street lobby.
 (insert building entrance maps)
 <img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
 
 Building Map:
 (insert wayfinder map)
-<img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
+<img src="{{ site.baseurl }}/assets/img/1800 F Interior Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
 
 ### Food Options
