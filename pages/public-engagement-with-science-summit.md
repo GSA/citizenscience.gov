@@ -8,25 +8,24 @@ title:
 ## Public Engagement with Science Summit: <i>Strategies for Federal Implementation</i>
 <br>
 
-## Event Details
+## Date and Time:
 #### April 17, 2024
 #### 8:30 am - 3:00 pm ET
+<br>
+
+## Location:
 #### General Services Administration Headquarters
 #### 1800 F St. NW, Washington, DC, 20405
 #### Conference Rooms 1459, 1460, 1461
 <br>
 
+## Event Background and Purpose:
 This Summit is inspired by the letter sent in August 2023 by PCAST to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. </span>
 <br>
 
 Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.</span>
 
-## Event Partners
-* White House Office of Science and Technology Policy
-* President’s Council of Advisors for Science and Technology
-*  
-
-## <span style="color:#000000">Agenda</span>
+## Agenda
 ### Morning
 **8:30 am - 8:40 am** Opening Remarks
 - **Ann Lewis**, Director, Technology Transformation Services, General Services Administration
@@ -63,11 +62,9 @@ Public engagement and inclusive dialogue are essential to science and technology
 - [Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA) (invited)
 - [WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE)
 
-
 <br>
 
-
-## <span style="color:#000000">Speakers</span>
+## Speakers
 ### Speaker 1
   <p>Here is their bio.</p>
 
@@ -79,12 +76,36 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
-## <span style="color:#000000">Other Details/Logistics</span>
-### asdf
+## Additional Details and Logistics
 
-<br>
+### GSA TTS Code of Conduct
+Please visit [here](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) for details
 
-## <span style="color:#000000">Useful Links</span>
+### Event Policies
+This event is federal-only and will not be recorded. In addition, we ask attendees to refrain from photographs and social media communications.
 
-[USFS](https://www.citizenscience.gov/catalog/usfs)
+### Maps 
+Please enter building at the 1800 F Street lobby.
+(insert building entrance maps)
+
+### Internal Map
+
+### Food Options
+Food and beverage will not be provided. We suggest the following options conveniently located to the event:
+* On-site vending machines near lobby provide snack and beverage options
+* [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW  Tel: (202) 408-1315. Long-running cafe for hand-roasted, fair-trade brews plus pastries.
+* [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW  Tel: (202) 898-0303. Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
+* Explore on your own
+
+### Event Feedback Survey
+We welcome your feedback regarding this event. Please use this QR code. Thank you.
+(insert graphic)
+
+## This event is possible because of the support from:
+* [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/)
+* [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/)
+
+
+
+
 
