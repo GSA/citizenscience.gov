@@ -10,7 +10,7 @@ title:
 
 ## Date and Time:
 #### April 17, 2024
-#### 8:30 am - 3:00 pm ET
+#### 8:30 am - 3:30 pm ET
 
 ## Location:
 #### General Services Administration Headquarters
@@ -125,9 +125,10 @@ Building Map:
 ### Food Options
 Food and beverage will not be provided. We suggest the following options conveniently located to the event:
 * On-site vending machines near lobby provide snack and beverage options
-* [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW  Tel: (202) 408-1315. Long-running cafe for hand-roasted, fair-trade brews plus pastries.
-* [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW  Tel: (202) 898-0303. Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
+* [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW  ☎Tel: (202) 408-1315. Long-running cafe for hand-roasted, fair-trade brews plus pastries.
+* [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW  ☎Tel: (202) 898-0303. Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
 * Explore on your own
+<br>
 
 ### This event is possible because of the support from:
 * [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/)
