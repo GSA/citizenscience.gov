@@ -138,8 +138,7 @@ Food and beverage will not be provided. We suggest the following options conveni
 ## Maps 
 ### Building Entrance Map: 
 Please enter building at the 1800 F Street NW lobby.
-<img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
+<img src="{{ site.baseurl }}/assets/img/1800_F_Conference_Center_from_F_st.jpg" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
 ### Interior Building Map:
 <img src="{{ site.baseurl }}/assets/img/1800 F Interior Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
-<br>
