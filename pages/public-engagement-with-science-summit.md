@@ -19,7 +19,7 @@ General Services Administration Headquarters
 Connected Conference Rooms: 1459, 1460, 1461
 
 ## Event Background and Purpose:
-This Summit is inspired by the letter sent in August 2023 by President's Council of Advisors on Science and Technology (PCAST) to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. 
+This Summit is inspired by the letter sent in August 2023 by the President's Council of Advisors on Science and Technology (PCAST) to President Biden on [Advancing Public Engagement with the Sciences](https://www.whitehouse.gov/wp-content/uploads/2023/08/PCAST_Science-Engagement-Letter_August2023.pdf). In the letter, PCAST issued a call to action to advance public engagement with science. 
 <br>
 
 Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.
@@ -55,13 +55,12 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 ### Afternoon
 **1:45 pm - 3:30 pm** Project Panel Discussion: <i>Lessons and insights on a continuum of public engagement featuring exemplary projects.</i>
-- [Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA):
-<p>Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.</p>
-- [Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA):<p>NOAA Climate Adaptation Partnerships (CAP) / Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities.</p>
-- [CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE):<p>CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels.</p>
-- [Project Community](https://www.fda.gov/about-fda/oncology-center-excellence/project-community) (FDA):<p>Project Community is a public health outreach initiative established by the FDA Oncology Center of Excellence for patients living with cancer, survivors, advocates, families, and people living in underserved urban and rural communities who are at greater cancer risk. Their  goal is to increase communication between the underserved and medical professionals in communities nationwide, to foster understanding, and awareness to reduce cancer risk and increase survival.</p>
-- [Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA):<p>Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke.</p>
-- [WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE):<p>The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world.</p>
+- [Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA): Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
+- [Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA): NOAA Climate Adaptation Partnerships (CAP) / Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
+- [CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE): CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels. 
+- [Project Community](https://www.fda.gov/about-fda/oncology-center-excellence/project-community) (FDA): Project Community is a public health outreach initiative established by the FDA Oncology Center of Excellence for patients living with cancer, survivors, advocates, families, and people living in underserved urban and rural communities who are at greater cancer risk. Their  goal is to increase communication between the underserved and medical professionals in communities nationwide, to foster understanding, and awareness to reduce cancer risk and increase survival. 
+- [Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA): Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke. 
+- [WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE): The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world. 
 <br>
 
 ## Speakers:
@@ -116,13 +115,15 @@ Please visit [here](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) for 
 ### Event Policies
 This event is federal-only and will not be recorded. In addition, we ask attendees to refrain from photographs and social media communications.
 
+<br>
+
 ### Food Options
 Food and beverage will not be provided. We suggest the following options conveniently located to the event:
 * On-site vending machines near lobby provide snack and beverage options.
 * [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW    ☎Tel: (202) 408-1315.  Long-running cafe for hand-roasted, fair-trade brews plus pastries.
 * Grab & Go Cafe (onsite): Located in Wing 3 (see map below). Serves
 * [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW    ☎Tel: (202) 898-0303.  Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
-* Explore on your own
+* Explore on your own.
 
 <br>
 
@@ -137,9 +138,8 @@ Food and beverage will not be provided. We suggest the following options conveni
 <br>
 
 ## Maps 
-### Building Entrance Map: 
-Please enter building at the 1800 F Street NW lobby.
+### Building Entrance Map: Please enter building at the 1800 F Street NW lobby.
 <img src="{{ site.baseurl }}/assets/img/1800_F_Conference_Center_from_F_st.jpg" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
 ### Interior Building Map:
-<img src="{{ site.baseurl }}/assets/img/1800 F Interior Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
+<img src="{{ site.baseurl }}/assets/img/1800 F Interior Building Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
