@@ -18,6 +18,7 @@ General Services Administration Headquarters
 <p>1800 F St. NW, Washington, DC, 20405</p>
 <i>Please enter building at the 1800 F Street NW lobby.</i>
 <br>
+
 Connected Conference Rooms: 1459, 1460, 1461
 
 ## Event Background and Purpose:
@@ -152,4 +153,4 @@ Food and beverage will not be provided. We suggest the following options conveni
 
 ## Maps 
 ### Interior Building Map: Please enter building at the 1800 F Street NW lobby.
-<img src="{{ site.baseurl }}/assets/img/1800 F Interior Map v2.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
+<img src="{{ site.baseurl }}/assets/img/1800 F Interior Map v3.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
