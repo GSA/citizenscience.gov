@@ -79,13 +79,13 @@ Public engagement and inclusive dialogue are essential to science and technology
 </p>
   
 ### Kei Koizumi
-<p>Here is their bio.</p>
+<p>Kei Koizumi (he/his) is a longtime science-policy leader, science policy researcher, and social scientist in Washington, DC. Since January 2021, he has served at the White House Office of Science and Technology Policy (OSTP), currently as Principal Deputy Director for Science, Society, and Policy and previously as Chief of Staff and Acting Director. He is also Acting Executive Director of the National Science and Technology Council. Immediately before the Biden-Harris Administration, he served on the Biden-Harris Transition Team as the lead for the National Science Foundation (NSF) and a member of the OSTP transition. Previously, he served as Senior Advisor for Science Policy at the American Association for the Advancement of Science (AAAS) between 2017 and 2019. He was Assistant Director for Federal R&D, and Senior Advisor for the National Science and Technology Council, at OSTP from 2009 to 2016 in the Obama Administration. He is a Fellow of the AAAS.</p>
 
 ### Saul Perlmutter
 <p>Saul Perlmutter, PhD, is an astrophysicist and cosmologist who received the Nobel Prize in Physics for discovering that the expansion of our universe is accelerating, and is a member of the President’s Council of Advisors on Science and Technology (PCAST). He is also a Franklin W. and Karen Weber Dabby Professor of Physics, and Director of the Berkeley Institute for Data Science at University of  California, Berkeley, and Senior Scientist at Lawrence Berkeley National Laboratory.</p>
 
 ### Geraldine (Geri) Richmond
-<p>Geraldine (Geri) Richmond is the Under Secretary for Science and Innovation at the Department of Energy (DOE). In this role she oversees DOE's Office of Science, the nation’s largest federal sponsor of basic research in the physical sciences, DOE’s applied R&D areas of nuclear, fossil, and renewable energy, and energy system integrity, and the DOE national laboratories and their facilities.</p>
+<p>Dr. Geraldine (Geri) Richmond is the Under Secretary for Science and Innovation at the Department of Energy (DOE). In this role she oversees DOE's Office of Science, the nation’s largest federal sponsor of basic research in the physical sciences, DOE’s applied R&D areas of nuclear, fossil, and renewable energy, and energy system integrity, and the DOE national laboratories and their facilities.</p>
 
 ### Karen Marrongelle
 <p>Dr. Karen Marrongelle is the Chief Operating Officer of the National Science Foundation, where she oversees operations of the $10B federal agency whose mission includes support for all fields of fundamental science and engineering. Previously, she served as Assistant Director of the National Science Foundation Directorate for Education and Human Resources (EHR). She led the EHR Directorate in supporting research that enhances learning and teaching to achieve excellence in U.S. science, technology, engineering and mathematics (STEM) education.</p>
@@ -109,7 +109,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 <p>Here is their bio.</p>
 
 ### Karen Andrade
-<p>Here is their bio.</p>
+<p>Karen Andrade, Ph.D. is soon ending her term as a Senior Policy Advisor in the Science, Society and Policy Team at the White House Office of Science and Technology Policy. She is an interdisciplinary environmental health scientist with expertise in community-based participatory research (CBPR). Part microbiologist, part ecologist, whole CBPR practitioner and environmental justice advocate, she earned a Ph.D. in Environmental Science, Policy & Management from the University of California, Berkeley. She also completed postdoctoral fellowships at Stanford and the University of California, Davis where she led biomedical and environmental health research to benefit communities facing environmental injustice. She also worked as a Civic Science Fellow at the Science Philanthropy Alliance where she assisted private science funders, scientists and non-profits in their work at the interface of science, society and equity. </p>
 
 ### Jarah Meador
 <p>Jarah leads the crowdsourcing, citizen science and prize competition open innovation portfolio at GSA that includes the Challenge.Gov and CitizenScience.gov.  Previously, she led the innovation sourcing program at the Department of Veterans Affairs Center for Innovation and this portfolio included prize competitions, broad agency announcements, and pay for success/social impact financing. The AAAS Science and Policy Technology Fellowship brought her to the federal government at the US Agency for International Development 10 years ago where she led a large-scale desalination technology development prize competition.  Jarah earned her PhD in Cancer Biology at the University of Texas Graduate School of Biomedical Sciences and is an Air Force Veteran.</p>
@@ -130,7 +130,7 @@ This event is federal-only and will not be recorded. In addition, we ask attende
 Food and beverage will not be provided. We suggest the following options conveniently located to the event:
 * On-site vending machines near lobby provide snack and beverage options.
 * [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW ☎Tel: (202) 408-1315. Long-running cafe for hand-roasted, fair-trade brews plus pastries.
-* Grab & Go Cafe (onsite, located in Wing 3). Serves
+* 
 * [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW ☎Tel: (202) 898-0303. Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
 * [Aroma Cafe Express](https://www.toasttab.com/local/order/aroma-cafe-express-1-1889-f-street-northwest/r-38fc6866-6448-4cf8-8d4d-5e784aeb4956) 1889 F Street NW  ☎Tel: (202) 507-8273. Coffee, bakery, soup & sandwich shop.
 * Explore on your own.
@@ -148,8 +148,5 @@ Food and beverage will not be provided. We suggest the following options conveni
 <br>
 
 ## Maps 
-### Building Entrance Map: Please enter building at the 1800 F Street NW lobby.
-<img src="{{ site.baseurl }}/assets/img/1800_F_Conference_Center_from_F_st.jpg" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
-
-### Interior Building Map:
+### Interior Building Map: Please enter building at the 1800 F Street NW lobby.
 <img src="{{ site.baseurl }}/assets/img/1800 F Interior Building Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
