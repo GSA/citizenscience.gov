@@ -69,9 +69,9 @@ Public engagement and inclusive dialogue are essential to science and technology
 - **Elizabeth MacDonald**, founder of Aurorasaurus.org and Heliophysics Citizen Science Strategic Working Group, National Aeronautics and Science Administration
 - **Sean Bath**, Climate Adaptation Partnerships Program Manager, National Oceanic and Atmospheric Administration
 - **Rao Kotamarthi**, Science Director, Center for Climate Resilience and Decision Science, Argonne National Labs
-- Rea Blakey, Associate Director, External Outreach and Engagement, Oncology Center of Excellence (OCE),US Food and Drug Administration
-- Steven Prince, Behavioral Scientist, Epidemiology Branch, Environmental Protection Agency
-- Tim Scheibe, Laboratory Fellow and Director of Program Development, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory
+- **Rea Blakey**, Associate Director, External Outreach and Engagement, Oncology Center of Excellence (OCE),US Food and Drug Administration
+- **Steven Prince**, Behavioral Scientist, Epidemiology Branch, Environmental Protection Agency
+- **Tim Scheibe**, Laboratory Fellow and Director of Program Development, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory
 
 **3:25 - 3:30 pm** Closing Remarks
 
