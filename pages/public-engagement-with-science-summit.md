@@ -13,6 +13,8 @@ title:
 April 17, 2024
 <p>8:30 am - 3:30 pm ET</p>
 
+[Event Feedback Survey](https://drive.google.com/file/d/1Vjx9AYGbdy79AwjP7wvKQz0XFUgJDT-7/view?usp=drive_link) 
+
 ## Location:
 General Services Administration Headquarters
 <p>1800 F St. NW, Washington, DC, 20405</p>
@@ -26,6 +28,9 @@ This Summit is inspired by the letter sent in August 2023 by the President's Cou
 <br>
 
 Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.
+<br>
+
+<em> This event is produced with the support of the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) and the [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/).</em>
 
 ## Agenda:
 ### Morning
@@ -38,7 +43,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 **8:40 am - 9:40 am** Fireside Chat: <i>The value and importance of public engagement with science.</i>
 - **Kei Koizumi**, Principal Deputy Director for Policy, White House Office of  Science and Technology Policy
-- **Saul Perlmutter**, 2011 Nobel Prize Laureate in Physics and PCAST member
+- **Saul Perlmutter**, 2011 Nobel Laureate in Physics and PCAST member
 - **Geraldine (Geri) Richmond**, Under Secretary for Science and Innovation, U.S. Department of Energy
 - **Karen Marrongelle**, Chief Operating Officer, National Science Foundation
 
@@ -62,7 +67,20 @@ Public engagement and inclusive dialogue are essential to science and technology
 ### Afternoon
 **1:45 pm - 3:25 pm** Project Panel Discussion: <i>Lessons and insights on a continuum of public engagement featuring exemplary projects.</i>
 - **Karen Andrade**, Senior Policy Advisor, Science & Society, White House Office of Science and Technology Policy
-  
+- **Maryam Zaringhalam**, Assistant Director for Public Access and Research Policy, White House Office of Science and Technology Policy
+- **Elizabeth MacDonald**, founder of Aurorasaurus.org and Heliophysics Citizen Science Strategic Working Group, National Aeronautics and Science Administration
+- **Sean Bath**, Climate Adaptation Partnerships Program Manager, National Oceanic and Atmospheric Administration
+- **Rao Kotamarthi**, Science Director, Center for Climate Resilience and Decision Science, Argonne National Labs
+- **Rea Blakey**, Associate Director, External Outreach and Engagement, Oncology Center of Excellence (OCE),US Food and Drug Administration
+- **Steven Prince**, Behavioral Scientist, Epidemiology Branch, Environmental Protection Agency
+- **Tim Scheibe**, Laboratory Fellow and Director of Program Development, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory
+
+**3:25 - 3:30 pm** Closing Remarks
+
+<br>
+
+## Exemplary Projects:
+
 - **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
 - **[Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA)**: Climate Adaptation Partnerships (CAP)/Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
 - **[CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE)**: CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels. 
@@ -70,7 +88,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 - **[Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA)**: Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke. 
 - **[WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE)**: The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world. 
 
-**3:25 - 3:30 pm** Closing Remarks
+
 
 <br>
 
@@ -99,19 +117,23 @@ Public engagement and inclusive dialogue are essential to science and technology
 <p>Dr. Jonathan Pennock serves as the director of the National Sea Grant College Program, having joined NOAA in 2016 from the University of New Hampshire where he served as the deputy-director of the School of Marine Sciences & Ocean Engineering, the director of the New Hampshire Sea Grant College Program and an Associate Professor of Natural Resources and the Environment. Dr. Pennock is a nationally-known coastal scientist with expertise in oceanography and estuarine sciences. His research has focused on understanding human impacts on coastal marine food webs.</p>
 
 ### Kevin Murphy
-<p></p>
+<p><em>Bio coming soon.</em></p>
 
 ### Christopher Frey
 <p>Chris Frey is the Assistant Administrator for Research and Development effective May 2022. He also serves as the Agency Science Advisor. Before his confirmation, he served ORD as the Deputy Assistant Administrator for Science Policy. Prior to joining EPA, Dr. Frey was the Glenn E. and Phyllis J. Futrell Distinguished University Professor at North Carolina State University, where he served on the faculty since 1994. His research includes measurement and modeling of human exposure to air pollution, measurement and modeling of vehicle emissions, and applications of probabilistic and sensitivity analysis methods to emissions estimation, risk assessment, and technology assessment.</p>
 
 ### Paul Allwood
-<p></p>
+<p>Paul Allwood, PhD, MPH, RS serves as Branch Chief of the Lead Poisoning Prevention and Surveillance Branch, in CDC&#39;s National Center for Environmental Health (NCEH), Division of Environmental Health Science and 
+practice (DEHSP), Atlanta, GA. He directs scientific and programmatic activities Lead Poisoning Prevention throughout the United States. Prior to joining the CDC, Paul worked in various leadership roles in state and local public health agencies, as a professional and academic staff at the University of Minnesota in Minneapolis. Paul strongly believes that all humans deserve the chance to achieve the highest levels of health and well-being they are capable of. He lives near St. Paul, Minnesota with his wife.</p>
 
 ### Erica Kimmerling
-<p>Erica Kimmerling PhD is the Assistant Director for Community Driven Health at the White House Office of Science and Technology Policy (OSTP). In her previous role as Senior Policy Advisor for Public Engagement in Science, she increased public participation in, and developed policy across, OSTP’s portfolio including Cancer Moonshot, pandemic prevention, STEM equity, and climate and the environment. She also advised on issues related to science communication and engagement, the societal and ethical implications of science, public perception of science, misinformation/disinformation, and building community/civic capacity in science. Prior to OSTP she most recently served as the Senior Advisor for Science Engagement Policy and Partnerships and Civic Science Fellow at the Association of Science and Technology Centers (ASTC).</p>
+<p>Erica Kimmerling, PhD, is the Assistant Director for Community Driven Health at the White House Office of Science and Technology Policy (OSTP). In her previous role as Senior Policy Advisor for Public Engagement in Science, she increased public participation in, and developed policy across, OSTP’s portfolio including Cancer Moonshot, pandemic prevention, STEM equity, and climate and the environment. She also advised on issues related to science communication and engagement, the societal and ethical implications of science, public perception of science, misinformation/disinformation, and building community/civic capacity in science. Prior to OSTP she most recently served as the Senior Advisor for Science Engagement Policy and Partnerships and Civic Science Fellow at the Association of Science and Technology Centers (ASTC).</p>
 
 ### Karen Andrade
-<p>Karen Andrade, Ph.D. is soon ending her term as a Senior Policy Advisor in the Science, Society and Policy Team at the White House Office of Science and Technology Policy. She is an interdisciplinary environmental health scientist with expertise in community-based participatory research (CBPR). Part microbiologist, part ecologist, whole CBPR practitioner and environmental justice advocate, she earned a Ph.D. in Environmental Science, Policy & Management from the University of California, Berkeley. She also completed postdoctoral fellowships at Stanford and the University of California, Davis where she led biomedical and environmental health research to benefit communities facing environmental injustice. She also worked as a Civic Science Fellow at the Science Philanthropy Alliance where she assisted private science funders, scientists and non-profits in their work at the interface of science, society and equity. </p>
+<p>Karen Andrade, PhD, is soon ending her term as a Senior Policy Advisor in the Science, Society and Policy Team at the White House Office of Science and Technology Policy. She is an interdisciplinary environmental health scientist with expertise in community-based participatory research (CBPR). Part microbiologist, part ecologist, whole CBPR practitioner and environmental justice advocate, she earned a PhD in Environmental Science, Policy & Management from the University of California, Berkeley. She also completed postdoctoral fellowships at Stanford and the University of California, Davis where she led biomedical and environmental health research to benefit communities facing environmental injustice. She also worked as a Civic Science Fellow at the Science Philanthropy Alliance where she assisted private science funders, scientists and non-profits in their work at the interface of science, society and equity. </p>
+
+### Maryam Zaringhalam
+<p>Maryam Zaringhalam is the Assistant Director for Public Access and Research Policy at OSTP. There, she works to coordinate programs and policies advancing the Biden-Harris Administration’s commitment to providing public access to data, publications, and the other important products of the nation’s taxpayer-supported research and innovation enterprise. She comes to OSTP on detail from the National Library of Medicine at the National Institutes of Health, where she is the NLM Data Science and Open Science Officer. </p>
 
 ### Jarah Meador
 <p>Jarah leads the crowdsourcing, citizen science and prize competition open innovation portfolio at GSA that includes the Challenge.Gov and CitizenScience.gov.  Previously, she led the innovation sourcing program at the Department of Veterans Affairs Center for Innovation and this portfolio included prize competitions, broad agency announcements, and pay for success/social impact financing. The AAAS Science and Policy Technology Fellowship brought her to the federal government at the US Agency for International Development 10 years ago where she led a large-scale desalination technology development prize competition.  Jarah earned her PhD in Cancer Biology at the University of Texas Graduate School of Biomedical Sciences and is an Air Force Veteran.</p>
@@ -124,7 +146,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 Please visit [here](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) for details.
 
 ### Event Policies
-This event is federal-only and will not be recorded. In addition, we ask attendees to refrain from photographs and social media communications.
+This event is federal-only and will not be recorded. In addition, we ask attendees to refrain from posting photographs and social media communications during the event.
 
 <br>
 
@@ -139,18 +161,13 @@ Food and beverage will not be provided. We suggest the following options conveni
 * [California Tortilla](https://californiatortilla.olo.com/menu/california-tortilla-gsa) 1809 E Street, NW ☎Tel: (202) 750-8574. Mexican restaurant offering chef's bowls, street tacos, salads, nachos, fajitas, quesadillas, burritos & more. 
 * Explore on your own.
 
-<br>
-
-### This event is possible because of the support from:
-* [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/)
-* [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/)
 
 <br>
 
 ### Questions?
 [Contact team@challenge.gov](mailto:team@challenge.gov)
+
 <br>
 
-## Maps 
 ### Interior Building Map: Please enter building at the 1800 F Street NW lobby.
 <img src="{{ site.baseurl }}/assets/img/1800 F Interior Map v3.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
