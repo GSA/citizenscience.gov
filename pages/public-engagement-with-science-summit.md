@@ -26,6 +26,9 @@ This Summit is inspired by the letter sent in August 2023 by the President's Cou
 <br>
 
 Public engagement and inclusive dialogue are essential to science and technology that benefits the health, environment, national security, and well-being of all Americans. Federal agencies play a critical role in creating avenues for robust science and technology communication and public engagement.
+<br>
+
+<em> This event is produced with the support of the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) and the [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/).</em>
 
 ## Agenda:
 ### Morning
