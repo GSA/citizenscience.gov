@@ -77,7 +77,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
-## Examplary Projects:
+## Exemplary Projects:
 
 - **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
 - **[Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA)**: Climate Adaptation Partnerships (CAP)/Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
