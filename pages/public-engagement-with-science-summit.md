@@ -99,13 +99,13 @@ Public engagement and inclusive dialogue are essential to science and technology
 <p>Dr. Jonathan Pennock serves as the director of the National Sea Grant College Program, having joined NOAA in 2016 from the University of New Hampshire where he served as the deputy-director of the School of Marine Sciences & Ocean Engineering, the director of the New Hampshire Sea Grant College Program and an Associate Professor of Natural Resources and the Environment. Dr. Pennock is a nationally-known coastal scientist with expertise in oceanography and estuarine sciences. His research has focused on understanding human impacts on coastal marine food webs.</p>
 
 ### Kevin Murphy
-<p>Here is their bio.</p>
+<p></p>
 
 ### Christopher Frey
 <p>Chris Frey is the Assistant Administrator for Research and Development effective May 2022. He also serves as the Agency Science Advisor. Before his confirmation, he served ORD as the Deputy Assistant Administrator for Science Policy. Prior to joining EPA, Dr. Frey was the Glenn E. and Phyllis J. Futrell Distinguished University Professor at North Carolina State University, where he served on the faculty since 1994. His research includes measurement and modeling of human exposure to air pollution, measurement and modeling of vehicle emissions, and applications of probabilistic and sensitivity analysis methods to emissions estimation, risk assessment, and technology assessment.</p>
 
 ### Paul Allwood
-<p>Here is their bio.</p>
+<p></p>
 
 ### Erica Kimmerling
 <p>Erica Kimmerling PhD is the Assistant Director for Community Driven Health at the White House Office of Science and Technology Policy (OSTP). In her previous role as Senior Policy Advisor for Public Engagement in Science, she increased public participation in, and developed policy across, OSTP’s portfolio including Cancer Moonshot, pandemic prevention, STEM equity, and climate and the environment. She also advised on issues related to science communication and engagement, the societal and ethical implications of science, public perception of science, misinformation/disinformation, and building community/civic capacity in science. Prior to OSTP she most recently served as the Senior Advisor for Science Engagement Policy and Partnerships and Civic Science Fellow at the Association of Science and Technology Centers (ASTC).</p>
