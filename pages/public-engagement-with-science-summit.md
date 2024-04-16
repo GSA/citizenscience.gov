@@ -41,7 +41,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 **8:40 am - 9:40 am** Fireside Chat: <i>The value and importance of public engagement with science.</i>
 - **Kei Koizumi**, Principal Deputy Director for Policy, White House Office of  Science and Technology Policy
-- **Saul Perlmutter**, 2011 Nobel Prize Laureate in Physics and PCAST member
+- **Saul Perlmutter**, 2011 Nobel Laureate in Physics and PCAST member
 - **Geraldine (Geri) Richmond**, Under Secretary for Science and Innovation, U.S. Department of Energy
 - **Karen Marrongelle**, Chief Operating Officer, National Science Foundation
 
