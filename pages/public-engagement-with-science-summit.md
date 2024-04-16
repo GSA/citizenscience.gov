@@ -166,6 +166,5 @@ Food and beverage will not be provided. We suggest the following options conveni
 [Contact team@challenge.gov](mailto:team@challenge.gov)
 <br>
 
-## Maps 
 ### Interior Building Map: Please enter building at the 1800 F Street NW lobby.
 <img src="{{ site.baseurl }}/assets/img/1800 F Interior Map v3.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
