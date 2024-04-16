@@ -5,7 +5,8 @@ title:
 ---
 <img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
-## Public Engagement with Science Summit: <i>Strategies for Federal Implementation</i>
+## Public Engagement with Science Summit:
+### <i>Strategies for Federal Implementation</i>
 <br>
 
 ## Date and Time:
@@ -16,6 +17,7 @@ April 17, 2024
 General Services Administration Headquarters
 <p>1800 F St. NW, Washington, DC, 20405</p>
 <i>Please enter building at the 1800 F Street NW lobby.</i>
+<br>
 
 Connected Conference Rooms: 1459, 1460, 1461
 
@@ -61,12 +63,12 @@ Public engagement and inclusive dialogue are essential to science and technology
 **1:45 pm - 3:25 pm** Project Panel Discussion: <i>Lessons and insights on a continuum of public engagement featuring exemplary projects.</i>
 - **Karen Andrade**, Senior Policy Advisor, Science & Society, White House Office of Science and Technology Policy
   
-- [Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA): Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
-- [Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA): Climate Adaptation Partnerships (CAP) / Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
-- [CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE): CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels. 
-- [Project Community](https://www.fda.gov/about-fda/oncology-center-excellence/project-community) (FDA): Project Community is a public health outreach initiative established by the FDA Oncology Center of Excellence for patients living with cancer, survivors, advocates, families, and people living in underserved urban and rural communities who are at greater cancer risk. Their  goal is to increase communication between the underserved and medical professionals in communities nationwide, to foster understanding, and awareness to reduce cancer risk and increase survival. 
-- [Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA): Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke. 
-- [WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE): The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world. 
+- **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
+- **[Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA)**: Climate Adaptation Partnerships (CAP)/Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
+- **[CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE)**: CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels. 
+- **[Project Community](https://www.fda.gov/about-fda/oncology-center-excellence/project-community) (FDA)**: Project Community is a public health outreach initiative established by the FDA Oncology Center of Excellence for patients living with cancer, survivors, advocates, families, and people living in underserved urban and rural communities who are at greater cancer risk. Their  goal is to increase communication between the underserved and medical professionals in communities nationwide, to foster understanding, and awareness to reduce cancer risk and increase survival. 
+- **[Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA)**: Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke. 
+- **[WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE)**: The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world. 
 
 **3:25 - 3:30 pm** Closing Remarks
 
@@ -79,13 +81,13 @@ Public engagement and inclusive dialogue are essential to science and technology
 </p>
   
 ### Kei Koizumi
-<p>Here is their bio.</p>
+<p>Kei Koizumi (he/his) is a longtime science-policy leader, science policy researcher, and social scientist in Washington, DC. Since January 2021, he has served at the White House Office of Science and Technology Policy (OSTP), currently as Principal Deputy Director for Science, Society, and Policy and previously as Chief of Staff and Acting Director. He is also Acting Executive Director of the National Science and Technology Council. Immediately before the Biden-Harris Administration, he served on the Biden-Harris Transition Team as the lead for the National Science Foundation (NSF) and a member of the OSTP transition. Previously, he served as Senior Advisor for Science Policy at the American Association for the Advancement of Science (AAAS) between 2017 and 2019. He was Assistant Director for Federal R&D, and Senior Advisor for the National Science and Technology Council, at OSTP from 2009 to 2016 in the Obama Administration. He is a Fellow of the AAAS.</p>
 
 ### Saul Perlmutter
 <p>Saul Perlmutter, PhD, is an astrophysicist and cosmologist who received the Nobel Prize in Physics for discovering that the expansion of our universe is accelerating, and is a member of the President’s Council of Advisors on Science and Technology (PCAST). He is also a Franklin W. and Karen Weber Dabby Professor of Physics, and Director of the Berkeley Institute for Data Science at University of  California, Berkeley, and Senior Scientist at Lawrence Berkeley National Laboratory.</p>
 
 ### Geraldine (Geri) Richmond
-<p>Geraldine (Geri) Richmond is the Under Secretary for Science and Innovation at the Department of Energy (DOE). In this role she oversees DOE's Office of Science, the nation’s largest federal sponsor of basic research in the physical sciences, DOE’s applied R&D areas of nuclear, fossil, and renewable energy, and energy system integrity, and the DOE national laboratories and their facilities.</p>
+<p>Dr. Geraldine (Geri) Richmond is the Under Secretary for Science and Innovation at the Department of Energy (DOE). In this role she oversees DOE's Office of Science, the nation’s largest federal sponsor of basic research in the physical sciences, DOE’s applied R&D areas of nuclear, fossil, and renewable energy, and energy system integrity, and the DOE national laboratories and their facilities.</p>
 
 ### Karen Marrongelle
 <p>Dr. Karen Marrongelle is the Chief Operating Officer of the National Science Foundation, where she oversees operations of the $10B federal agency whose mission includes support for all fields of fundamental science and engineering. Previously, she served as Assistant Director of the National Science Foundation Directorate for Education and Human Resources (EHR). She led the EHR Directorate in supporting research that enhances learning and teaching to achieve excellence in U.S. science, technology, engineering and mathematics (STEM) education.</p>
@@ -97,19 +99,19 @@ Public engagement and inclusive dialogue are essential to science and technology
 <p>Dr. Jonathan Pennock serves as the director of the National Sea Grant College Program, having joined NOAA in 2016 from the University of New Hampshire where he served as the deputy-director of the School of Marine Sciences & Ocean Engineering, the director of the New Hampshire Sea Grant College Program and an Associate Professor of Natural Resources and the Environment. Dr. Pennock is a nationally-known coastal scientist with expertise in oceanography and estuarine sciences. His research has focused on understanding human impacts on coastal marine food webs.</p>
 
 ### Kevin Murphy
-<p>Here is their bio.</p>
+<p></p>
 
 ### Christopher Frey
 <p>Chris Frey is the Assistant Administrator for Research and Development effective May 2022. He also serves as the Agency Science Advisor. Before his confirmation, he served ORD as the Deputy Assistant Administrator for Science Policy. Prior to joining EPA, Dr. Frey was the Glenn E. and Phyllis J. Futrell Distinguished University Professor at North Carolina State University, where he served on the faculty since 1994. His research includes measurement and modeling of human exposure to air pollution, measurement and modeling of vehicle emissions, and applications of probabilistic and sensitivity analysis methods to emissions estimation, risk assessment, and technology assessment.</p>
 
 ### Paul Allwood
-<p>Here is their bio.</p>
+<p></p>
 
 ### Erica Kimmerling
-<p>Here is their bio.</p>
+<p>Erica Kimmerling PhD is the Assistant Director for Community Driven Health at the White House Office of Science and Technology Policy (OSTP). In her previous role as Senior Policy Advisor for Public Engagement in Science, she increased public participation in, and developed policy across, OSTP’s portfolio including Cancer Moonshot, pandemic prevention, STEM equity, and climate and the environment. She also advised on issues related to science communication and engagement, the societal and ethical implications of science, public perception of science, misinformation/disinformation, and building community/civic capacity in science. Prior to OSTP she most recently served as the Senior Advisor for Science Engagement Policy and Partnerships and Civic Science Fellow at the Association of Science and Technology Centers (ASTC).</p>
 
 ### Karen Andrade
-<p>Here is their bio.</p>
+<p>Karen Andrade, Ph.D. is soon ending her term as a Senior Policy Advisor in the Science, Society and Policy Team at the White House Office of Science and Technology Policy. She is an interdisciplinary environmental health scientist with expertise in community-based participatory research (CBPR). Part microbiologist, part ecologist, whole CBPR practitioner and environmental justice advocate, she earned a Ph.D. in Environmental Science, Policy & Management from the University of California, Berkeley. She also completed postdoctoral fellowships at Stanford and the University of California, Davis where she led biomedical and environmental health research to benefit communities facing environmental injustice. She also worked as a Civic Science Fellow at the Science Philanthropy Alliance where she assisted private science funders, scientists and non-profits in their work at the interface of science, society and equity. </p>
 
 ### Jarah Meador
 <p>Jarah leads the crowdsourcing, citizen science and prize competition open innovation portfolio at GSA that includes the Challenge.Gov and CitizenScience.gov.  Previously, she led the innovation sourcing program at the Department of Veterans Affairs Center for Innovation and this portfolio included prize competitions, broad agency announcements, and pay for success/social impact financing. The AAAS Science and Policy Technology Fellowship brought her to the federal government at the US Agency for International Development 10 years ago where she led a large-scale desalination technology development prize competition.  Jarah earned her PhD in Cancer Biology at the University of Texas Graduate School of Biomedical Sciences and is an Air Force Veteran.</p>
@@ -127,12 +129,14 @@ This event is federal-only and will not be recorded. In addition, we ask attende
 <br>
 
 ### Food Options
-Food and beverage will not be provided. We suggest the following options conveniently located to the event:
+Food and beverage will not be provided. We suggest the following options conveniently located to the event, and within two blocks walking distance:
+
 * On-site vending machines near lobby provide snack and beverage options.
+* [Greenberry's Coffee Co.](https://greenberryscoffee.revelup.online/store/10/category/916/subcategory/918) 1805 E St NW ☎Tel: (202) 898-0360. Coffee shop serving salads, bakery items, and handcrafted gourmet sandwiches & wraps for breakfast and lunch.
 * [Swing's Coffee Bar](https://swingscoffee.com/locations/g-st/) 1702 G St NW ☎Tel: (202) 408-1315. Long-running cafe for hand-roasted, fair-trade brews plus pastries.
-* Grab & Go Cafe (onsite, located in Wing 3). Serves
 * [Devon & Blakely](https://www.devonandblakely.com) 1776 G Street NW ☎Tel: (202) 898-0303. Casual spot for sandwiches, soup & lunch boxes, plus coffee & desserts.
 * [Aroma Cafe Express](https://www.toasttab.com/local/order/aroma-cafe-express-1-1889-f-street-northwest/r-38fc6866-6448-4cf8-8d4d-5e784aeb4956) 1889 F Street NW  ☎Tel: (202) 507-8273. Coffee, bakery, soup & sandwich shop.
+* [California Tortilla](https://californiatortilla.olo.com/menu/california-tortilla-gsa) 1809 E Street, NW ☎Tel: (202) 750-8574. Mexican restaurant offering chef's bowls, street tacos, salads, nachos, fajitas, quesadillas, burritos & more. 
 * Explore on your own.
 
 <br>
@@ -148,8 +152,5 @@ Food and beverage will not be provided. We suggest the following options conveni
 <br>
 
 ## Maps 
-### Building Entrance Map: Please enter building at the 1800 F Street NW lobby.
-<img src="{{ site.baseurl }}/assets/img/1800_F_Conference_Center_from_F_st.jpg" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
-
-### Interior Building Map:
-<img src="{{ site.baseurl }}/assets/img/1800 F Interior Building Map.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
+### Interior Building Map: Please enter building at the 1800 F Street NW lobby.
+<img src="{{ site.baseurl }}/assets/img/1800 F Interior Map v3.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
