@@ -65,7 +65,19 @@ Public engagement and inclusive dialogue are essential to science and technology
 ### Afternoon
 **1:45 pm - 3:25 pm** Project Panel Discussion: <i>Lessons and insights on a continuum of public engagement featuring exemplary projects.</i>
 - **Karen Andrade**, Senior Policy Advisor, Science & Society, White House Office of Science and Technology Policy
-  
+- **Maryam Zaringhalam**, Assistant Director for Public Access and Research Policy, White House Office of Science and Technology Policy
+- **Elizabeth MacDonald**, founder of Aurorasaurus.org and Heliophysics Citizen Science Strategic Working Group, National Aeronautics and Science Administration
+- **Sean Bath**, Climate Adaptation Partnerships Program Manager, National Oceanic and Atmospheric Administration
+- **Rao Kotamarthi**, Science Director, Center for Climate Resilience and Decision Science, Argonne National Labs
+- Rea Blakey, Associate Director, External Outreach and Engagement, Oncology Center of Excellence (OCE),US Food and Drug Administration
+- Steven Prince, Behavioral Scientist, Epidemiology Branch, Environmental Protection Agency
+- Tim Scheibe, Laboratory Fellow and Director of Program Development, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory
+
+**3:25 - 3:30 pm** Closing Remarks
+
+<br>
+## Exemplary Projects
+
 - **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
 - **[Climate Adaptation Partnerships](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/cap-risa/) (NOAA)**: Climate Adaptation Partnerships (CAP)/Regional Integrated Sciences and Assessments (RISA) program is an applied research and engagement program that expands society’s regional capacity to adapt to climate impacts in the U.S. The CAP/RISA program supports sustained, collaborative relationships that help communities build lasting and equitable climate resilience. The work is accomplished by teams of research institutions, nonprofit organizations, and state/local/Tribal governments in multi-state regions. The teams engage in a variety of applied and co-developed research and engagement with communities. 
 - **[CROCUS](https://crocus-urban.org/) (Argonne National Labs, DOE)**: CROCUS is an Urban Integrated Field Laboratory led by the U.S. Department of Energy’s (DOE) Argonne National Laboratory in partnership with academic and community organizations and civic and industry champions. Community Research on Climate and Urban Science (CROCUS) studies urban climate change and its implications for environmental justice in the Chicago region. The team conducts novel, multi-scale observational science and creates highly accurate climate models. This leads to insights on current and future urban climate challenges and informs future actions for mitigating and adapting to climate change at the street, neighborhood and regional levels. 
@@ -73,7 +85,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 - **[Smoke Sense](https://www.epa.gov/air-research/smoke-sense-study-citizen-science-project-using-mobile-app) (EPA)**: Smoke Sense is a crowdsourcing, citizen science research project developed by EPA researchers focused on increasing public awareness and engagement related to wildfire smoke health risks. Specifically, EPA wants to understand the extent that exposure to wildland fire smoke affects health and productivity, discover what steps people are willing to take to reduce their exposure, and develop health risk communication strategies that improve public health when there is wildfire smoke. 
 - **[WHONDRS Project](https://www.pnnl.gov/projects/WHONDRS) (Pacific Northwest National Laboratory, DOE)**: The Worldwide Hydrobiogeochemistry Observation Network for Dynamic River Systems (WHONDRS) is a research consortium that aims to understand coupled hydrologic, biogeochemical, and microbial function within river corridors, with an emphasis on increasing accessibility of resources and knowledge throughout the research life cycle. WHONDRS seeks to galvanize a global community around understanding these coupled systems from local to global scales and ultimately to provide the scientific basis for improved management of dynamic river corridors throughout the world. 
 
-**3:25 - 3:30 pm** Closing Remarks
+
 
 <br>
 
