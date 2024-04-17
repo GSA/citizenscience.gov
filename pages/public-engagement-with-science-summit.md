@@ -80,10 +80,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 <br>
 
 ## The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22
-- [The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 Front Matter](https://www.whitehouse.gov/wp-content/uploads/2024/04/Final_Implementation-of-Federal-Prize-and-Citizen-Science-Authority-Fiscal-Years_21_22.pdf)
-- [The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 Appendices](https://www.whitehouse.gov/wp-content/uploads/2024/04/Appendices_Implementation-of-Federal-Prize-and-Citizen-Science-Authority-Fiscal-Years-2021-2022.pdf)
-- [The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 PCC Data](https://www.whitehouse.gov/wp-content/uploads/2024/04/FINAL_fy21-22_PCnC_survey-data_for-public-release.xlsx)
-- [The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 CCS Data](https://www.whitehouse.gov/wp-content/uploads/2024/04/FINAL_fy21-22_CCS_survey-data_for-public-release.xlsx)
+Access the Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 full report, appendices and survey data [here](https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/).
 
 <br>
 
