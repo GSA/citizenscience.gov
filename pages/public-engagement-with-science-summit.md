@@ -122,7 +122,16 @@ Access the <em>Implementation of Federal Prize and Citizen Science Authority for
 <p>Dr. Jonathan Pennock serves as the director of the National Sea Grant College Program, having joined NOAA in 2016 from the University of New Hampshire where he served as the deputy-director of the School of Marine Sciences & Ocean Engineering, the director of the New Hampshire Sea Grant College Program and an Associate Professor of Natural Resources and the Environment. Dr. Pennock is a nationally-known coastal scientist with expertise in oceanography and estuarine sciences. His research has focused on understanding human impacts on coastal marine food webs.</p>
 
 ### Kevin Murphy
-<p><em>Bio coming soon.</em></p>
+<p>Kevin Murphy is the Chief Science Data Officer for NASA’s Science Mission Directorate. In this
+capacity, he works across five divisions to advance the state of the art in cloud computing,
+machine learning, data management and analysis platforms for NASA’s scientific data, and
+advocates for open science for all of NASA. Before assuming his current role, Mr. Murphy served as the Program Executive for Earth Science Data Systems programs and the System Architect for EOSDIS, one of the largest repositories of Earth
+observing data on the planet. He managed the production and distribution of data from NASA’s fleet of
+over 20 Earth-Observing satellites and instruments including near real-time science data production
+systems, search engines, scientific data visualization system, evaluation of commercial data, and
+earthdata.nasa.gov. Mr. Murphy has received numerous awards, including the NASA Exceptional
+Achievement Medal, Robert H. Goddard Exceptional Achievement for Engineering, Charles S. Falkenberg
+Award, Fed 100, among others.</p>
 
 ### Christopher Frey
 <p>Chris Frey is the Assistant Administrator for Research and Development effective May 2022. He also serves as the Agency Science Advisor. Before his confirmation, he served ORD as the Deputy Assistant Administrator for Science Policy. Prior to joining EPA, Dr. Frey was the Glenn E. and Phyllis J. Futrell Distinguished University Professor at North Carolina State University, where he served on the faculty since 1994. His research includes measurement and modeling of human exposure to air pollution, measurement and modeling of vehicle emissions, and applications of probabilistic and sensitivity analysis methods to emissions estimation, risk assessment, and technology assessment.</p>
