@@ -13,6 +13,8 @@ title:
 April 17, 2024
 <p>8:30 am - 3:30 pm ET</p>
 
+[Event Feedback Survey](https://drive.google.com/file/d/1Vjx9AYGbdy79AwjP7wvKQz0XFUgJDT-7/view?usp=drive_link) 
+
 ## Location:
 General Services Administration Headquarters
 <p>1800 F St. NW, Washington, DC, 20405</p>
@@ -77,6 +79,11 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
+## The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22
+Access the <em>Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22</em> full report, appendices and survey data [here](https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/).
+
+<br>
+
 ## Exemplary Projects:
 
 - **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
@@ -115,7 +122,16 @@ Public engagement and inclusive dialogue are essential to science and technology
 <p>Dr. Jonathan Pennock serves as the director of the National Sea Grant College Program, having joined NOAA in 2016 from the University of New Hampshire where he served as the deputy-director of the School of Marine Sciences & Ocean Engineering, the director of the New Hampshire Sea Grant College Program and an Associate Professor of Natural Resources and the Environment. Dr. Pennock is a nationally-known coastal scientist with expertise in oceanography and estuarine sciences. His research has focused on understanding human impacts on coastal marine food webs.</p>
 
 ### Kevin Murphy
-<p><em>Bio coming soon.</em></p>
+<p>Kevin Murphy is the Chief Science Data Officer for NASA’s Science Mission Directorate. In this
+capacity, he works across five divisions to advance the state of the art in cloud computing,
+machine learning, data management and analysis platforms for NASA’s scientific data, and
+advocates for open science for all of NASA. Before assuming his current role, Mr. Murphy served as the Program Executive for Earth Science Data Systems programs and the System Architect for EOSDIS, one of the largest repositories of Earth
+observing data on the planet. He managed the production and distribution of data from NASA’s fleet of
+over 20 Earth-Observing satellites and instruments including near real-time science data production
+systems, search engines, scientific data visualization system, evaluation of commercial data, and
+earthdata.nasa.gov. Mr. Murphy has received numerous awards, including the NASA Exceptional
+Achievement Medal, Robert H. Goddard Exceptional Achievement for Engineering, Charles S. Falkenberg
+Award, Fed 100, among others.</p>
 
 ### Christopher Frey
 <p>Chris Frey is the Assistant Administrator for Research and Development effective May 2022. He also serves as the Agency Science Advisor. Before his confirmation, he served ORD as the Deputy Assistant Administrator for Science Policy. Prior to joining EPA, Dr. Frey was the Glenn E. and Phyllis J. Futrell Distinguished University Professor at North Carolina State University, where he served on the faculty since 1994. His research includes measurement and modeling of human exposure to air pollution, measurement and modeling of vehicle emissions, and applications of probabilistic and sensitivity analysis methods to emissions estimation, risk assessment, and technology assessment.</p>
@@ -135,6 +151,21 @@ practice (DEHSP), Atlanta, GA. He directs scientific and programmatic activities
 
 ### Jarah Meador
 <p>Jarah leads the crowdsourcing, citizen science and prize competition open innovation portfolio at GSA that includes the Challenge.Gov and CitizenScience.gov.  Previously, she led the innovation sourcing program at the Department of Veterans Affairs Center for Innovation and this portfolio included prize competitions, broad agency announcements, and pay for success/social impact financing. The AAAS Science and Policy Technology Fellowship brought her to the federal government at the US Agency for International Development 10 years ago where she led a large-scale desalination technology development prize competition.  Jarah earned her PhD in Cancer Biology at the University of Texas Graduate School of Biomedical Sciences and is an Air Force Veteran.</p>
+
+### Elizabeth MacDonald
+<p>Dr. Liz MacDonald is a heliophysicist working for NASA’s Goddard Space Flight Center in Maryland. She leads a participatory science project called Aurorasaurus, which enlists people to help with community reports, using smartphones and social media to improve predictions of the Northern and Southern Lights. In 2018, along with a large team including many amazing Canadians, they announced a new understanding of an unusual aurora called STEVE (Strong Thermal Emission Velocity Enhancement). She has also led teams that build instruments to measure charged particles in the space environment for NASA and DOE satellite and rocket missions. She serves the NASA HQ participatory science community as the lead of the Heliophysics Strategic working group. Dr. MacDonald has been studying the glitter of the Northern Lights for 25 years.</p>
+
+### Sean Bath
+<p>Sean Bath is a white, queer, interdisciplinary professional with expertise in policy, planning, and analysis related to environmental science, risk management, and climate change. He has several years of gradually escalating program management experience in the NOAA Climate Adaptation Partnerships Program. In his experience with the program, he has become increasingly convinced of the need to "work at the speed of trust" in building the social infrastructure to withstand the climate crisis. Over the years, he’s focused his contributions to the program in reporting & articulating accomplishments, integrating social justice and equity, and promoting meaningful cultural change in our top-down institutions. In the past year, he has taken on the role of competition manager for the 2024 CAP Funding Opportunity and currently serves on partial detail to NOAA Deputy Administrator Jainey Bavishi to help improve NOAA’s focus on society’s adaptation.</p>
+
+### Rao Kotamarthi
+<p>Bio coming soon.</p>
+
+### Steven Prince
+<p>Dr. Prince, a behavioral scientist, studies how people interact with and use information about wildfire smoke and air quality in relation to their health. This includes approaches to understand the context in which information is delivered and the specific behavioral changes that are under consideration. Dr. Prince brings expertise in the cognitive and motivational facets of behavior, and the biases, heuristics, and decision-making context for protective health actions.</p>
+
+### Timothy Scheibe
+<p>Dr. Timothy D. (Tim) Scheibe has been an Earth Scientist and researcher at the Pacific Northwest National Laboratory (PNNL) since 1992. His research dives deep into the fascinating world of fluid flow and biogeochemical reactive transport in subsurface environments. He's currently at the helm of PNNL’s River Corridor Scientific Focus Area project, funded by the U.S. Department of Energy’s Office of Science. This project is a unique blend of field research, lab experiments, and numerical models, all aimed at understanding the ecological impacts of groundwater and surface water exchange. Dr. Scheibe’s expertise is widely recognized, with around 90 publications and book chapters to his name, and he is a respected voice in the field of subsurface biogeochemical modeling and reactive transport modeling. He’s also an active member of the scientific community, serving on the editorial boards of Water, PeerJ, and Frontiers in Water, and previously serving with Groundwater and Hydrogeology Journal. His leadership extends to the American Geophysical Union, where he’s held several volunteer roles. In 2010, the National Ground Water Association honored Dr. Scheibe as the Henry Darcy Distinguished Lecturer. This role took him across North America and Europe, delivering 65 invited lectures. Dr. Scheibe’s work goes beyond traditional discipline-focused academic research, and he also has broad interests in interdisciplinary team research and fostering participatory science and engagement in his field.</p>
 
 <br>
 
