@@ -79,6 +79,14 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
+## The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22
+[<em>The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 Front Matter</em>](https://www.whitehouse.gov/wp-content/uploads/2024/04/Final_Implementation-of-Federal-Prize-and-Citizen-Science-Authority-Fiscal-Years_21_22.pdf)
+[<em>The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 Appendices</em>](https://www.whitehouse.gov/wp-content/uploads/2024/04/Appendices_Implementation-of-Federal-Prize-and-Citizen-Science-Authority-Fiscal-Years-2021-2022.pdf)
+<em>[The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 PCC Data](https://www.whitehouse.gov/wp-content/uploads/2024/04/FINAL_fy21-22_PCnC_survey-data_for-public-release.xlsx)</em>
+[The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22 CCS Data](https://www.whitehouse.gov/wp-content/uploads/2024/04/FINAL_fy21-22_CCS_survey-data_for-public-release.xlsx)
+
+<br>
+
 ## Exemplary Projects:
 
 - **[Aurorasaurus](https://science.nasa.gov/sciact-team/aurorasaurus/) (NASA)**: Aurorasaurus is the first and only citizen science initiative that tracks auroras around the world via reports on our website and social media. All aurora-related tweets and reports are placed on the Aurorasaurus.org map. We then ask people to log in and verify the tweets or reports. Each verified report serves as a valuable data point for scientists to analyze and incorporate into space weather models.
