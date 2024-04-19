@@ -13,8 +13,6 @@ title:
 April 17, 2024
 <p>8:30 am - 3:30 pm ET</p>
 
-[Event Feedback Survey](https://drive.google.com/file/d/1Vjx9AYGbdy79AwjP7wvKQz0XFUgJDT-7/view?usp=drive_link) 
-
 ## Location:
 General Services Administration Headquarters
 <p>1800 F St. NW, Washington, DC, 20405</p>
