@@ -30,6 +30,11 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <em> This event is produced with the support of the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) and the [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/).</em>
 
+<br>
+
+### <a href="https://www.citizenscience.gov/assets/files/April Summit Event Slides - Public Engagement with Science with bios_Accessible.pdf">Event Slides and Speaker Bios</a> 
+
+
 ## Agenda:
 ### Morning
 **8:00 am - 8:30 am** Attendee Check-In
@@ -77,7 +82,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
-## The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22
+## The Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22:
 Access the <em>Implementation of Federal Prize and Citizen Science Authority for Fiscal Years 21-22</em> full report, appendices and survey data [here](https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/).
 
 <br>
