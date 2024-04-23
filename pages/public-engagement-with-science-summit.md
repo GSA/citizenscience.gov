@@ -30,7 +30,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <em> This event is produced with the support of the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) and the [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/).</em>
 
-### [Event Slides and Speaker Bios](http://www.citizenscience.gov/assets/files/April Summit Event Slides - Public Engagement with Science with bios_Accessible.pdf)
+### [Event Slides and Speaker Bios](https://www.citizenscience.gov/assets/files/April Summit Event Slides - Public Engagement with Science with bios_Accessible.pdf)
 
 ## Agenda:
 ### Morning
