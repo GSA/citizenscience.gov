@@ -31,7 +31,7 @@ Public engagement and inclusive dialogue are essential to science and technology
 <em> This event is produced with the support of the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) and the [President’s Council of Advisors for Science and Technology](https://www.whitehouse.gov/pcast/).</em>
 
 ## Agenda:
-Event Slides and Speaker Bios
+Event Slides and Speaker Bios (PDF)
 
 ### Morning
 **8:00 am - 8:30 am** Attendee Check-In
