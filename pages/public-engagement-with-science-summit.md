@@ -32,7 +32,9 @@ Public engagement and inclusive dialogue are essential to science and technology
 
 <br>
 
+## Event Resources:
 ### <a href="https://www.citizenscience.gov/assets/files/April Summit Event Slides - Public Engagement with Science with bios_Accessible.pdf">Event Slides and Speaker Bios</a> 
+### <a href="https://www.citizenscience.gov/assets/files/Public_Engagement_with_Science_Summit_Attendees_April_17_2024.pdf">Summit Attendees</a>
 
 
 ## Agenda:
