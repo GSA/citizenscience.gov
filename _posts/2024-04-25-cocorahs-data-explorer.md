@@ -4,7 +4,7 @@ author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
 image: /assets/img/post-images/2024/CoCoRaHS-blog.png
-image-caption: 
+image-caption: Map of the United States with data points uploaded by CoCoRaHS citizen scientists.
 categories:
 tags:
 class: center-top-eight
