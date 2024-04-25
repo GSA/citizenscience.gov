@@ -3,7 +3,7 @@ title: Empowering Citizen Scientists - Explore the new Community Collaborative R
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
-image: /assets/img/post-images/2024/CoCoRaHS-blog.png
+image: /assets/img/post-images/2024/cocorahs-blog-2.png
 image-caption: Map of the United States with data points uploaded by CoCoRaHS citizen scientists.
 categories:
 tags:
