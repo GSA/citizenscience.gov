@@ -3,7 +3,7 @@ title: Empowering Citizen Scientists - Explore the new Community Collaborative R
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
-image: /assets/img/post-images/2024/cocorahs-blog.jpg
+image: /assets/img/post-images/2024/CoCoRaHS-blog.png
 image-caption: 
 categories:
 tags:
