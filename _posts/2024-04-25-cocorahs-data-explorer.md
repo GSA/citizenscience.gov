@@ -1,5 +1,5 @@
 ---
-title: Empowering Public Participation - NASA Citizen Science Projects Propel Discovery
+title: Empowering Citizen Scientists - Explore the new Community Collaborative Rain, Hail & Snow (CoCoRaHS) Data Explorer tool
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
