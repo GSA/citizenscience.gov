@@ -1,5 +1,5 @@
 ---
-title: Empowering Citizen Scientists - Explore the new Community Collaborative Rain Hail and Snow (CoCoRaHS) Data Explorer tool
+title: Explore the new Community Collaborative Rain Hail and Snow (CoCoRaHS) Data Explorer tool
 author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
