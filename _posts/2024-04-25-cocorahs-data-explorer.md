@@ -4,12 +4,11 @@ author: Fil Baloca, Contractor GSA Open Innovation
 layout: posts
 permalink: /2024/04/25/cocorahs-data-explorer/
 image: /assets/img/post-images/2024/cocorahs-blog-2.png
-image-caption: Map of the United States with data points uploaded by CoCoRaHS citizen scientists.
+image-caption: 
 categories:
 tags:
-class: center-top
+class: center-top-eight
 ---
-
 
 Inclusion, collaboration, and scientific advancement are values that motivate [CitizenScience.Gov](www.citizenscience.gov). The [Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS) Network](https://www.citizenscience.gov/catalog/81/#), in partnership with the [National Oceanic and Atmospheric Administration (NOAA) Office of Education](https://www.noaa.gov/office-education), illustrates these values. CoCoRaHS strives to bridge the gap between the federal government and the public to foster inclusive participation in scientific discovery. The new CoCoRaHS Data Explorer is a powerful tool for the public to engage with environmental data like never before. Currently, with more than 25,000 active CoCoRaHS stations, collecting +14,000 reports per day, there have been nearly 72 million records collected in the last 26 years. Now, with the [CoCoRaHS Data Explorer](https://dex.cocorahs.org/), this wealth of information is easily accessible and understandable for all. 
 
