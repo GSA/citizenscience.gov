@@ -7,7 +7,7 @@ image: /assets/img/post-images/2024/cocorahs-blog-2.png
 image-caption: Map of the United States with data points uploaded by CoCoRaHS citizen scientists.
 categories:
 tags:
-class: center-top-eight
+class: 
 ---
 
 
