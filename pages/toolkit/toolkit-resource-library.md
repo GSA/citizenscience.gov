@@ -83,12 +83,10 @@ last-updated-date: June 2023
 <h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
 <hr>
 <br>
-<h3>Fiscal Year 2019-20 Full Report with Appendices (March 2022)
-<ul>
-<li style="list-style-type: circle;">
-<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">This document presents the seventh report on the use of prize competitions and challenges conducted by Federal agencies to spur innovation, engage citizen solvers, address tough problems, and advance their core missions. It also presents the second report on crowdsourcing and citizen science activities conducted by Federal agencies.</a>
-</li>
-</ul>
+  <p>The America COMPETES Reauthorization Act of 2010 (COMPETES) and the American Innovation and Competitiveness Act (AICA) require the White House Office of Science and Technology Policy to produce a biennial report to Congress on the activities carried out under these authorities. This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems. Reporting on related activities conducted under other authorities is voluntary and also included. </p>
+  <br>
+<h3><a href="https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/">Fiscal Years 2021 -2022 Full Report with Appendices</a> (April 2024) 
+<h3><a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">Fiscal Year 2019-20 Full Report with Appendices</a> (March 2022)
 <br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
