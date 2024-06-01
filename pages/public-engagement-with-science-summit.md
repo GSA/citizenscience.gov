@@ -4,6 +4,7 @@ permalink: /public-engagement-with-science-summit/
 title: 
 ---
 ## Archived Event
+This webpage is archieved and no longer updated. The information may be outdated or inaccurate.
 
 <img src="{{ site.baseurl }}/assets/img/GSA-event-banner.png" alt="Public Engagement with Science Summit: Strategies for Federal Implementation">
 
