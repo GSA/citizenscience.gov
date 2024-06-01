@@ -87,6 +87,7 @@ last-updated-date: June 2023
   <br>
 <h3><a href="https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/">Fiscal Years 2021 -2022 Full Report with Appendices</a> (April 2024) 
 <h3><a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">Fiscal Year 2019-20 Full Report with Appendices</a> (March 2022)
+<h3><a href="https://www.challenge.gov/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">Fiscal Years 2017 -2018 Appendices Only (this is a raw data file)</a> (June 2019)  
 <br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
