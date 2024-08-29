@@ -41,7 +41,7 @@ Today, these coordinators are:
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Adam Shapiro |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Njemile Davis |
-| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jules Vistine |
+| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jules Vastine |
 | Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Marc Kuchner |
