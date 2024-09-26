@@ -14,7 +14,7 @@ Today, these coordinators are:
 - As coordinators, these individuals advocate for citizen science and crowdsourcing where possible, and provide a support network and mentoring for each other and their respective agencies for future projects.
 
 
-#### Coordinator List Below Updated on 08/29/2022
+#### Coordinator List Below Updated on 09/27/2024
 
 | Department | Agency with Links to Agency Projects | Agency Coordinators |
 | ----------- |
@@ -41,10 +41,11 @@ Today, these coordinators are:
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Adam Shapiro |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Njemile Davis |
-| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Heather Drumm |
+| Environmental Protection Agency | [EPA](https://www.citizenscience.gov/catalog/epa/) | Jules Vastine |
 | Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Marc Kuchner |
+| Library of Congress | [LoC](https://www.citizenscience.gov/catalog/503/#) | Lauren Algee |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | [NSF](https://www.citizenscience.gov/catalog/nsf/) | Ellen McCallie |
 | Smithsonian Institution | [SI](https://www.citizenscience.gov/catalog/assi/) | Amy Marino |
