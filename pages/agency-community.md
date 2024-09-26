@@ -45,6 +45,7 @@ Today, these coordinators are:
 | Federal Communications Commission | [FCC](https://www.citizenscience.gov/catalog/fcc/) | Alex Simmons |
 | Intelligence Advanced Research Projects Agency | [IARPA](https://www.citizenscience.gov/catalog/iarpa/) | To Be Named |
 | National Aeronautics and Space Administration | [NASA](https://www.citizenscience.gov/catalog/nasa/) | Marc Kuchner |
+| Library of Congress | [LoC](https://www.citizenscience.gov/catalog/503/#) | Lauren Algee |
 | National Archives and Records Administration | [NARA](https://www.citizenscience.gov/catalog/nara/) | Andrew Wilson,  Suzanne Isaacs |
 | National Science Foundation | [NSF](https://www.citizenscience.gov/catalog/nsf/) | Ellen McCallie |
 | Smithsonian Institution | [SI](https://www.citizenscience.gov/catalog/assi/) | Amy Marino |
