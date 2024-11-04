@@ -4,7 +4,26 @@ permalink: /about/
 title: About CitizenScience.gov
 ---
 
+<h2>Our Vision</h2>
+CitizenScience.gov is where science is collaborative and participation is open to everyone.
 
+<h2>Our Mission</h2>
+To nurture collaboration between the federal government and the public to advance inclusive participation in scientific discovery and research.
+
+<h2>Our Values</h2>
+<b>Inclusion</b>
+<br/>
+CitizenScience.gov works to ensure our program and platform are accessible and inclusive. We value different points of view and seek to increase the range of perspectives involved in the scientific process. We work with federal agencies to highlight forms of science including participatory science, community science, open science, and citizen science that actively seek to draw in participants from underrepresented viewpoints. 
+
+<b>Collaboration</b>
+<br/>
+We believe that more participation in the scientific process will lead to increased transparency and openness in scientific data collection and results. We facilitate open avenues for collaboration between the federal government and the public to advance scientific research.
+
+<b>Scientific Advancement</b>
+<br/>
+We believe participatory forms of discovery lead to better scientific outcomes and increase trust in the scientific process. We support the federal government to create scientific projects that include members of the public in scientific discovery for the good of the American people.
+
+<h2>Learn More</h2>
 
 CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. The site provides a portal to three key components: <a href="{{ site.baseurl }}/catalog/" target="blank" rel="noopener">a catalog</a> of federally supported citizen science projects, <a href="{{ site.baseurl }}/toolkit">a toolkit</a> to assist federal practitioners with designing and maintaining their projects, and a <a href="{{ site.baseurl }}/about/community-of-practice/">gateway to a community</a> of hundreds of citizen science practitioners and coordinators across government as called for in the [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://bit.ly/2BlulAG). You can learn more about the activities of the Federal Community of Practice on Crowdsourcing and Citizen Science in this <a href="{{ site.baseurl }}/assets/FedCCS.pdf">two-page overview document</a>.
 

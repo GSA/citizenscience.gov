@@ -1,7 +1,7 @@
 ---
 layout: toolkit-base
 permalink: /toolkit/resource-library/
-last-updated-date: December 2017
+last-updated-date: June 2023
 ---
 
 <div class="usa-section usa-grid">
@@ -60,7 +60,6 @@ last-updated-date: December 2017
 <li><a href="https://fold.it/portal/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">FoldIt: A Game to Solve Puzzles for Science</a></li>
 <li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (IEEE eScience Conference)</a></li>
 <li><a href="http://www.oldweather.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Old Weather: Transcribing Ship Logs for Climate Modeling</a></li>
-<li><a href="http://citizencyberlab.eu/research/gamification/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Gamification? (Citizen Cyberlab)</a></li>
 </ul>
 <br>
 <h3><strong>Funding</strong></h3>
@@ -83,17 +82,12 @@ last-updated-date: December 2017
 <br>
 <h2><strong>Implementation of Federal Prize and Citizen Science Authority Reports</strong></h2>
 <hr>
-<ul>
-<li>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf" target="_blank" rel="noopener">Fiscal Year 2017-18 Full Report with Appendices (June 2019)</a> 
 <br>
-<ul>
-<li style="list-style-type: circle;">
-<a href="{{ site.baseurl }}/assets/crowdsourcing-and-citizen-science-appendices.CSV" target="_blank" rel="noopener">All crowdsourcing and citizen science activities - This csv file compiles the data from all crowdsourcing and citizen science activities from Appendix C and Appendix D (csv - this is a raw data set)</a>
-</li>
-</ul> 
-</li>
-</ul>
+  <p>The America COMPETES Reauthorization Act of 2010 (COMPETES) and the American Innovation and Competitiveness Act (AICA) require the White House Office of Science and Technology Policy to produce a biennial report to Congress on the activities carried out under these authorities. This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems. Reporting on related activities conducted under other authorities is voluntary and also included. </p>
+  <br>
+<h3><a href="https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/">Fiscal Years 2021 -2022 Full Report with Appendices</a> (April 2024) 
+<h3><a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">Fiscal Years 2019-20 Full Report with Appendices</a> (March 2022)
+<h3><a href="https://www.challenge.gov/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">Fiscal Years 2017 -2018 Appendices Only (this is a raw data file)</a> (June 2019)  
 <br>
 <h2><strong>Journal Articles</strong></h2>
 <hr>
@@ -128,10 +122,10 @@ last-updated-date: December 2017
 <br>
 <h3>Interdisciplinary Research</h3>
 <ul>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0006320714004029" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research (2015)</a></li>
 <li><a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-760.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Radical Innovation: Crossing Knowledge Boundaries With Interdisciplinary Teams (2009, PDF)</a></li>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048733312001436" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Structuring Interdisciplinary Research Management (2013)</a></li>
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921800913001377" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Transdisciplinary Research in Sustainability Science (2013)</a></li>
 <li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/110294" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">The Future of Citizen Science: Emerging Technologies and Shifting Paradigms (2012)</a></li>
 </ul>
 <br>
@@ -171,14 +165,13 @@ last-updated-date: December 2017
 <li><a href="https://www.changemakers.com/storytelling" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">A Changemaker’s Guide to Storytelling</a></li>
 <li><a href="http://www.activehealthycommunities.com.au/plan/community/methods-manual/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Engagement Methods Manual (Active Healthy Communities</a></li>
 <li><a href="http://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Community Planning Toolkit: Community Engagement (PDF)</a></li>
-<li><a href="http://www.wombatcreative.com.au/wp-content/uploads/2012/12/engaging-queenslanders-methods-and-techniques_2_.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Guide to Community Engagement Methods and Techniques (Queensland Government, PDF)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop)</a></li>
+<li><a href="https://bootcamp.cvn.columbia.edu/blog/how-to-impact-your-community-with-citizen-science-even-if-youre-new-to-data-analysis/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">How to Impact Your Community with Citizen Science, Even if You’re New to Data Analysis</a></li>
 </ul>
 <br>
 <h3>Project Design</h3>
 <ul>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/resources" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a></li>
-<li><a href="http://diytoolkit.org/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Development, Impact, &amp; You Toolkit (DIY)</a></li>
 <li><a href="https://vimeo.com/91934378" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">DIY Toolkit: Problem Definition (Video)</a></li>
 <li><a href="https://www.epa.gov/citizen-science/quality-assurance-handbook-and-guidance-documents-citizen-science-projects" target="_blank" class="ext-link" rel="external nofollow">EPA Quality Assurance Handbook and Guidance Documents for Citizen Science Projects</a>
 </li>
@@ -207,9 +200,8 @@ last-updated-date: December 2017
 <ul>
 <li><a href="http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">5 Tips for Writing a Great Survey</a></li>
 <li><a href="https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Checklist of Requirements for Federal Websites and Digital Services (Digital Gov)</a></li>
-<li><a href="http://www.teklalabs.org/about/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Constructing Affordable Lab Equipment (Tekla Labs)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/evaluation/instruments" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Evaluation Instruments (Citizen Science Central, Cornell Lab of Ornithology)</a></li>
 <li><a href="https://ombudsman.nih.gov/sites/default/files/A%20Conflict%20Resolution%20Framework.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Tools for Handling Conflict (NIH Center for Cooperative Resolution)</a></li>
 </ul>
 <p><br></p>
-</div>
+

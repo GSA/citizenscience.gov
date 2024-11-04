@@ -42,4 +42,4 @@ I love this work: it keeps me active and on my toes, and you can’t beat a good
 
 Working with scientists has taught me the huge value of the fieldwork that we do. Governments – whether they be the county, Washington state, or NOAA itself – cannot make good decisions in the absence of scientific information. My advice to other people who might be interested in getting more involved: follow your interests but don’t be afraid to try something new. It may take some sleuthing to find the scientists who are willing and able to do research with the public, but it’s worth the effort to investigate.
 
-_This spotlight originally appeared on the <a class="ext-link" href="https://www.facebook.com/NOAAEducationOutreach/" rel="external nofollow">NOAA Education and Outreach Facebook page</a>._
+_This spotlight originally appeared on the <a class="ext-link" href="https://www.facebook.com/NOAAeducation" rel="external nofollow">NOAA Education and Outreach Facebook page</a>._
