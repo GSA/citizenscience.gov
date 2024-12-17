@@ -37,7 +37,7 @@ The <a href="https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize
 <br>
 <br>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Kx1kSJ4y-7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science" width="640" height="360" src="https://www.youtube.com/embed/Kx1kSJ4y-7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="image-caption" style="text-align: left; width: 55%;">This webinar from April of 2019 overviews the Federal Community of Practice for Crowdsourcing and Citizen Science and the resources it offers through our website.</p>
 
 <br>

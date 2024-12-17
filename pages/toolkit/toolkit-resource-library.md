@@ -96,8 +96,7 @@ last-updated-date: June 2023
 <ul>
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518233" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing: A Geographic Approach to Public Engagement (2014)</a></li>
 <li><a href="http://dx.doi.org/10.1007/s10606-014-9204-3" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Crowdsourcing Framework for the Emergency Management Domain (2014)</a></li>
-<li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (2011, PDF)</a><u><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf"><br>
-</a></u></li>
+<li><a href="http://crowston.syr.edu/sites/crowston.syr.edu/files/gamingforcitizenscience_ver6.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Gaming for (Citizen) Science (2011, PDF)</a></li>
 </ul>
 <br>
 <h3>Evaluating Citizen Science</h3>

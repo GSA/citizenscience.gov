@@ -2,7 +2,7 @@
 {% for project in site.projects %}
   {% unless project.featured %}
     <article class="card usa-width-one-third">
-      <a href="{{ project.link-out }}">
+      <a href="{{ project.link-out }}" title="{{project.short_title}}">
       <div class="card-image"
         style="background-image: url(
         {% if project.image_thumbnail %}

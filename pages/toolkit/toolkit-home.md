@@ -17,7 +17,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 	<div class="project-container">
 	    <article class="card usa-width-one-third">
-	      <a href="{{ page.how-to-link | prepend: site.baseurl }}">
+	      <a href="{{ page.how-to-link | prepend: site.baseurl }}" title="Getting Started">
 	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/how-to-home.gif); min-height: 200px">
 	      </div>
 	    </a>
@@ -35,7 +35,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 
 	    <article class="card usa-width-one-third">
-	      <a href="{{ page.case-study-link | prepend: site.baseurl }}">
+	      <a href="{{ page.case-study-link | prepend: site.baseurl }}" title="Case Study Overview">
 	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/home-case-studies2.gif); min-height: 200px">
 	      </div>
 	    </a>
@@ -52,7 +52,7 @@ banner-button-link: https://ccsinventory.wilsoncenter.org/
 
 
 	    <article class="card usa-width-one-third">
-	      <a href="{{ page.resources-link | prepend: site.baseurl }}">
+	      <a href="{{ page.resources-link | prepend: site.baseurl }}" title="Resource Library">
 	      <div class="card-image" style="background-image: url({{ site.baseurl }}/assets/img/toolkit-images/home-resources2.gif); min-height: 200px">
 	      </div>
 	    </a>
