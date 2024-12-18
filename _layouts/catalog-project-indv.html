@@ -12,7 +12,9 @@ layout: catalog-base
     </div>
     <div class="entry-lists-container">
       <div class="entry-left-items-container">
+        {% if page.project_url and page.project_url != "" %}
         <p><span class="project-field">Project URL: </span><a href="{{ page.project_url }}" target="blank" rel="noopener">{{ page.project_url }}</a>
+        {% endif %}
         <p><span class="project-field">Geographic Scope: </span>{{ page.geographic_scope }}</p>
         {% include catalog-project-status-recruitment.html %}
         {% include catalog-participation-tasks.html %}

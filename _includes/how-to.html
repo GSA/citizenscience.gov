@@ -5,7 +5,7 @@
         <h3 class="card-description text-center">
           <span>{{ project.title }}</span>
         </h3>
-      <a href="{{ project.link-out | prepend: site.baseurl}}">
+      <a href="{{ project.link-out | prepend: site.baseurl}}" title="{{project.title}}" >
       <div class="card-image"
         style="background-image: url(
         {% if project.image_thumbnail %}
