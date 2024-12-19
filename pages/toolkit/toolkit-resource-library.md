@@ -1,7 +1,7 @@
 ---
 layout: toolkit-base
 permalink: /toolkit/resource-library/
-last-updated-date: June 2023
+last-updated-date: December 2024
 ---
 
 <div class="usa-section usa-grid">
@@ -9,16 +9,9 @@ last-updated-date: June 2023
 <p>Welcome to the Resource Library!&nbsp;Here you will find all the resources included in this toolkit and you can browse through them by category. These resources are&nbsp;also placed within the&nbsp;relevant process steps within the “How To” section of the toolkit.</p>
 <p>Disclaimer: This toolkit&nbsp;provides external links to resources as a convenience to users. The appearance of the links in the toolkit does not constitute endorsement by the federal government of the linked websites or of the information, products or services contained in them.</p>
 <br>
-<h3><strong>What is Citizen Science?</strong></h3>
-<ul>
-<li><a href="http://www.scientificamerican.com/citizen-science/" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science (Scientific American)</a></li>
-<li><a href="https://youtu.be/3FsrvC3NOc4" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Co-Founder of Innocentive Speaks on Challenge Authoring (GovLab Video)</a></li>
-<li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/ppsr2011/workshop-proceedings/PPSR%20and%20Conservation%203%20of%204%20-%20Putting%20Strategies%20into%20Practice.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Public Participation in Scientific Research (Workshop, PDF)</a></li>
-<li><a href="http://www.ibm.com/developerworks/rational/library/may05/bittner-spence/bittner-spence-pdf.pdf" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">What Is Iterative Development? (IBM, PDF)</a></li>
-</ul>
-<br>
 <h3><strong>How can I use Citizen Science?</strong></h3>
 <ul>
+<li><a href="https://youtu.be/3FsrvC3NOc4" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Co-Founder of Innocentive Speaks on Challenge Authoring (GovLab Video)</a></li>
 <li><a href="http://www.nature.com/news/crowd-sourcing-strength-in-numbers-1.14757" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Choosing the Right Question for Crowdsourcing (Nature Magazine)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/resources" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Resources for Projects (Cornell Lab of Ornithology)</a></li>
 <li><a href="http://www.birds.cornell.edu/citscitoolkit/conference/toolkitconference" target="_blank" class="ext-link" rel="external nofollow" onclick="this.target=&#39;_blank&#39;;">Citizen Science Central: Toolkit Conference (Cornell Lab of Ornithology)</a></li>
