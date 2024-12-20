@@ -1,18 +1,23 @@
 <!doctype html>
 <html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="{{ page.body-class }}">
+<body class="{{ page.body-class }}">
+  <!-- Google Tag Manager (noscript) #432--->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4MPJGQB" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <div class="usa-overlay"></div>
 
-    {% include header.html %}
-      <main id="main" tabindex="-1">
-        <div>
+  {% include header.html %}
+  <main id="main" tabindex="-1">
+    <div>
       {{ content }}
-        </div>
-    </main>
-    {% include footer.html %}
-    {% include javascript.html %}
-  </body>
+    </div>
+  </main>
+  {% include footer.html %}
+  {% include javascript.html %}
+</body>
+
 </html>
