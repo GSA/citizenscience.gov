@@ -11,7 +11,7 @@ class: center-top-eight
 ---
 
 
-Did you know that April is Citizen Science Month? Each year, the [CitizenScience.Gov](www.citizenscience.gov) team celebrates the power of public participation in the scientific process to address real-world problems. Agencies across the federal government use community science and participatory research to create meaningful forms of scientific collaboration with the public.
+Did you know that April is Citizen Science Month? Each year, the CitizenScience.gov team celebrates the power of public participation in the scientific process to address real-world problems. Agencies across the federal government use community science and participatory research to create meaningful forms of scientific collaboration with the public.
 
 This past April we held a spotlight chat featuring our partners at NASA to learn about their approach to participatory research. Leaders from two NASA sponsored projects, Are We Alone in the Universe? and Chesapeake Water Watch Project, shared how they collaborate between scientists and interested members of the public. 
 
