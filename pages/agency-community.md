@@ -30,8 +30,7 @@ Today, these coordinators are:
 | Department of Health and Human Services | [FDA](https://www.citizenscience.gov/catalog/fda/) | Elaine Johanson, Amber Griffin |
 | Department of Health and Human Services | [HHS](https://www.citizenscience.gov/catalog/hhs/) | Kristen Honey |
 | Department of Health and Human Services | [NIH](https://www.citizenscience.gov/catalog/nih/) | Jennifer Couch |
-| Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kathleen Kenyon |
-| Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kimberly Stephens, Katherine Picchione |
+| Department of Homeland Security | [DHS](https://www.citizenscience.gov/catalog/dhs/) | Kathleen Kenyon, Kimberly Stephens, Katherine Picchione |
 | Department of Housing and Urban Development | [HUD](https://www.citizenscience.gov/catalog/hud/) | Christopher Bourne |
 | Department of the Interior | [BLM](https://www.citizenscience.gov/catalog/blm/) | Frederick Klasner, Rachel Sowards Thompson |
 | Department of the Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
