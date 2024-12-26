@@ -36,7 +36,6 @@ Today, these coordinators are:
 | Department of the Interior | [FWS](https://www.citizenscience.gov/catalog/fish-wildlife/) | To Be Named |
 | Department of the Interior | [NPS](https://www.citizenscience.gov/catalog/nps/) | Tim Watkins |
 | Department of the Interior | [USGS](https://www.citizenscience.gov/catalog/usgs/) | Sophia B. Liu |
-| Department of the Interior | [BOEM](https://www.citizenscience.gov/catalog/usgs/) | Jacob Levenson |
 | Department of Justice | [FBI](https://www.citizenscience.gov/catalog/fbi/) | To Be Named |
 | Department of State | [DOS](https://www.citizenscience.gov/catalog/state/) | Adam Shapiro |
 | Department of State | [USAID](https://www.citizenscience.gov/catalog/usaid/) | Njemile Davis |
