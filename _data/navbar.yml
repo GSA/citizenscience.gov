@@ -12,12 +12,6 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Blog
-        href: pages/blog.md
-        permalink: /blog/
-        show_in_menu: true
-        show_in_footer: false
-    -
         text: 'Project data'
         href: _data/projects.yml
         show_in_menu: false
