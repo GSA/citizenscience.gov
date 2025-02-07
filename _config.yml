@@ -47,7 +47,6 @@ defaults:
   values:
     layout:
       - base
-      - blog
       - home
       - page
       - post
@@ -103,8 +102,6 @@ exclude:
 # Inititalize project and team collections
 collections:
   projects:
-    output: true
-  team:
     output: true
   catalog-projects: 
     output: true
