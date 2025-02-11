@@ -8,7 +8,7 @@ title: About CitizenScience.gov
 CitizenScience.gov is where science is collaborative and participation is open to everyone.
 
 <h2>Our Mission</h2>
-To nurture collaboration between the federal government and the public to advance inclusive participation in scientific discovery and research.
+To nurture collaboration between the federal government and the public to advance participation in scientific discovery and research.
 
 <h2>Our Values</h2>
 <b>Broad Perspectives</b>
